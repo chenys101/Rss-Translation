@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 Oct 2025 16:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 18:23:11 GMT</lastBuildDate>
+    <item>
+      <title>Kumi：业务规则的声明性 DSL → 静态检查依赖图。现在拥有完整的编译管道和真实的代码生成（现场演示）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1o98s5p/kumi_declarative_dsl_for_business_rules/</link>
+      <description><![CDATA[ 由   提交/u/mutzas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1o98s5p/kumi_declarative_dsl_for_business_rules/</guid>
+      <pubDate>Fri, 17 Oct 2025 18:13:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>谢谢 ！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1o9808d/thank_you/</link>
+      <description><![CDATA[两个月前，我发表了一篇有关创建应用程序以将 YouTube 视频和完整 YouTube 播放列表转换为 MP3 的帖子。这是我为自己构建的一个小而简单的项目，因为我对现有广告中的所有广告以及其中大多数广告不支持完整的播放列表转换感到沮丧。我得到的回应完全出乎我的意料，从有关改进的有用建议到自愿帮助重做应用程序的志愿者。我非常感谢所有下载它、提供反馈或提供帮助的人。该应用程序版本 1.0.0 的下载量达到了约 1,200 次，仅想到这些下载中至少有 50 人在他们的手机上安装了该应用程序并发现它很有用，这让我很高兴，此更新献给你们所有人。我希望你喜欢它！ ❤️ 特别感谢贡献者： u/Mrmasseno u/nelolenelo u/Benben377 这是该项目的链接：https://github.com/21Errors/YTConverter   由   提交/u/Proud-Contribution59   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1o9808d/thank_you/</guid>
+      <pubDate>Fri, 17 Oct 2025 17:43:46 GMT</pubDate>
+    </item>
     <item>
       <title>经过一年多的闲置，我们正式恢复了 Reticulum 板条箱，现在由 Beechat 维护和积极开发</title>
       <link>https://www.reddit.com/r/opensource/comments/1o90rgz/after_more_than_a_year_of_inactivity_we/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://github.com/openchatui/openchat 我已经使用 Open WebUI 一段时间了，想要开发一项功能，但发现它非常烦人。我对堆栈不熟悉，当我询问有关技术堆栈的问题时，社区也表现得居高临下。我个人使用 NextJS，Open WebUI 使用 svelte。所以我遇到了这个开源 NextJS Open Web UI 克隆，我喜欢它。它仍然是新的，所以它只有大约 20%（如果有的话）的功能，但我想我应该对它大加赞扬。它只有一名开发人员在研究它，我认为它应该得到更多关注。   由   提交/u/blexotti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1o7vog6/found_an_open_webui_clone_with_a_nextjs_stack/</guid>
       <pubDate>Thu, 16 Oct 2025 03:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源互联网</title>
-      <link>https://www.reddit.com/r/opensource/comments/1o7eyug/open_source_internet/</link>
-      <description><![CDATA[我对这个有趣的标题表示歉意，但我真的对此感到好奇。 似乎几乎所有事情都有一个开源解决方案，只要付出足够的努力，任何人都可以通过开放的开源软件或自托管来收回自己的数字主权。除了一件事：访问互联网。 我们仍然依赖 ISP 和电信公司，这使我们局限于现有的基础设施和实践。是否有关于创建更加自由的互联网的持续讨论或理论探索？ 我知道互联网接入依赖于需要维护、扩展和管理的基础设施。但就像道路或高速公路一样，它们由税收资助并被视为公共产品，我相信互联网也可以走类似的道路？ 在哪里可以找到有关此主题的讨论？我知道这与开源理念有关，但我觉得这种情绪超越了这个领域。任何见解或指示将不胜感激！ --- 编辑：非常感谢您的回复！我发现了很多与我正在寻找的东西相关的东西。我猜想，没有中央 ISP 的开放“互联网”的方式是无线网状网络并通过节点进行维护。您在评论中分享的系统和资源的集合：  https://nordvpn.com/pt/meshnet/ Meshnet https://en.wikipedia.org/wiki/Wireless_mesh_network 无线网状网络 https://www.dryad.net/post/what-is-a-lora-mesh-network LoRa https://meshtastic.org/ / r/meshtastic Meshtastic http://reticulum.network 网状结构 https://bitchat.free/ / r/bitchat BitChat https://startyourownisp.com/ 启动您自己的 ISP https://en.wikipedia.org/wiki/Packet_radio 分组无线电 https://en.wikipedia.org/wiki/WiMAX WiMax（感谢 u/ahfoo） https://www.helium.com/ 氦气 https://en.wikipedia.org/wiki/Roofnet Roofnet https://en.wikipedia.org/wiki/Wireless_community_network 无线社区网络 https://en.wikipedia.org/wiki/Freifunk Freifunk https://en.wikipedia.org/wiki/NYC_Mesh 纽约网格 http://guifi.net / https://en.wikipedia.org/wiki/Guifi.netGuiFi（加泰罗尼亚） https://en.wikipedia.org/wiki/DiY_networking DIY 网络 https://en.wikipedia.org/wiki/Athens_Wireless_Metropolitan_Network AWMN https://en.wikipedia.org/wiki/OpenWrt OpenWrt https://en.wikipedia.org/wiki/Net_neutrality 网络中立性 https://hyperboria.net/ Hyperboria https://urbit.org/ Urbit https://www.fdn.fr/ 法国数据网络 https://en.wikipedia.org/wiki/Wireless_ad_hoc_network 自组织网络 https://autonom.com/ Autonomi ?    由   提交 /u/Euclois   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1o7eyug/open_source_internet/</guid>
-      <pubDate>Wed, 15 Oct 2025 15:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在开发 Go SSR 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1o7dsum/ive_been_developing_a_go_ssr_library/</link>
-      <description><![CDATA[ 由   提交/u/can_pacis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1o7dsum/ive_been_developing_a_go_ssr_library/</guid>
-      <pubDate>Wed, 15 Oct 2025 15:15:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

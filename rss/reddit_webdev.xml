@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 17 Oct 2025 16:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 18:23:01 GMT</lastBuildDate>
+    <item>
+      <title>关于 CMS 的一般问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1o97scq/question_about_cms_in_general/</link>
+      <description><![CDATA[嗨，我是 webdev 新手，已经完成了一些登陆（html、css 和 JS，没什么疯狂的），但现在我面临客户的请求，他们希望网站能够自己更改和编辑不同的块、文本、图像等。据我了解，他们需要 CMS。好吧，我从来没有使用过，也不想使用网站构建器（我真的很喜欢自己编码）。另外，想继续React之路。说实话，我有点迷茫，因为有很多不同类型的 CMS。如果有人能够提供有关如何将 CMS 集成到我的工作流程中的提示或一点指导，我将非常感激。   由   提交 /u/CiZerin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1o97scq/question_about_cms_in_general/</guid>
+      <pubDate>Fri, 17 Oct 2025 17:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>你花了多长时间学习CSS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1o96xy4/how_long_did_it_take_you_to_learn_css/</link>
+      <description><![CDATA[我目前正在学习它，所以我感兴趣的是您需要多长时间才能成为“专业”人士在 CSS 中   由   提交 /u/KevinIdkk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1o96xy4/how_long_did_it_take_you_to_learn_css/</guid>
+      <pubDate>Fri, 17 Oct 2025 17:03:43 GMT</pubDate>
+    </item>
     <item>
       <title>使用 SendGrid 转发电子邮件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1o96mu7/email_forwarding_with_sendgrid/</link>
-      <description><![CDATA[我目前使用 SendGrid 配置了 MX 记录和入站解析，因此发送到 parse.domain.com 的电子邮件将转发到我们的 mx.sendgrid.net 并由我们的 Next.js 应用程序接收。  但是，我希望客户与 [support@domain.com](mailto:support@domain.com) 进行交互，并以某种方式将其转发到 parse.domain.com 以供我们使用 应用程序来处理。 应用程序只需要一个收件箱来处理客户服务请求。我需要跟踪电子邮件标头以跟踪应用程序内的线程（例如 messageID、回复中）。 实现此类行为的最佳方法是什么？   由   提交 /u/Timely_Wafer2294   [链接] [评论]]]></description>
+      <description><![CDATA[我目前有 MX 记录和使用 SendGrid 配置的入站解析 Webhook，因此发送到 parse.domain.com 的电子邮件将转发到我们的 mx.sendgrid.net 并由我们的 Next.js 应用程序通过 websockets 接收。 但是，我希望客户与 [support@domain.com](mailto:support@domain.com），并以某种方式将其转发到 parse.domain.com 供我们的应用程序处理。 应用程序只需要一个收件箱来处理客户服务请求。我需要跟踪电子邮件标头以跟踪应用程序内的线程（例如 messageID、回复中）。 实现此类行为的最佳方法是什么？   由   提交 /u/Timely_Wafer2294   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1o96mu7/email_forwarding_with_sendgrid/</guid>
       <pubDate>Fri, 17 Oct 2025 16:52:17 GMT</pubDate>
     </item>
@@ -46,6 +60,13 @@
       <description><![CDATA[大家好。我是一名全栈开发人员，我必须做一些基本的前端动画来生成一些交互式信息图表小部件。我已经有一段时间没有这样做了，但过去我曾经使用 Tuult Hype 来制作这些。  到 2025 年这仍然是一个不错的选择，还是每个人都转向更好、更容易使用的工具来实现这一目标？我不想制作任何超级复杂的东西。它实际上是一堆带有简单动画、翻转效果和按钮的信息图表。如果必须的话，我可以直接使用 JS 和 CSS 做这样的事情，但它会花费比我想要的更长的时间。   由   提交/u/sysop408  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1o9388q/tumult_hype_still_good_in_2025/</guid>
       <pubDate>Fri, 17 Oct 2025 14:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关 Nodemailer 最佳实践的问题（联系表）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1o91lds/question_about_best_practices_with_nodemailer/</link>
+      <description><![CDATA[大家好！ 我正在学习 Web 开发，目前主要是自己工作。我正在尝试了解某些​​事情的最佳实践。 我使用 Nodemailer 处理网站上的联系表单，到目前为止，我一直使用相同的电子邮件地址作为发件人和收件人。 我想知道：  这实际上是一个好的做法吗？ （感觉不太像。） 如果使用两个单独的地址更好，我是否应该创建一个通用“表单”电子邮件以在所有联系表单中使用？或者通常的设置是什么？  提前感谢您的任何建议！   由   提交/u/Confident_Bat_499   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1o91lds/question_about_best_practices_with_nodemailer/</guid>
+      <pubDate>Fri, 17 Oct 2025 13:39:05 GMT</pubDate>
     </item>
     <item>
       <title>Web 开发失去了魅力了吗？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[对于那些不知道的人，scribe 是一个 Chrome 扩展，可让您通过对网页上的操作进行屏幕截图并将其转换为步骤来记录工作流程。  正在构建类似的东西，我想在用户点击网页时截取屏幕截图，我尝试使用chrome的captureVisibleTab api，但它似乎有每秒1个屏幕截图的内部限制，因为我错过了一些屏幕截图，但抄写员似乎没有这个问题，那么他们在使用什么？ 我也尝试使用chrome调试器api，它似乎工作 完美，但它显示了一个信息栏“说我的扩展正在调试此选项卡”这对于普通用户来说可能会很可怕，抄写员没有显示任何这样的栏，所以他们也不使用调试器 api。  我也尝试过使用 html2canvas ，但这是一个较慢的过程，并且在处理屏幕截图时还会阻止用户界面。  那么，我怎样才能通过用户点击在一秒钟内获得比屏幕截图更多的内容呢？谢谢。   由   提交/u/boiiwithcode  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1o8wk1g/how_does_a_platform_like_scribe_takes_screenshots/</guid>
       <pubDate>Fri, 17 Oct 2025 09:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管 API 文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1o8w8ld/selfhosted_api_docs/</link>
-      <description><![CDATA[我正在寻找类似 Redoc 的东西，但带有“尝试一下”的提示形式， 本质上，我有一个简单的营销网站，我希望我的 API 文档位于同一个网站上，并包含在相同的品牌中。 我有一个开放的 API 规范 (swagger.json) 来生成它。 我研究过 Redocly（Redoc 的付费版本），但它似乎对这项工作来说太过分了，并且想要对整个网站负责，所以你最终得到了一个单独的 API 网站 文档。 有什么建议吗？   由   提交 /u/DoNotBelieveHim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1o8w8ld/selfhosted_api_docs/</guid>
-      <pubDate>Fri, 17 Oct 2025 08:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人尝试过人工智能测试用例生成工具吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1o8w3ro/anyone_experimenting_with_ai_test_case_generation/</link>
-      <description><![CDATA[我最近一直在探索 AI 测试用例生成工具，看看它们在实际项目中的表现如何。我接触过的一些平台包括 Apidog、CloudQA、Loadmill、Test Composer 和 Qodo，它们都有望加快测试创建速度并提高覆盖率。 如果您尝试过其中任何一个： AI 生成的测试用例在实践中有多有用？ 它们实际上减少了手动工作量，还是您仍然需要进行大量调整？ 有任何工作流程吗？ 或者让人工智能测试工具更容易采用的技巧？ 希望听到真实的经验，特别是 API 和集成测试。   由   提交/u/WholeComplete376   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1o8w3ro/anyone_experimenting_with_ai_test_case_generation/</guid>
-      <pubDate>Fri, 17 Oct 2025 08:49:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个“假装”项目来进行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1o8vber/i_need_a_pretend_project_to_work_on/</link>
-      <description><![CDATA[如果有人不介意给我一些练习的指导。想看看我是否可以为潜在客户提供简介。  我将使用 Django&gt;mysql，使用 DRM 作为 API 后端，并使用 React 作为前端。  请告诉我您假装的公司名称、其服务是什么、一点历史以及您希望从在线形象中获得什么。不太复杂——我仍在开始学习，但与我自己的项目偏差太大，我需要一个严格的结构来工作。  当我完成后端后，我将分享存储库，如果您不介意给我一个批评。  如果有人感兴趣并且不介意节省时间，我将非常感激！  为了更加现实，我选择第一个回复，而不是挑选。    由   提交 /u/notwritingasusual   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1o8vber/i_need_a_pretend_project_to_work_on/</guid>
-      <pubDate>Fri, 17 Oct 2025 07:57:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
