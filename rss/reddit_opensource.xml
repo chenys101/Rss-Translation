@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 Oct 2025 18:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 21:19:11 GMT</lastBuildDate>
+    <item>
+      <title>Rhythm - 专业音乐播放器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1o9ddwv/rhythm_professional_music_player/</link>
+      <description><![CDATA[Rhythm 结合了录音室品质的音频、智能功能和令人惊叹的 Material You 设计。  在精美的界面中体验无缝播放、同步歌词、高级均衡等功能。 FOSS  官方网站：https://rhythmweb.vercel.app/ Github：https://github.com/cromaguy/Rhythm   由   提交/u/bi4key   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1o9ddwv/rhythm_professional_music_player/</guid>
+      <pubDate>Fri, 17 Oct 2025 21:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Google Forms 替代方案，但我就是找不到获胜的权利！ （它是开源的）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1o991c2/building_a_google_forms_allternative_but_i_just/</link>
+      <description><![CDATA[ 由   提交 /u/Shashwatcreates   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1o991c2/building_a_google_forms_allternative_but_i_just/</guid>
+      <pubDate>Fri, 17 Oct 2025 18:23:11 GMT</pubDate>
+    </item>
     <item>
       <title>Kumi：业务规则的声明性 DSL → 静态检查依赖图。现在拥有完整的编译管道和真实的代码生成（现场演示）</title>
       <link>https://www.reddit.com/r/opensource/comments/1o98s5p/kumi_declarative_dsl_for_business_rules/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[你好 Reddit， 我之前已经与大家分享了这个项目，但我很高兴重新分享这个项目，因为我们刚刚在 github 上获得了 300 颗星。 自从上一篇在这个 subreddit 上发布的文章以来，我们添加了很多入门功能，以便您轻松尝试 Kexa。 首先，您可以检查 Kexa 的内容： &lt;一 href=&quot;https://kexa.io&quot;&gt;https://kexa.io 如果有兴趣，请在存储库上为我们加注星标：kexa-io/Kexa：Kexa 的简单规则（开源） 如果您 想要快速第一次运行，最好的方法是查看这里的示例，它允许您在一个 docker 命令中运行扫描： kexa-io/kexa-samples：用于 kexa 的所有示例 docker-compose 感谢您的阅读，当然我希望得到您的反馈 伙计们:) 我们真的希望让入门变得简单，我会对您的见解感兴趣    由   提交/u/ProductKey8093  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1o81n11/open_source_cloud_security_finops_as_an_audit_tool/</guid>
       <pubDate>Thu, 16 Oct 2025 09:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模法律嵌入基准 (MLEB) 简介</title>
-      <link>https://www.reddit.com/r/opensource/comments/1o81cmr/introducing_the_massive_legal_embedding_benchmark/</link>
-      <description><![CDATA[https://isaacus.com/blog/introducing-mleb MLEB 包含 10 个数据集，涵盖多种文档类型、司法管辖区、法律领域和  数据集都是开源的，并且有一个 github 存储库可以帮助您对其进行基准测试： https://github.com/isaacus-dev/mleb   由   提交/u/Neon0asis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1o81cmr/introducing_the_massive_legal_embedding_benchmark/</guid>
-      <pubDate>Thu, 16 Oct 2025 09:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>找到了一个带有 NextJS 堆栈的 Open WebUI 克隆</title>
-      <link>https://www.reddit.com/r/opensource/comments/1o7vog6/found_an_open_webui_clone_with_a_nextjs_stack/</link>
-      <description><![CDATA[https://github.com/openchatui/openchat 我已经使用 Open WebUI 一段时间了，想要开发一项功能，但发现它非常烦人。我对堆栈不熟悉，当我询问有关技术堆栈的问题时，社区也表现得居高临下。我个人使用 NextJS，Open WebUI 使用 svelte。所以我遇到了这个开源 NextJS Open Web UI 克隆，我喜欢它。它仍然是新的，所以它只有大约 20%（如果有的话）的功能，但我想我应该对它大加赞扬。它只有一名开发人员在研究它，我认为它应该得到更多关注。   由   提交/u/blexotti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1o7vog6/found_an_open_webui_clone_with_a_nextjs_stack/</guid>
-      <pubDate>Thu, 16 Oct 2025 03:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
