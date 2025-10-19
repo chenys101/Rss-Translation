@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Oct 2025 18:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 21:19:15 GMT</lastBuildDate>
+    <item>
+      <title>mpvExtended – 基于 mpv-android 和 mpvKt 构建的现代 Android 媒体播放器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1oazmje/mpvextended_a_modern_android_media_player_built/</link>
+      <description><![CDATA[      我很高兴与大家分享 mpvExtended，一款新的 Android 开源媒体播放器。 它基于 mpv-android 和 mpvKt，旨在 提供更精致、用户友好的界面，使用 Jetpack Compose 构建。 如果您尝试过 mpv-android 或 mpvkt，但想要更好的 Ul/UX 体验，这可能适合您。我们非常欢迎提供反馈、贡献或功能建议！   由   提交 /u/a-aadiiii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1oazmje/mpvextended_a_modern_android_media_player_built/</guid>
+      <pubDate>Sun, 19 Oct 2025 20:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何推广您的开源项目并吸引贡献者？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1oax0la/how_do_you_promote_your_opensource_projects_and/</link>
+      <description><![CDATA[大家好， 我在 GitHub 上做了一些开源项目，但没有一个真正受到关注（0 星，0 贡献）。 人们通常如何推广他们的开源项目？有什么建议吗？   由   提交 /u/GPU_IcyPhoenix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1oax0la/how_do_you_promote_your_opensource_projects_and/</guid>
+      <pubDate>Sun, 19 Oct 2025 18:24:43 GMT</pubDate>
+    </item>
     <item>
       <title>耐用物体的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1oatoeq/durable_objects_alternative/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>使用 OtelMap 可视化您的服务架构</title>
       <link>https://www.reddit.com/r/opensource/comments/1oaq00k/visualizing_your_service_architecture_with_otelmap/</link>
-      <description><![CDATA[大家好！ 我最近构建了 OtelMap — 一个小型开源项目，可帮助您在交互式环境中可视化 OpenTelemetry 跟踪 地图。 实时产品已部署到https://otelmap.com 👉 存储库： https://github.com/jack5341/otelmap ⭐ 如果您喜欢，请点个星或提出一个问题 - 一点点帮助！   由   提交/u/jacky-5341   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我最近构建了OtelMap - 一个小型开源项目，可帮助您在交互式环境中可视化 OpenTelemetry 跟踪 地图。 实时产品已部署到https://otelmap.com 👉 存储库： https://github.com/jack5341/otelmap ⭐ 如果您喜欢，请点个星或提出一个问题 - 一点点帮助！   由   提交/u/jacky-5341   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1oaq00k/visualizing_your_service_architecture_with_otelmap/</guid>
       <pubDate>Sun, 19 Oct 2025 13:44:04 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，你们好吗？ 非常感谢您对我和我的同事正在考虑在巴西公立大学组织的开放硬件倡议的看法。 一位教授，同时也是课程协调员，表示他有兴趣做一些与此相关的事情，特别是在几个月前参加了一次非常重要的硬件活动之后 （顺便说一句，那里有一个 RISC-V 展台，哈哈）。 我一直在研究什么是开放硬件、存在哪些类型的倡议等等。我发现了一些很酷的链接和材料，例如 openhardware.io、。不过，我想听听你的意见。你觉得这个主意怎么样？我们在此计划中要做哪些有趣的事情？ 感谢您提供的任何建议。   由   提交/u/EversonElias  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1oa3y5i/open_hardware_initiative_at_public_university/</guid>
       <pubDate>Sat, 18 Oct 2025 18:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>NodeAV - Node.js 的本机 FFmpeg v8 绑定</title>
-      <link>https://www.reddit.com/r/opensource/comments/1oa3cep/nodeav_native_ffmpeg_v8_bindings_for_nodejs/</link>
-      <description><![CDATA[ 由   提交 /u/SeydX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1oa3cep/nodeav_native_ffmpeg_v8_bindings_for_nodejs/</guid>
-      <pubDate>Sat, 18 Oct 2025 18:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布：Astrologer - 高精度占星图书馆（TS，瑞士星历，99.4 kB），带有 API 和 NPM 选项。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1o9yr3v/launch_astrologer_highprecision_astrological/</link>
-      <description><![CDATA[嘿r/opensource！我很高兴终于推出 Astrologer，这是一个新的综合性开源 TypeScript 库，用于所有高精度占星计算 。我们专门构建它来解决处理原始天文数据的问题。 $\text{Astrologer}$ 将黄金标准瑞士星历的复杂性抽象为干净的类型化 JSON 对象，立即为您提供行星位置、宫头和相位。为什么使用 Astrologer？精度：使用瑞士星历进行世界级的精确计算。双系统支持：轻松计算热带（西方）和恒星（吠陀/印度）图表 系统。开发人员友好：完全用 TypeScript 编写，具有完整的类型定义 - 快速、安全且易于集成。轻量级：整个库只有 99.4kB - 它不会使您的项目膨胀！ NPM : https://www.npmjs.com/package/astrologer GitHub：https://github.com/PaulSpaurgen/astrologer 现场演示：https://www.cosmodestiny.co.in/   由   提交 /u/Outrageous_Chip8834   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1o9yr3v/launch_astrologer_highprecision_astrological/</guid>
-      <pubDate>Sat, 18 Oct 2025 15:27:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
