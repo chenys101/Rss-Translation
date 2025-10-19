@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Oct 2025 15:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 18:21:31 GMT</lastBuildDate>
     <item>
-      <title>去中心化的音乐播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1oaq04a/a_decentralized_music_player/</link>
-      <description><![CDATA[这是一个去中心化的音乐播放器。它不能被删除或审查。它播放的音乐文件也可以。完全开源！   由   提交 /u/autonerf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1oaq04a/a_decentralized_music_player/</guid>
-      <pubDate>Sun, 19 Oct 2025 13:44:11 GMT</pubDate>
+      <title>耐用物体的替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1oatoeq/durable_objects_alternative/</link>
+      <description><![CDATA[      寻找持久对象的开源替代品。搜索了一段时间，找到了rivet.dev。 有人用过这个项目吗？请分享一些见解。 这是一个非常有趣的项目，拥有 4K+ 的明星。但看看 npm 下载，好像没有人使用它们（每周不到 400）。   由   提交/u/Flashy_Reality8406   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1oatoeq/durable_objects_alternative/</guid>
+      <pubDate>Sun, 19 Oct 2025 16:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[WIP] Screen Studio 开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1oat92z/wip_screen_studio_opensource_alternative/</link>
+      <description><![CDATA[大家好 👋 我一直在开发 ScreenArc - 一个开源的跨平台（Linux、Windows、macOS）屏幕录制**和编辑**应用程序，灵感来自 Screen Studio 等应用程序。 它采用 **Electron + React + FFmpeg** 构建，目标是最终达到相同的电影质量和流畅体验，但完全开源。 ✨ **它的作用**  *自动跟踪您的鼠标并添加平滑的**平移和平移效果。缩放**动画  包括一个简单的**时间线编辑器**，用于修剪、调整背景、阴影或宽高比  只需点击几下即可**导出高质量 MP4/GIF**  适用于 **Windows、macOS 和 Linux**（是的，跨平台！）  🎥 这里是 它实际的样子： 🧱 **技术堆栈：**  Electron React TailwindCSS Zustand FFmpeg  🚧 这仍然是一项正在进行的工作 - 许多润色和功能正在进行中，但它已经足够实用了  如果您热衷于内容创建的开源工具，或者喜欢构建创意桌面应用程序，请查看它，也许还可以在 GitHub 上添加 ⭐️！ 👉 Repo url 希望获得社区的反馈或想法 🙌   由   提交/u/tamnvhust  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1oat92z/wip_screen_studio_opensource_alternative/</guid>
+      <pubDate>Sun, 19 Oct 2025 15:58:17 GMT</pubDate>
     </item>
     <item>
       <title>使用 OtelMap 可视化您的服务架构</title>
@@ -29,7 +36,7 @@
     <item>
       <title>适用于 Android/IOS 的开源日记 - 值得一试吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1oalx5p/open_source_diary_for_androidios_worth_a_try/</link>
-      <description><![CDATA[      我知道市面上有大量的日记应用程序 - 但具有干净、简约设计的开源应用程序非常罕见。这就是我一直在尝试使用 StoryPad 构建的内容。 这不是一个新应用程序；而是一个新应用程序。事实上，我早在 2021 年就开始使用它，现在下载量已超过 9 万次。它完全免费，没有广告，并且专注于最小/简单的设计和隐私。有一些可选的附加组件可用于支持开发和改善日记体验。 如果您能查看并分享您的想法，我将不胜感激🙏  Google Play 商店：https://play.google.com/store/apps/details?id=com.tc.writestory 应用商店：https://apps.apple.com/us/app/storypad-timeline-diary/id6744032172 官方网站：https://storypad.me    由   提交/u/Basic-Actuator7263   [链接] [评论] ]]></description>
+      <description><![CDATA[      我知道市面上有大量的日记应用程序 - 但具有干净、简约设计的开源应用程序非常罕见。这就是我一直在尝试使用 StoryPad 构建的内容。 这不是一个新应用程序；而是一个新应用程序。事实上，我早在 2021 年就开始使用它，现在下载量已超过 9 万次。它完全免费，没有广告，并且专注于最小/简单的设计和隐私。有一些可选的附加组件可用于支持开发和改善日记体验。 如果您能查看并分享您的想法，我将不胜感激🙏  Google Play 商店：https://play.google.com/store/apps/details?id=com.tc.writestory 应用商店：https://apps.apple.com/us/app/storypad-timeline-diary/id6744032172 官方网站：https://storypad.me GitHub：https://github.com/theachoem/storypad    由   提交/u/Basic-Actuator7263   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1oalx5p/open_source_diary_for_androidios_worth_a_try/</guid>
       <pubDate>Sun, 19 Oct 2025 10:06:55 GMT</pubDate>
     </item>
@@ -60,13 +67,6 @@
       <description><![CDATA[      我开源了一个小插件，它使用 uv 从 pyproject.toml 创建 requirements.txt。目标是使无服务器 Python 部署更快、更具可重复性。 功能：  uv 解析依赖项的速度比 pip 快 10-100 倍 与 serverless-python-requirements 一起打包 Lambda 函数 高度可配置，通过 serverless.yml  它是 MIT 许可的，我正在寻找反馈或合作者。如果您在 AWS Lambda 上部署 Python，请尝试一下并让我知道您的想法！ GitHub：https://github.com/Programmer-RD-AI/serverless-uv-requirements   由   提交/u/Working-Dot5752   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1oafu12/open_source_serverless_framework_plugin_for_fast/</guid>
       <pubDate>Sun, 19 Oct 2025 03:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivet.dev</title>
-      <link>https://www.reddit.com/r/opensource/comments/1oaeurb/rivetdev/</link>
-      <description><![CDATA[寻找持久对象的开源替代品。搜索了一段时间，我找到了rivet.dev。 有人用过这个项目吗，这是一个非常有趣的项目，有很多明星。但看看 npm 下载，好像没有人使用它们。   由   提交 /u/Flashy_Reality8406   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1oaeurb/rivetdev/</guid>
-      <pubDate>Sun, 19 Oct 2025 02:56:42 GMT</pubDate>
     </item>
     <item>
       <title>Flowgramming——读起来像句子的程序</title>
