@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 20 Oct 2025 03:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 06:24:53 GMT</lastBuildDate>
+    <item>
+      <title>我的烤面包机爱我吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1obchtj/does_my_toaster_love_me/</link>
+      <description><![CDATA[ 由   提交 /u/SwoopsFromAbove   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1obchtj/does_my_toaster_love_me/</guid>
+      <pubDate>Mon, 20 Oct 2025 06:18:27 GMT</pubDate>
+    </item>
     <item>
       <title>构建实时处理的分布式日志查询引擎</title>
       <link>https://www.reddit.com/r/programming/comments/1ob9jlr/building_a_distributed_log_query_engine_with/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>测试不可测试的东西</title>
       <link>https://www.reddit.com/r/programming/comments/1oau9sy/testing_the_untestable/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/nfrankel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1oau9sy/testing_the_untestable/</guid>
       <pubDate>Sun, 19 Oct 2025 16:38:16 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1oarnkq/duke_nukem_zero_hour_nintendo_64_rom/</guid>
       <pubDate>Sun, 19 Oct 2025 14:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于现代内存安全的 C 和 C++ 预处理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1oaqwov/c_and_c_preprocessor_for_modern_memory_safety/</link>
-      <description><![CDATA[Cdefer 用于 C 和 C 语言的下一代内存安全预处理器C++。 将现代内存安全和零配置构建引入经典 C 和 C++。 C++。   由   提交/u/krishnatorque  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1oaqwov/c_and_c_preprocessor_for_modern_memory_safety/</guid>
-      <pubDate>Sun, 19 Oct 2025 14:23:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
