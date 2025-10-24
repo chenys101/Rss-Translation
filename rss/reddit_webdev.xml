@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 24 Oct 2025 01:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 03:33:54 GMT</lastBuildDate>
+    <item>
+      <title>有没有比postman更好的API测试工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oel5ab/is_there_any_api_testing_tool_better_than_postman/</link>
+      <description><![CDATA[   /u/Pristine-Elevator198  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oel5ab/is_there_any_api_testing_tool_better_than_postman/</guid>
+      <pubDate>Fri, 24 Oct 2025 01:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>顺风有什么问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1oej6lu/what_is_wrong_with_tailwind/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[你发现它出现过吗？如果是的话，在什么情况下？  编辑：听起来它在网络开发中很重要。现在我对 SuiteScript（用于 Netsuite 的 JavaScript 类型）感到好奇。 SuiteScript（或其他 ERP 和 CRM 的 JS）是否需要对象以及与对象相关的概念？    由   提交 /u/Typical_Cap895   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1oe3v6p/are_concepts_like_objects_inheritance/</guid>
       <pubDate>Thu, 23 Oct 2025 13:53:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 我构建了一个人工智能驱动的 Chrome 扩展程序，可以自动组织您的书签！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oe3dvm/i_built_an_aipowered_chrome_extension_that/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oe3dvm/i_built_an_aipowered_chrome_extension_that/</guid>
-      <pubDate>Thu, 23 Oct 2025 13:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
