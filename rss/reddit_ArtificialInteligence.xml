@@ -4,20 +4,41 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Fri, 24 Oct 2025 12:32:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 15:17:55 GMT</lastBuildDate>
     <item>
-      <title>人工智能应用程序构建者如何处理后端复杂性？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oeuvni/how_do_ai_app_builders_handle_backend_complexity/</link>
-      <description><![CDATA[大家好，AI 生成的应用程序如何实际管理后端逻辑和可扩展性？  启动 CRUD 路由和简单的数据库是一回事，但是当您需要复杂的业务规则、多用户角色或后台任务时会发生什么？  这些工具是否真正抽象了这种复杂性，或者它们是幕后的自动接线模板？如果有人使用 AI 全栈构建器测试了扩展或自定义 API 集成，我很想知道进展如何。    由   提交 /u/Defiant-Sun-2511   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oeuvni/how_do_ai_app_builders_handle_backend_complexity/</guid>
-      <pubDate>Fri, 24 Oct 2025 11:11:36 GMT</pubDate>
+      <title>氛围编码是否不可避免地会出现“氛围架构”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1of0ajw/is_vibe_architecture_inevitable_with_vibe_coding/</link>
+      <description><![CDATA[我认为，vibe 编码可能会直接引导我们进入“vibe 架构”。  问题不仅仅在于模型。这是语言。英语（或任何自然语言）对于编程来说太模糊了。  示例： “鸡肉可以吃了。”  鸡是在吃东西，还是被吃掉？  当我们说它“准备好了”时，其含义完全取决于谁在阅读它，甚至取决于“准备好”的含义。对于一个人来说，这可能意味着罕见；对于一个人来说，这可能意味着罕见。另一方面，干得好。同一句话，完全不同的结果。  与代码提示相同：“确保安全”或“添加登录系统”可能意味着一千种不同的东西。  编程语言就是因为这种歧义而被发明的。他们强调精确性。但氛围编码从前门带回了模糊性，并且这种模糊性直接渗透到架构中。  所以现在我们看到的项目是：  短期工作但随着增长而崩溃， 积累疯狂的技术债务， 并且存在甚至没有人意识到存在的安全漏洞。   在这一点上，我不确定“负责任的氛围编码”是否存在。一旦你通过自然语言构建软件，你就已经接受了模糊性，而模糊性不能与必须是确定性的系统很好地融合。    由   提交/u/Kelly-T90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1of0ajw/is_vibe_architecture_inevitable_with_vibe_coding/</guid>
+      <pubDate>Fri, 24 Oct 2025 15:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>本科生预科（数学和科学竞赛）寻求指导：物理/生物科学的人工智能/机器学习研究职业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oeuufl/prefinal_year_undergrad_math_sci_comp_seeking/</link>
-      <description><![CDATA[大家好， 我是一名预科本科生，正在攻读数学和科学计算学士学位。我对人工智能/机器学习和物理/生物科学交叉领域的研究型职业充满热情。我谈论的领域包括使用深度学习进行蛋白质折叠（想想 AlphaFold！）、分子建模、药物发现或加速化学、材料科学或物理学等领域的科学发现。 我的学术背景为定量方法和计算技术提供了坚实的基础，但我正在寻找有关如何最好地驾驭这个令人兴奋的跨学科空间的指导。我很乐意听取这些领域工作人员（无论是学术界还是工业界）关于以下几点的意见： 1.研究生衔接课程（MS/PhD）  哪些顶尖大学/实验室（美国、英国、欧洲、加拿大、新加坡甚至其他地区）在“人工智能科学”领域处于领先地位？计算生物学、生物信息学、化学/物理中的人工智能或类似的跨学科项目？ 有您强烈推荐研究的特定教授、研究小组或课程吗？ 根据您的经验，在科学领域中选择更关注人工智能应用与人工智能理论的项目时，主要区别或考虑因素是什么 上下文？  2.基本技能和课程作业  鉴于我的数学和科学计算学士学位（工程学），在申请研究生学习之前，我应该优先获取哪些具体的技术、数学或科学知识？ 除了核心 ML/深度学习之外，是否还有任何专门主题（例如图神经网络、模拟强化学习、统计） 力学、量子化学基础知识、特定的生物学概念）是绝对必须具备的？ 您发现任何特定的在线课程、教科书或资源对于弥合机器学习和科学领域之间的差距非常有价值？  3.本科生研究导航与指导  作为一名本科生，我如何才能真正开始为该领域的开源项目或学术研究做出贡献？ 是否有任何“第一个项目”？或者是复制或微小贡献的良好切入点的论文（例如，构建 DeepChem、尝试简化的 AlphaFold 组件、基本 PINN 应用程序）？ 寻找研究导师、确保暑期实习（学术或工业）以及通常作为本科生寻找合作机会的最佳方式是什么？  4.职业前景与过渡  对于具有这种背景的人来说，在主要机构（如国家实验室）或公司（Google DeepMind、大型制药研发、生物技术初创公司等）中存在什么样的研究或研发角色？ 在这个特定的利基市场中，从学术研究（硕士/博士/博士后）到行业实验室的过渡通常是如何进行的？有什么特别的优势或挑战吗？  5.长期研究愿景与利基发展  对于那些已经进入独立科学研究或创新领域（导致重大发现，如 AlphaFold 团队）的人来说，这条道路是什么样的？ 关于早期发展个人研究利基并建立最终领导新颖的跨学科科学工作所需的专业知识有什么建议吗？  我真的很渴望从你的经验和经验中学习。 见解。任何建议、轶事或建议都会对我计划下一步行动非常有帮助。 提前致谢！   由   提交 /u/IllDisplay2032   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oeuufl/prefinal_year_undergrad_math_sci_comp_seeking/</guid>
-      <pubDate>Fri, 24 Oct 2025 11:09:46 GMT</pubDate>
+      <title>我付钱给 UGC 创作者，让他们使用 AI 工具打造互动体验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1of07bd/i_paid_ugc_creators_to_make_interactive/</link>
+      <description><![CDATA[我最近进行了一个小实验，看看如果传统内容创作者使用人工智能工具（例如迷你游戏、聊天机器人、膳食计划或预算工具）来构建互动体验，而不是通常的短片视频，会发生什么。 目标不是自动化或替代。我想看看人工智能如何降低技术障碍，让更多的人能够真正建造东西。与我合作的创作者都不是开发人员，但通过自然语言提示，他们能够在几分钟内创建功能性和交互式项目。 我发现很有趣：一旦技术层消失，创造力就开始以新的方式显现出来。以前从未写过代码的人会像设计师、讲故事的人和产品制造者一样思考；使用交互本身作为创造性媒介。 人工智能并没有让他们变得更有创造力；而是让他们变得更有创造力。它只是让创作变得更容易。火花仍然来自他们；他们的语气、幽默和想法完全塑造了体验。尽管无可否认，创作者对应用程序的投入程度仍然存在差距。  现在还为时尚早，但感觉就像是当人工智能将“制作软件”变成另一种自我表达形式时会发生什么。 很好奇这里的其他人是怎么想的。这种人类与人工智能的协作感觉像是一个新的创意层，还是只是我们已经使用的工具的演变？ （免责声明：这不是广告。我不会分享我使用过的任何工具。只是想听听关于该主题的一些想法。）   由   提交/u/m3lcoin  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1of07bd/i_paid_ugc_creators_to_make_interactive/</guid>
+      <pubDate>Fri, 24 Oct 2025 15:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能的威胁</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oeyjcr/threat_about_artificial_intelligence/</link>
+      <description><![CDATA[大家好，我有一个问题要问你们！还有机器人。 我在想：人工智能给我带来的一个威胁是，如果媒体被大量虚假场景（人工智能生成的）淹没，而你可以在 reddit 中看到这一点，该怎么办。 如果我滚动浏览，有很多公开展示场景的视频实际上是虚假的。 如果洪水泛滥成灾，以至于人们无法辨别是否真实，该怎么办？ /&gt; 在什么情况下，有可能在这种伪装下实施种族灭绝？ 只要媒体被用来制造足够可怕的图像，任何与之相关的东西都可以被归类为“人工智能生成的”？我在这里想错了吗？   由   提交 /u/fdupNeighbor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oeyjcr/threat_about_artificial_intelligence/</guid>
+      <pubDate>Fri, 24 Oct 2025 14:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>认知科学：新模型提出大脑如何从零散的预测中构建统一的现实</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oexu7v/cognitive_science_new_model_proposes_how_the/</link>
+      <description><![CDATA[TL;DR：“这项新研究背后的科学家提出，我们的世界模型至少分为三个核心领域。第一个是“状态”模型，它代表我们所处的抽象背景或情况。第二个是“代理”模型，它处理我们对其他人、他们的信仰、他们的目标和他们的观点的理解。第三个是“行动”模型，它预测事件的流程和情况的可能路径。” 局限性：相关设计和研究人员使用自然主义故事而不是受控刺激。 问题：如果这个模型继续成立，我们如何人为地模仿它？  Yazin, F.、Majumdar, G.、Bramley, N. 等人。默认模式网络中的碎片化和多线程体验。自然通讯 16, 8401 (2025)。 https://doi.org/10.1038/s41467-025-63522-y    由   提交/u/gameoflife4890  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oexu7v/cognitive_science_new_model_proposes_how_the/</guid>
+      <pubDate>Fri, 24 Oct 2025 13:31:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在没有大量受众的情况下如何建立被动收入？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oexb5c/how_do_you_build_passive_income_without_a_big/</link>
+      <description><![CDATA[每个“赚钱”教程都说首先要增加粉丝，但我宁愿构建一些仍然可以赚钱的小东西。这里有人找到了无需成为影响者即可在线赚钱的方法吗？   由   提交/u/defrito20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oexb5c/how_do_you_build_passive_income_without_a_big/</guid>
+      <pubDate>Fri, 24 Oct 2025 13:09:06 GMT</pubDate>
     </item>
     <item>
       <title>AI能让哑人变聪明吗？</title>
@@ -25,20 +46,6 @@
       <description><![CDATA[就像阿里在教学方面的表现一样。我是个很笨的人，我想知道我是否可以通过人工智能变得更聪明。割草人风格（我知道他在那部电影中使用了虚拟现实，但仍然请回答问题）   由   提交 /u/fatpermaloser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oeuof1/can_ai_turn_a_dumb_person_smart/</guid>
       <pubDate>Fri, 24 Oct 2025 11:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 网络抓取工具和搜索代理可以读取网站上的图像 (OCR) 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oeukjn/can_ai_webscrappers_and_search_agents_read_images/</link>
-      <description><![CDATA[嗨，我正在为大学做一个研究项目，需要一个网站来监控机器人流量。出于道德原因，我必须在某处添加免责声明，表明该网站用于研究目的。免责声明必须能够被人类阅读，但不能被机器人阅读。虽然我的研究发起人告诉我只需将免责声明放在图像中，但我相信某些机器人可能能够通过 OCR 读取它。那是正确的吗？我还可以通过哪些其他方式放置这样的免责声明？谢谢。 编辑：所以图像肯定已经消失了。也许断开了 html 元素的连接并使用 css 修改了它们的位置，这样它们看起来就像创建了一个句子一样可以工作..？   由   提交 /u/Bottled_Up_DarkPeace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oeukjn/can_ai_webscrappers_and_search_agents_read_images/</guid>
-      <pubDate>Fri, 24 Oct 2025 10:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在获取AI深度信息时遇到了哪些困难？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oetsno/what_difficulties_have_you_encountered_when/</link>
-      <description><![CDATA[我每天都会看到大量的人工智能新闻。要么这个模型更新了，要么那个产品刚刚推出。 但我真正需要的是深度。 以 Claude Skills 为例。你会看到它在 Twitter 上无数次被提及，但我真正关心的是围绕技能的最佳实践、来自 Anthropic 团队成员的公开见解，或者人们在 Reddit 上分享使用它的真实经验的讨论。 我需要来自实际将这些工具付诸实践的人的反馈，而不仅仅是耸人听闻的头条新闻。 我关注了很多人工智能公司的领导者，因为他们来之不易的经验教训帮助我真正理解之间的关系 人工智能和工程。 我想知道其他人是否也有同样的需求。如果有足够多像我这样的人，我想我可以专门为这种阅读体验搭建一个信息平台。   由   提交/u/yangyixxxx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oetsno/what_difficulties_have_you_encountered_when/</guid>
-      <pubDate>Fri, 24 Oct 2025 10:08:52 GMT</pubDate>
     </item>
     <item>
       <title>如何在 Reddit 上发现 AI 帐户/帖子？</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[假设这只是一些普通类型的潜水酒吧，他独自一人，并且愿意与你交谈多久。    由   提交 /u/always-be-knolling   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oer9cy/if_you_ran_into_jensen_huang_at_a_bar_what_would/</guid>
       <pubDate>Fri, 24 Oct 2025 07:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么真正阻止孩子们在日常课堂或家庭作业中使用人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1oefep8/whats_really_stopping_kids_from_using_ai_daily_in/</link>
-      <description><![CDATA[我一直注意到年轻学生的提示速度变得多么快，因为他们知道如何比大多数成年人更快地从 ChatGPT 或 Gemini 中获得他们想要的东西。但缺点也很明显：他们跳过这个过程，焦急地等待即时结果，在学习任何东西之前就继续前进。 今天的孩子们阅读更少，观看更多，并且在几毫秒内切换主题。他们擅长消费，但不太擅长保留。就像注意力已经成为一种一次性货币。 教师现在正在与让人工智能为他们阅读和思考的学生打交道。这甚至不再是作弊的问题，而是失去慢慢思考的能力（或耐心）。 教师和学校如何处理这个问题？是否有实际的课堂策略、学校政策或技术限制来帮助管理学生对人工智能工具的依赖？读完这篇文章后我不得不问自己：我的 学生使用人工智能。那又怎样？   由   提交 /u/AIMadeMeDoIt__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1oefep8/whats_really_stopping_kids_from_using_ai_daily_in/</guid>
-      <pubDate>Thu, 23 Oct 2025 21:14:01 GMT</pubDate>
     </item>
     <item>
       <title>我意识到心灵捕手是25年前社会与超智能AI互动的一个隐喻</title>
