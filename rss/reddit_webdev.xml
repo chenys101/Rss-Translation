@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 28 Oct 2025 12:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 15:21:14 GMT</lastBuildDate>
+    <item>
+      <title>在 Platformatic Watt 中引入应用程序级文件系统权限</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oic3h2/introducing_applicationlevel_file_system/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oic3h2/introducing_applicationlevel_file_system/</guid>
+      <pubDate>Tue, 28 Oct 2025 15:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动千斤顶好用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oibmx3/good_use_of_scroll_jacking/</link>
+      <description><![CDATA[      我个人不喜欢滚动劫持，因为我觉得它会让网站感觉又慢又笨重，但我的想法是制作一个最初看起来像卡片但随着滚动而展开的网站，我也喜欢它在展开时框架网站内容的方式。  我尽最大努力优化效果的性能并使其对移动设备具有响应能力，但我想从其他开发人员那里获得一些反馈。 我想要一些反馈的其他一些小事情是我应该将“Portfolio”按钮放置在卡片上的位置。它不是用户的第一优先级，所以我决定将其放入此语音气球内，但我认为定位看起来不正确。 https://bliwi.uk/   由   提交/u/Bliwi  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oibmx3/good_use_of_scroll_jacking/</guid>
+      <pubDate>Tue, 28 Oct 2025 14:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于取消评论的 serp API 的替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oibczg/alternatives_to_serp_api_for_scrapping_reviews/</link>
+      <description><![CDATA[目前正在开发一款软件，该软件主要需要抓取 Google 评论，但也需要抓取其他任何可以找到的内容，并且一直在使用 serp api 来完成此操作。有一天，我用完了免费试用版，而且像我一样破产了，我买不起任何付费套餐。我根本不懂技术，所以我不知道我是否只是被操了，或者是否有更便宜的替代方案   由   提交 /u/Secret-Classic-5644   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oibczg/alternatives_to_serp_api_for_scrapping_reviews/</guid>
+      <pubDate>Tue, 28 Oct 2025 14:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我问，你烤了，我进步了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oiavsy/i_asked_you_roasted_i_improved/</link>
+      <description><![CDATA[   大家好，几天前我发布了我的登陆页面，并得到了一堆非常好的反馈，我牢记在心并希望能够改进。请告诉我您的想法！如果您想查看该网站的运行情况和动画，请查看 https://coastaldataus.com    由   提交/u/ponzi_gg  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oiavsy/i_asked_you_roasted_i_improved/</guid>
+      <pubDate>Tue, 28 Oct 2025 14:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用街机风格的记分板制作了这个在线测验游戏，作为我的酒吧测验服务的 SEO 吸引器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oi9s9k/i_made_this_online_quiz_game_with_arcade_style/</link>
+      <description><![CDATA[ 由   提交 /u/TrenboloneAcetated   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oi9s9k/i_made_this_online_quiz_game_with_arcade_style/</guid>
+      <pubDate>Tue, 28 Oct 2025 13:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[招聘] 初级安全分析师（远程）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oi8e1q/hiring_junior_security_analyst_remote/</link>
+      <description><![CDATA[我们正在寻找一位积极主动且充满好奇心的初级安全分析师加入我们的远程团队。这是一个基础角色，旨在开启您在进攻性安全领域的职业生涯。您将通过进行初步侦察、运行自动扫描、验证漏洞和协助生成报告来为我们的高级渗透测试人员提供支持。您将有一个陡峭的学习曲线，并得到专门的指导来发展您的技术技能。 好处和好处福利 我们从第一天起就对员工进行投资，因为他们是我们成功的关键。  有竞争力的薪资：每年 75,000 美元 - 90,000 美元。 远程优先文化：在有可靠互联网连接的任何地方工作。 全面的健康福利：医疗、牙科和视力保险 提供公司支付的保费。 财务保障： 401(k)，公司提供 5% 的配套。 慷慨的 PTO： 无限制的带薪休假，以充电并避免倦怠。 结构化指导：专门的计划，为您与高级团队成员配对提供职业指导。  还有更多... 如何申请： 访问此链接了解更多信息。向下滚动到“如何申请”部分进行申请。 PS：  请不要给我发私信。我只会忽略你的消息。只需通过上面链接中列出的流程进行申请，我们就会联系您，告知如何发送简历/接受面试。 我们是一家就业安置公司，每天都会发布新的职位列表    由   提交/u/No-Golf9048   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oi8e1q/hiring_junior_security_analyst_remote/</guid>
+      <pubDate>Tue, 28 Oct 2025 12:45:49 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能的出现，如何保持代码质量？</title>
       <link>https://www.reddit.com/r/webdev/comments/1oi6i0m/with_the_ai_slops_out_there_how_to_maintain_code/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[嗨，我是一名学习计算机科学的二年级学生，正在尝试进入产品设计的世界。 我喜欢在 Figma 中设计 UI，并使用 React 和 React 来创建它。接下来。 根据我的理解，（如果我错了，请纠正我）作品集是一种艺术演示，展示你可以从头到尾集思广益、设计和创建一个项目，而简历更多的是你的工作经验的记录。 我制作作品集已经有一段时间了，我想得到一些关于布局的反馈。直观吗？欢迎任何建设性的批评。 我仍在为每个项目编写内容，因为我知道项目较少，但完整的项目表明您可以在自己的机构下从头到尾完成一个项目。 让我知道您的想法！   由   提交/u/lucadenhez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1oi4y1c/layout_and_simplicity_of_portfolio/</guid>
       <pubDate>Tue, 28 Oct 2025 09:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管流量合法，但 AdSense 广告限制问题仍反复出现 - Google Ad Manager 有帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oi29tk/recurring_adsense_ad_limit_issues_despite/</link>
-      <description><![CDATA[      我正在处理 AdSense 上反复出现的令人沮丧的广告限制问题，需要任何经历过此问题的人提供建议。 我的情况： · 每月获得 6 万用户，网页浏览量超过 12 万次 · 开始使用 AdSense 6 月 · 展示次数低于综合浏览量（这似乎很奇怪） · 8 月 4 日受到广告限制，持续了 1.5 个月以上 · 现在再次面临广告限制 · 收入也非常低。 重要细节： · 我的流量 100% 合法 - 否 机器人，没有虚假点击 · 我从未点击过自己的广告 · 我有 2 个竞争对手使用相同的流量来源，他们的广告运行零问题 我完全被难住了，因为我遵守所有规则，我的流量是真实的，而我的利基市场中具有类似流量来源的其他人没有遇到这些问题。 我的问题： 是否会切换 Google Ad Manager 能解决这个问题吗？有人通过迁移到 GAM 成功解决了反复出现的广告限制问题吗？ 我已经无计可施了。任何建议或类似的经验将不胜感激。    https://preview.redd.it/a7bygyt9ssxf1.png?width=1027&amp;format=png&amp;auto=webp&amp;s=935fd98b7d7e026299851f906366111763145ca8 &lt;一 href=&quot;https://preview.redd.it/he7hxyt9ssxf1.png?width=588&amp;format=png&amp;auto=webp&amp;s=cdaa8a7e2e11c7861ada426f51945093840cdec9&quot;&gt; https://preview.redd.it/he7hxyt9ssxf1.png?width=588&amp;format=png&amp;auto=webp&amp;s=cdaa8a7e2e11c7861ada426f51945093840cdec9   由   提交/u/FCFAN44  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oi29tk/recurring_adsense_ad_limit_issues_despite/</guid>
-      <pubDate>Tue, 28 Oct 2025 06:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将文本添加到特定位置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oi1slf/how_to_add_text_to_specific_places/</link>
-      <description><![CDATA[       https://preview.redd.it/z4occtrolsxf1.png?width=1887&amp;format=png&amp;auto=webp&amp;s=23a64bde015fe2f0c46393661847f2cd8212d918 箭头只是我想要放置文本的示例。我在网上找不到直接答案。我只能找到有关如何将文本移动到角落和中心的教程。   由   提交/u/Fatclunjequeen   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oi1slf/how_to_add_text_to_specific_places/</guid>
-      <pubDate>Tue, 28 Oct 2025 06:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auxl 的替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oi0swx/alternatives_to_auxl/</link>
-      <description><![CDATA[我不知道 Auxl 发生了什么，但它似乎已经停产了。这是一个非常不错的 API 测试工具，具有独特的风格 是否有类似的替代方案，可以直观地创建 API 工作流程？ P.S.我知道 HTTPie、Bruno 等。这不是我在这里寻找的   由   提交 /u/x0rchidia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oi0swx/alternatives_to_auxl/</guid>
-      <pubDate>Tue, 28 Oct 2025 05:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以在限制内容屏幕截图的同时创建静态 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oi0bua/is_it_possible_to_create_a_static_web_app_while/</link>
-      <description><![CDATA[我找不到任何正确的方法来实现这样的想法，我们可以限制屏幕截图，或者修改/更改屏幕截图事件的内容被触发。我进行了一番挖掘，发现截屏似乎是操作系统级别的功能，并且此事件不会转发到 Web 浏览器。  请告诉我，如果在基于桌面和移动的浏览器上有任何解决方法。 我探索的一些选项：  检测启发式方法，如可见性变化、页面焦点/模糊检测、按键检测（不适用于移动设备）。 使用 DRM，这似乎很长 镜头，它是，但在内部将静态内容转换为媒体帧并使用播放器显示静态流。这有多种权衡，但我最关心的是内容的可滚动性，因为它不再是基本的 html ，它更像是一个 Image 。   请告诉我是否有任何可以实现此用例的想法或实现。   由   提交/u/NoTap7783  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oi0bua/is_it_possible_to_create_a_static_web_app_while/</guid>
-      <pubDate>Tue, 28 Oct 2025 04:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是作弊吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ohzfqh/is_this_cheating/</link>
-      <description><![CDATA[      如果这不是解决这个问题的好地方，请随时将我引导到另一个 Reddit 子版块... 我是一名虚拟老师，我看到一名学生使用网站的开发人员代码做了一些奇怪的事情，然后很快就输入了正确的答案。我看着他这样做了 3 次，直到看起来他正在使用代码来找出正确答案。他是否作弊？如果作弊，是如何作弊的？   由   提交/u/Kind-Astronomer-1997   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ohzfqh/is_this_cheating/</guid>
-      <pubDate>Tue, 28 Oct 2025 03:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法将我的日历链接直接放在我的网页上？就像我实际的日历一样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ohuayw/is_there_a_way_to_put_my_calendly_link_directly/</link>
-      <description><![CDATA[试图让人们更明显地了解我的可用性，而不是让人们跳过麻烦   由   提交 /u/AWeb3Dad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ohuayw/is_there_a_way_to_put_my_calendly_link_directly/</guid>
-      <pubDate>Mon, 27 Oct 2025 23:39:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
