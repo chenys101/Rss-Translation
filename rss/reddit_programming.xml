@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 04 Nov 2025 06:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:36:14 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个 Node.js 包，可以在您的终端中打印动物和形状🐱❤️</title>
+      <link>https://www.reddit.com/r/programming/comments/1oo4i8i/built_a_nodejs_package_that_prints_animals_and/</link>
+      <description><![CDATA[嘿开发者👋 我创建了一个名为 any-pattern 的小型开源项目 - 它在终端中将字母、形状、动物和情绪打印为彩色 ASCII 艺术。 ✅ 在 Node.js 和 Node.js 中工作。 TypeScript ✅ 16 色支持 ✅ CLI 和导入功能 ✅ 动物、心形、星星、金字塔和金字塔更多 示例： npm iany-pattern import {anyLog,anyShape,anyAnimal,anyMood}from“any-pattern”； anyLog(“你好”, “红色”); anyShape(“心”,“蓝色”); anyAnimal(“猫”,“黄色”); anyMood(“笑脸”,“绿色”);  仓库：https://github.com/diyonfinesco/any-pattern npm：https://www.npmjs.com/package/any-pattern 希望获得反馈+模式想法！ 🎉   由   提交/u/ChampionshipSilly706   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1oo4i8i/built_a_nodejs_package_that_prints_animals_and/</guid>
+      <pubDate>Tue, 04 Nov 2025 11:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人对 Hazel 进行了代码审查，我的游戏引擎击败了 Cherno 和 Nathan Baggs</title>
+      <link>https://www.reddit.com/r/programming/comments/1oo4942/someone_code_reviewed_hazel_my_game_engine_feat/</link>
+      <description><![CDATA[ 由   提交/u/sarkie  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1oo4942/someone_code_reviewed_hazel_my_game_engine_feat/</guid>
+      <pubDate>Tue, 04 Nov 2025 10:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>模拟 - API 和测试实用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1oo3zjl/mock_api_and_testing_utility/</link>
+      <description><![CDATA[ 由   提交/u/BrewedDoritos  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1oo3zjl/mock_api_and_testing_utility/</guid>
+      <pubDate>Tue, 04 Nov 2025 10:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个可配置的速率限制器……因为 API 不能说“冷静”</title>
       <link>https://www.reddit.com/r/programming/comments/1onznpx/i_made_a_configurable_rate_limiter_because_apis/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>应用架构设计模板</title>
       <link>https://www.reddit.com/r/programming/comments/1onzmja/application_architecture_design_template/</link>
-      <description><![CDATA[Reddit 子版块的新人，新手工程师自学使用 Codex 等 AI 工具构建软件。 我主要关注应用程序架构设计，因为我逐渐意识到前沿实验室的 AI 编码工具变得非常强大（例如 Codex、Claude Code）。 在此过程中，我一直在努力开发标准应用程序架构设计(AAD) 模板，我可以将其用于我的应用程序。它是一个软件资产管理工具，基于以下设计：模块化整体、具有六边形层（端口和适配器）的域驱动设计。 AAD 模板是针对单个有界上下文而设计的，每次我继续构建新的有界上下文时，我都会对其进行调整。我已附上模板供您参考，以防您有兴趣了解我的内容。 我的问题是 - 是否有一个标准模板广泛用于模块化整体/基于 DDD 的应用程序？到目前为止，根据阅读和研究，我的感觉是，没有现成的公式化模板，每个 AAD 都可能根据创建者的不同而有所不同。这大致正确吗？ 链接到下面的 AAD / ADR 模板：  https://docs.google.com/document/d/1cZLOP2nFr_--nuvvuvy1mUd-xflMyFNhRo3dwtEkYE0/edit?tab=t.0   由   提交 /u/peterk550   [链接] [评论]]]></description>
+      <description><![CDATA[Reddit 子版块的新手，新手工程师自学使用 AI 工具构建软件。 我主要关注应用程序架构设计，因为我意识到 AI 编码工具变得非常强大。 在此过程中，我一直在努力开发可用于我的应用程序的标准应用程序架构设计 (AAD) 模板。它是一个软件资产管理工具，基于以下设计：模块化整体、具有六边形层（端口和适配器）的域驱动设计。 AAD 模板是针对单个有界上下文而设计的，每次我继续构建新的有界上下文时，我都会对其进行调整。我已附上模板供您参考，以防您有兴趣了解我的内容。 我的问题是 - 是否有一个标准模板广泛用于模块化整体/基于 DDD 的应用程序？到目前为止，根据阅读和研究，我的感觉是，没有现成的公式化模板，每个 AAD 都可能根据创建者的不同而有所不同。这大致正确吗？ 链接到下面的 AAD / ADR 模板：  https://docs.google.com/document/d/1cZLOP2nFr_--nuvvuvy1mUd-xflMyFNhRo3dwtEkYE0/edit?tab=t.0   由   提交 /u/peterk550   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1onzmja/application_architecture_design_template/</guid>
       <pubDate>Tue, 04 Nov 2025 05:49:12 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Adventurous-Salt8514   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1onfqdu/handling_events_coming_in_an_unknown_order/</guid>
       <pubDate>Mon, 03 Nov 2025 16:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的招聘转变：通才更少，人工智能驱动的角色更多</title>
-      <link>https://www.reddit.com/r/programming/comments/1onfpve/microsofts_hiring_shift_fewer_generalists_more/</link>
-      <description><![CDATA[ 由   提交/u/Holiday_Lie_9435   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1onfpve/microsofts_hiring_shift_fewer_generalists_more/</guid>
-      <pubDate>Mon, 03 Nov 2025 16:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们将基础设施设为只读并且永不回头</title>
-      <link>https://www.reddit.com/r/programming/comments/1onfgm9/we_made_our_infrastructure_readonly_and_never/</link>
-      <description><![CDATA[ 由   提交 /u/FlatwormHappy1554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1onfgm9/we_made_our_infrastructure_readonly_and_never/</guid>
-      <pubDate>Mon, 03 Nov 2025 15:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能时代的调试并不是修复损坏的代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1onee2j/debugging_in_the_age_of_ai_isnt_about_fixing/</link>
-      <description><![CDATA[ 由   提交 /u/shift_devs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1onee2j/debugging_in_the_age_of_ai_isnt_about_fixing/</guid>
-      <pubDate>Mon, 03 Nov 2025 15:14:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
