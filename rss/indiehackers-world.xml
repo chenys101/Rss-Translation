@@ -4,7 +4,45 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 05 Nov 2025 15:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 18:26:10 GMT</lastBuildDate>
+    <item>
+      <title>如何一步步调试AI代理（不失去理智）</title>
+      <link>https://feed.indiehackers.world/post/43b49c1cec</link>
+      <description><![CDATA[第 8 步：添加后备方案，以防再次失败
+有时，即使修复了它，你的代理仍然会搞砸。
+因此，您需要构建一个后备系统 - 当您的代理出现故障时，该系统就会启动。
+具体操作方法如下：
+
+检查代理响应后的输出。
+ 格式正确吗？      
+是否缺少关键字段（例如“标题”或“摘要”）？
+
+
+如果验证失败，则会自动重试并显示澄清提示。
+“您忘记了薪资字段。请以 JSON 格式返回所有字段。”
+
+
+还是坏了？升级。
+ 显示一条面向用户的消息：“我们现在无法处理此信息。人工将对其进行审核。” 
+ 或将其排队等待人工审核（通过电子邮件、Slack、Notion 等）
+
+
+
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/43b49c1cec</guid>
+      <pubDate>Wed, 05 Nov 2025 15:18:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>到 2025 年，大家当前的 GTM 技术堆栈会是什么样子？</title>
+      <link>https://feed.indiehackers.world/post/f2fdf67701</link>
+      <description><![CDATA[我看到像 Perplexity 和 AngelList 这样的团队已经在使用它了（这让我信服），这有点疯狂。
+对于任何运行 GTM 或 RevOps 设置的人来说，您的技术堆栈是什么？ 
+我确信现在速度最快的团队并不是拥有最多数据的团队，而是那些根据正确数据采取最快行动的团队。
+（如果您想查看我在说什么：https://www.producthunt.com/products/floqer-2）
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/f2fdf67701</guid>
+      <pubDate>Wed, 05 Nov 2025 06:44:34 GMT</pubDate>
+    </item>
     <item>
       <title>Designmodo 15 年</title>
       <link>https://feed.indiehackers.world/post/16cd8c89d1</link>
@@ -30,7 +68,7 @@ Leadsleek 就是这样诞生的——一个小型 SaaS，适合希望停止猜�
 Leadsleek 只是让这个过程更快、更清晰、更容易重复。
 🧠 免费试用 30 天 — 无需信用卡。
 👉 Leadsleek.com
-（它仍处于测试阶段 - 如果您发现错误，您可以在应用程序内报告它们或发送电子邮件hello@lead sleek.com)
+（它仍处于测试阶段 - 如果您发现错误，您可以在应用程序内报告它们或发送电子邮件hello@lead&amp; #x73;leek.com)
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a6148b2994</guid>
       <pubDate>Tue, 04 Nov 2025 07:42:17 GMT</pubDate>
@@ -188,25 +226,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fae7d7cd36</guid>
       <pubDate>Sat, 01 Nov 2025 03:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的副业项目 10 年后没有 MRR。这就是为什么我要全力以赴。</title>
-      <link>https://feed.indiehackers.world/post/16510c6018</link>
-      <description><![CDATA[在此处查看当前的库：mytoori.com/library。在荒野度过了十年之后，我终于可以骑着这东西去某个地方了。现在我只需证明它可以承受重量。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/16510c6018</guid>
-      <pubDate>Fri, 31 Oct 2025 13:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能真的能听起来足够人性化来管理客户对话吗？</title>
-      <link>https://feed.indiehackers.world/post/901d70cc6c</link>
-      <description><![CDATA[今天，在 PH 主页排行榜上，我注意到一款名为 Peakflo AI Voice Agents 的产品，它是类人人工智能，可以拨打和接听业务电话、记住上下文、更新 CRM 并自动触发工作流程。
-基本上，他们的行为就像真正的团队成员一样......24/7 接听电话、处理后续事宜并将所有内容与您的系统同步。
-我想听听 IndieHackers 社区成员的意见，您会让人工智能接管您的客户或运营电话吗？还是还是感觉太奇怪了？
-顺便说一句，这是我正在测试的产品：https://www.producthunt.com/products/peakflo-ai-voice-agents
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/901d70cc6c</guid>
-      <pubDate>Thu, 30 Oct 2025 22:53:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
