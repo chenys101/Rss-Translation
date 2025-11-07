@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 07 Nov 2025 03:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 06:25:20 GMT</lastBuildDate>
+    <item>
+      <title>为下一代应用程序重塑 PostgreSQL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1oqkfay/reinventing_postgresql_for_the_next_generation_of/</link>
+      <description><![CDATA[       由   提交 /u/pgEdge_Postgres   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1oqkfay/reinventing_postgresql_for_the_next_generation_of/</guid>
+      <pubDate>Fri, 07 Nov 2025 04:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>Zen PDF 版本 2，带有 OCR、搜索和主题。免费和开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1oqj3eb/zen_pdf_version_2_with_ocr_search_and_themes_free/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/brideoflinux   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1oq16t0/our_look_at_fedora_43_with_screenshots_elton_john/</guid>
       <pubDate>Thu, 06 Nov 2025 15:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>将开源项目认证为 Blazingly Fast™</title>
-      <link>https://www.reddit.com/r/opensource/comments/1oq08um/certifying_open_source_projects_as_blazingly_fast/</link>
-      <description><![CDATA[大家好 几周前，我发现域blazingly.fast可用......我无法抗拒。 因此我建立了这个网站，将任何提交的项目认证为正式的 Blazingly Fast™，无需基准测试。 只是提交您的存储库，勾选“是”，然后加入官方速度大厅，并获得一个徽章，让一切看起来都快了 12%。 这是对开源创造力和我们对性能声明的集体热爱的轻松致敬。 没有广告，无需注册，只是有趣。 希望看到更多 OSS 项目的代表 ⚡️   由   提交/u/kwargs_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1oq08um/certifying_open_source_projects_as_blazingly_fast/</guid>
-      <pubDate>Thu, 06 Nov 2025 14:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
