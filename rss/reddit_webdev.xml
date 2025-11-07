@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 07 Nov 2025 12:33:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 15:18:12 GMT</lastBuildDate>
+    <item>
+      <title>支付 Google 服务的费用太难了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqx2ao/it_is_so_hard_to_pay_for_googles_services/</link>
+      <description><![CDATA[      几乎是一个整体年。 我的付款一直被拒绝。 我无法使用 Gemini（目前使用开放路由器）。 这一次，他们要求我支付 5 美元来发布我的 CHROME 扩展。 它再次失败。 Paypal、OpenAI、X、OpenRouter、Hetzner、Vercel、Obsidian、Cursor 从来没有发生过这种情况。 每次，我都会尝试让他们要求我验证我的卡、我的身份证等等。我提交这些东西的照片。他们拒绝了，没有给出任何理由。我对此无能为力。 他们只是不在乎。  https://preview.redd.it/hs1mlkjaquzf1.png?width=2510&amp;format=png&amp;auto=webp&amp;s=802fb7e25c8ada4b1cfcf0f6af81edc7fc20dbdf   由   提交 /u/ajay9452   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqx2ao/it_is_so_hard_to_pay_for_googles_services/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:15:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关加拿大市场定价的见解。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqwvfj/seeking_insights_regarding_pricing_within_the/</link>
+      <description><![CDATA[您好！我很快就要搬到加拿大，并将在那里提供我的服务。我有6年的经验了。我想了解以下内容的定价： 1. 登陆页面的定制设计 2. 登陆页面的设计和开发 3. 如果客户已经有设计但需要开发。 4. 设计和开发一个小型企业网站（3-5）页。 提前致谢。   由   提交 /u/NoAd812   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqwvfj/seeking_insights_regarding_pricing_within_the/</guid>
+      <pubDate>Fri, 07 Nov 2025 15:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是专业人士创建 webhook 时的正常做法吗？我们就用这样的名字！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqw748/is_this_normal_what_professional_do_when_creating/</link>
+      <description><![CDATA[      我使用第 3 方服务，他们提供 webhook，我去检查他们的文档，它只是 Swagger 文档，它只是在 webhooks 上显示了这个示例。 这正常吗？ 人们如何知道要订阅 webhook 的哪个事件！  我为他们的服务支付了 1000 美元，我想使用他们的所有服务，他们给了我这个文档    由   提交 /u/Yone-none   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqw748/is_this_normal_what_professional_do_when_creating/</guid>
+      <pubDate>Fri, 07 Nov 2025 14:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时强制用户拥有帐户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqw64c/when_to_force_users_to_have_accounts/</link>
+      <description><![CDATA[嗨，我想知道什么时候应该强制用户创建帐户才能真正能够在我的网站上执行操作，我有一个 UGC 网站，我可以在其中添加内容，以便用户可以在实际升级到真实帐户之前以访客身份创建内容，但我认为这是正确的选择，还是强制他们在开始创建之前拥有真实帐户是否更好。 很难解释该网站无需推广。但用户体验与 Kahoot 类似，但针对的是另一个领域。 如果您有这方面的任何经验，那将会非常有帮助:)   由   提交 /u/WaveBeatlol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqw64c/when_to_force_users_to_have_accounts/</guid>
+      <pubDate>Fri, 07 Nov 2025 14:41:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>React Hooks 备忘单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqvpay/react_hooks_cheatsheet/</link>
+      <description><![CDATA[      很高兴听到我之前分享的 React 备忘单这里很有用，所以我认为分享团队与 Aurora Scharff 合作的另一个概念会很好 ☺️  这是我们即将组织的 React 认证培训的免费周末中涵盖的概念：https://go.certificates.dev/rfw25  如果您决定尝试，此备忘单将很有用培训，或者希望在其他情况下也是如此。希望您喜欢！   由   提交/u/wanderlust991  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqvpay/react_hooks_cheatsheet/</guid>
+      <pubDate>Fri, 07 Nov 2025 14:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 模型实际上如何处理代码编辑和统一差异？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqv9oq/how_do_ai_models_actually_handle_code_edits_and/</link>
+      <description><![CDATA[我一直在测试 AI 模型以进行小型代码编辑，例如要求其添加新函数、删除变量或替换现有代码中的一段逻辑。 我尝试让它返回统一的差异，以便我可以直接应用更改，但效果并不总是很好。 AI 经常弄乱行号或 diff 格式，有时补丁无法完全应用。 我正在尝试找出处理此问题的最佳方法。 大多数 AI 编码工具（如 Cursor、Copilot 或 Replit）实际上在内部使用统一 diff 吗？或者他们会做一些更聪明的事情，例如匹配代码周围的上下文或使用基于 AST 的编辑？ 对于已经尝试过此操作的人来说，什么最适合您？ 依靠差异并尝试自己修补它们更好，还是让 AI 返回完整更新的文件并在本地进行比较？ 当文件在编辑之间发生变化时，如何保持可靠？ 很想听听其他人如何使用 AI 解决代码编辑问题，尤其是如果您遇到了同样的问题。   由   提交 /u/Top-Recording2333   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqv9oq/how_do_ai_models_actually_handle_code_edits_and/</guid>
+      <pubDate>Fri, 07 Nov 2025 14:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>当前所有 Web 框架的 JavaScript 和 Typescript 包目录 - StackTCO</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oquuy4/javascript_typescript_package_directory_for_all/</link>
+      <description><![CDATA[我建立了一个网站，列出了每个框架/生态系统的 npm 包并对它们进行分类。 https://www.stacktco.com 这样就可以轻松地在 JavaScript/TypScript 生态系统中为 Web 开发人员找到合适的包。 是否缺少任何包？   由   提交 /u/Entrance_Brave   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oquuy4/javascript_typescript_package_directory_for_all/</guid>
+      <pubDate>Fri, 07 Nov 2025 13:47:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户想要移动应用程序，我只知道网络开发，我是学习 React Native 还是使用 AI 工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1oqtshh/client_wants_mobile_app_i_only_know_web_dev_do_i/</link>
+      <description><![CDATA[自由网络开发人员，从事 React 和 nextjs 工作 4 年，对整个世界非常满意。 一个好的客户刚刚发邮件询问我是否可以为他们的网络平台构建一个配套的移动应用程序，预算是 8000 美元，我现在确实需要，但我在整个职业生涯中成功地避免了移动开发。 去年我尝试使用 React Native 教程，但在环境设置、xcode 上陷入困境想要 40gb 左右，而我在 256gb 的 macbook 上，android studio 更糟，在沮丧了 2 天后放弃了。 所以就像我在这里实际做什么？外包吗？得到了 12000 美元和 8 周的报价，所以我的利润完全消失了，我只是在项目管理中处理废料。 实际上学习正确的本地反应吗？可能是正确的答案，但实际上我需要几周的时间才能胜任，客户希望在年底前完成。 或者使用这些人工智能应用程序构建器的东西？测试了光标，但仍然太技术性，螺栓在博览会预览中不断损坏，尝试了 vivicode，实际上在几天内得到了一个工作原型，雇了一个人只是为了 2,000 美元的应用程序商店提交，将保留大约 6,000 美元的利润。或者也许这个工具只是一个工具，我想太多了？ 当客户要求移动时，其他网络开发人员实际上在做什么？学得快吗？使用本机反应？找到解决方法吗？ 这里真的很困惑，需要尽快回复该客户。   由   提交 /u/TemporaryHoney8571   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1oqtshh/client_wants_mobile_app_i_only_know_web_dev_do_i/</guid>
+      <pubDate>Fri, 07 Nov 2025 13:01:29 GMT</pubDate>
+    </item>
     <item>
       <title>前端工程师是 2025 年减少幅度最大的软件职位</title>
       <link>https://www.reddit.com/r/webdev/comments/1oqsm24/frontend_engineers_were_the_biggest_declining/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[如果您有一个 WordPress 网站（或计划创建一个）并认为它可以使用全新的设计，我将为您创建一个免费主页设计模型。 如果您喜欢这个设计 - 太好了，我们可以进一步发展。如果没有，您仍然会为您的页面带来新的想法......完全免费。 仅向 4 人提供，并且仅在接下来的 48 小时内提供。 无推销。没有噱头。之后没有义务与我合作。 在此处发表评论或向我发送 DM，我会与您联系。   由   提交 /u/varun__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1oqq7ac/free_landing_page_mockup_for_your_wordpress/</guid>
       <pubDate>Fri, 07 Nov 2025 09:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 google place API 数据解析到正确的送货地址？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqq007/how_do_you_parse_the_google_places_api_data_to_a/</link>
-      <description><![CDATA[这是我第一次使用 Google Places API（自动完成），除了我将 API 返回的地址组件解析为正确的送货地址的部分之外，完成了所有其他操作，如下所示， { &quot;addressline1&quot;: &quot;&quot;, &quot;addressline2&quot;: &quot;&quot;, &quot;city&quot;: “”、“州”：“”、“国家”：“”、“邮政编码”：“” }  许多国家/地区有不同的格式，他们在文档中提到不同地点的字段不一致 - (google 文档).. 例如，让我们说巴西地址， Av. Paulista, 1578 - Bela Vista, 圣保罗 - SP, 01310-200, 巴西 “地方”相当于“city”的类型不返回，但它们返回“administrative_area_level_1”的城市。 伦敦地址的另一个示例，它们返回“city”在“邮政镇”字段... 我不确定必须处理多少边缘情况和不同的格式。或者我在这里做错了。如果您做过类似的事情，或者如果有任何现有的解决方案，请指导我，任何帮助将不胜感激。   由   提交/u/26th_Official  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqq007/how_do_you_parse_the_google_places_api_data_to_a/</guid>
-      <pubDate>Fri, 07 Nov 2025 09:31:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是 GSAP 的初学者。有人可以帮助我创建这条后续路径吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqppjh/im_a_beginner_at_gsap_can_someone_help_me_create/</link>
-      <description><![CDATA[       https://preview.redd.it/8n0xitsgxszf1.png?width=1649&amp;format=png&amp;auto=webp&amp;s=ba747978e01a2fd4f00514e015813194bdc445a6 这是我正在尝试创建的路径。   由   提交/u/Kshen_  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqppjh/im_a_beginner_at_gsap_can_someone_help_me_create/</guid>
-      <pubDate>Fri, 07 Nov 2025 09:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合审查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqol4v/portfolio_review/</link>
-      <description><![CDATA[大家好 我是一名初级全栈开发人员，刚刚创建了一个作品集，但说实话，我对此持怀疑态度 我怀疑这个设计可能已经过时，所以告诉我应该添加什么，应该避免什么，还是应该开始一些完全不同的东西。 https://nourportfolio-beta.vercel.app/   由   提交 /u/morph_no24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqol4v/portfolio_review/</guid>
-      <pubDate>Fri, 07 Nov 2025 08:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 Web UI 提案的本机支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqnakn/native_support_for_web_ui_proposal/</link>
-      <description><![CDATA[ 由   提交/u/hfti  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqnakn/native_support_for_web_ui_proposal/</guid>
-      <pubDate>Fri, 07 Nov 2025 06:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找更好的方法从网络应用程序中自动执行旧 Windows 软件中的任务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqlsje/looking_for_better_ways_to_automate_tasks_in_old/</link>
-      <description><![CDATA[嘿，各位，我与医疗保健和金融领域的团队合作，我们拥有现代化的 Web 界面，但仍然依赖这些古老的桌面程序来进行输入患者记录或更新库存等操作。现在，我们使用脚本或基本 RPA 工具来弥补差距，但如果出现弹出窗口或 UI 发生一点变化，它们就会一直中断。它很慢，维护成本很高，而且不可靠。  我尝试了一些开源选项和一些低代码的东西，但没有什么可以很好地处理异常或运行一致快速。想知道是否有人找到了可靠的替代方案，可以让您以简单的步骤描述任务，从运行中学习，并在任何 Windows 设置（云或本地）上确定性地重复它们。如果价格便宜并且速度提高 2-3 倍，那就更好了。你们都用什么来进行这种集成？乐于接受任何提示或经验。   由   提交 /u/TryThatShitAgain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqlsje/looking_for_better_ways_to_automate_tasks_in_old/</guid>
-      <pubDate>Fri, 07 Nov 2025 05:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Web 应用程序自动化遗留应用程序的替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oqlmcz/alternatives_for_automating_legacy_apps_from_web/</link>
-      <description><![CDATA[大家好，我正在使用大量旧 Windows 软件为医疗保健客户开发一些 Web 项目。就像，将患者信息输入这些古老的 EHR 系统是一场噩梦 - 点击菜单、下拉菜单，处理随机弹出窗口。它耗费了很多时间，并且自定义脚本感觉笨重且容易损坏。  我尝试过基本的 RPA 工具，但它们价格昂贵，而且在不不断调整的情况下不擅长学习新步骤。寻找更简单的东西：编写任务的简单描述，从我的网络端点击 API，它可以在他们的 PC、云或本地上可靠地运行。如果它能够处理意外并且随着时间的推移变得更快，那就更好了。  你们都用过什么真正有效的方法？接受任何能够保持低成本和高投资回报率的技巧或工具。谢谢！   由   提交/u/TheLankyMan_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oqlmcz/alternatives_for_automating_legacy_apps_from_web/</guid>
-      <pubDate>Fri, 07 Nov 2025 05:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>假设挑战：您必须在 2 个月内从 0 美元开始赚到 1,000 美元。你的 60 天计划是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oql72g/hypothetical_challenge_you_have_to_make_1000_in_2/</link>
-      <description><![CDATA[嘿r/webdev，我正在为自己设定一些目标，这引发了这里所有经验丰富的自由职业者的一个问题。 想象一下你今天要重新开始。您拥有所获得的所有技能和知识，但收入为 0 美元，客户也为零。 挑战：您必须在接下来的 60 天内赚取第一个 1,000 美元。 问题： - 您的 60 天“战斗计划”是什么？ （尽可能具体！例如，“第 1-5 天：利基市场下降并创建 2 个投资组合样本。第 6-60 天：每天 10 封冷邮件 + 5 个平台出价。”）  最重要的是：您第一次开始时犯的第一个错误是什么，现在绝对不会再犯？  我正在尝试制定一个明智的计划并学习来自这个社区的智慧（和伤疤）。我相信很多初学者都会有同样的“菜鸟”经历。错误，例如： - 花费一个月的时间打造“完美”的产品进行任何外展之前的网站。 - 大幅降价只是为了“获得评论”。 - 努力成为一个无所不能的多面手。 - 在求职板上浪费时间，这是一场逐底竞争。 你的 60 天冲刺会是什么样子，你会确保避免什么？ 感谢你所有的见解！   由   提交 /u/Full_Description_969   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oql72g/hypothetical_challenge_you_have_to_make_1000_in_2/</guid>
-      <pubDate>Fri, 07 Nov 2025 04:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计沉浸式体验的工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1oql6hf/tools_for_designing_immersive_experiences/</link>
-      <description><![CDATA[我正在探索用于创建沉浸式数字体验的工具和框架，例如交互式地图、叙事网站和空间叙事。当前哪些构建器（无代码或基于代码）提供了设计控制、动画功能和实时交互性的最佳组合？   由   提交/u/Complex-Honeydew-1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1oql6hf/tools_for_designing_immersive_experiences/</guid>
-      <pubDate>Fri, 07 Nov 2025 04:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
