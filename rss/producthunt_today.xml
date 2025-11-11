@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Nov 2025 15:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:24:52 GMT</lastBuildDate>
+    <item>
+      <title>Clik - 视频光标</title>
+      <link>https://www.producthunt.com/products/clik-cursor-for-video</link>
+      <description><![CDATA[
+            我们将视频编辑变成对话。 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clik-cursor-for-video</guid>
+      <pubDate>Tue, 11 Nov 2025 04:49:24 GMT</pubDate>
+    </item>
     <item>
       <title>全语言 ASR</title>
       <link>https://www.producthunt.com/products/meta</link>
@@ -20,74 +34,46 @@
       <pubDate>Tue, 11 Nov 2025 03:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>混合</title>
-      <link>https://www.producthunt.com/products/mixy-2</link>
+      <title>记忆库</title>
+      <link>https://www.producthunt.com/products/memorr-ai</link>
       <description><![CDATA[
-            进行混搭
+            Memorr 会记住您所有 AI 聊天中的所有内容
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mixy-2</guid>
-      <pubDate>Tue, 11 Nov 2025 00:42:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/memorr-ai</guid>
+      <pubDate>Mon, 10 Nov 2025 15:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 iOS 的 Praxis 新闻</title>
-      <link>https://www.producthunt.com/products/praxis-news-for-ios</link>
+      <title>人工智能代理云</title>
+      <link>https://www.producthunt.com/products/the-cloud-for-ai-agents</link>
       <description><![CDATA[
-            适用于《纽约时报》、《卫报》等的无广告新闻浏览器
+            在约 100 毫秒内启动安全沙箱
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/praxis-news-for-ios</guid>
-      <pubDate>Mon, 10 Nov 2025 23:59:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/the-cloud-for-ai-agents</guid>
+      <pubDate>Mon, 10 Nov 2025 12:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>数据格兰授权</title>
-      <link>https://www.producthunt.com/products/datagran</link>
+      <title>固定它</title>
+      <link>https://www.producthunt.com/products/pin-it</link>
       <description><![CDATA[
-            让人工智能代理+应用程序即时访问营销平台
+            动态岛，iOS 应用程序，快捷方式
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/datagran</guid>
-      <pubDate>Mon, 10 Nov 2025 20:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>落石</title>
-      <link>https://www.producthunt.com/products/dropstone-2</link>
-      <description><![CDATA[
-            随您的代码一起发展的自学习 AI IDE
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dropstone-2</guid>
-      <pubDate>Mon, 10 Nov 2025 13:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>推介人工智能行动</title>
-      <link>https://www.producthunt.com/products/pitch</link>
-      <description><![CDATA[
-            演示文稿中的品牌文字和令人惊叹的视觉效果
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/pitch</guid>
-      <pubDate>Mon, 10 Nov 2025 10:14:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/pin-it</guid>
+      <pubDate>Mon, 10 Nov 2025 01:23:38 GMT</pubDate>
     </item>
     <item>
       <title>建议</title>
@@ -116,6 +102,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/sugar-free-food-scanner</guid>
       <pubDate>Sat, 08 Nov 2025 22:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形</title>
+      <link>https://www.producthunt.com/products/graphis</link>
+      <description><![CDATA[
+            适合创意团队的一体化人工智能工作空间
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/graphis</guid>
+      <pubDate>Fri, 07 Nov 2025 14:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>草稿板温暖介绍代理</title>
+      <link>https://www.producthunt.com/products/draftboard</link>
+      <description><![CDATA[
+            通过自主代理轻松进行热情介绍
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/draftboard</guid>
+      <pubDate>Fri, 07 Nov 2025 09:32:48 GMT</pubDate>
     </item>
     <item>
       <title>C1 工件 API</title>
@@ -163,7 +177,7 @@
       <title>快乐诗</title>
       <link>https://www.producthunt.com/products/happyverse-2</link>
       <description><![CDATA[
-            创建你自己的交互式人工智能视频头像！ 
+            创建您自己的交互式 AI 视频头像！ 
           
 
 讨论
@@ -188,32 +202,18 @@
       <pubDate>Tue, 04 Nov 2025 15:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>圆圈</title>
-      <link>https://www.producthunt.com/products/circle-your-ai-playground</link>
+      <title>任务哨兵</title>
+      <link>https://www.producthunt.com/products/task-sentry</link>
       <description><![CDATA[
-            与 AI 进行创作、混音和协作的游乐场
+            阻止干扰，而不是网站。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/circle-your-ai-playground</guid>
-      <pubDate>Tue, 04 Nov 2025 12:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪辑盒</title>
-      <link>https://www.producthunt.com/products/snipbox-clipboard-history-for-macos</link>
-      <description><![CDATA[
-            为您的 Mac 提供简单、快速且私密的剪贴板历史记录
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/snipbox-clipboard-history-for-macos</guid>
-      <pubDate>Thu, 30 Oct 2025 11:52:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/task-sentry</guid>
+      <pubDate>Fri, 31 Oct 2025 04:36:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
