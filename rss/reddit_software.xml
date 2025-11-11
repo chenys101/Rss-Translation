@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 11 Nov 2025 09:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:33:22 GMT</lastBuildDate>
+    <item>
+      <title>哪些软件仍然以物理副本形式发布？ （光盘、U 盘）</title>
+      <link>https://www.reddit.com/r/software/comments/1ou65z4/which_software_is_still_released_in_physical/</link>
+      <description><![CDATA[有什么有用或很酷的程序，尤其是创意领域的程序，仍然可以作为实体副本购买？我怀念早期以光盘形式出现的日子。   由   提交/u/BlearRocks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ou65z4/which_software_is_still_released_in_physical/</guid>
+      <pubDate>Tue, 11 Nov 2025 10:35:54 GMT</pubDate>
+    </item>
     <item>
       <title>亲爱的专家初学者：瞄准绝望之谷</title>
       <link>https://www.reddit.com/r/software/comments/1ou1zvf/dear_expert_beginner_aim_for_the_valley_of_despair/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>使用 Lua 编写 Windows 脚本</title>
       <link>https://www.reddit.com/r/software/comments/1otp7n5/script_windows_using_lua/</link>
-      <description><![CDATA[使用 Lua 访问整个 Windows API 和越来越多的便利 API，使常见任务变得更简单。 绑定全局热键。监听注册表或文件的更改。管理窗口。启动程序。弹出消息框。创建一次性 GUI。 任何 Windows 能做的事情，lowkPRO 都可以让您利用 Lua 的强大功能和便利性来完成。   由   提交/u/Life-Silver-5623   [link] [评论]]]></description>
+      <description><![CDATA[使用 Lua 访问整个 Windows API 和越来越多的便利 API，使常见任务变得更简单。 绑定全局热键。监听注册表或文件的更改。管理窗口。启动程序。弹出消息框。创建一次性 GUI。 任何 Windows 能做的事情，lowkPRO 都可以让您利用 Lua 的强大功能和便利性来完成。   由   提交/u/Life-Silver-5623   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1otp7n5/script_windows_using_lua/</guid>
       <pubDate>Mon, 10 Nov 2025 20:36:27 GMT</pubDate>
     </item>
@@ -83,13 +90,6 @@
       <pubDate>Mon, 10 Nov 2025 20:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>Tpm 2.0问题</title>
-      <link>https://www.reddit.com/r/software/comments/1otmrix/tpm_20_problem/</link>
-      <description><![CDATA[ 由   提交 /u/Fit_Pressure4197   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1otmrix/tpm_20_problem/</guid>
-      <pubDate>Mon, 10 Nov 2025 19:06:14 GMT</pubDate>
-    </item>
-    <item>
       <title>神秘网络</title>
       <link>https://www.reddit.com/r/software/comments/1otjrzx/mysterium_network/</link>
       <description><![CDATA[一种注重隐私的分布式存储协议，可在客户端加密您的文件，将它们分割成片段，并将它们分布在全球的志愿者存储节点上。您的数据受到军用级双重加密的保护。 https://github.com/QwErTy-2117/Mysterium-network   由   提交/u/Better_Fox7885   [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Mon, 10 Nov 2025 17:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找能够快速捕获 BIN 交易的 eBay 跟踪器。尝试过《Baywatcher》，但大约落后了 15 分钟。</title>
+      <title>正在寻找能够快速捕获 BIN 交易的 eBay 跟踪器。尝试过《Baywatcher》，但好像落后了 15 分钟。</title>
       <link>https://www.reddit.com/r/software/comments/1otjjwv/looking_for_ebay_tracker_that_actually_catches/</link>
       <description><![CDATA[大家好， 我正在使用 BayWatcher 来跟踪 eBay 上的相机装备，但新列表似乎有 15 分钟的延迟。当我收到有关 BIN 列表的通知时，已经有人收到了。需要更可靠的东西，并且每 1-2 分钟检查一次。如果我也可以设置价格过滤器和关键字并保存它们，那就额外奖励了。我已经在 eBay 设置中保存了搜索，但在那里我无法真正正确过滤。另外，如果不点击每个列表，我就无法立即查看所有照片。  愿意为质量买单。如果这很重要的话，我在美国。  谢谢。   由   提交 /u/Equivalent_Exam_6624   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1otjjwv/looking_for_ebay_tracker_that_actually_catches/</guid>
