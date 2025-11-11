@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 10 Nov 2025 21:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:11:08 GMT</lastBuildDate>
+    <item>
+      <title>关键词提取</title>
+      <link>https://www.reddit.com/r/automation/comments/1otr3ky/keyword_extraction/</link>
+      <description><![CDATA[您好！我想从 RSS 提要的文章标题中提取关键字（人员、公司、产品、日期、地点...），以对它们进行一些统计。我已经尝试过删除停用词的基本方法，或者使用 Hugging Face 中的 dslim/bert-base-NER，但我发现一些不一致的地方。我考虑过使用 LLM，但我想在小型服务器上运行它并避免支付 API 费用。 您还有其他想法或方法可以尝试吗？   由   提交 /u/EstebanbanC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1otr3ky/keyword_extraction/</guid>
+      <pubDate>Mon, 10 Nov 2025 21:48:03 GMT</pubDate>
+    </item>
     <item>
       <title>在 Microsoft Azure 上自行托管 n8n - 免费 12 个月</title>
       <link>https://www.reddit.com/r/automation/comments/1otpz0b/selfhost_n8n_on_microsoft_azure_free_for_12_months/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[       由   提交 /u/Cryptodit   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1otafku/these_jobs_arent_at_risk_theyre_already_gone/</guid>
       <pubDate>Mon, 10 Nov 2025 10:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法跟上我的发票处理。有没有一种简单的方法可以使它们自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1os9bv3/cant_keep_up_with_my_invoice_processing_is_there/</link>
-      <description><![CDATA[大家好， 我在跟上业务中的所有发票处理时遇到了麻烦。手动管理感觉很困难且耗时。有谁知道自动化发票处理的简单方法或工具吗？   由   提交 /u/Ambitious-Prune-7203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1os9bv3/cant_keep_up_with_my_invoice_processing_is_there/</guid>
-      <pubDate>Sun, 09 Nov 2025 03:53:11 GMT</pubDate>
     </item>
     <item>
       <title>Zapier 的替代品有哪些？</title>
