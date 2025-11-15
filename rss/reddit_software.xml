@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 15 Nov 2025 01:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 06:22:43 GMT</lastBuildDate>
+    <item>
+      <title>我为 macOS 构建了 DevScribe 来解决后端工作流程问题，但现在我需要帮助测试 Windows 和 Linux 版本</title>
+      <link>https://www.reddit.com/r/software/comments/1oxjnzd/i_built_devscribe_for_macos_to_solve_my_backend/</link>
+      <description><![CDATA[ 由   提交 /u/Limp_Celery_5220   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1oxjnzd/i_built_devscribe_for_macos_to_solve_my_backend/</guid>
+      <pubDate>Sat, 15 Nov 2025 05:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尔维斯经颅磁刺激系统</title>
+      <link>https://www.reddit.com/r/software/comments/1oxjjsd/alvys_tms/</link>
+      <description><![CDATA[您使用过 Alvys TMS 吗？您有什么想法？我需要担心的软件和操作方面有哪些常见问题吗？    由   提交/u/Majestic_Common44   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1oxjjsd/alvys_tms/</guid>
+      <pubDate>Sat, 15 Nov 2025 05:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找免费的在线语音生成器，可以重现经典的 Siri 声音</title>
+      <link>https://www.reddit.com/r/software/comments/1oxj7ez/looking_for_free_online_voice_generator_that_can/</link>
+      <description><![CDATA[我正在尝试使用 og siri 语音创建一些自定义配音，我可以下载这些配音作为歌曲中的一些样本，但我似乎找不到任何不需要付费的东西。  我看过类似的帖子，并且看到人们一直在互联网上这样做，但我找不到任何可以做到这一点的东西。请帮忙   由   提交 /u/AffectionateDebt3816   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1oxj7ez/looking_for_free_online_voice_generator_that_can/</guid>
+      <pubDate>Sat, 15 Nov 2025 05:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>UDU：极快的 GNU du 替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1oxg9b5/udu_extremely_fast_gnu_du_alternative/</link>
+      <description><![CDATA[UDU 是一个跨平台、多线程工具，用于测量文件和目录大小，它使用 OpenMP 实现并行遍历引擎，以极快的速度递归扫描目录。 基准 经过测试使用 hyperfine 的 /usr 目录：  hyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;    程序 平均时间 加速    GNU du (9.0) 47.018 s 基线   UDU (Zig) 18.488 s 2.54×（约快 61%）   UDU (C) 12.036 s 3.91×（约快 74%）     由   提交/u/Swimming_Lecture_234  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1oxg9b5/udu_extremely_fast_gnu_du_alternative/</guid>
+      <pubDate>Sat, 15 Nov 2025 02:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>您的团队今天如何处理产品发布沟通？</title>
       <link>https://www.reddit.com/r/software/comments/1oxaw7i/how_does_your_team_handle_product_release/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[我正在 Laravel 上为我构建一个 Web 平台，在开发开始之前我需要完成一些技术决策。我不是自己构建它，而是一个团队，但我想确保我们锁定的选择不会在以后造成问题。 我很感激在生产环境中运行过 Laravel 应用程序的人们的意见，尤其是在中等规模的情况下。 （约 500 个并发用户） 1. React vs Vue with Laravel 如果你必须为一个长期的 Laravel 项目选择一个，哪个对你来说更易于维护和稳定？ 它们在调试方面如何比较  调试 依赖关系流失 加入新开发人员 长期维护 这是一个具有典型功能的平台：帖子、线程、仪表板、通知、等等  2. Inertia 与完整 SPA 对于大多数用例而言，坚持使用 Inertia + Vue/React 是否足够好，或者单独的 SPA + API 值得额外的复杂性吗？ 3.托管服务与自托管服务 用于实时和搜索  Pusher 与自托管 WebSockets Algolia 与 Meil​​isearch 在成本、可靠性和操作负载方面哪个对您更有效？  4.可扩展性考虑因素 目前规划大约 400-500 个并发用户。但预计三年后用户数量可能会达到 4-5K 左右。  在那个级别上什么对你来说真正重要？ 寻找现实世界的故事，而不仅仅是“React 很流行”或“Vue 很简单”。  主要目标是做出可持续的选择，并且不会在以后增加成本或维护成本。 提前感谢您提供任何见解。   由   提交 /u/Arg2001F1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1owxo9j/need_advice_choosing_between_react_vs_vue_for_a/</guid>
       <pubDate>Fri, 14 Nov 2025 14:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现人工智能工具非常有用</title>
-      <link>https://www.reddit.com/r/software/comments/1owvdmo/ai_tools_ive_found_surprisingly_useful/</link>
-      <description><![CDATA[人工智能工具存在于各种环境中，尽管我只是偶尔使用一些工具。事实证明，以下工具对我的工作很有帮助，尽管我不经常使用它们： 不可检测的人工智能 - 该工具生成类似于人类书写的文本。该工具非常适合我创建需要自然语言表达的内容，尽管我的功课不再需要它。 ChatGPT – 该工具是产生想法和创建内容以及快速探索想法的有用工具。 Grammarly – 该工具提高了我的写作质量，同时识别否则我不会检测到的微小错误。 Gemini – 我只是偶尔使用这个工具，但它为我提供了即时访问研究和事实检查功能的能力。 Otter AI – 我只记录 Saner AI – 当我需要快速浏览我的任务时，我偶尔会使用此工具来管理我的笔记和待办事项列表以及安排概览。 Wispr – 我不经常使用此工具，但当我需要处理多个想法时，它的语音到文本转换功能可以帮助我节省时间。 Jasper AI – 我偶尔会使用此工具来查找内容想法，尽管它对我来说仍然是一个有用的工具。 /&gt; 我不经常使用的工具在特定情况下向我展示了它们的价值。其他用户认为哪些工具是他们最有价值的工作流程工具？   由   提交 /u/Key-point4962   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1owvdmo/ai_tools_ive_found_surprisingly_useful/</guid>
-      <pubDate>Fri, 14 Nov 2025 12:38:06 GMT</pubDate>
     </item>
     <item>
       <title>每周探索主题 - 2025 年 11 月 14 日</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[我发布此消息是为了向此社区中的每个人发出警告。我深入研究了 Wispr Flow 的网络流量，他们的隐私政策声明绝对是谎言。我听说他们在没有适当匿名的情况下存储用户屏幕截图并将大量遥测数据发送回他们的服务器。 他们声称“完全合规”。遵守所有主要的隐私法规，但他们的后端行为非常粗略。为什么听写应用程序需要发送我的桌面屏幕截图？他们对我的私人对话、客户通话和个人笔记的原始音频做了什么？ 这是一个巨大的安全和隐私风险。我立即卸载了它并撤销了所有权限。我不会信任这家公司提供购物清单，更不用说我的专业和个人数据了。请勿使用此应用程序。   由   提交/u/anshchauhann   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1owpnpu/wispr_flow_stores_user_screenshots_and_is_not/</guid>
       <pubDate>Fri, 14 Nov 2025 06:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 TS 转换为 MP4 的好软件，可能带有硬件/GPU 加速</title>
-      <link>https://www.reddit.com/r/software/comments/1owmo5v/good_software_to_convert_ts_to_mp4_may_be_with/</link>
-      <description><![CDATA[标题说明了一切。 正在寻找“将 TS 转换为 MP4 的好软件，可能带有硬件/GPU 加速” 我的笔记本电脑上有 RTX 4060，需要转换大文件。我需要快速且高质量的输出。我用谷歌搜索了很多..甚至chatGPT也无法给出明确的答案。 有什么建议吗？   由   提交/u/cocoa_dio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1owmo5v/good_software_to_convert_ts_to_mp4_may_be_with/</guid>
-      <pubDate>Fri, 14 Nov 2025 04:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页 UI 设计人工智能？</title>
-      <link>https://www.reddit.com/r/software/comments/1owj40c/web_ui_design_ai/</link>
-      <description><![CDATA[大家好，我是一位糟糕的设计师，希望为我的网络应用程序获得一个看起来不错的设计。它将有仪表板和各种各样的东西，我正在寻找人工智能或一些软件，至少可以帮助我设计更好的网站用户界面并改善用户体验，有什么建议吗？ 谢谢   由   提交/u/NobleV5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1owj40c/web_ui_design_ai/</guid>
-      <pubDate>Fri, 14 Nov 2025 01:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI文件排序器使用本地AI自动组织文件（现在支持许多GPU）</title>
-      <link>https://www.reddit.com/r/software/comments/1oweiiz/ai_file_sorter_autoorganizes_files_using_local_ai/</link>
-      <description><![CDATA[最新版本的AI文件排序器已准备就绪。它可以根据文件的名称、扩展名、目录上下文、分类法和其他启发式方法自动对文件进行分类，以确保准确性和一致性，从而帮助整理诸如下载或外部/NAS 驱动器等杂乱的文件夹。 该应用程序会智能地分配类别和可选子类别，您可以在确认之前查看和调整这些类别。一旦获得批准，就会创建必要的文件夹并自动对您的文件进行排序。您还可以撤消该操作。 该应用程序具有直观、现代的基于 Qt 的界面。它在本地运行法学硕士，不需要互联网连接，除非您选择使用远程模型。目前支持的本地模型是 LLaMa 3B 和 Mistral 7B。 该应用程序是开源的，并通过 Vulkan 和 CUDA 支持许多 GPU（用于加速本地 LLM 推理）。 这个想法很简单：  将其指向文件夹或驱动器 它运行本地 LLM 来进行分析 LLM 建议分类 您可以根据需要进行审查和调整。完成。  它还处于早期阶段（v1.1.0），但正在积极开发中，因此我非常感谢建设性的反馈，特别是关于它在不同显卡/GPU 上的性能，以及排序算法是否符合您的期望。 SourceForge download 此处 应用网站此处 GitHub 存储库此处  https://preview.redd.it/8ozkkumkk31g1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=eb52ecd85e2f6f2e4a7342157010b26cb2c600c4 &lt;一href=&quot;https://preview.redd.it/vi6720ink31g1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=4190a0c34591061e4dedcd5043f6c38846c2c606&quot;&gt; https://preview.redd.it/vi6720ink31g1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=4190a0c34591061e4dedcd5043f6c38846c2c606 &lt;一href=&quot;https://preview.redd.it/xumv4sapk31g1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=8c2da895dd57b2ab4715201c54f9c2fb0ebd63f8&quot;&gt; https://preview.redd.it/xumv4sapk31g1.png?width=1002&amp;format=png&amp;auto=webp&amp;s=8c2da895dd57b2ab4715201c54f9c2fb0ebd63f8   由   提交 /u/ph0tone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1oweiiz/ai_file_sorter_autoorganizes_files_using_local_ai/</guid>
-      <pubDate>Thu, 13 Nov 2025 22:04:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
