@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 19 Nov 2025 01:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:22:43 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 11/18/2025</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p0z5i4/oneminute_daily_ai_news_11182025/</link>
+      <description><![CDATA[ Google 推出 Gemini 3，立即将 AI 模型嵌入到搜索中。[1] Hugging Face CEO 表示我们处于“LLM 泡沫”，而不是 AI 泡沫。[2] Meta AI 推出 DreamGym：一款文本体验合成器强化学习 RL 代理。[3] TikTok 现在可以让您选择想要查看多少 AI 生成的内容。[4]  来源包括：https://bushaicave.com/2025/11/18/one-million-daily-ai-news-11-18-2025/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p0z5i4/oneminute_daily_ai_news_11182025/</guid>
+      <pubDate>Wed, 19 Nov 2025 05:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌隐私政策称 Gemini 3 应用程序“可能会在您不希望的情况下激活”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p0y3km/google_privacy_policy_says_gemini_3_apps_may/</link>
+      <description><![CDATA[以下是上下文的完整片段：音频功能 Gemini 应用程序可能会在您不希望的情况下激活，例如，如果出现听起来像“Hey Google”的噪音，或者您通过触摸意外激活了它们。如果 Gemini 应用程序响应，它们会将您的输入视为正常激活。根据您的设置，这些数据将用于改进 Google 服务。其中包括 Gemini 模型、其他为 Gemini 应用程序提供支持的生成式 AI 模型，以及有助于减少意外激活的技术。 我想说的是，如果一家公司不这样做，为什么会冒着侵犯隐私的风险。 “有助于减少激活的技术”是什么意思？这对我来说很奇怪，但也许这就是现在的情况，我应该服从我的技术霸主。   由   提交 /u/Burn-Alt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p0y3km/google_privacy_policy_says_gemini_3_apps_may/</guid>
+      <pubDate>Wed, 19 Nov 2025 04:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>英伟达明天的财报电话肯定会是这样的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p0r3uv/nvidias_earnings_call_tomorrow_is_gonna_be_like/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[我们应该通过契约理论的视角来思考我们与算法的关系。契约视角是理解我们与参与算法的关系的有用框架。互联网为我们提供了广阔、无限的信息和文化内容领域。这种扩张很容易让我们感到焦虑。为了缓解我们的焦虑，我们将我们的管理自主权让给了算法。通过允许算法管理我们的信息/文化环境，我们可以摆脱“选择的焦虑”。为了换取丰富的策划信息和扩大对语音工具的访问范围，我们允许平台和其他公司提取我们的数据并在算法策划过程中使用它。通过这种数据提取，算法可以更精确地管理我们的信息环境，并将我们分为消费者集群以用于营销目的。我们通过算法制定的这些“新身份”有望通过缩小范围并使其显得更加确定来理解复杂的、偶然的世界。通过消除我们认为不和谐或不舒服的内容，或者以允许我们嘲笑或羞辱不和谐内容的方式包装内容，我们获得了一个在认知上更舒适、更少引发焦虑的信息/文化环境。此外，我们还获得了诸如环形摄像头之类的工具，它们可以让我们依赖“个人异常探测器”来扫描我们的环境以查找“威胁”异常，从而给我们带来安全的错觉。 https://ssir.org/books/excerpts/entry/you-must-become-an-algorithmic-problem   由   提交/u/jomaric  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p0qk2l/breaking_the_algorithmic_contract/</guid>
       <pubDate>Tue, 18 Nov 2025 22:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>例如，理解 DNN 实际上意味着什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p0nzr8/what_does_it_actually_mean_to_understand_for/</link>
-      <description><![CDATA[在我开始对人工智能感兴趣之前，我想象人们发明这样的人工智能模型： A：嘿，我需要做 X，你能帮我找出人工智能模型吗？ B：好吧，我们需要像这样连接的三层，... 现在我知道这可能是愚蠢的思考方式。是否更多的是尝试模型在特定场景下的表现并不断尝试？我的意思是，当某些东西不能很好地工作时，有人会过来说“我们需要再添加一层并使用这个激活函数”吗？人们可以“看到”吗？如果不实际测试的话，结果会怎样呢？  我现在觉得更多的是如何通过某种方式自动修改模型，例如添加新层等，然后等待特定场景的结果。你知道，喜欢尝试多种可能性并选择最好的一种，而不是真正弄清楚。  所以，如果我想自己进行研究，我需要拥有很多资源才能真正做一些有用的事情，不是吗？我对它的工作原理更感兴趣，但我不确定你是否真的能真正理解它，如果你知道我的意思，你可以如何理解例如编程和程序。   由   提交 /u/PresentJournalist805   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p0nzr8/what_does_it_actually_mean_to_understand_for/</guid>
-      <pubDate>Tue, 18 Nov 2025 21:08:12 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA 正在悄悄阻止美国人工智能的发展</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[作为 20 世纪 80 年代的研究生，Yann LeCun 很难找到他的博士生导师。关于机器学习的论文——因为没有其他人在研究这个主题，他后来回忆道。 最近，他在 Meta 成了一个奇怪的人。尽管他被誉为人工智能教父之一，但由于公司的做法与他对技术未来的看法背道而驰，他越来越被边缘化。 上周，有消息称，他可能很快就会离开 Meta，去寻找一家专注于所谓世界模型的初创公司，LeCun 认为这种技术比 Meta 当前的语言模型更有可能推动人工智能的发展。  他一直告诉任何询问他的人，他认为大型语言模型（LLM）是追求真正超越人类的计算机的死胡同。  了解更多（无付费链接）：https://www.wsj.com/tech/ai/yann-lecun-ai-meta-0058b13c?st=9iof7m&amp;mod=wsjreddit   由   提交/u/wsj  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ozuri3/hes_been_right_about_ai_for_40_years_now_he/</guid>
       <pubDate>Mon, 17 Nov 2025 22:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝佐斯以 $6.2B 的价格进军 AI。老实说，我认为基于必要的数据中心，入门价格会高得多。他只使用AWS吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ozr4cv/bezos_enters_ai_for_the_price_of_62b_honestly_i/</link>
-      <description><![CDATA[据报道，杰夫·贝佐斯 (Jeff Bezos) 正在将自己的金钱和时间投入到一家人工智能初创企业中，他将作为联席首席执行官帮助管理这家人工智能初创企业。 这家名为 Project Prometheus 的人工智能公司即将斥资 62 亿美元融资 这是贝佐斯先生自 2017 年辞去亚马逊首席执行官职务以来，首次在公司担任正式运营职务。 2021 年 7 月 - 纽约时报   由   提交 /u/Mikemeisterling   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ozr4cv/bezos_enters_ai_for_the_price_of_62b_honestly_i/</guid>
-      <pubDate>Mon, 17 Nov 2025 20:19:19 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
