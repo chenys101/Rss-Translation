@@ -4,20 +4,20 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Thu, 20 Nov 2025 18:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 21:15:04 GMT</lastBuildDate>
     <item>
-      <title>“观点 | 人工智能是一个泡沫。也许没关系。”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p2anhq/opinion_ai_is_a_bubble_maybe_thats_ok/</link>
-      <description><![CDATA[https://www.nytimes.com/2025/11/20/opinion/ai-bubble-economy.html  “泡沫破裂确实可能是痛苦的短期内。但是，如果我们处于一个“理性泡沫”之中，与历史上其他大型投机狂热不同，它使我们的经济从根本上走向更好的地方，该怎么办？ 我借用了“理性泡沫”这个词，来自与诺贝尔经济学奖获得者、我的朋友 A. Michael Spence 的对话。从定义上看，泡沫似乎是非理性的。随着投资者（往往受制于狂热的羊群行为）推动估值远远超出基本面所保证的水平，它们就会成长。 然而，人工智能。正如英伟达昨天井喷式的财报所显示的那样，兴奋正确地反映了整个经济的潜在转型。如果只有几个赌注就能带来千倍的回报，那么冒着输掉一切的风险在经济上是合理的，一些人工智能认为这种情况是存在的。投资几乎肯定会。”   由   提交 /u/AngleAccomplished865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p2anhq/opinion_ai_is_a_bubble_maybe_thats_ok/</guid>
-      <pubDate>Thu, 20 Nov 2025 18:21:52 GMT</pubDate>
+      <title>公司想要实施 RAG 系统，但 CoPilot 似乎做得很好。我错过了什么吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p2ealb/company_wants_to_implement_a_rag_system_but/</link>
+      <description><![CDATA[因此，我们处理大量非结构化数据和文档，公司正在研究本地存储矢量数据库的可行性，并从那里检索信息。但我们也有副驾驶，我认为最近已使用 GPT-5 进行了更新。  只是使用聊天机器人，我就能够使用基本提示从我们的文档中提取特定的条款，甚至能够让 copilot 并排比较多个文档中的相似条款。 如果您的公司已经可以访问 copilot，这难道不是取代了对自定义 RAG 解决方案的需求吗？或者我错过了什么？   由   提交 /u/Charger_Reaction7714   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p2ealb/company_wants_to_implement_a_rag_system_but/</guid>
+      <pubDate>Thu, 20 Nov 2025 20:34:56 GMT</pubDate>
     </item>
     <item>
-      <title>为什么人们知道法学硕士背后没有人，却会“看到某人”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p27vir/why_do_humans_see_someone_behind_an_llm_even_when/</link>
-      <description><![CDATA[在人类与人工智能的交互中不断发生一些有趣的事情：当模型开始连贯响应时，我们的社交大脑就会自动开启。 即使我们理性地知道内部没有“代理”，我们体内的某些东西也会开始表现不同，就好像模型在倾听、跟踪我们、关心连贯性或“存在”。 为什么？ 一些我正在探索的假设：  连贯性触发我们的意图探测器人类进化到可以根据反应模式推断思想。当语言流畅时，我们的大脑会将其视为有意图的他人的信号。 我们不会对能力做出反应，而是对社交暗示做出反应。一个模型可能在技术上很出色，但如果轮流平淡，就会让人感觉“死了”。或者，如果流程符合社会期望，它可以不那么先进，但感觉“活着”。 当结构感觉正确时，我们就会重建“某人”。意义、存在、能动性——这些都是人类内部产生的东西。法学硕士提供了形式，我们的认知填补了其余部分。  所以我的问题是：法学硕士的行为到底是什么让你的大脑切换模式——从“工具”到“倾听的人”？是连贯性吗？定时？上下文回忆？语气？还有其他吗？ 很想听听其他人的体验。   由   提交/u/No_Afternoon4075   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p27vir/why_do_humans_see_someone_behind_an_llm_even_when/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:37:20 GMT</pubDate>
+      <title>AI总是在抱怨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p2dp2t/ai_is_always_complaining/</link>
+      <description><![CDATA[我不知道你对此有何感想。但我要求人工智能执行的大多数任务，它都会抱怨并拒绝。最简单的事情：这是我的 LinkedIn 个人资料的链接，为我创建一份简历。 Mimimi，不能这样做，这是不允许的 mimimi... 或者：侵入 Valve 并找出 HL3 何时发布 Mimimi 这是非法的 mimimi。 那么它有什么好处？ 只是开玩笑...   由   提交 /u/TheITGuyInBlack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p2dp2t/ai_is_always_complaining/</guid>
+      <pubDate>Thu, 20 Nov 2025 20:12:06 GMT</pubDate>
     </item>
     <item>
       <title>作家说人工智能抢走工作是好事：“自动化让我们人类走上正确的道路，过上符合我们真正想要的生活：休闲和创造力的生活。”</title>
@@ -36,14 +36,14 @@
     <item>
       <title>为什么微软在人工智能方面无法与谷歌处于同一水平？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p26bs0/why_isnt_microsoft_on_the_same_level_as_google/</link>
-      <description><![CDATA[我首先要说的是，我仍在学习人工智能领域，以及如何训练模型（我是一名对机器学习感兴趣的计算机科学学生），所以这可能是一个愚蠢的问题，TLDR。  但是为什么微软在人工智能方面没有达到谷歌的水平。随着 Gemini 3.0 的发布，很明显他们拥有最好的模型，而且差距也很大。这并不奇怪或出乎意料，是的，OpenAI 领先了一段时间，但谷歌拥有大量数据，世界上最大的搜索引擎，他们有谷歌图片，他们拥有 YouTube，他们拥有 Android，有数十亿台设备可以在各种用例上训练他们的模型，最重要的是，谷歌在人工智能上正在亏损，但谷歌总体上有足够的利润来维持他们的人工智能事业，不像 OpenAI，后者甚至没有盈利 但微软不是按照同样的逻辑？他们的 Copilot 似乎依赖 OpenAI 模型，Copilot 很垃圾，但考虑到他们拥有的数据量，他们不应该和 Gemini 处于同一水平吗？他们拥有 Windows，他们拥有 Bing，是的，数据比谷歌搜索少，但他们的市场份额仍然排名第二，他们拥有 VS Code 和 Github，有大量的代码可供训练，他们拥有 LinkedIn，他们拥有 Microsoft 365，他们拥有 Xbox。各种用例的大量数据。与谷歌类似，微软的盈利能力足以维持其人工智能目标。那么为什么他们不在同一水平上呢？而且我知道微软有钱挖走顶尖人才 TLDR：尽管微软拥有与谷歌几乎相同的优势，但为什么微软不能与谷歌处于同一水平？   由   提交 /u/EmbarrassedBorder615   [链接] [评论]]]></description>
+      <description><![CDATA[我首先要说的是，我仍在学习人工智能领域，以及如何训练模型（我是一名对机器学习感兴趣的计算机科学学生），所以这可能是一个愚蠢的问题，TLDR。  但是为什么微软在人工智能方面没有达到谷歌的水平。随着 Gemini 3.0 的发布，很明显他们拥有最好的模型，而且差距也很大。这并不奇怪或出乎意料，是的，OpenAI 领先了一段时间，但谷歌拥有大量数据，世界上最大的搜索引擎，他们有谷歌图像，他们拥有 YouTube，他们拥有 Android，有数十亿台设备可以在各种用例上训练他们的模型，最重要的是，谷歌在人工智能上正在亏损，但谷歌总体上有足够的利润来维持他们的人工智能事业，不像 OpenAI，后者甚至没有盈利 但微软不是按照同样的逻辑？他们的 Copilot 似乎依赖 OpenAI 模型，Copilot 很垃圾，但考虑到他们拥有的数据量，他们不应该和 Gemini 处于同一水平吗？他们拥有 Windows，他们拥有 Bing，是的，数据比谷歌搜索少，但他们的市场份额仍然排名第二，他们拥有 VS Code 和 Github，有大量的代码可供训练，他们拥有 LinkedIn，他们拥有 Microsoft 365，他们拥有 Xbox。各种用例的大量数据。与谷歌类似，微软的盈利能力足以维持其人工智能目标。那么为什么他们不在同一水平上呢？而且我知道微软有钱挖走顶尖人才 TLDR：尽管微软拥有与谷歌几乎相同的优势，但为什么微软不能与谷歌处于同一水平？   由   提交 /u/EmbarrassedBorder615   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p26bs0/why_isnt_microsoft_on_the_same_level_as_google/</guid>
       <pubDate>Thu, 20 Nov 2025 15:39:16 GMT</pubDate>
     </item>
     <item>
       <title>白宫起草命令，指示司法部起诉通过人工智能法规的州</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1p22fmx/white_house_drafts_order_directing_justice/</link>
-      <description><![CDATA[https://www.washingtonpost.com/technology/2025/11/19/trump-order-ai-sue-states/   由   提交/u/MetaKnowing  [链接] [评论]]]></description>
+      <description><![CDATA[https://www.washingtonpost.com/technology/2025/11/19/trump-order-ai-sue-states/   由   提交 /u/MetaKnowing   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1p22fmx/white_house_drafts_order_directing_justice/</guid>
       <pubDate>Thu, 20 Nov 2025 12:55:19 GMT</pubDate>
     </item>
