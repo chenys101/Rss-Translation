@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 20 Nov 2025 21:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 01:11:06 GMT</lastBuildDate>
+    <item>
+      <title>采访伙伴</title>
+      <link>https://www.reddit.com/r/programming/comments/1p2kj3k/interviewmate/</link>
+      <description><![CDATA[大家好，第一次在这里发帖，但我最近编码了一个工具，希望可以帮助人们进行技术面试。想看看有没有人有兴趣用一下！  先决条件是注册一个可以访问 Qwen 模型的阿里云帐户（他们有 1000000 个代币的免费套餐可供非中国大陆使用），因此请随意使用它进行测试。 该工具不会像人们付费的一些工具那么强大，但希望这将是一个很好的迭代开始，如果您有任何反馈，请随时将其留在 github 存储库中。享受吧！   由   提交/u/Upper_Concentrate218   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1p2kj3k/interviewmate/</guid>
+      <pubDate>Fri, 21 Nov 2025 00:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Gemini 来 Vibe 编码开源新颖的 LLM 架构：神经调节控制网络</title>
+      <link>https://www.reddit.com/r/programming/comments/1p2hz5j/used_gemini_to_vibe_code_an_open_source_novel_llm/</link>
+      <description><![CDATA[ 由   提交/u/Megneous  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1p2hz5j/used_gemini_to_vibe_code_an_open_source_novel_llm/</guid>
+      <pubDate>Thu, 20 Nov 2025 22:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你的 SDK 光标会中断</title>
+      <link>https://www.reddit.com/r/programming/comments/1p2g7lx/why_your_sdk_breaks_in_cursor/</link>
+      <description><![CDATA[ 由   提交/u/heraldev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1p2g7lx/why_your_sdk_breaks_in_cursor/</guid>
+      <pubDate>Thu, 20 Nov 2025 21:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为易受攻击的 npm 包提供一个简单的出口（椭圆形）</title>
+      <link>https://www.reddit.com/r/programming/comments/1p2fo63/providing_an_easy_offramp_to_a_vulnerable_npm/</link>
+      <description><![CDATA[ 由   提交 /u/Soatok   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1p2fo63/providing_an_easy_offramp_to_a_vulnerable_npm/</guid>
+      <pubDate>Thu, 20 Nov 2025 21:27:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>收入决策如何影响技术债务</title>
+      <link>https://www.reddit.com/r/programming/comments/1p2fes9/how_revenue_decisions_shape_technical_debt/</link>
+      <description><![CDATA[ 由   提交/u/ArtisticProgrammer11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1p2fes9/how_revenue_decisions_shape_technical_debt/</guid>
+      <pubDate>Thu, 20 Nov 2025 21:17:42 GMT</pubDate>
+    </item>
     <item>
       <title>世界模型：交互式人工智能的未来</title>
       <link>https://www.reddit.com/r/programming/comments/1p2fdpd/world_models_the_future_of_interactive_ai/</link>
       <description><![CDATA[ 由   提交 /u/shift_devs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1p2fdpd/world_models_the_future_of_interactive_ai/</guid>
       <pubDate>Thu, 20 Nov 2025 21:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 中断的简单解释 - 作为前端开发人员，很难从其他来源理解</title>
-      <link>https://www.reddit.com/r/programming/comments/1p2fdmi/simple_explanation_for_cloudflare_outage_as_a/</link>
-      <description><![CDATA[ 由   提交/u/Frequent-Football984  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1p2fdmi/simple_explanation_for_cloudflare_outage_as_a/</guid>
-      <pubDate>Thu, 20 Nov 2025 21:16:28 GMT</pubDate>
     </item>
     <item>
       <title>我们来做个游戏吧！ 354：addRange 和 addToggle</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[ 由   提交 /u/gunnarmorling   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1p2eot7/building_a_durable_execution_engine_with_sqlite/</guid>
       <pubDate>Thu, 20 Nov 2025 20:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于自包含系统中数据传播的思考</title>
-      <link>https://www.reddit.com/r/programming/comments/1p2dy71/thoughts_on_data_propagation_in_selfcontained/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1p2dy71/thoughts_on_data_propagation_in_selfcontained/</guid>
-      <pubDate>Thu, 20 Nov 2025 20:21:40 GMT</pubDate>
     </item>
     <item>
       <title>软件需求规范 (SRS) – 案例研究 1</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/iximiuz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1p283qm/handson_with_xdp_ebpf_for_highperformance/</guid>
       <pubDate>Thu, 20 Nov 2025 16:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>姓氏缺失检查如何导致数百万航空公司客户的数据暴露</title>
-      <link>https://www.reddit.com/r/programming/comments/1p27hck/how_a_missing_last_name_check_left_millions_of/</link>
-      <description><![CDATA[ 由   提交/u/bearsyankees  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1p27hck/how_a_missing_last_name_check_left_millions_of/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:22:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor 的总裁很喜欢芝加哥大学的这项研究，但合并率真的=生产力吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1p26wku/cursors_president_is_loving_this_university_of/</link>
-      <description><![CDATA[“对 1,000 个组织的数万名开发人员的分析表明，Cursor 的 AI 编码代理可以显着提高软件输出，而且不会对修复率或恢复率产生负面影响。”   由   提交 /u/scarey102   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1p26wku/cursors_president_is_loving_this_university_of/</guid>
-      <pubDate>Thu, 20 Nov 2025 16:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 Codex-Max，这是一种可以连续 24 小时以上自行编码的人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1p25bni/openai_launches_codexmax_an_ai_that_can_code_on/</link>
-      <description><![CDATA[ 由   提交 /u/IronAshish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1p25bni/openai_launches_codexmax_an_ai_that_can_code_on/</guid>
-      <pubDate>Thu, 20 Nov 2025 14:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
