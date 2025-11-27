@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 27 Nov 2025 01:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 03:45:19 GMT</lastBuildDate>
     <item>
       <title>每次仅需 0.0001 美分即可关闭 Next.js 服务器</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7ov77/taking_down_nextjs_servers_for_00001_cents_a_pop/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>[帮助] Printful API 订单失败 — 只能看到模板 ID，看不到sync_variant_id</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7n9gj/help_printful_api_orders_failing_only_seeing/</link>
-      <description><![CDATA[大家好，希望这里有人能给我指出正确的方向。 我正在使用带有 Stripe → Printful 自动化的自定义网站，但我的 Printful 订单不断失败，并出现错误，提示变体 ID 无效。问题似乎是我的 Printful 仪表板中的所有内容都只显示模板 ID。我在商店中找不到任何数字的sync_variant_id，而这正是 API 所要求的。 现在，我的所有产品都位于产品模板下，而不是同步产品下。当我点击产品时，我只能看到模板变体信息。根本没有选项或屏幕显示同步的商店产品或任何数字变体 ID。 我已连接 Printful API 商店，在仪表板内添加产品并发布它们，但它们仍然没有显示为同步变体。感觉好像我缺少一个实际上将模板转换为真实商店产品的步骤，以便 Printful 可以生成同步 ID。 有人使用自定义 API 集成遇到这个问题吗？ 如何让您的产品正确同步以便出现数字sync_variant_id？ 任何帮助，我们将不胜感激。   由   提交 /u/GrkGod29   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望这里有人能给我指出正确的方向。 我正在使用带有 Stripe → Printful 自动化的自定义网站，但我的 Printful 订单不断失败，并出现错误，提示变体 ID 无效。问题似乎是我的 Printful 仪表板中的所有内容都只显示模板 ID。我在商店中找不到任何数字的sync_variant_id，而这正是 API 所要求的。 现在，我的所有产品都位于产品模板下，而不是同步产品下。当我点击产品时，我只能看到模板变体信息。根本没有选项或屏幕显示同步的商店产品或任何数字变体 ID。 我已连接 Printful API 商店，在仪表板内添加产品并发布它们，但它们仍然没有显示为同步变体。感觉好像我缺少一个实际上将模板转换为真实商店产品的步骤，以便 Printful 可以生成同步 ID。 有使用自定义 API 集成的人遇到过这种情况吗？ 如何让您的产品正确同步，以便出现数字sync_variant_id？ 任何帮助，我们将不胜感激。   由   提交 /u/GrkGod29   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1p7n9gj/help_printful_api_orders_failing_only_seeing/</guid>
       <pubDate>Wed, 26 Nov 2025 23:42:51 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>Instantly.ai 背后的技术是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7johv/whats_the_tech_behind_instantlyai/</link>
-      <description><![CDATA[大家好，我知道这可能是一个奇怪的问题，也许不是完美的 Reddit 子版块，但我真的很想了解这些冰冷的电子邮件工具实际上是如何工作的，而不仅仅是即时的。 据我了解，主要功能是连接多个收件箱、轮换它们以及随机化发送时间。但我确信幕后还有更多的事情发生。 我这么问是因为我想为自己构建一个小版本只是为了进行实验，但我不知道我错过了什么。是否还有其他功能可以帮助 Instantly 电子邮件避免垃圾邮件文件夹，还是主要取决于用户发送和预热收件箱的方式？ 希望得到任何见解。   由   提交/u/michaelscott069  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我知道这可能是一个奇怪的问题，也许不是完美的 Reddit 子版块，但我真的很想了解这些冰冷的电子邮件工具实际上是如何工作的，而不仅仅是即时的。 据我了解，主要功能是连接多个收件箱、轮换它们以及随机化发送时间。但我确信幕后还有更多的事情发生。 我这么问是因为我想为自己构建一个小版本只是为了进行实验，但我不知道我错过了什么。是否还有其他功能可以帮助即时电子邮件避免垃圾邮件文件夹，或者主要取决于用户发送和预热收件箱的方式？ 希望获得任何见解。   由   提交/u/michaelscott069  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1p7johv/whats_the_tech_behind_instantlyai/</guid>
       <pubDate>Wed, 26 Nov 2025 21:12:45 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>快速 API 与 Flask</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7iulm/fast_api_vs_flask/</link>
-      <description><![CDATA[有人可以帮助我了解 Fast API、Flask 和 Node 的优缺点吗？  我知道Fast API和Flask都是基于python的。具体来说，有人在生产中使用 Fast 或 Flask 吗？   由   提交/u/Safe-Worldiness-394   [链接] [评论]]]></description>
+      <description><![CDATA[有人可以帮助我了解 Fast API、Flask 和 Node 的优缺点吗？  我知道Fast API和Flask都是基于python的。具体来说，有人在生产中使用 Fast 或 Flask 吗？   由   提交 /u/Safe-Worldiness-394   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1p7iulm/fast_api_vs_flask/</guid>
       <pubDate>Wed, 26 Nov 2025 20:40:18 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>对于为前端维护小型 API 的人来说，如何跟踪请求量？”</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7ie95/for_people_who_maintain_small_apis_for_their/</link>
-      <description><![CDATA[你用什么来衡量使用情况？云耀？亚马逊AWS？还有别的吗？   由   提交/u/AdhesivenessKey8915   [链接] [评论]]]></description>
+      <description><![CDATA[你用什么来衡量使用情况？云耀？亚马逊AWS？还有别的吗？   由   提交 /u/AdhesivenessKey8915   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1p7ie95/for_people_who_maintain_small_apis_for_their/</guid>
       <pubDate>Wed, 26 Nov 2025 20:22:21 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>零宽度空间：unicode 最狡猾的字符以及你实际上可以用它做什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1p7ge91/the_zerowidth_space_unicodes_sneakiest_character/</link>
-      <description><![CDATA[      这里有 7 个疯狂的事情，你可以做宽度它们（明白吗？）。  打破自动链接 - 将 ZWS 插入 URL/电子邮件以阻止抓取者，同时保持不变人类可读 重复的 C++ 标识符 - ZWS 在标识符字符中有效。创建两个看起来相同的变量 Python 缩进小精灵 - 将 ZWS 滑入前导空格，以防止不可见的缩进错误 水印文本 - 人类无法看到但 diff 工具检测到的二进制签名 控制换行 - 在长 URL 中添加 ZWS，以实现不可见连字符的换行符 锚点按字母顺序排列的列表 - 前缀 ZWS 将项目推到“A”之前排序 零长度社交表单 - 某些平台允许仅 ZWS 用户名/个人简介  负责任地使用。或者不这样做。   由   提交/u/iGotYourPistola   [link] [评论] ]]></description>
+      <description><![CDATA[      这里有 7 个疯狂的事情，你可以做宽度它们（明白吗？）。  打破自动链接 - 将 ZWS 插入 URL/电子邮件以阻止抓取者，同时保持不变人类可读 重复的 C++ 标识符 - ZWS 在标识符字符中有效。创建两个看起来相同的变量 Python 缩进小精灵 - 将 ZWS 滑入前导空格，以防止不可见的缩进错误 水印文本 - 人类无法看到但 diff 工具检测到的二进制签名 控制换行 - 在长 URL 中添加 ZWS，以实现不可见连字符的换行符 锚点按字母顺序排列的列表 - 前缀 ZWS 将项目推到“A”之前排序 零长度社交表单 - 某些平台允许仅 ZWS 用户名/个人简介  负责任地使用。或者不要。   由   提交/u/iGotYourPistola   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1p7ge91/the_zerowidth_space_unicodes_sneakiest_character/</guid>
       <pubDate>Wed, 26 Nov 2025 19:05:08 GMT</pubDate>
     </item>
