@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Dec 2025 15:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 18:30:14 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个免费的高级 CSS 渐变生成器工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pbjgf2/i_built_a_free_advanced_css_gradient_generator/</link>
+      <description><![CDATA[       由   提交 /u/andy-creative-brain   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pbjgf2/i_built_a_free_advanced_css_gradient_generator/</guid>
+      <pubDate>Mon, 01 Dec 2025 17:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>另一个免费的增强调色板生成器工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pbjf9a/another_free_enhanced_color_palette_generator_tool/</link>
+      <description><![CDATA[       由   提交 /u/andy-creative-brain   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pbjf9a/another_free_enhanced_color_palette_generator_tool/</guid>
+      <pubDate>Mon, 01 Dec 2025 17:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何保护开源软件/硬件免受碎片化？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pbihi5/how_to_protect_opensource_softwarehardware_from/</link>
+      <description><![CDATA[在我的硬科幻《Fall&#39;s Legacy》设置中，一切都是开源的，以便于多元物流，我简要提到了“开放标准”以确保兼容性。我承认对此有些犹豫。 Android 作为一个半开源操作系统，其问题在于应用程序在众多分支之间运行不一致。中央更新也发布得很慢，因为有时必须针对每个分叉手动定制它们。 Android 作为一个整体，也是一场买家要小心的嘉年华彩票，有好的设备也有坏的设备。需要明确的是，我并不是在指责 Android 开发者为一个更差的产品付出更多的钱；它有自己的优势和权衡。作为对我良心的一份和平礼物，我会让我未来的历史学家人物批评 Android，并将其与他们自己的现代开源文化进行对比。 尽管我们会抨击苹果的集中式 MO，但事实上，他们从头开始制造自己的硬件和软件，这使得他们可以为彼此设计它们，以提高寿命和性能，尽管我们支付他们不外包的成本。开放的硬件标准将允许任何人为彼此设计硬件和软件，从而为我们提供所有苹果品质，而无需支付苹果价格。好吧，我知道我们仍然需要支付耐用船体材料的费用，但你明白了。今天，我们可以通过就这些标准达成共同协议来做到这一点，这将降低成本，因为例如苹果公司现在可以购买任何现成的芯片，而不是昂贵地自己制造。打个比方是开放蓝牙标准，与将资源花费在只有他们自己可以使用的专有蓝牙上相比，该标准对每个公司来说利润更高且成本更低。   由   提交 /u/Tnynfox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pbihi5/how_to_protect_opensource_softwarehardware_from/</guid>
+      <pubDate>Mon, 01 Dec 2025 17:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>Relaticle - HubSpot/Salesforce 的开源 CRM 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1pbbvr1/relaticle_opensource_crm_alternative_to/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/404oops  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1papig3/audinspect_an_audio_inspector_made_for_music/</guid>
       <pubDate>Sun, 30 Nov 2025 18:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenRGB 未检测到我的键盘</title>
-      <link>https://www.reddit.com/r/opensource/comments/1papb20/openrgb_doesnt_detect_my_keyboard/</link>
-      <description><![CDATA[我正在使用 Linux mint 22.2 Cinnamon。所以我有一台技嘉 Aorus K1，但它没有出现在支持列表中。专有软件（RGB Fusion）仅适用于 Windows，我不知道如何通过 Wine 或 Bottles 在 Linux 中运行它。有谁知道我可以使用的另一个软件或者如何强制 OpenRGB 检测我的键盘？   由   提交/u/Positive_Topic_2570  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1papb20/openrgb_doesnt_detect_my_keyboard/</guid>
-      <pubDate>Sun, 30 Nov 2025 18:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>context-async-sqlalchemy - 在异步 python 应用程序中使用 sqlalchemy 的最佳方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pame92/contextasyncsqlalchemy_the_best_way_to_use/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pame92/contextasyncsqlalchemy_the_best_way_to_use/</guid>
-      <pubDate>Sun, 30 Nov 2025 16:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用“简单前端”构建了一个 LLM 感知构建系统/代码生成工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1paky2v/i_built_a_an_llmaware_build_system_codegen/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1paky2v/i_built_a_an_llmaware_build_system_codegen/</guid>
-      <pubDate>Sun, 30 Nov 2025 15:26:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
