@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Dec 2025 18:28:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 21:19:09 GMT</lastBuildDate>
     <item>
       <title>氛围</title>
       <link>https://www.producthunt.com/products/vibe-14</link>
@@ -20,60 +20,18 @@
       <pubDate>Wed, 03 Dec 2025 05:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>变形金刚 v5</title>
-      <link>https://www.producthunt.com/products/hugging-face</link>
+      <title>米斯特拉尔3号</title>
+      <link>https://www.producthunt.com/products/mistral-7b</link>
       <description><![CDATA[
-            现代人工智能的支柱，经过重新设计
+            一系列前沿开源多式联运模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hugging-face</guid>
-      <pubDate>Wed, 03 Dec 2025 03:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>滑动笔记</title>
-      <link>https://www.producthunt.com/products/swipenote-organize-your-notes</link>
-      <description><![CDATA[
-            重新发现你的想法
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/swipenote-organize-your-notes</guid>
-      <pubDate>Tue, 02 Dec 2025 22:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯威夫特信函</title>
-      <link>https://www.producthunt.com/products/swift-missive-2</link>
-      <description><![CDATA[
-            从 AI 聊天箱发送整个群发电子邮件活动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/swift-missive-2</guid>
-      <pubDate>Tue, 02 Dec 2025 19:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户流智能流</title>
-      <link>https://www.producthunt.com/products/userflow-2</link>
-      <description><![CDATA[
-            立即创建入门和用户体验流程——无需代码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/userflow-2</guid>
-      <pubDate>Tue, 02 Dec 2025 16:17:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mistral-7b</guid>
+      <pubDate>Tue, 02 Dec 2025 22:51:20 GMT</pubDate>
     </item>
     <item>
       <title>草稿</title>
@@ -118,6 +76,76 @@
       <pubDate>Tue, 02 Dec 2025 08:09:49 GMT</pubDate>
     </item>
     <item>
+      <title>威西IPS</title>
+      <link>https://www.producthunt.com/products/weisey-ips</link>
+      <description><![CDATA[
+            一种干净、智能的方式来调查任何 IP
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/weisey-ips</guid>
+      <pubDate>Tue, 02 Dec 2025 08:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经</title>
+      <link>https://www.producthunt.com/products/nerve-5</link>
+      <description><![CDATA[
+            替你做实际工作的人工智能参谋长
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nerve-5</guid>
+      <pubDate>Tue, 02 Dec 2025 06:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>街机创作工作室</title>
+      <link>https://www.producthunt.com/products/arcade</link>
+      <description><![CDATA[
+            精美的品牌产品故事，无需等待。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/arcade</guid>
+      <pubDate>Tue, 02 Dec 2025 02:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>管道读</title>
+      <link>https://www.producthunt.com/products/piperead</link>
+      <description><![CDATA[
+            您的私人人工智能图书管理员：从不脾气暴躁，永远免费。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/piperead</guid>
+      <pubDate>Mon, 01 Dec 2025 20:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究员5.0</title>
+      <link>https://www.producthunt.com/products/fellow-app</link>
+      <description><![CDATA[
+            使用 MCP 和 Zapier 工作流程的 Botless AI 会议记录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/fellow-app</guid>
+      <pubDate>Mon, 01 Dec 2025 20:46:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Ask Bar：每一页都有人工智能答案</title>
       <link>https://www.producthunt.com/products/ask-bar-ai-answers-on-every-page</link>
       <description><![CDATA[
@@ -146,60 +174,32 @@
       <pubDate>Mon, 01 Dec 2025 07:43:18 GMT</pubDate>
     </item>
     <item>
-      <title>甘特图工具</title>
-      <link>https://www.producthunt.com/products/gantttool</link>
+      <title>屏幕中断</title>
+      <link>https://www.producthunt.com/products/screenbreak-effort-based-app-blocker</link>
       <description><![CDATA[
-            具有即时导出功能的在线项目甘特图生成器
+            停止无意识地滚动。通过努力获得访问权。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gantttool</guid>
-      <pubDate>Thu, 27 Nov 2025 09:01:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/screenbreak-effort-based-app-blocker</guid>
+      <pubDate>Sat, 29 Nov 2025 07:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>艾科瑞卫士</title>
-      <link>https://www.producthunt.com/products/aivory</link>
+      <title>坎布卡</title>
+      <link>https://www.producthunt.com/products/cumbuca</link>
       <description><![CDATA[
-            AI 编码的实时合规性和安全验证
+            使用我们的许可证在巴西开发您自己的支付基础设施。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/aivory</guid>
-      <pubDate>Mon, 24 Nov 2025 10:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moodify：合适的播放列表！</title>
-      <link>https://www.producthunt.com/products/moodify-8</link>
-      <description><![CDATA[
-            适合您时刻的音乐
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/moodify-8</guid>
-      <pubDate>Thu, 20 Nov 2025 10:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrueFoundry人工智能网关</title>
-      <link>https://www.producthunt.com/products/truefoundry-ai-gateway</link>
-      <description><![CDATA[
-            连接、观察和控制 LLM、MCP、护栏和提示
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/truefoundry-ai-gateway</guid>
-      <pubDate>Wed, 19 Nov 2025 16:09:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cumbuca</guid>
+      <pubDate>Mon, 24 Nov 2025 22:03:59 GMT</pubDate>
     </item>
     <item>
       <title>超级填充.ai</title>
