@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 02 Dec 2025 21:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 01:14:17 GMT</lastBuildDate>
+    <item>
+      <title>提出通过重新构想版本控制来记录意图的解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1pcqc7n/proposing_a_solution_for_recording_intent_by/</link>
+      <description><![CDATA[ 由   提交/u/ch3coohlink  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pcqc7n/proposing_a_solution_for_recording_intent_by/</guid>
+      <pubDate>Wed, 03 Dec 2025 01:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 分钟内您需要了解的有关 CORS 的所有信息</title>
+      <link>https://www.reddit.com/r/programming/comments/1pcp5za/everything_you_need_to_know_about_cors_in_5mins/</link>
+      <description><![CDATA[5 分钟内了解有关跨源资源共享的几乎所有内容。您可能已经遇到过数百万次 CORS 错误。这个博客将告诉您有关它的一切。   由   提交/u/FederalRace5393  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pcp5za/everything_you_need_to_know_about_cors_in_5mins/</guid>
+      <pubDate>Wed, 03 Dec 2025 00:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员人工智能成熟度曲线。从以人为中心的编码到完全由人工智能驱动的软件管道的演变</title>
+      <link>https://www.reddit.com/r/programming/comments/1pcoycr/the_developer_ai_maturity_curve_the_evolution/</link>
+      <description><![CDATA[ 由   提交 /u/PreviousDirt1218   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pcoycr/the_developer_ai_maturity_curve_the_evolution/</guid>
+      <pubDate>Wed, 03 Dec 2025 00:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zig 的异步程序新计划</title>
+      <link>https://www.reddit.com/r/programming/comments/1pcnem2/zigs_new_plan_for_asynchronous_programs/</link>
+      <description><![CDATA[ 由   提交/u/iamkeyur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pcnem2/zigs_new_plan_for_asynchronous_programs/</guid>
+      <pubDate>Tue, 02 Dec 2025 22:58:50 GMT</pubDate>
+    </item>
     <item>
       <title>开源数据目录空间变得越来越有趣。 Apache Gravitino 刚刚达到 2.3k 星</title>
       <link>https://www.reddit.com/r/programming/comments/1pckeiz/the_open_source_data_catalog_space_is_getting/</link>
@@ -18,20 +46,6 @@
       <description><![CDATA[ 由   提交 /u/andersmurphy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pckdwu/100000_tps_over_a_billion_rows_the_unreasonable/</guid>
       <pubDate>Tue, 02 Dec 2025 21:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发者应该放弃 NPM 吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1pcjxko/should_developers_abandon_npm/</link>
-      <description><![CDATA[就我个人而言，当涉及 npm 时，我从来没有一个项目得到过很好的锻炼。许多人一开始都很棒，但随着时间的推移，却变成了巨大的、错综复杂的依赖混乱。我可以方便地快速将某些功能放入项目中 - 但特别是最近受感染的软件包出现问题 - 您可能已经安装了这些软件包，但可能不知道自己已经安装了，因为它是某些软件包依赖项的依赖项......等等 - 为什么此时要冒风险？ 真正好奇人们的意见。  如果你正在开始一个全新的项目，此时你会使用 npm - 你还能再次信任它吗？   由   提交 /u/fel_mav   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pcjxko/should_developers_abandon_npm/</guid>
-      <pubDate>Tue, 02 Dec 2025 20:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 macOS 应用程序来同时监控我的所有 Claude Code 会话</title>
-      <link>https://www.reddit.com/r/programming/comments/1pcjvy4/i_built_a_macos_app_to_monitor_all_my_claude_code/</link>
-      <description><![CDATA[我一直在不同的项目中运行多个 Claude Code 会话，并且一直无法跟踪终端选项卡之间的切换。  因此，我构建了 Agent Sessions，这是一个用 Rust 编写的桌面应用程序，可在一个位置显示所有正在运行的 Claude Code 会话。 请随时查看：https://github.com/ozankasikci/agent-sessions 注意：它目前仅适用于 Claude Code 代理和macOS。   由   提交 /u/kasikciozan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pcjvy4/i_built_a_macos_app_to_monitor_all_my_claude_code/</guid>
-      <pubDate>Tue, 02 Dec 2025 20:42:12 GMT</pubDate>
     </item>
     <item>
       <title>CVE-2025-48593 的概念验证：不，此 Android 蓝牙问题不会影响您的手机或平板电脑</title>
@@ -76,7 +90,7 @@
       <pubDate>Tue, 02 Dec 2025 16:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>我使用计算机 10 多年，但不知道文本实际上是如何工作的</title>
+      <title>我使用电脑十多年了，却不知道文本实际上是如何工作的</title>
       <link>https://www.reddit.com/r/programming/comments/1pccv7v/i_used_computers_for_10_years_without_knowing_how/</link>
       <description><![CDATA[ASCII、Unicode、UTF-8、UTF-16…没有线索。   由   提交 /u/AdvertisingFancy7011   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pccv7v/i_used_computers_for_10_years_without_knowing_how/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我最近写了一篇关于我在使用 AI 代理和现代 Web 应用程序时遇到的问题的文章。 一旦代理需要理解隐藏的行为：字段依赖性、验证逻辑、条件渲染、工作流状态、计算值或更改事件触发的副作用，即使是简单的表单也会崩溃。所有这些都隐含在当今的 UI 框架中——对人类来说很好，对机器来说很糟糕。 我的观点是 UI 生成已经不够了。我们需要一个语义核心来描述应用程序的真实结构和逻辑：实体、字段、约束、工作流、依赖项和视图行为作为声明性模型。然后，UI、测试和代理 API 都可以从同一语义层生成。 我很想听听其他工程师的想法，尤其是那些构建了复杂表单、仪表板或管理工具的工程师。   由   提交 /u/TraditionalListen994   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pcbh0h/ui_generation_isnt_enough_anymore_we_need/</guid>
       <pubDate>Tue, 02 Dec 2025 15:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过自动生成屏幕截图保持文档最新</title>
-      <link>https://www.reddit.com/r/programming/comments/1pca3w6/keeping_documentation_uptodate_via_automated/</link>
-      <description><![CDATA[ 由   提交 /u/furkansahin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pca3w6/keeping_documentation_uptodate_via_automated/</guid>
-      <pubDate>Tue, 02 Dec 2025 14:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想要微服务，但您真的需要它们吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1pc9wpi/you_want_microservices_but_do_you_really_need_them/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pc9wpi/you_want_microservices_but_do_you_really_need_them/</guid>
-      <pubDate>Tue, 02 Dec 2025 14:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
