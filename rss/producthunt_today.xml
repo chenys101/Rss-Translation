@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Dec 2025 09:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 12:36:51 GMT</lastBuildDate>
     <item>
       <title>种子梦4.5</title>
       <link>https://www.producthunt.com/products/seedream-2-0</link>
@@ -20,18 +20,18 @@
       <pubDate>Thu, 04 Dec 2025 06:36:13 GMT</pubDate>
     </item>
     <item>
-      <title>游戏实验室工作室</title>
-      <link>https://www.producthunt.com/products/gamelabs-studio</link>
+      <title>克劳德·梅姆</title>
+      <link>https://www.producthunt.com/products/claude-mem</link>
       <description><![CDATA[
-            对您的游戏动画和精灵表进行 Vibe 编码
+            实时记录其他人工智能工作的人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gamelabs-studio</guid>
-      <pubDate>Wed, 03 Dec 2025 21:32:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude-mem</guid>
+      <pubDate>Thu, 04 Dec 2025 03:49:04 GMT</pubDate>
     </item>
     <item>
       <title>人工智能 500 强</title>
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/the-ai-500</guid>
       <pubDate>Wed, 03 Dec 2025 16:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络竖琴</title>
-      <link>https://www.producthunt.com/products/cyber-harp</link>
-      <description><![CDATA[
-            通过演奏学习口琴
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cyber-harp</guid>
-      <pubDate>Wed, 03 Dec 2025 13:54:52 GMT</pubDate>
     </item>
     <item>
       <title>拉力赛API</title>
@@ -132,20 +118,6 @@
       <pubDate>Mon, 01 Dec 2025 13:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>典型Mo</title>
-      <link>https://www.producthunt.com/products/typmo</link>
-      <description><![CDATA[
-            编写线框图。生成提示。运送产品。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/typmo</guid>
-      <pubDate>Mon, 01 Dec 2025 08:37:19 GMT</pubDate>
-    </item>
-    <item>
       <title>天气迷你3</title>
       <link>https://www.producthunt.com/products/weather-mini-for-mac</link>
       <description><![CDATA[
@@ -202,10 +174,24 @@
       <pubDate>Tue, 25 Nov 2025 21:41:09 GMT</pubDate>
     </item>
     <item>
+      <title>罗盘</title>
+      <link>https://www.producthunt.com/products/dagster-cloud</link>
+      <description><![CDATA[
+            向 Slack 询问您的数据并在聊天中立即获得答案
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dagster-cloud</guid>
+      <pubDate>Sat, 22 Nov 2025 16:07:21 GMT</pubDate>
+    </item>
+    <item>
       <title>桩</title>
       <link>https://www.producthunt.com/products/pylar</link>
       <description><![CDATA[
-            将您的整个数据堆栈安全地连接到任何代理。
+            将整个数据堆栈安全地连接到任何代理
           
 
 讨论
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pylar</guid>
       <pubDate>Thu, 20 Nov 2025 11:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 功能请求代理</title>
+      <link>https://www.producthunt.com/products/korl</link>
+      <description><![CDATA[
+            永远不会丢失另一个客户请求
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/korl</guid>
+      <pubDate>Wed, 19 Nov 2025 22:40:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
