@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 05 Dec 2025 12:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 15:19:08 GMT</lastBuildDate>
+    <item>
+      <title>使用代理客户端协议 (ACP) 自带 AI 代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1pewxpj/bring_your_own_ai_agent_using_agent_client/</link>
+      <description><![CDATA[ 由   提交 /u/ignatovs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pewxpj/bring_your_own_ai_agent_using_agent_client/</guid>
+      <pubDate>Fri, 05 Dec 2025 14:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>C3 0.7.8 版本：结构展开和向量混合初始化</title>
+      <link>https://www.reddit.com/r/programming/comments/1pewvug/c3_078_release_struct_splatting_and_vector/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pewvug/c3_078_release_struct_splatting_and_vector/</guid>
+      <pubDate>Fri, 05 Dec 2025 14:45:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PatchworkOS：一个模块化的、从头开始的非 POSIX 操作系统，现在具有基于原始论文的 EEVDF 调度程序。旨在作为现代 Linux 内核使用的算法的更易于访问的实现。</title>
+      <link>https://www.reddit.com/r/programming/comments/1pewb8r/patchworkos_a_modular_from_scratch_nonposix_os/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pewb8r/patchworkos_a_modular_from_scratch_nonposix_os/</guid>
+      <pubDate>Fri, 05 Dec 2025 14:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我解雇了我的橡皮鸭。这个人工智能提示更好（而且它实际上会回复）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1pewaip/i_fired_my_rubber_duck_this_ai_prompt_is_better/</link>
+      <description><![CDATA[ 由   提交 /u/RealHuiGe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pewaip/i_fired_my_rubber_duck_this_ai_prompt_is_better/</guid>
+      <pubDate>Fri, 05 Dec 2025 14:20:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际上，具体语法很重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1pevey6/concrete_syntax_matters_actually/</link>
+      <description><![CDATA[ 由   提交/u/SemperVinco  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pevey6/concrete_syntax_matters_actually/</guid>
+      <pubDate>Fri, 05 Dec 2025 13:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从推出第一个开源工具中学到了什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1pev3gg/what_i_learned_from_launching_my_first_opensource/</link>
+      <description><![CDATA[两周前，我发布了我的第一个真正的 OSS 项目 - 一个针对 VS Code 重新设计的全局搜索 UI。我之所以构建它是因为我错过了 phpstorm 的用户体验，结果发现我不是唯一的人。 接下来发生的事情出乎意料：  Reddit 上的展示次数超过 15 万次 安装次数超过 520 次 40+ GitHub 星星 ~250 票 2 个贡献者 支付了 30 美元PR  但更有趣的部分是反馈循环。用户提出了我什至没有考虑到的问题。我在一周内与更多开发者在线交谈，我度过了过去的一年。 这整件事让我意识到：  在交付之前，你永远不知道哪些“小”工具会引起共鸣。 当工具解决了一个令人痛苦的具体问题时，OSS 会增长得更快。 社区建议比最初的设计想法更有价值。 尽快交付，即使有错误或问题“Vibe 编码的垃圾”，引用一位 Reddit 用户的话说：）  我仍然不确定该项目该走向何方（没有愿景，没有商业模式），但早期的信号足够强烈，我想继续改进它。 如果你维护 OSS：在发布高峰消退后如何保持动力？   由   提交/u/Benx78  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pev3gg/what_i_learned_from_launching_my_first_opensource/</guid>
+      <pubDate>Fri, 05 Dec 2025 13:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年您最使用或最喜欢哪些人工智能工具或人工智能模型？</title>
+      <link>https://www.reddit.com/r/programming/comments/1peusr0/what_ai_tools_or_ai_models_do_you_used_or_liked/</link>
+      <description><![CDATA[请问您2025年最使用或最喜欢哪些AI工具或模型？我想在我的知识平台 Web 应用程序中添加一些带有说明的附加 AI 工具，这些工具不是最知名的 10 个 AI 工具，但很好或很有帮助（可能在某个领域）。 如果您愿意，可以将它们添加到我的 Github 存储库讨论中，如果您喜欢该项目，请给它一个 Star。   由   提交 /u/Infinite-Top-1043   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1peusr0/what_ai_tools_or_ai_models_do_you_used_or_liked/</guid>
+      <pubDate>Fri, 05 Dec 2025 13:16:29 GMT</pubDate>
+    </item>
     <item>
       <title>避免偏见：将施奈尔定律应用于系统设计</title>
       <link>https://www.reddit.com/r/programming/comments/1perytm/avoiding_bias_applying_schneiers_law_to_systems/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Little-Season-3433   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pepjco/code_editor_zed_adds_longawaited_rainbow_brackets/</guid>
       <pubDate>Fri, 05 Dec 2025 08:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>何时使用哪种设计模式？所有 23 种 GoF 设计模式的完整指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1pepblq/when_to_use_which_design_pattern_a_complete_guide/</link>
-      <description><![CDATA[设计模式在面试时经常让开发人员感到困惑，不是因为他们不理解定义，而是因为他们在现实软件设计中何时使用哪种设计模式苦恼。本文根据场景对每种模式进行了清晰的阐述，让您为面试做好准备。 理解设计模式的定义很容易。 知道何时使用哪种设计模式使您成为一名架构师。本文涵盖了所有 23 Gang of Four (GoF) 模式，以及实际用法、推理和现实场景，可帮助开发人员回答棘手的面试问题。如果您构建 Java 应用程序（或任何面向对象的系统），本文将使模式选择变得容易。不再需要猜测。   由   提交/u/erdsingh24  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pepblq/when_to_use_which_design_pattern_a_complete_guide/</guid>
-      <pubDate>Fri, 05 Dec 2025 07:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现您自己的原子 - Ben Saks - CppCon 2025</title>
-      <link>https://www.reddit.com/r/programming/comments/1peomhs/implementing_your_own_atomics_ben_saks_cppcon_2025/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1peomhs/implementing_your_own_atomics_ben_saks_cppcon_2025/</guid>
-      <pubDate>Fri, 05 Dec 2025 07:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名高级工程师，为什么我会忽视聚光灯</title>
-      <link>https://www.reddit.com/r/programming/comments/1pekdhi/why_i_ignore_the_spotlight_as_a_staff_engineer/</link>
-      <description><![CDATA[ 由   提交/u/Ordinary_Leader_2971   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pekdhi/why_i_ignore_the_spotlight_as_a_staff_engineer/</guid>
-      <pubDate>Fri, 05 Dec 2025 03:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 构建工具体验中未开发的潜力</title>
-      <link>https://www.reddit.com/r/programming/comments/1pej63s/untapped_potential_in_the_java_build_tool/</link>
-      <description><![CDATA[ 由   提交/u/lihaoyi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pej63s/untapped_potential_in_the_java_build_tool/</guid>
-      <pubDate>Fri, 05 Dec 2025 02:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试 JEP 401 值类和对象</title>
-      <link>https://www.reddit.com/r/programming/comments/1pej2cl/try_out_jep_401_value_classes_and_objects/</link>
-      <description><![CDATA[ 由   提交 /u/lood9phee2Ri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pej2cl/try_out_jep_401_value_classes_and_objects/</guid>
-      <pubDate>Fri, 05 Dec 2025 02:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 和 CUDA 中两个大素数的因式分解</title>
-      <link>https://www.reddit.com/r/programming/comments/1pehrr4/factoring_with_two_large_primes_in_python_and_cuda/</link>
-      <description><![CDATA[ 由   提交 /u/DataBaeBee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pehrr4/factoring_with_two_large_primes_in_python_and_cuda/</guid>
-      <pubDate>Fri, 05 Dec 2025 01:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>普罗米修斯叫醒了我。我决定更好地了解它</title>
-      <link>https://www.reddit.com/r/programming/comments/1pegt25/prometheus_woke_me_up_i_decided_to_get_to_know_it/</link>
-      <description><![CDATA[ 由   提交/u/Helpful_Geographer430   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pegt25/prometheus_woke_me_up_i_decided_to_get_to_know_it/</guid>
-      <pubDate>Fri, 05 Dec 2025 00:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

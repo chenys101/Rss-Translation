@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 04 Dec 2025 18:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 15:17:20 GMT</lastBuildDate>
+    <item>
+      <title>Swift-huggingface 简介：Hugging Face 的完整 Swift 客户端</title>
+      <link>https://huggingface.co/blog/swift-huggingface</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/swift-huggingface</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们让 Claude 来微调开源法学硕士</title>
       <link>https://huggingface.co/blog/hf-skills-training</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>开展深入研究：我们如何实现最先进的水平</title>
+      <title>建立深入研究：我们如何实现最先进的</title>
       <link>https://huggingface.co/blog/Tavily/tavily-deep-research</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/Tavily/tavily-deep-research</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/google-cloud</guid>
       <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>论不断变化的全球计算格局</title>
-      <link>https://huggingface.co/blog/huggingface/shifting-compute-landscape</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/huggingface/shifting-compute-landscape</guid>
-      <pubDate>Wed, 29 Oct 2025 13:56:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
