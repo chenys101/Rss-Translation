@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 07 Dec 2025 03:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 06:23:21 GMT</lastBuildDate>
+    <item>
+      <title>我正在创办一个可组合的网站代理机构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pgafz5/im_starting_a_composable_website_agency/</link>
+      <description><![CDATA[      我最近构建了新的 pocketworks.co.uk 网站。他们面临的主要挑战是旧网站太不灵活；如果没有开发人员的帮助，他们的营销团队无法更新内容、启动新页面或添加潜在客户捕获点。他们想要一个能够支持他们在未来 18 个月内扩大销售渠道的目标的营销网站。 在这个项目中，我了解了有关可组合网站的更多信息，并遇到了 webstacks.com，这是一家为快速移动的团队构建可扩展的 cms 驱动网站的代理机构。 因此，我不是在寻找工作，而是创办自己的代理机构。 如果您认识这样的人可能需要一个现代化的、可扩展的 CMS 网站，请随时与他们分享我的服务，这意义重大。 我的机构：https://fabina.studio/ 最好， Wasif   由   提交/u/TransitionNew7315   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pgafz5/im_starting_a_composable_website_agency/</guid>
+      <pubDate>Sun, 07 Dec 2025 05:29:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何决定是学习 WordPress 还是学习更多的开发框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pg9i4e/how_do_i_decide_between_learning_wordpress_or_a/</link>
+      <description><![CDATA[我是一名专业音乐家，有很多事情需要通过网站进行交流。即将举行的活动、音乐、课程内容、活动乐队预订，以及人们给小费的方式（我想在较小的酒吧演出中使用二维码，这样人们就可以轻松给小费，并且他们也可以看到我所做的所有其他事情）。取决于我是否有这方面的天赋，我还看到了一个我有副业的世界，我支持当地团体、教堂、小企业管理他们的网站，因为似乎有巨大的需求。  我是一个非常热情和有动力的人，我了解一些非常基本的 C++，并编写了一些像 TicTacToe 这样的小游戏，但仅此而已。不会说我高于业余爱好者的水平。然而，我看到了制作网站的艺术性，并且可以看到自己变得兴奋，但这显然比看起来更难！  如果我有 20 多个小时的浓厚兴趣，然后每周花 2-3 小时致力于这个爱好，那么 WordPress 或开发更重的框架会感兴趣吗？我会发现其中之一有什么缺点？    由   提交/u/thedrumline2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pg9i4e/how_do_i_decide_between_learning_wordpress_or_a/</guid>
+      <pubDate>Sun, 07 Dec 2025 04:39:10 GMT</pubDate>
+    </item>
     <item>
       <title>初级开发人员（以及诚实的前辈），有一个概念是什么，尽管每个人都表现得好像很简单，但您却花了很长时间才真正理解？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pg8n1z/junior_devs_and_honest_seniors_what_is_a_concept/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿伙计们， 想分享我的作品集网站https://codingleo.com  我有 8 年的 Web 开发经验，曾经做过很多愚蠢的网站，这就是其中之一。我创建它是为了向招聘人员介绍自己，但也得到了一些招聘人员并不真正关心的反馈，或者无论如何现在都是人工智能招聘人员...  关于我可以为此添加的功能有什么想法吗？也许这个房间还有更多值得探索的部分。我正在考虑让它更具交互性，而不仅仅是与滚动相关的动画。 无论如何......谢谢！   由   提交 /u/leodavinci11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pg3izl/built_a_silly_portfolio_website/</guid>
       <pubDate>Sat, 06 Dec 2025 23:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[星期六展示] 构建了一个 PowerPoint 演示文稿生成器，可导出到本机 PowerPoint 幻灯片。恳请反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pg3cbx/show_off_saturday_built_a_powerpoint_presentation/</link>
-      <description><![CDATA[所以我正式是一名机器学习人员，但我喜欢构建完整的产品，所以这是我为创建 PowerPoint 幻灯片而构建的 SAAS。 并不完美，但如果你正确引导它，它可以让你成功 90%。 技术堆栈：Nextjs Fastapi 从产品的角度来看，我认为它非常灵活，因为你可以在 UI 中编辑幻灯片或导出到 PowerPoint 进行编辑。   由   提交 /u/takuonline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pg3cbx/show_off_saturday_built_a_powerpoint_presentation/</guid>
-      <pubDate>Sat, 06 Dec 2025 23:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 NSFW Subreddits 构建了一个搜索引擎。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pg33dz/i_built_a_search_engine_for_nsfw_subreddits/</link>
-      <description><![CDATA[大家好。 我是一名开发者，我对在 Reddit 上找到特定的 NSFW 社区有多么困难感到非常沮丧。当你试图寻找新的 NSFW Reddit 子版块时，这是一个黑洞，除非你确切地知道你正在寻找哪个子版块，否则发现你喜欢的新 NSFW Reddit 子版块的空间非常小，基本上是看不见的。您通常最终会在混乱的链接场目录中进行挖掘，只是为了找到一个活跃的社区。 我意识到问题不仅仅是搜索栏，而是缺乏良好的标记和分类。 因此，我构建了 nsfwdog.com 我将数千个活跃社区组织到一个干净的仪表板中。我的目标是摆脱混乱的列表，并构建一个工具，让您能够按类别、订阅者数量和参与者实际过滤数据。 我主要关注用户界面，以确保过滤感觉即时，即使有数千个项目。 我正在寻找开发人员对性能的反馈： 搜索在您的设备上感觉敏捷吗？ “密集”搜索是否流畅？仪表板布局易于阅读，还是太拥挤？ 感谢您的浏览！   由   提交/u/ArgumentCertain7201   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pg33dz/i_built_a_search_engine_for_nsfw_subreddits/</guid>
-      <pubDate>Sat, 06 Dec 2025 23:22:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
