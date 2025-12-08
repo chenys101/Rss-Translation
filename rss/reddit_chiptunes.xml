@@ -4,7 +4,21 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Mon, 08 Dec 2025 12:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 15:19:53 GMT</lastBuildDate>
+    <item>
+      <title>超级街头霸王 2 街机 - 飞龙 - Mega Drive/Genesis Arrange (Furnace)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1phepcn/super_street_fighter_2_arcade_fei_long_mega/</link>
+      <description><![CDATA[       由   提交/u/DiggoSilva  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1phepcn/super_street_fighter_2_arcade_fei_long_mega/</guid>
+      <pubDate>Mon, 08 Dec 2025 15:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pico-8 融合</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1phe0ii/pico8_fusion/</link>
+      <description><![CDATA[      使用 Pico-8 制作更多视频：https://youtube.com/@notehead9000/videos   由   提交/u/wongmogei  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1phe0ii/pico8_fusion/</guid>
+      <pubDate>Mon, 08 Dec 2025 14:39:04 GMT</pubDate>
+    </item>
     <item>
       <title>大家写代码的时候都听音乐吗？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ph9sd1/do_you_all_listen_to_music_while_you_code/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      它不太有效，我不知道为什么。对赛道有什么想法吗？    由   提交/u/R3_DACTED  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1pdf4y7/made_this_song_truth/</guid>
       <pubDate>Wed, 03 Dec 2025 20:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期的声音芯片实际上是如何工作的？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1pd9b40/how_did_early_sound_chips_actually_work/</link>
-      <description><![CDATA[我希望这是提问的正确论坛。 我很好奇第一个“好”的实际机制。声音芯片用于产生复杂的声音输出。 我知道像 POKEY 这样的简单系统基本上只是一个开/关电压，被发送到 D 到 A，在寄存器中设置了 0 到 15 的输出电平。那里没有什么太难理解的地方。 但是后来的设计，比如 SID，要复杂得多。其一，它们不仅仅是开/关波形，它们支持多种波形形状。此外，他们还在顶部添加了一个 ADSR，它会随着时间的推移操纵音量。据我了解很少，看来这大大增加了D-to-A的复杂度？或者其中一些是在模拟方面完成的？ 是否有一份文档真正解释了它的工作原理，并可能将其与当代设计进行比较？   由   提交/u/maurymarkowitz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1pd9b40/how_did_early_sound_chips_actually_work/</guid>
-      <pubDate>Wed, 03 Dec 2025 16:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ennio Morricone - Desolation 《The Thing OST》 [Commodore 64 / 仿封面]</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1pd90tk/ennio_morricone_desolation_the_thing_ost/</link>
-      <description><![CDATA[       由   提交/u/7DD9  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1pd90tk/ennio_morricone_desolation_the_thing_ost/</guid>
-      <pubDate>Wed, 03 Dec 2025 16:34:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
