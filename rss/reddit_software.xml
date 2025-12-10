@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 10 Dec 2025 09:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 12:34:45 GMT</lastBuildDate>
+    <item>
+      <title>有什么方法可以降级 Chromebook 我不小心将我的 Chromebook 更新到了扩展安全版本</title>
+      <link>https://www.reddit.com/r/software/comments/1pizl1w/any_way_to_downgrade_chromebook_i_accidentally/</link>
+      <description><![CDATA[降级 Chromebook 的任何方法 我不小心将 Chromebook 更新为扩展安全版本，但我不知道它是什么，现在我的 Google Play 和所有应用程序都消失了，我真的希望它们能恢复，无论如何都可以将其恢复或回滚到旧版本我的设备是 hp x360 11 G1 ee 我不想更改操作系统    由   提交/u/hyaedit  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pizl1w/any_way_to_downgrade_chromebook_i_accidentally/</guid>
+      <pubDate>Wed, 10 Dec 2025 10:48:52 GMT</pubDate>
+    </item>
     <item>
       <title>Polymarket：交易概率的机制</title>
       <link>https://www.reddit.com/r/software/comments/1piy8hr/polymarket_mechanics_of_trading_probability/</link>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 10 Dec 2025 00:22:31 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>整理杂乱文件的工具</title>
       <link>https://www.reddit.com/r/software/comments/1pil8gi/tool_to_organize_your_messy_files/</link>
       <description><![CDATA[大家好！ 我制作了 FileX AI，这是一个简单的工具，可以自动将您的文件组织到正确的文件夹中，并使用 AI 正确地重命名它们。 它适用于任何拥有凌乱文件的人 - 无论您是拥有 200 个名为分配_final_final.pdf 的 PDF 的学生，还是拥有充满收据、屏幕截图、扫描和随机文件的混乱下载文件夹的人 只需上传您的文件 → 它会检测它们是什么 → 将它们放入正确的文件夹 → 整齐地重命名它们。 无需设置，速度超快，立即免费试用。 👉 在这里尝试 FileX AI：https://filexai.com   由   提交 /u/your_lokesh   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pil8gi/tool_to_organize_your_messy_files/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>寻找适合大文件的 PDF 编辑器</title>
       <link>https://www.reddit.com/r/software/comments/1piizxx/looking_for_a_pdf_editor_for_heavy_files/</link>
-      <description><![CDATA[自从编辑（添加文本、突出显示、用电脑笔书写）200-400页 PDF 文件以来，我一直在寻找一个好的 PDF 我使用 Edge 的 PDF 编辑器有一段时间了，但当我想要保存编辑时，它开始变慢并且崩溃 我只需要一个应用程序，我可以在其中向 PDF 添加文本、突出显示文本并使用我的手写笔，并且这并不延迟（我尝试了 Adobe Acrobat Pro，但我认为它比 Edge 延迟）如果我必须付费也没关系    由   提交/u/Silver_Soldier22   [链接] [评论]]]></description>
+      <description><![CDATA[自从编辑（添加文本、突出显示、用电脑笔书写）200-400页 PDF 文件以来，我一直在寻找一个好的 PDF 我使用 Edge 的 PDF 编辑器有一段时间了，但当我想保存编辑时，它开始变慢并且崩溃 我只需要一个应用程序，我可以在其中向 PDF 添加文本、突出显示文本并使用我的手写笔，并且这并不延迟（我尝试了 Adobe Acrobat Pro，但我认为它比 Edge 延迟）如果我必须付费也没关系    由   提交/u/Silver_Soldier22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1piizxx/looking_for_a_pdf_editor_for_heavy_files/</guid>
       <pubDate>Tue, 09 Dec 2025 20:54:40 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>允许 Linux shell 命令的电子表格应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1pic1mx/spreadsheet_app_that_allows_linux_shell_commands/</link>
-      <description><![CDATA[大家好，我一直在寻找这个问题，并想在这里问一下 - 每次我进行数据工作时，我最终都希望有一个电子表格应用程序可以实现 Linux shell 的多功能性 - 例如在单元格公式中使用 sed 或 find 或通过执行以下操作来调用一系列 curl 命令： =SH(“curl”&amp;A2)。  我知道很多事情都可以通过管道、xargs 等来完成，但如果能将其可视化，并轻松导出到 CSV、复制到其他电子表格应用程序等，那就太好了。 我正准备自己做这个，但我想问问周围是否已经存在这样的东西了？感谢您抽出时间。   由   提交/u/Brave_Classroom433  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我一直在寻找这个问题，并想在这里问一下 - 每次我进行数据工作时，我最终都希望有一个电子表格应用程序可以实现 Linux shell 的多功能性 - 例如在单元格公式中使用 sed 或 find 或通过执行以下操作来调用一系列 curl 命令： =SH(“curl”&amp;A2)。  我知道很多事情都可以通过管道、xargs 等来完成，但如果能将其可视化，并轻松导出到 CSV、复制到其他电子表格应用程序等，那就太好了。  我正准备自己做这个，但我想问问周围是否已经存在这样的东西了？感谢您抽出时间。   由   提交/u/Brave_Classroom433  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pic1mx/spreadsheet_app_that_allows_linux_shell_commands/</guid>
       <pubDate>Tue, 09 Dec 2025 16:34:09 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[谁能推荐一款可以在 Win 11 上从文件夹创建 ISO 的无膨胀、便携式应用程序吗？   由   提交 /u/nukeiraq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pibcn0/iso_from_folder/</guid>
       <pubDate>Tue, 09 Dec 2025 16:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 库中出现白屏</title>
-      <link>https://www.reddit.com/r/software/comments/1pib3k2/white_screen_in_windows_library/</link>
-      <description><![CDATA[您好，我有一个问题。当我打开 Windows 库或更改其中的页面时，白屏会出现半秒钟。我以前从未遇到过这个问题。我认为这是一个驱动程序问题，但我想解决它。请查看随附的软件启动时的屏幕截图。  https://preview.redd.it/ohzmyl74b76g1.png?width=2544&amp;format=png&amp;auto=webp&amp;s=f68490c508abfada531e708fec59a46fb7ecd738   由   提交 /u/Responsible_Jello_63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1pib3k2/white_screen_in_windows_library/</guid>
-      <pubDate>Tue, 09 Dec 2025 15:58:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
