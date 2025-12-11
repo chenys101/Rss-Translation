@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 11 Dec 2025 01:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 03:56:38 GMT</lastBuildDate>
     <item>
-      <title>ovr@6.0.0 - 基于流式获取的分段上传</title>
-      <link>https://www.reddit.com/r/programming/comments/1pjkhqi/ovr600_streaming_fetch_based_multipart_uploads/</link>
-      <description><![CDATA[ 由   提交 /u/rossrobino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pjkhqi/ovr600_streaming_fetch_based_multipart_uploads/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>99% 的开发人员没有获得 TLB</title>
-      <link>https://www.reddit.com/r/programming/comments/1pjjmiz/99_of_developers_dont_get_tlbs/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pjjmiz/99_of_developers_dont_get_tlbs/</guid>
-      <pubDate>Thu, 11 Dec 2025 00:36:33 GMT</pubDate>
+      <title>这就是我进行全面工程组织审核的方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1pjmmo7/this_is_how_i_do_a_full_engineering_org_audit/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pjmmo7/this_is_how_i_do_a_full_engineering_org_audit/</guid>
+      <pubDate>Thu, 11 Dec 2025 02:57:15 GMT</pubDate>
     </item>
     <item>
       <title>第 20 天：为常见日志格式构建兼容层</title>
@@ -55,7 +48,7 @@
       <pubDate>Wed, 10 Dec 2025 21:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何在 PostgreSQL 中构建单遍高效分面搜索。</title>
+      <title>我们如何在 PostgreSQL 中构建单遍高效的分面搜索。</title>
       <link>https://www.reddit.com/r/programming/comments/1pjebuz/how_we_built_single_pass_efficient_faceted_search/</link>
       <description><![CDATA[我们刚刚更新了 `pg_search` 以支持分面搜索👀 它使用自定义窗口函数，挂钩规划器并使用自定义扫描，以便所有工作（搜索和聚合）都被推送到我们的 BM25 索引（基于 Tantivy）的单次传递中。 由于索引具有柱状组件，我们可以有效地计算计数并将其作为 JSON 与排名结果一起返回。   由   提交/u/jamesgresql  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pjebuz/how_we_built_single_pass_efficient_faceted_search/</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/self  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pj5v86/go_126_package_runtimesecret_zeros_out_registers/</guid>
       <pubDate>Wed, 10 Dec 2025 15:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 内核中的 Rust 正式保留</title>
+      <link>https://www.reddit.com/r/programming/comments/1pj586l/rust_in_the_linux_kernel_is_officially_here_to/</link>
+      <description><![CDATA[ 由   提交 /u/NYPuppy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pj586l/rust_in_the_linux_kernel_is_officially_here_to/</guid>
+      <pubDate>Wed, 10 Dec 2025 15:19:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
