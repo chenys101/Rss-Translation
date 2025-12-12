@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Dec 2025 03:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:28:02 GMT</lastBuildDate>
     <item>
       <title>iFixit 的 FixBot</title>
       <link>https://www.producthunt.com/products/i-fix-it</link>
@@ -62,20 +62,6 @@
       <pubDate>Wed, 10 Dec 2025 17:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>火沃利</title>
-      <link>https://www.producthunt.com/products/firewally</link>
-      <description><![CDATA[
-            由 Apple Intelligence 提供支持的免费 Mac 防火墙
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/firewally</guid>
-      <pubDate>Wed, 10 Dec 2025 10:45:35 GMT</pubDate>
-    </item>
-    <item>
       <title>麦卡利3.0</title>
       <link>https://www.producthunt.com/products/macaly</link>
       <description><![CDATA[
@@ -88,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/macaly</guid>
       <pubDate>Wed, 10 Dec 2025 10:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>你讨厌人工智能同事</title>
-      <link>https://www.producthunt.com/products/odies-ai-coworkers</link>
-      <description><![CDATA[
-            聪明、贴心的伴侣就在你的屏幕上
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/odies-ai-coworkers</guid>
-      <pubDate>Wed, 10 Dec 2025 07:49:59 GMT</pubDate>
     </item>
     <item>
       <title>Korey 编码代理交接</title>
@@ -132,6 +104,34 @@
       <pubDate>Tue, 09 Dec 2025 23:16:00 GMT</pubDate>
     </item>
     <item>
+      <title>宁巴力测试版</title>
+      <link>https://www.producthunt.com/products/nimbalyst</link>
+      <description><![CDATA[
+            Claude Code 的本地 WYSIWYG 降价和模型编辑器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nimbalyst</guid>
+      <pubDate>Tue, 09 Dec 2025 19:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>韦尔博特</title>
+      <link>https://www.producthunt.com/products/wellbot</link>
+      <description><![CDATA[
+            智能营养助手，健康选择
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/wellbot</guid>
+      <pubDate>Tue, 09 Dec 2025 13:29:45 GMT</pubDate>
+    </item>
+    <item>
       <title>费用</title>
       <link>https://www.producthunt.com/products/expensent</link>
       <description><![CDATA[
@@ -144,6 +144,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/expensent</guid>
       <pubDate>Tue, 09 Dec 2025 00:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新的.dev</title>
+      <link>https://www.producthunt.com/products/updated</link>
+      <description><![CDATA[
+            将 Git 提交转换为线性风格的发行说明
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/updated</guid>
+      <pubDate>Mon, 08 Dec 2025 08:48:04 GMT</pubDate>
     </item>
     <item>
       <title>点击4.0</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/autonomyai</guid>
       <pubDate>Wed, 03 Dec 2025 21:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>回声</title>
-      <link>https://www.producthunt.com/products/echo-33</link>
-      <description><![CDATA[
-            847 封电子邮件 → 一个仪表板，其中包含收件箱中的关键数据
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/echo-33</guid>
-      <pubDate>Wed, 03 Dec 2025 11:54:20 GMT</pubDate>
     </item>
     <item>
       <title>由 Thirdlayer 开发的 Dex</title>
