@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 14 Dec 2025 12:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 15:16:16 GMT</lastBuildDate>
+    <item>
+      <title>可以抓取互联网数据的下载器。</title>
+      <link>https://www.reddit.com/r/software/comments/1pmg7cf/downloader_that_can_scrape_internet_data/</link>
+      <description><![CDATA[我听说过 J downloader，但也听说不要信任它。   由   提交 /u/M_7_7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pmg7cf/downloader_that_can_scrape_internet_data/</guid>
+      <pubDate>Sun, 14 Dec 2025 15:06:31 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道哪里可以得到旧版本的 Virtuagirl 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1pmck9e/anyone_know_where_to_get_an_older_version_of/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/france_fucker  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1plienk/what_is_ccleaner_and_how_did_it_install_itself_on/</guid>
       <pubDate>Sat, 13 Dec 2025 10:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markdown 编辑器专注于编辑和预览 .md 文件而不是知识库？</title>
-      <link>https://www.reddit.com/r/software/comments/1plhiex/markdown_editor_thats_focused_on_editing_preview/</link>
-      <description><![CDATA[我只知道Obsidian和Logseq，两者都号称是功能齐全的知识库或第二大脑 还有什么更简单的吗？  轻量级所见即所得 Markdown 编辑，具有传统的另存为对话框（您选择文件夹），没有太多关于成为第二大脑的功能   由   提交 /u/ikantolol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1plhiex/markdown_editor_thats_focused_on_editing_preview/</guid>
-      <pubDate>Sat, 13 Dec 2025 09:32:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Dec 2025 12:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 15:17:19 GMT</lastBuildDate>
     <item>
       <title>BlazorOcticons</title>
       <link>https://www.producthunt.com/products/blazorocticons</link>
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/openai</guid>
       <pubDate>Thu, 11 Dec 2025 20:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理入门包</title>
-      <link>https://www.producthunt.com/products/agent-starter-pack</link>
-      <description><![CDATA[
-            只需几分钟即可在 Google Cloud 中建立生产代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agent-starter-pack</guid>
-      <pubDate>Thu, 11 Dec 2025 18:50:41 GMT</pubDate>
     </item>
     <item>
       <title>构建仓库</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/flowglad</guid>
       <pubDate>Wed, 03 Dec 2025 04:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>VibeCSS</title>
+      <link>https://www.producthunt.com/products/vibecss</link>
+      <description><![CDATA[
+            适用于 Google Chrome 的 AI 设计代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/vibecss</guid>
+      <pubDate>Wed, 26 Nov 2025 19:50:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
