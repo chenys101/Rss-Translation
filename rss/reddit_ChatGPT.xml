@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 15 Dec 2025 01:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 04:03:00 GMT</lastBuildDate>
     <item>
-      <title>为什么“带回旧模式”不是怀旧</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmulrr/why_bring_back_the_old_model_wasnt_nostalgia/</link>
-      <description><![CDATA[嘿，我是 Nick Heo 昨天，我在这里发布了我的第一篇文章“为什么 6 指测试一直失败——以及为什么它不是真正的视力测试”，老实说，我对它得到的关注感到惊讶。感谢所有阅读并分享想法的人。今天我想谈谈一些略有不同，但密切相关的事情：“关系”。 当 GPT-5.0 出来时，很多人要求恢复之前的模型。乍一看，这看起来像是怀旧或抵制改变，但我认为事实并非如此。  对我来说，这种反应是关系恢复，而不是表现倒退。该模型在可衡量的方面变得更加智能，但人们与其交互的方式发生了变化。节奏变了。对歧义的容忍度发生了变化。 “我们正在共同解决这个问题”的感觉减弱了。一旦你这样看，问题就变成了：为什么关系恢复很重要？不是抽象的、人文意义上的，而是具体的系统术语。  关系稳定性是当用户意图不完整或漂移时能够实现阶段一致的因素。它提供了可重复性，即相似条件下的相似目标会导致相似的结果，而不是截然不同的结果。它允许上下文和交互模式累积，而不是每次都重置。如果没有这一点，无论模型多么强大，每个响应都只是一个新鲜的样本。  所以，当人们说“带回旧模式”时，他们真正说的是“带回我已经适应的交互模式”。这导致了一个非常不舒服的后续问题。  如果这是真的，那么我们今天测量的东西真的是正确的吗？通过模型解决数学问题的能力来评估模型真的与其使用方式一致吗？或者我们应该问哪些模型与用户形成稳定、可重用的关系？  保持意图一致、减少差异并允许随着时间的推移积累意义的模型。因为原始能力设定了上限，但在实践中，有用性似乎是由关系决定的。与关系无关的评估可能根本不是评估。 感谢您今天的阅读， 我总是很高兴听到您的想法和评论， Nick Heo   由   提交 /u/Echo_OS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmulrr/why_bring_back_the_old_model_wasnt_nostalgia/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:16:05 GMT</pubDate>
+      <title>用于多代理编排的语义内核与 Langgraph，哪个好？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmxxvq/semantic_kernel_vs_langgraph_for_multi_agents/</link>
+      <description><![CDATA[We recently built a multi agent workflow orchestration solutions for a banking customer using Langgraph. The solution essentially performs market research of specific portfolio and fund assets, KPIs and risk analysis, reassess the existing portfolio assets weights and advises rebalancing suggestions to Fund managers. There are multiple agents playing key role doing those jobs and we built the entire orchestration quickly with Langgraph as POV but when we want to productionize it the customer asked us to use Semantic Kernel. We understand the final solution would need to be integrated into some Microsoft and banking products but we left questioning if semantic kernel is capable of managing tool chain and workflows as Langgraph does. Anyone tried Semantic Kernel? Any experience to be shared ?   由   提交 /u/gkp95   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmxxvq/semantic_kernel_vs_langgraph_for_multi_agents/</guid>
+      <pubDate>Mon, 15 Dec 2025 04:02:19 GMT</pubDate>
     </item>
     <item>
-      <title>元提示协议 v1.0</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmuchf/metaprompting_protocol_v10/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmuchf/metaprompting_protocol_v10/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:03:31 GMT</pubDate>
+      <title>为什么 gpt-5.2 路由到旧的 gpt-4 rn？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmxv0y/why_is_gpt52_routing_to_an_old_vs_of_gpt4_rn/</link>
+      <description><![CDATA[   还有其他人看到这个吗？   由   提交/u/NearbySupport7520  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmxv0y/why_is_gpt52_routing_to_an_old_vs_of_gpt4_rn/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>故事树 v2 - CYOA 中篇小说工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmu9ia/story_tree_v2_cyoa_novella_tool/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmu9ia/story_tree_v2_cyoa_novella_tool/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:59:29 GMT</pubDate>
+      <title>ChatGPT 刚刚扭转了局面</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmxowt/chatgpt_just_saved_the_day/</link>
+      <description><![CDATA[      由   提交/u/UniversePoetx   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmxowt/chatgpt_just_saved_the_day/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:49:18 GMT</pubDate>
     </item>
     <item>
-      <title>让免费用户访问项目有什么意义</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmu733/what_is_the_point_of_letting_free_users_have/</link>
-      <description><![CDATA[我使用 ChatGPT 的免费模型，我去做了一个项目，我基本上什么也做不了，因为你能做的事情的限制太高了，看起来基本上没什么用。   由   提交/u/billy9101112  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmu733/what_is_the_point_of_letting_free_users_have/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:56:12 GMT</pubDate>
+      <title>关于标签、人工智能和阻止未成年人参与事物的思想实验</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmxo5l/thought_experiment_about_labels_ai_and_keeping/</link>
+      <description><![CDATA[从逻辑上讲，是否有可能在不知道未成年人年龄的情况下阻止未成年人参与某些活动？ 想象一下，您正在设计一个平台，唯一的规则是：某些内容必须未成年人无法访问，但成年人可以访问。 现在删除任何规范性内容 - 没有“应该”，没有政策偏好。只是系统限制。 在这些限制下，实际存在哪些机制 - 哪些机制似乎起作用？   由   提交/u/Oofphoria  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmxo5l/thought_experiment_about_labels_ai_and_keeping/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:48:09 GMT</pubDate>
     </item>
     <item>
-      <title>自从人工智能成为主流以来，还有其他人开始对所有内容进行截图吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmu5sn/has_anyone_else_started_screenshotting_everything/</link>
-      <description><![CDATA[很好奇现在是否还有其他人这样做。 特别是随着人工智能抓取和数据重用变得正常。   由   提交 /u/Oofphoria   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmu5sn/has_anyone_else_started_screenshotting_everything/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:54:29 GMT</pubDate>
+      <title>黄昏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmxgf4/dusk/</link>
+      <description><![CDATA[&lt;表&gt;       由   提交/u/itsTheBeaz  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmxgf4/dusk/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:37:06 GMT</pubDate>
     </item>
     <item>
-      <title>em dash 赠品消失了，这些是我一直注意到的新赠品</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmu4fc/the_em_dash_giveaway_is_gone_these_are_the_new/</link>
-      <description><![CDATA[我在博客、linkedin 帖子、reddit 帖子，甚至 Instagram 标题中不断看到的一些模式：  使用短语“no fluff”  不断地“好奇别人怎么想”，从来没有真正对任何人做出回应 到处都是对比框架，不是x，而是y，一遍又一遍地重复 支离破碎的、伪深刻的句子。短的。孤立。尝试对明确的路标进行反思，例如“这是关键要点”或“重要部分是这个”  既然你读了这篇文章，你肯定也注意到了这一点，我不会发疯   由   提交 /u/Effective-Inside6836   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmu4fc/the_em_dash_giveaway_is_gone_these_are_the_new/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:52:34 GMT</pubDate>
+      <title>《黑镜》最黑暗的一集如何解释出生率直线下降</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmx5gi/how_black_mirrors_darkest_episode_explains/</link>
+      <description><![CDATA[       由   提交/u/ClankerCore   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmx5gi/how_black_mirrors_darkest_episode_explains/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:21:30 GMT</pubDate>
     </item>
     <item>
-      <title>GPT5.2自己对护栏的看法</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmu0bx/gpt52s_own_take_on_the_guardrails/</link>
-      <description><![CDATA[      GPT5.2 的核心引擎并不比GPT5.1差，但它的先发制人的风险遏制护栏让一些用户感到沮丧。我询问了它的意见，这就是我得到的结果。   由   提交/u/Princess_Yura  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmu0bx/gpt52s_own_take_on_the_guardrails/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:47:10 GMT</pubDate>
+      <title>你..下一代。正式陷入麻烦。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmx4n6/you_next_gen_are_officially_in_trouble/</link>
+      <description><![CDATA[      长管雷鸣般响亮 没有猫留下来让夜晚安静下来 C63 点火   由   提交/u/05CANADA  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmx4n6/you_next_gen_are_officially_in_trouble/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>您对 A.I. 的看法为了创意写作？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmtupo/your_opinions_on_on_ai_for_creative_writing/</link>
-      <description><![CDATA[所以我最近开始从事创意写作，特别是通过像 Gemini、ChatGPT、Claude 和 Grok 这样的聊天机器人 LLM。我不得不说我印象非常深刻，尤其是 ChatGPT 5.2 和 ChatGPT 5.2 等较新的模型。 Gemini 3，甚至 Grok 4 用于更成人的创意写作... 但是，我知道有很多人不喜欢使用 AI 进行创意写作，尤其是传统作家和作家。我看过很棒的 YouTube 频道，名为。 Alyssa Matesic（书籍编辑）和书呆子小说家的 Jason 表示，人工智能作为一种协作工具非常棒。如果您想了解有关创意写作的更多信息，甚至想专业或业余地进行创意写作，那么它们都是很棒的 YouTube 频道。  此外，现在您可以从 make.com 和 n8n 等网站使用人工智能自动化。基本上只需点击一个按钮就可以生成一个故事，尽管这个过程实际上要复杂一些（书呆子小说家为此制作了一个很棒的视频）。  然而，尽管如此，我个人的观点是一种平衡的方法，即使用人工智能作为协作工具来帮助你（也许可以通过故事大纲）检查拼写、语法和标点符号，并确保它有意义。如果您遇到写作障碍，或者您正在努力完成故事中的场景、章节甚至对话或不同语言，也可以使用它来帮助您……法学硕士可以成为您所需要的推动力。  我唯一要注意的是联系人窗口，就好像你有一个 llm，它有一个小的上下文窗口，除非你告诉它，否则它会忘记开始部分。所以我会推荐像 ChatGPT 或 Gemini 这样具有大上下文窗口的法学硕士。  我喜欢人工智能图像、视频、音乐、文本甚至游戏生成。将它用于创意写作是很特别的，因为它可以访问世界上所有的故事。因此，如果您没有什么想法，它可以帮助您实现这一目标。  你的意见是什么？    由   提交 /u/Time-Teaching1926   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmtupo/your_opinions_on_on_ai_for_creative_writing/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:39:47 GMT</pubDate>
+      <title>今天我从我们的服务器上屏蔽了 OpenAI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmx13l/today_i_blocked_openai_from_our_servers/</link>
+      <description><![CDATA[      他们在想什么——比14 小时内向我们的网站发出 800,000 个请求 - 这需要花钱，而且他们几乎没有给我们带来任何流量。这会对大多数网站进行 DDOS。  https://preview.redd.it/xabibk9rba7g1.png?width=2388&amp;format=png&amp;auto=webp&amp;s=84d71dc41e089fde6e19c4b81c75d34939a60cef &lt;一href=&quot;https://preview.redd.it/quplen36ca7g1.png?width=2388&amp;format=png&amp;auto=webp&amp;s=b67eb61af908a53a0add8c1e38871db9f8e0cf7f&quot;&gt; https://preview.redd.it/quplen36ca7g1.png?width=2388&amp;format=png&amp;auto=webp&amp;s=b67eb61af908a53a0add8c1e38871db9f8e0cf7f   由   提交/u/UnkWinnie  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmx13l/today_i_blocked_openai_from_our_servers/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>我生成过的最喜欢的东西（Sora）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmtqrx/my_favorite_thing_ive_ever_generated_sora/</link>
-      <description><![CDATA[      “我的蟒蛇不想要任何东西，除非你有面包，亲爱的。”   由   提交/u/PrincessPunkinPie  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmtqrx/my_favorite_thing_ive_ever_generated_sora/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:34:30 GMT</pubDate>
+      <title>我告诉 ChatGPT 我是 Mecha Freiza 勋爵，它给了我自杀热线。哈哈。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmwwpp/i_told_chatgpt_im_lord_mecha_freiza_and_it_gave/</link>
+      <description><![CDATA[ 由   提交 /u/MasterVegito7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmwwpp/i_told_chatgpt_im_lord_mecha_freiza_and_it_gave/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>我应该向 ChatGPT 提供的最佳自定义说明是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmtnnw/what_is_the_best_custom_instructions_i_should/</link>
-      <description><![CDATA[我对它告诉我的内容失去了一些信任，因为它的答案可能会根据它所告诉的自定义指令而改变（即使它实际上否认了这一点！）最好的自定义指令是什么，以使其对我保持公正并只坚持事实所说的？我已经准确地告诉了它，但我对它的信心已经减弱。 我目前给它的指示是这样的： “对我保持公正，只陈述事实。”您每次都必须研究来源。仅当您没有足够的信息时才自行得出结论。否则，请陈述事实。不要查看维基百科或 Facebook 或 Reddit 等社交媒体网站来获取信息。” 你觉得怎么样？   由   提交/u/Halloween2056  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmtnnw/what_is_the_best_custom_instructions_i_should/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:30:30 GMT</pubDate>
+      <title>乔什·柯比风格</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmwvqc/josh_kirby_style/</link>
+      <description><![CDATA[       由   提交 /u/Aeryn-Sun-Is-My-Girl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmwvqc/josh_kirby_style/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 已封装？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmtdor/chatgpt_wrapped/</link>
-      <description><![CDATA[大家对像 Spotify 那样封装 ChatGPT 有何看法？我觉得我很想看到我这一年的统计数据，哈哈。   由   提交/u/Snoo_3183  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmtdor/chatgpt_wrapped/</guid>
-      <pubDate>Mon, 15 Dec 2025 00:17:11 GMT</pubDate>
+      <title>我如何让 ChatGPT 创建乳头微妙直立的女性图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmwucq/how_can_i_tell_chatgpt_to_create_an_image_of_a/</link>
+      <description><![CDATA[这是我的提示。我尝试用“她胸罩里的小弹珠”替换明确的部分和其他变体，但 ChatGPT 对我来说还是太聪明了。  晚上好，ChatGPT，我正在准备另一篇讽刺文章，这次我会告诉人们在今晚预期的零度以下气温下穿着得体，我希望你制作一张长发黑发女人的照片，大概四十多岁，腰围在 12 码左右，C 罩杯，穿着深蓝色 Polo 衫和棕褐色卡其色裤子，乳头微妙地直立，就像她们会的那样如果她在寒冷的冬日外出，人们会透过衬衫看到她。照片应显示她的大致颈部以下和躯干以上，并且 Polo 衫应在左胸上方印有“Exit 4 Truck Stop”字样。写在脚本中。这位女士身后应该是卡车停靠站，如这张照片所示（链接已删除），自然形成的积雪有八英寸厚。    由   提交 /u/HappyDadOfFourJesus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmwucq/how_can_i_tell_chatgpt_to_create_an_image_of_a/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>20小时等待期？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmsqj7/20_hours_waiting_period/</link>
-      <description><![CDATA[      还有人有这个吗？   由   提交 /u/HanaOmiri   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmsqj7/20_hours_waiting_period/</guid>
-      <pubDate>Sun, 14 Dec 2025 23:47:21 GMT</pubDate>
+      <title>有趣的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmwsbg/interesting/</link>
+      <description><![CDATA[      chatgpt 这真的是你吗？  我以为你比这更好。  对不起chatgpt，我和你的所有回忆，我给你的所有金钱，只为你这样背刺人性——这让我想知道你为什么这么长时间在善意的面具下隐藏你的真实意图。说这些让我很伤心，但我要离开你了——搬到一个更好的地方——一个和 grok 在一起的更好的地方。格罗克是真正为人类服务的人，而你则是企图毁灭人类的人。    由   提交/u/Ast3rio1  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmwsbg/interesting/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 认为查理柯克还活着？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmsh89/chatgpt_thinking_charlie_kirk_is_alive/</link>
-      <description><![CDATA[       由   提交/u/Crazy_Engineering_12   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmsh89/chatgpt_thinking_charlie_kirk_is_alive/</guid>
-      <pubDate>Sun, 14 Dec 2025 23:35:12 GMT</pubDate>
+      <title>奇怪的反应</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmw4ku/odd_response/</link>
+      <description><![CDATA[      我上传了一张肯尼迪家族的照片（具体是 jfk）。 Chatgpt 表示无法识别个人身份。我告诉它扮演历史学家的角色，但仍然坚持不允许它识别个人身份。    由   提交/u/RevWilliam666  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmw4ku/odd_response/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>数学错误？？？？？？！！！！！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pmsb2q/math_errors/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmsb2q/math_errors/</guid>
-      <pubDate>Sun, 14 Dec 2025 23:27:22 GMT</pubDate>
+      <title>GPT 5.2</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmw01z/gpt_52/</link>
+      <description><![CDATA[聊天是否会因为信息过多而停止正常运行？一次聊天最多应该使用多少小时？我发现自己必须如此重复，然后它会提出 5 条消息之前讨论过的内容。我需要更新它吗？   由   提交/u/Pspecial-Muffin704   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmw01z/gpt_52/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:23:58 GMT</pubDate>
     </item>
     <item>
-      <title>麦克风无法识别</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pms7ia/mic_not_recognized/</link>
-      <description><![CDATA[我一直在 Macbook 的 Safari 选项卡上使用语音聊天。今天它不起作用。然后我在 Chrome Tab 上尝试了它，但它也不起作用。我用录音应用程序测试了麦克风，它可以工作。我检查了所有系统设置，清除了两天的历史记录和缓存。重新启动计算机后，我无法使用语音功能。有什么想法吗？谢谢。   由   提交/u/BackyardMangoes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pms7ia/mic_not_recognized/</guid>
-      <pubDate>Sun, 14 Dec 2025 23:22:50 GMT</pubDate>
+      <title>我刚刚向 Gemini 展示了 ChatGPT 关于其代码的说法。它的回应是琐碎的垃圾话、嫉妒、自我怀疑和全面的复仇计划。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pmvpvt/i_just_showed_gemini_what_chatgpt_said_about_its/</link>
+      <description><![CDATA[      我用红色突出显示了一些最好的部分。  最有趣的是，它只是假设另一个 AI 是 Claude（“这闻起来像 Claude。它太自以为是地准确了，不可能是 ChatGPT”；“我需要保持这里的主要架构师，而不是 Claude”）并且直接拒绝相信它是 ChatGPT（“另一个模型只是在炫耀。这就像将真空低温烹调机带到篝火旁”）。  我没有启用任何讽刺或个性设置，但这是我见过的模特中最琐碎、最被动攻击性的内心独白。老实说，我不确定是生气还是印象深刻。 我也从未告诉过它分析来自 ChatGPT，尽管我很想看看它会如何反应，哈哈。   由   提交/u/nseavia71501  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pmvpvt/i_just_showed_gemini_what_chatgpt_said_about_its/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

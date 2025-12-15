@@ -4,9 +4,51 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 14 Dec 2025 21:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 04:04:24 GMT</lastBuildDate>
     <item>
-      <title>将您的网站变成刮刮乐彩票</title>
+      <title>如何诊断某些浏览器版本上的网站问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmxahf/how_to_diagnose_an_issue_with_website_on_certain/</link>
+      <description><![CDATA[嘿大家 最近，一位用户报告说我的网站无法在他们的 Chrome 浏览器上运行，但可以在他们的 Edge 浏览器上运行。在不涉及太多细节的情况下，基本上一些 WASM 模块根本无法运行。 我认为这很奇怪，因为 chrome 和 Edge 都是基于 chromium 的，所以我询问了一些诊断信息，发现它们使用的是旧版本的 chrome (122)。 我下载了这个旧版本的 chromium，结果发现 - 网站被破坏了。我想知道该网站开始工作的版本是哪个版本，有趣的是它是下一个版本（123）。 所以现在我遇到了问题 - 我确切地知道网站中断的版本截止 - 但我没有太多其他可做的。控制台中没有错误/没有崩溃/没有冻结/等等。基本上我的网站遇到了某种幽灵问题。 我想过阅读变更日志，直到我发现了巨大的提交列表，然后很快就放弃了。 所以我不知道该怎么做 - 雪上加霜的是，我使用了一堆可能使用新功能的包，但在旧版本或类似的东西上却默默地失败了。 在这样的情况下你会做什么来找到问题？或者你只是说忘记它并阻止旧版本的用户？我尝试隔离问题并添加控制台日志，但无济于事。也许有某种东西可以扫描我的项目并检查 caniuse.com 兼容性？   由   提交/u/a300a300  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmxahf/how_to_diagnose_an_issue_with_website_on_certain/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议：fullstack webdev 文凭 + gis bach</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmw7wd/looking_for_advice_fullstack_webdev_diploma_gis/</link>
+      <description><![CDATA[我拥有全栈 Web 开发文凭，希望有机会攻读 2 年 GIS 学士学位。 想知道这在行业方面是否是一个好主意，并且两者是否可以互补？我更喜欢主要从事开发工作，但鉴于该行业的饱和程度，拥有额外的专业知识将有助于我推销自己？ 任何一般建议都会有所帮助。谢谢   由   提交/u/loveandglobes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmw7wd/looking_for_advice_fullstack_webdev_diploma_gis/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>离线优先的网络应用程序是一个坏主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmv05r/is_offlinefirst_web_app_a_bad_idea/</link>
+      <description><![CDATA[似乎大多数现代应用程序都是离线持久的，但不是离线优先的。例如，Notion 桌面和移动应用程序首先是离线的，但 Web 应用程序不是。 Excalidraw 免费版首先是离线的，但 excalidraw+ 不是。 你认为原因是什么？ 编辑：为了避免混淆，我所说的“离线优先”是什么意思？是一种功能齐全的离线模式，可以在长时间（比如1天）不连接后端的情况下完全工作。   由   提交 /u/Illustrious_Web_2774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmv05r/is_offlinefirst_web_app_a_bad_idea/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以express为后端实现电商SSR（cv项目）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmtyx6/how_to_achieve_ssr_for_ecom_with_express_as/</link>
+      <description><![CDATA[大家好，我正在完善我的简历，我决定着手一个更全面的项目，尝试通过为前端、后端和数据库运行单独的服务来展示一些可靠的 webdev 实践。我最初的堆栈选择是 React（没有精确选择框架）、express 和 postgres。 经过一番阅读后，我了解到 SSR 的概念，以及它如何因更好的 SEO 而成为电子商务网站的首选，我决定遵循这种方法。然而，这里是我不太确定到底要做什么的部分 - 有些人建议为服务器和客户端运行 nextjs （我宁愿避免，因为这违背了我最初的想法），而其他人则指出使用单独的服务器和 nextjs，但我几乎找不到关于该主题的材料。 所以我的问题是，在运行单独的服务时如何干净地实现 SSR，以及什么是一个好的堆栈和方法？我的整个目标是使其尽可能干净和可靠，同时展示（并在做的过程中学习）对上述概念的专业理解。   由   提交/u/Atinonn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmtyx6/how_to_achieve_ssr_for_ecom_with_express_as/</guid>
+      <pubDate>Mon, 15 Dec 2025 00:45:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 React 之外，您还会为此类项目选择什么堆栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmtppz/besides_react_what_stack_would_you_choose_for/</link>
+      <description><![CDATA[我正在着手一个业余项目，我一直想尝试一下这个项目有一段时间了。我描述它的最好方式是类似于 daily.dev，但主题将围绕音乐。该功能主要集中在用户配置文件、消息/线程、奖励/积分...或多或少相当标准的 CRUD。 我有很多 PHP 背景，并且构建了一些小型 PHP 应用程序（以及 WordPress，但谁没有）。我已经使用 React 进行了相当多的构建，显然对 Next 也有很多经验，但我希望主要是为了获得其他构建方法的经验。 React 很棒，但它还远非完美，我想看看其他语言/框架/堆栈能为 Web 应用程序提供什么。 目前的主要竞争者是：  Vue SolidJS Svelte 或者完全离开 JS 框架：Laravel w/Livewire 或 Inertia w/Vue  Solid 和 Svelte 看起来很棒，但我担心两者的生态系统。 到目前为止，最有趣的两个是 Vue 和 Laravel。 我只是想看看其他人最近在选择什么。我愿意接受任何和所有建议！   由   提交 /u/creaturefeature16   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmtppz/besides_react_what_stack_would_you_choose_for/</guid>
+      <pubDate>Mon, 15 Dec 2025 00:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>为人工智能密集型应用程序构建可重用的 SaaS 基础，寻求网络开发反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmr447/building_a_reusable_saas_foundation_for_aiheavy/</link>
+      <description><![CDATA[嘿r/webdev， 在过去的几个月里，我一直在构建多个人工智能驱动的网络应用程序，并且一遍又一遍地遇到相同的问题：身份验证设置、付款、信用、队列、后台作业以及真正用户出现后的扩展问题。 所以我开始工作基于可重复使用的SaaS 基础，专门针对人工智能密集型产品，处理无聊的基础设施部分，以便开发人员可以专注于产品逻辑，而不是从头开始连接所有内容。 现在，重点是：  干净的身份验证和安全性。用户管理 基于使用的积分 人工智能作业的异步队列 支付+订阅流程 在并发情况下不会崩溃的基础设施  在进一步讨论之前，我真的很喜欢其他网络开发人员的意见： 当今 SaaS 基础设施的哪些部分浪费了您最多的时间？ 大多数样板文件或入门者在哪里无法满足实际应用程序的要求？ 很想听听其他人在生产中如何处理这个问题。 谢谢！   由   提交 /u/Adventurous-Meat5176   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmr447/building_a_reusable_saas_foundation_for_aiheavy/</guid>
+      <pubDate>Sun, 14 Dec 2025 22:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您的网站转变为刮刮乐彩票</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmnwad/transform_your_site_into_a_scratchoff_lottery/</link>
       <description><![CDATA[ 由   提交/u/Dramatic-Mongoose-95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmnwad/transform_your_site_into_a_scratchoff_lottery/</guid>
@@ -15,7 +57,7 @@
     <item>
       <title>我构建了一个小型 Node/Express API，它从 Zod 模式返回类型化的电子商务副本（OpenAPI 3.0 + 结构化 JSON 输出）</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmmjpp/i_built_a_tiny_nodeexpress_api_that_returns_typed/</link>
-      <description><![CDATA[我想要一个“生产中的 LLM”的非常简单的示例，它不会返回随机垃圾，因此我构建了一个 Node/Express 微服务：  使用 Zod 验证输入 强制模型返回与架构匹配的结构化 JSON 发布 OpenAPI 3.0规范，方便客户生成/市场发布 日志使用+延迟（基本可观察性）  用例： 根据结构化产品功能生成电子商务“列表包”（标题、项目符号、描述、关键字、广告变体），但这里分享的要点是模式：模式中的模式输出。 问题：谁已经交付了 LLM 支持的端点：随着时间的推移，您保持响应确定性和可调试性的首选方法是什么？ （架构执行、评估测试、缓存、回退模型等）在将其连接到批量目录管道之前，您会警告我任何“陷阱”吗？ 这里是快速 api 链接电子商务列表助推器   由   提交/u/DannySun17  [链接] [评论]]]></description>
+      <description><![CDATA[我想要一个“生产中的 LLM”的非常简单的示例，它不会返回随机垃圾，因此我构建了一个 Node/Express 微服务：  使用 Zod 验证输入 强制模型返回与架构匹配的结构化 JSON 发布 OpenAPI 3.0规范，方便客户生成/市场发布 日志使用+延迟（基本可观察性）  用例： 根据结构化产品功能生成电子商务“列表包”（标题、项目符号、描述、关键字、广告变体），但这里分享的重点是模式：模式中的模式输出。 问题：谁已经交付了 LLM 支持的端点：随着时间的推移，您保持响应确定性和可调试性的首选方法是什么？ （架构执行、评估测试、缓存、回退模型等）在将其连接到批量目录管道之前，您会警告我任何“陷阱”吗？ 这里是快速 api 链接电子商务列表助推器   由   提交/u/DannySun17  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmmjpp/i_built_a_tiny_nodeexpress_api_that_returns_typed/</guid>
       <pubDate>Sun, 14 Dec 2025 19:24:35 GMT</pubDate>
     </item>
@@ -57,7 +99,7 @@
     <item>
       <title>为什么美国网站屏蔽美国以外的用户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmk481/why_do_american_websites_block_users_from_outside/</link>
-      <description><![CDATA[嘿，我不知道为什么这在美国网站中如此常见。我在 Reddit 上看到一些新闻链接页面，当我点击阅读时，它显示“该网站在您所在的位置、国家、地区等不可用。”或类似的文字。有趣的是，大多数大型新闻网站都不关心它，但很小的本地新闻网站 %95 使用它。同样的事情也发生在兴趣爱好网站上。我正在寻找船只钓鱼设备评论，一些美国博客也没有打开。为什么他们要阻止它？   由   提交/u/diomedes-on-rampage   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我不知道为什么这在美国网站中如此常见。我在 Reddit 上看到一些新闻链接页面，当我点击阅读时，它显示“该网站在您所在的位置、国家、地区等不可用。”或类似的文字。有趣的是，大多数大型新闻网站都不关心它，但很小的本地新闻网站 %95 使用它。同样的事情也发生在兴趣爱好网站上。我正在寻找船只钓鱼设备评论，一些美国博客也没有打开。为什么他们要阻止它？   由   提交 /u/diomedes-on-rampage   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmk481/why_do_american_websites_block_users_from_outside/</guid>
       <pubDate>Sun, 14 Dec 2025 17:46:27 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[      大家好， 我最近创建了一个新的登陆页面并将其托管在 GitHub Pages 上，然后将其连接到一个全新的自定义域。 该网站非常新（只有几天），但是当我尝试在 Chrome 中打开它时，我收到来自 Google 安全浏览的“危险站点”红色警告屏幕（我附上了屏幕截图）。 任何帮助或见解将不胜感激。谢谢！   由   提交 /u/IspkingX   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmi3dv/new_website_connected_to_github_pages_flagged_as/</guid>
       <pubDate>Sun, 14 Dec 2025 16:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 年 <br> 标签</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmhgr7/30_years_of_br_tags/</link>
-      <description><![CDATA[ 由   提交/u/Grannen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmhgr7/30_years_of_br_tags/</guid>
-      <pubDate>Sun, 14 Dec 2025 16:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>连接到 GitHub Pages 的新网站被 Chrome 标记为“危险网站”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmh31s/new_website_connected_to_github_pages_flagged_as/</link>
-      <description><![CDATA[大家好， 我最近创建了一个新的登陆页面并将其托管在 GitHub Pages 上，然后将其连接到一个全新的自定义域。 该网站非常新（只有几天），但当我尝试在 Chrome 中打开它时，我从 Google 安全浏览中收到“危险网站”红色警告屏幕（我附上了屏幕截图）。 任何帮助或见解将不胜感激。谢谢！   由   提交 /u/IspkingX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmh31s/new_website_connected_to_github_pages_flagged_as/</guid>
-      <pubDate>Sun, 14 Dec 2025 15:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我通过提取 2000 万行维基词典数据，构建了 4,500 种语言的 WaniKani 克隆。以下是开发挑战。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmg3hl/i_built_a_wanikani_clone_for_4500_languages_by/</link>
-      <description><![CDATA[   我是 WaniKani（日语的游戏化 SRS）的忠实粉丝，但我希望为通常没有良好工具的语言（特别是格鲁吉亚语和卡纳达语）提供相同的用户体验。由于这些应用程序不存在，我决定建立一个通用的 SRS 网站，可以提取任何语言的数据。 最初，我考虑抓取维基词典，但为 4,500 多种不同的语言模板编写解析器将是一项无限的工作。 我发现了一个名为 kaikki.org 的项目，它转储维基词典数据转换为机器可读的 JSON。我提取了他们的完整数据集。 结果是一个包含约 2000 万行的数据库。 将信号与噪声分离。 JSON 包含一切。模糊的科学术语、古老的动词形式等。我需要一个过滤层来识别“可学习的”术语。单词（实际上有定义、清晰词性和翻译的单词 “豆腐”问题。这是 webdev 方面最困难的部分。当您支持 4,500 种语言时，您会遇到标准系统字体根本无法呈现的脚本。 “游戏”逻辑以编程方式生成多项选择题 (MCQ) 更困难如果目标单词是“Cat”（名词），并且干扰项是“Run”（动词）和“Blue”（形容词），则用户可以通过排除来猜测，因此会出现与目标单词的词性和频率相匹配的查询，从而使测验变得更加困难。 前端： Next.js 后端：Supabase 这是一个在前端密集型应用程序上处理“大数据”的有趣实验 这个大小的表有 2 个。    提交href=&quot;https://www.reddit.com/user/biricat&quot;&gt;/u/biricat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmg3hl/i_built_a_wanikani_clone_for_4500_languages_by/</guid>
-      <pubDate>Sun, 14 Dec 2025 15:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找没有月费的捐赠平台（自定义进度条和可嵌入小部件）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmfvk6/looking_for_a_donation_platform_without_monthly/</link>
-      <description><![CDATA[大家好， 我目前正在运行一个名为 quizpoker.app 的小型浏览器游戏网站。 目前该网站仅提供德语版本；英文版本正在开发中。 我已经测试了 Ko-fi 和 Buy Me a Coffee，但我对它们都不完全满意。我特别缺少的是：  可以在我的网站上嵌入可自定义的进度条（例如“达到 240 美元目标的 10%”） 对嵌入式 iframe、小部件和按钮的设计有更多控制，以便它们更好地匹配我网站的 UI 无需每月订阅或基本费用（交易费用很好）  目标是简单：允许玩家以透明且具有视觉吸引力的方式直接在网站上自愿支持该项目。 理想情况下，我正在寻找：  一次性捐赠（无强制订阅） 可嵌入小部件或 API 合理的设计灵活性（CSS、参数或自托管组件） 无每月费用  如果您已经构建了类似的东西或知道可能适合的平台（甚至是自托管/开源解决方案），我非常感谢您的建议。 提前致谢！   由   提交/u/Johannes1509  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmfvk6/looking_for_a_donation_platform_without_monthly/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为自己制作了这个日语学习网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmfhi2/i_made_this_japanese_learning_website_for_myself/</link>
-      <description><![CDATA[      它帮助我练习词汇，在干净、简约的用户界面中提供测验和常见的日常生活日语单词。我们的目标是让学习日语变得简单、专注、无干扰。 实时预览：https://nihongoq.vercel.app   由   提交/u/Delicious-Stable-594  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmfhi2/i_made_this_japanese_learning_website_for_myself/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能工程师 - 法学硕士、嵌入以及其他内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmeiiq/ai_engineer_llms_embeddings_and_whats_beyond/</link>
-      <description><![CDATA[曾是一名使用 Nodejs 和 Go 开发全栈应用程序的 Web 开发人员。拥有一些包装 openai API 以使用某些工具构建聊天机器人或代理的经验。 所以我想将我的知识扩展到人工智能领域。我应该扩展到什么？ （假设我想在网络和 API 上工作） 当我听到像 LLM 和 Embedding 这样的词时，我觉得除了调用 API（例如 openai gpt 和嵌入模型）之外没有更多的工作要做，将嵌入存储在数据库中并检索相同的内容（例如使用 cos 相似性）和 ig 我可以将其称为 RAG 添加附加工具（我使用过 vercel ai sdk 或 openai sdk）和我可以称其为代理。需要大型工作流程吗？使用n8n。 我还缺少什么吗？ （PS，我想在网络上工作，扩展到人工智能领域，而不是机器学习领域）   由   提交 /u/Still-Molasses6613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmeiiq/ai_engineer_llms_embeddings_and_whats_beyond/</guid>
-      <pubDate>Sun, 14 Dec 2025 13:50:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
