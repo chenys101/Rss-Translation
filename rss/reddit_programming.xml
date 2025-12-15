@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 15 Dec 2025 01:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:29:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的报告：企业人工智能的现状</title>
+      <link>https://www.reddit.com/r/programming/comments/1pmvbf2/openais_report_the_state_of_enterprise_ai/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pmvbf2/openais_report_the_state_of_enterprise_ai/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>🦀 Rust 正式成为 Linux 主线的一部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1pmutud/rust_is_officially_part_of_linux_mainline/</link>
+      <description><![CDATA[ 由   提交/u/web3writer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pmutud/rust_is_officially_part_of_linux_mainline/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>xreferee：跨存储库强制执行交叉引用</title>
       <link>https://www.reddit.com/r/programming/comments/1pmu4vs/xreferee_enforce_cross_references_across_a/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/andyg_blog  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pmescz/if_you_truncate_a_uuid_i_will_truncate_your/</guid>
       <pubDate>Sun, 14 Dec 2025 14:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>LPC 2025 - B1 馆 - 东京现场</title>
-      <link>https://www.reddit.com/r/programming/comments/1pmeqp0/lpc_2025_hall_b1_live_from_tokyo/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pmeqp0/lpc_2025_hall_b1_live_from_tokyo/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您听说过的最奇怪的编程语言！</title>
-      <link>https://www.reddit.com/r/programming/comments/1pmeq58/the_strangest_programming_languages_youve_ever/</link>
-      <description><![CDATA[与我们分享您听说过的最奇怪编程语言：   由   提交/u/Leading-Welcome-5847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pmeq58/the_strangest_programming_languages_youve_ever/</guid>
-      <pubDate>Sun, 14 Dec 2025 14:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
