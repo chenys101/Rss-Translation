@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 16 Dec 2025 06:28:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 09:22:56 GMT</lastBuildDate>
+    <item>
+      <title>速度和效率优于 RocksDB 的 C 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pnxaz6/a_c_library_that_outperforms_rocksdb_in_speed_and/</link>
+      <description><![CDATA[ 由   提交 /u/diagraphic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pnxaz6/a_c_library_that_outperforms_rocksdb_in_speed_and/</guid>
+      <pubDate>Tue, 16 Dec 2025 08:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Github 上寻找语音 AI 的开源贡献者。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pnv4v0/looking_for_open_source_contributors_for_voice_ai/</link>
+      <description><![CDATA[      大家好， Rapida Voice AI 现已完全开源！是的，我们在企业生产中运行的内容可供您使用。 GitHub：https://github.com/rapidaai/voice-ai 这是一个完整的语音 AI 编排平台，可处理： - 电话和语音服务CRM - 实时音频流 (gRPC) - STT/TTS/VAD 集成 - 回合结束检测 - LLM 编排 - 生产监控和流程可观察性 内置 Go 以提高性能和可靠性。 既然您正在使用 AI，我想您可能会发现它对项目很有用，或者对架构有宝贵的反馈。 如果它看起来很有趣，我会喜欢在存储库上加星 - 确实有助于提高可见性！ ⭐ 是的，我们正在积极寻找贡献者。如果您有兴趣，我很乐意引导您浏览代码库！ 您目前正在使用 AI 构建什么？ Rohit   由   提交/u/olahealth  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pnv4v0/looking_for_open_source_contributors_for_voice_ai/</guid>
+      <pubDate>Tue, 16 Dec 2025 06:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>开源 React PDF 注释库（突出显示、注释、绘图、签名等）</title>
       <link>https://www.reddit.com/r/opensource/comments/1pnrkvs/opensourced_a_react_pdf_annotation_library/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pn2g9r/kreuzberg_v400rc8_is_available/</guid>
       <pubDate>Mon, 15 Dec 2025 08:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索开源四轮自动货运自行车组件和资源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pn2a7v/searching_for_opensource_fourwheeled_autonomous/</link>
-      <description><![CDATA[我想尝试开发、使用或改进一款带有后运输箱的窄型四轮自动驾驶电动货运自行车。自行车宽度应为1米左右，最高速度为20公里/小时。目标是完全开源设置，具有 Apache 或 MIT 等宽松许可证（而不是 AGPL 或 GPL 等许可证）。我想知道是否存在可以重用或改编的现有硬件组件、软件堆栈，甚至完整的产品。我还想知道是否有办法尽量减少重复劳动，包括适用于紧凑型自动驾驶车辆的仿真模型、控制系统和感知模块。   由   提交 /u/DayOk2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pn2a7v/searching_for_opensource_fourwheeled_autonomous/</guid>
-      <pubDate>Mon, 15 Dec 2025 08:21:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们更新了 Downlodr，这是我们基于 ytdlp 构建的免费开源视频下载器！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pn18v7/weve_updated_downlodr_our_free_opensource_video/</link>
-      <description><![CDATA[ 由   提交/u/Vivid-Ad-5733  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pn18v7/weve_updated_downlodr_our_free_opensource_video/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:11:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
