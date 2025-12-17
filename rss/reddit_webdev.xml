@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Dec 2025 09:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 12:36:18 GMT</lastBuildDate>
+    <item>
+      <title>最佳 apk 制作者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1potptg/best_apk_makers/</link>
+      <description><![CDATA[我想我已经自己做了，与我交谈的那个人至少需要 1200 美元来做这件事，我说不，我会给你一份好工作，所以他分享了代码：/无论如何，什么是最好的 apk 制作者，有点简单和困难。 编辑：我找到了一个    由   提交 /u/Unknow_leviathan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1potptg/best_apk_makers/</guid>
+      <pubDate>Wed, 17 Dec 2025 10:58:01 GMT</pubDate>
+    </item>
     <item>
       <title>🚨 通过 LinkedIn 针对开发人员的恶意软件活动</title>
       <link>https://www.reddit.com/r/webdev/comments/1pos19x/malware_campaign_targeting_developers_via_linkedin/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[我不断看到开发人员（包括我自己）犯下同样愚蠢的错误，只是为了快速测试一些东西，对 API 密钥进行硬编码。控制台记录具有电子邮件或其他 PII 的用户对象，或添加新功能而不为其编写测试（或忘记标头、速率限制等）。 总是有一些关于泄露的 API 密钥或秘密导致大量账单或违规的新闻。 是否有一个工具可以在后台安静地运行，在我保存文件时捕获这些内容，并自动修复它或强制我在提交之前清理它？所有本地没有云，没有帐户，没有打电话回家。 我尝试过 gitleaks 和 trufflehog，但它们主要用于事后扫描，我想要一些始终监视并阻止我在事情发生时立即搞砸的东西。 有这样的事情存在吗？ 谢谢！   由   提交 /u/soumyadyuti_245   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1poqe5y/is_there_a_tool_that_watches_your_code_and_stops/</guid>
       <pubDate>Wed, 17 Dec 2025 07:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮我制作一个 APK 文件吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1poppdc/could_someone_help_me_with_making_an_apk_file/</link>
-      <description><![CDATA[我有一个 Hmlt5 文件、zip 文件和一些 wep 文件，但我在移动设备上，我尝试了不同的文件，但它们不起作用，所以我希望如果您有兴趣，可以私信我。 （游戏适用于搜索引擎）   由   提交 /u/Unknow_leviathan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1poppdc/could_someone_help_me_with_making_an_apk_file/</guid>
-      <pubDate>Wed, 17 Dec 2025 06:40:12 GMT</pubDate>
     </item>
     <item>
       <title>我对浮动用户界面有疑问，如何在移动设备上进行调试？</title>
