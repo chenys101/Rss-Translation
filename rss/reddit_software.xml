@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 24 Dec 2025 09:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:34:59 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个 Markdown 版本的 Windows 记事本，因为我很恼火</title>
+      <link>https://www.reddit.com/r/software/comments/1pujbk3/i_built_a_markdown_version_of_windows_notepad/</link>
+      <description><![CDATA[ 由   提交/u/Curious_Internet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pujbk3/i_built_a_markdown_version_of_windows_notepad/</guid>
+      <pubDate>Wed, 24 Dec 2025 09:22:28 GMT</pubDate>
+    </item>
     <item>
       <title>有没有像 Capcut 这样具有多语言 AI ​​翻译功能的编辑器？</title>
       <link>https://www.reddit.com/r/software/comments/1puj8z4/is_there_an_editor_like_capcut_that_has_an_ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以我有一台装有 Windows XP 的笔记本电脑，但找不到任何好的浏览器（2 GB RAM 是一个小数目）我的朋友推荐 MyPal 或 360 Extreme Explorer。他在 Samsung N220 plus（同样有 2 GB RAM）上使用 MyPal，并表示 YouTube 视频不是部分加载，而是一次性加载（他尝试了 Supermium 和 Firefox ESR 等浏览器，但它们遇到了同样的问题：youtube 视频停止，因为它们需要加载视频）。   由   提交 /u/illia8551   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ptxge1/looking_for_a_lightweight_browser_for_asus_eee_pc/</guid>
       <pubDate>Tue, 23 Dec 2025 15:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个小型离线加密工具。免费发布以供审查和学习。</title>
-      <link>https://www.reddit.com/r/software/comments/1ptxgbc/built_a_small_offline_encryption_tool_released_it/</link>
-      <description><![CDATA[ 由   提交 /u/RevealerOfTheSealed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ptxgbc/built_a_small_offline_encryption_tool_released_it/</guid>
-      <pubDate>Tue, 23 Dec 2025 15:58:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
