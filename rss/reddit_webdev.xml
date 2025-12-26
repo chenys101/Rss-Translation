@@ -4,20 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 26 Dec 2025 01:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 03:59:22 GMT</lastBuildDate>
+    <item>
+      <title>交互式排序算法可视化工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pvuxkq/interactive_sorting_algorithm_visualizer/</link>
+      <description><![CDATA[一个交互式排序可视化工具，显示 12 种不同算法实时并排竞争！   由   提交/u/Comfortable_Egg_2482   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pvuxkq/interactive_sorting_algorithm_visualizer/</guid>
+      <pubDate>Fri, 26 Dec 2025 03:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子邮件中标记的图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pvtjvm/images_flagged_in_emails/</link>
+      <description><![CDATA[      我的网络开发者们大家好。我正在做整个 SaaS 工作，显然这意味着我们将向用户发送大量电子邮件。 我如何确保图像没有被标记？  我只是提供一种方法来验证他们的帐户，没有恶意。 gmail 出于某种原因标记了我的品牌徽标... 它不会对 Instagram、stripe 等大公司这样做...   由   提交/u/siliskleemoff   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pvtjvm/images_flagged_in_emails/</guid>
+      <pubDate>Fri, 26 Dec 2025 02:45:52 GMT</pubDate>
+    </item>
     <item>
       <title>直到 Web Speech API 存在并且它比我预期的更有用</title>
       <link>https://www.reddit.com/r/webdev/comments/1pvrpk1/til_the_web_speech_api_exists_and_its_way_more/</link>
       <description><![CDATA[   我完全错过了现代浏览器提供的 Web Speech API。 您可以在没有库的情况下进行文本到语音（和语音识别），只需几行 JavaScript。没有按键，没有 SDK，没有后端。 令我惊讶的是：  Chrome 和 Safari 都支持 延迟基本上是即时的 语音、速率、音调和语言都是可配置的 完全在客户端工作    由   提交/u/bullmeza  [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pvrpk1/til_the_web_speech_api_exists_and_its_way_more/</guid>
       <pubDate>Fri, 26 Dec 2025 01:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的小型企业建立一个网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pvrnbq/building_a_website_for_my_small_business/</link>
-      <description><![CDATA[我正在启动一家小型定制邮箱业务（砖块和石头，按订单建造），并正在构建一个具有简单产品/配置器风格布局的网站。 我已经制定了结构、选项和品牌方向 - 主要是希望将其变成一个清晰的规范，成为一个干净、精美的网站。我知道 Wix 等一般网站。但我需要一个 UI，它允许人们使用我提供的自定义选项在屏幕上主动构建邮箱，从而提供干净+现代的能力。  有人有什么想法吗？谢谢。   由   提交/u/RevolutionaryFly3430   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pvrnbq/building_a_website_for_my_small_business/</guid>
-      <pubDate>Fri, 26 Dec 2025 01:06:06 GMT</pubDate>
     </item>
     <item>
       <title>考虑创建一个应用程序？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，webdev 社区，大家圣诞快乐 &lt;3。 只是为了向您介绍一下我自己的背景。我是一名来自印度的前端工程师 [ 1 年全职 + 在两家基于产品的初创公司实习 ]，目前 20 岁出头。除此之外，我还有很多个人项目。 作为个人资料，我有足够的现场工作来自信地展示和描述。 我现在唯一遇到的困难就是找不到客户。自由职业者感觉就像一个骗局。尝试了 Fiverr 但没有任何效果。 Upwork 有很多比赛，我不知道我是否把钱投入其中，这是否是一个好的决定，因为在印度 2000 美元是一个不错的数字。我不知道是否还有其他方式可以亲自联系客户，因为在您与客户联系之前，Upwork 会让客户保持匿名。  我觉得，拥有正确的技能，但无法将其转化。  我只需要找到找到客户的正确方法的人的指导。并且，会在这里请求强有力的指导。谢谢。  P.S：我之前曾与来自美国和澳大利亚的客户合作过，但那是在我工作的初创公司旗下。因此，我熟悉他们的要求类型以及他们在完成工作时想要的细节。   由   提交/u/Coded_Human  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pv84ho/not_able_to_find_clients_for_freelancing_need_help/</guid>
       <pubDate>Thu, 25 Dec 2025 07:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP Cookie，第一个和最后一个请求可能是什么，响应可能是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pv7zyu/http_cookies_what_is_probably_the_first_and_last/</link>
-      <description><![CDATA[      正在查看我的 cookie 笔记。并发现了这个易于理解的饼干图表。想知道第一个和最后一个请求、响应是什么？   由   提交/u/PrimaryWaste8717  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pv7zyu/http_cookies_what_is_probably_the_first_and_last/</guid>
-      <pubDate>Thu, 25 Dec 2025 07:27:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
