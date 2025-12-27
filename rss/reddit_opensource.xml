@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Dec 2025 06:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 09:18:43 GMT</lastBuildDate>
+    <item>
+      <title>将 PDF 转换为 RAG 就绪数据：PDFStract (CLI + API + Web UI) — `pip install pdfstract`</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pws27x/turning_pdfs_into_ragready_data_pdfstract_cli_api/</link>
+      <description><![CDATA[ 由   提交 /u/GritSar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pws27x/turning_pdfs_into_ragready_data_pdfstract_cli_api/</guid>
+      <pubDate>Sat, 27 Dec 2025 07:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 上 WhatsApp 的替代客户端？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pwrstw/alternative_client_for_whatsapp_on_windows/</link>
+      <description><![CDATA[Windows 上的 WhatsApp 客户端应用程序非常糟糕。以前是 UWP，现在是 Electron，而且几乎在各个方面都更糟糕。他们发布了一个半成品的应用程序。网页版也不好。有什么好的替代方案吗？   由   提交/u/InternalVolcano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pwrstw/alternative_client_for_whatsapp_on_windows/</guid>
+      <pubDate>Sat, 27 Dec 2025 07:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>自定义搜索设置同步状态？为什么还没有进入审核阶段？</title>
       <link>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</link>
@@ -69,13 +83,6 @@
       <pubDate>Fri, 26 Dec 2025 16:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>lachesis - 轻量级自动基于标签的时间跟踪程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pw6u17/lachesis_lightweight_and_automatic_tagbased/</link>
-      <description><![CDATA[       由   提交/u/ibrah-h   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pw6u17/lachesis_lightweight_and_automatic_tagbased/</guid>
-      <pubDate>Fri, 26 Dec 2025 15:26:29 GMT</pubDate>
-    </item>
-    <item>
       <title>构建了一个开源人工智能视频剪辑器来取代付费订阅（Opus/Munch）。包括自动上传到社交媒体。</title>
       <link>https://www.reddit.com/r/opensource/comments/1pw51w7/built_an_opensource_ai_video_clipper_to_replace/</link>
       <description><![CDATA[大家好，我想分享一个我创建的工具，它可以将我的工作流程从每月付费订阅中解放出来。 它使用 AI 将长视频解析为短片，并利用 API 直接上传到 TikTok 和 Reels。与 30 美元/月的替代方案相比，它的运行成本非常低（使用您自己的 API 密钥）。  代码可在此处获取：https://github.com/mutonby/openshorts。  欢迎贡献！   由   提交 /u/mutonbini   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在开发一个名为 ADC (ArchivedDataCodec) 的业余爱好开源项目，这是一个轻量级存档器，非常注重简单性、透明性和长期可读性。 ADC 背后的动机非常简单： 我真的很怀念易于理解、易于检查且不会感觉过度设计或不透明的存档格式。 ADC 使用记录的、简单的格式（8 字节标头 + 压缩文件块），旨在即使在数年之后仍保持可读性。 要点：  开源 &gt; GPLv3 使用 zlib 用 Python 制作 自定义、记录的存档格式 每个存档有多个文件 注重清晰度而非聪明 Linux 优先，但跨平台  这在很大程度上是一个业余爱好项目，但它得到了积极维护，并且仍在不断发展。 如果您喜欢： 简单工具 开放格式 通过开源学习 或者只是回顾奇怪的存档想法😄 非常欢迎反馈和贡献。即使评论或批评也值得赞赏。 Github： [https://github.com/Mealman1551/ArchivedDataCodec]() 感谢您的阅读。 ps。 我的目的不是制定行业标准，而只是一个爱好项目   由   提交 /u/OVRTNE_Music   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pw1aqo/im_building_a_simple_opensource_archive_format/</guid>
       <pubDate>Fri, 26 Dec 2025 10:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>铁甲舰POD</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pvyai4/ironclad_pod/</link>
-      <description><![CDATA[嗨，我为小型企业制作了这个完全基于网络的 POS 应用程序。如何？  这是我的仓库：https://github.com/mashiyathilias-code/Ironclad-POS    由   提交 /u/MashiatILias   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pvyai4/ironclad_pod/</guid>
-      <pubDate>Fri, 26 Dec 2025 07:13:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
