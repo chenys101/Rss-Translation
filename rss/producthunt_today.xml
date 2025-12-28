@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 28 Dec 2025 15:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 18:24:44 GMT</lastBuildDate>
     <item>
       <title>链接迪特</title>
       <link>https://www.producthunt.com/products/linkeddit</link>
@@ -118,6 +118,20 @@
       <pubDate>Thu, 25 Dec 2025 10:48:00 GMT</pubDate>
     </item>
     <item>
+      <title>管信</title>
+      <link>https://www.producthunt.com/products/tubeletter</link>
+      <description><![CDATA[
+            将 YouTube 视频变成时事通讯
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tubeletter</guid>
+      <pubDate>Wed, 24 Dec 2025 18:04:00 GMT</pubDate>
+    </item>
+    <item>
       <title>卡迪</title>
       <link>https://www.producthunt.com/products/kardy</link>
       <description><![CDATA[
@@ -188,32 +202,18 @@
       <pubDate>Mon, 22 Dec 2025 19:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>明晰</title>
-      <link>https://www.producthunt.com/products/clarity-17</link>
+      <title>神经机器人</title>
+      <link>https://www.producthunt.com/products/nbot</link>
       <description><![CDATA[
-            咖啡因跟踪以优化您的摄入量
+            个性化策展人，展示您关心的内容
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/clarity-17</guid>
-      <pubDate>Fri, 19 Dec 2025 19:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>索达塔</title>
-      <link>https://www.producthunt.com/products/thordata</link>
-      <description><![CDATA[
-            通过代理使用高质量、大规模的数据来推动人工智能训练
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/thordata</guid>
-      <pubDate>Thu, 11 Dec 2025 07:07:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nbot</guid>
+      <pubDate>Wed, 17 Dec 2025 14:22:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
