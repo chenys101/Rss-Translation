@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Thu, 15 Jan 2026 04:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:26:15 GMT</lastBuildDate>
+    <item>
+      <title>我们需要一个用于 AI API 的“Jovian Cyber​​plug”：可发现、可协商且可包含</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdbnip/we_need_a_jovian_cyberplug_for_ai_apis/</link>
+      <description><![CDATA[早在专业音频时代，Alesis 就为一种名为“Jovian Cyber​​plug”的鱿鱼状生物投放了一个异想天开的广告——一种控制论通用适配器，可以连接不兼容的音频设备和效果标准。这是讽刺……但也是一个完美的工程隐喻。 现在的人工智能生态系统就是当时的音频设备： 不同的标准、不同的连接器、不同的“方言”、不断的突破性变化。 我们需要的是一个Python Cyberplug：一个模块化适配器层，让下游代码通过单一稳定的接口与“模型”对话，同时仍然暴露每个模型的独特特性优势。 关键不是假装模型是相同的。关键是要有所不同： 可发现、可协商和包含 1) 可发现 每个提供程序/模型都会公开您的代码可以在运行时查询的功能配置文件。 示例：  supports_tools / Vision / json_schema supports_reasoning / long_context max_context_tokens / max_output_tokens 流式传输？结构化输出？函数调用？ 怪癖：所需的消息角色、参数命名等。  因此，您的应用可以询问：“谁可以进行工具调用 + JSON 架构 + 长上下文？” 并获得清晰的答案，而无需到处硬编码提供程序。 2) 协商 您的统一请求是超集，并且适配器协商最佳映射。 如果不支持某个功能，适配器可以：  优雅降级（架构→“仅 JSON 提示契约”） 转换参数（max_output_tokens、max_completion_tokens、max_tokens） 内部切换端点样式（例如，响应与聊天完成） 发出显式输出透明度的“协商事件”  这是“它再次崩溃”和“它降级了，这就是原因”之间的区别。 3) 包含 所有方言漂移都存在于适配器内。 您的应用程序代码永远不会成为提供程序条件的动物园。 不再： 如果提供程序==“X”： use_param_A() elif provider == &quot;Y&quot;: use_param_B()  相反，你调用一件事： cyberplug.generate(request)  为什么这很重要 我们正在走向一个“哪种模型？”的时代。应该是运行时决策，而不是代码重写：  选择一个快速廉价的摘要模型 选择一个用于规划和证明的推理模型 选择一个支持工具的自动化模型 选择文档/图像任务的愿景 并准确记录协商的内容，以便您可以信任它  如果社区融合在共享的“Cyberplug”界面+功能模式上，生态系统将在一夜之间加速：  更少的粘合代码 更少的重大更改 更智能的路由 更干净的开源互操作  这就是整个想法，用三个词来说： 可发现、可协商和包含 如果您已经构建了类似的东西（或想要构建），我很想听听哪些模式有效，哪些模式失败，以及您首先要标准化哪些模式。   由   提交 /u/Natural-Sentence-601   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdbnip/we_need_a_jovian_cyberplug_for_ai_apis/</guid>
+      <pubDate>Thu, 15 Jan 2026 06:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 1/14/2026</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdaj46/oneminute_daily_ai_news_1142026/</link>
+      <description><![CDATA[ OpenAI 与 Cerebras 签署 100 亿美元的 AI 计算协议。[1] 生成式 AI 工具“MechStyle”可帮助 3D 打印维持日常使用的个人物品。[2] AI 模型开始解决高级数学问题。[3] 加利福尼亚州对 xAI 和 Grok 就色情化 AI 图像展开调查。[4]  来源包括：https://bushaicave.com/2026/01/14/one-million-daily-ai-news-1-14-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdaj46/oneminute_daily_ai_news_1142026/</guid>
+      <pubDate>Thu, 15 Jan 2026 05:03:02 GMT</pubDate>
+    </item>
     <item>
       <title>格罗克在五角大楼</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qd67fh/grok_at_pentagon/</link>
@@ -41,13 +55,6 @@
       <pubDate>Wed, 14 Jan 2026 21:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>如果你必须选择一项付费人工智能服务作为日常司机，你会选择哪一项？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcwwla/if_you_had_to_choose_one_paid_ai_service_as_a/</link>
-      <description><![CDATA[主要用于个人生产力和工作辅助以及提高我对某些系统的理解。我以前广泛使用过 GPT、Grok 和 Claude。只是不确定哪一个是最好的长期“付费”服务解决方案。我会以每月 20 美元/30 美元的价格订阅。    由   提交 /u/RustyEsposito   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcwwla/if_you_had_to_choose_one_paid_ai_service_as_a/</guid>
-      <pubDate>Wed, 14 Jan 2026 19:31:54 GMT</pubDate>
-    </item>
-    <item>
       <title>你认为人工智能会成为色情片的未来吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcw13d/do_you_think_ai_will_be_the_future_for_porn/</link>
       <description><![CDATA[我们都在辣味模式下尝试过 Grok 的东西，但这仍然很温和并且受到限制。我想知道他们何时或是否可以让人们创建完整的视频，并提示创建他们想看的任何内容？  人工智能生成的视频会比人类拍摄的视频更受欢迎吗？   由   提交/u/BAT-Fanatic  [链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[很多人说人工智能出现时就转向，但转向什么、基于什么逻辑？根据您的经验，在决定转型是否现实时，哪些因素真正重要？ 例如：  技能邻接与从零开始 能力提升时间 市场需求与炒作 人力杠杆（判断、协调、信任、责任等）  在过去 1-2 年中，您是否见过真正令人感觉良好的转型适应未来而不是追逐趋势？   由   提交 /u/Loose-Exchange-4181   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcphvf/what_actually_makes_a_career_pivot_realistic_in/</guid>
       <pubDate>Wed, 14 Jan 2026 15:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有人工智能助理/代理的经验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcp1pw/experience_with_ai_assistantsagents/</link>
-      <description><![CDATA[嗨！ 我充其量只是一个业余爱好者，但我突然想到了一些事情。我很好奇是我的问题是罪魁祸首还是其他人也经历过。 每当我开始对话时，无论是与 CoPilot、Gemini、ChatGPT，还是与 Claude 或 Gemini 使用反重力时，在我看来，几个小时后，人工智能就会变得失控。开始犯错误，忘记我告诉它应该有的指导方针或行为。我无法指指点点。就好像它随着时间的推移而退化。最好的解释是，一开始我正在与一位 30-40 岁的专业人士交谈，几个小时后，我就像在与患有阿尔茨海默氏症的乡村醉汉交谈。 还有其他人经历过这种情况吗？   由   提交 /u/icemixxy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcp1pw/experience_with_ai_assistantsagents/</guid>
-      <pubDate>Wed, 14 Jan 2026 14:43:42 GMT</pubDate>
     </item>
     <item>
       <title>我今年见过的最赚钱的人工智能初创公司并不是 SaaS。他们是“软件服务”机构。</title>
