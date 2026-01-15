@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 15 Jan 2026 06:27:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:18:38 GMT</lastBuildDate>
     <item>
-      <title>Python程序混淆工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdbx4r/python_program_obfuscation_tool/</link>
-      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdbx4r/python_program_obfuscation_tool/</guid>
-      <pubDate>Thu, 15 Jan 2026 06:16:08 GMT</pubDate>
+      <title>36 小时打造（2026 年）。一部免费纪录片，探讨世界上最大的学生黑客马拉松——加州大学伯克利分校的 CalHacks。学生们在短短 36 个不眠的时间里编写了项目，然后将它们展示给行业评委。 [1:21:11]</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdvsaz/36_hours_to_build_2026_a_free_documentary_that/</link>
+      <description><![CDATA[ 由   提交/u/quincylarson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdvsaz/36_hours_to_build_2026_a_free_documentary_that/</guid>
+      <pubDate>Thu, 15 Jan 2026 21:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>Quick Fix 考古学 - 改变世界的 3 个著名黑客</title>
-      <link>https://www.reddit.com/r/programming/comments/1qd8mj4/quick_fix_archaeology_3_famous_hacks_that_changed/</link>
-      <description><![CDATA[ 由   提交/u/damian2000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qd8mj4/quick_fix_archaeology_3_famous_hacks_that_changed/</guid>
-      <pubDate>Thu, 15 Jan 2026 03:30:11 GMT</pubDate>
+      <title>Grug Brained Developer 对软件复杂性的幽默而严肃的态度</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdvbpv/grug_brained_developer_a_humorous_but_serious/</link>
+      <description><![CDATA[一篇长篇文章，反映了复杂性作为软件开发中的核心挑战，并从长期维护系统中得出了观察结果。 它涉及抽象、测试策略、重构、API、工具和系统设计，并以一种故意简单和幽默的语气构建。   由   提交 /u/Digitalunicon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdvbpv/grug_brained_developer_a_humorous_but_serious/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>为什么你的编码代理不断地破坏你的架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1qd84xf/why_your_coding_agent_keeps_undoing_your/</link>
-      <description><![CDATA[写了一些关于我使用 ADR 和编码代理的工作流程的内容。    由   提交 /u/myusuf3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qd84xf/why_your_coding_agent_keeps_undoing_your/</guid>
-      <pubDate>Thu, 15 Jan 2026 03:07:22 GMT</pubDate>
+      <title>较新的人工智能编码助手正在以阴险的方式失败</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdv6h0/newer_ai_coding_assistants_are_failing_in/</link>
+      <description><![CDATA[ 由   提交 /u/CackleRooster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdv6h0/newer_ai_coding_assistants_are_failing_in/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>AI 杀死了 Stack Overflow 吗？——我希望它能够幸存</title>
-      <link>https://www.reddit.com/r/programming/comments/1qd7g8p/did_ai_kill_stack_overflow_i_hope_it_survives/</link>
-      <description><![CDATA[ 由   提交/u/varturas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qd7g8p/did_ai_kill_stack_overflow_i_hope_it_survives/</guid>
-      <pubDate>Thu, 15 Jan 2026 02:36:38 GMT</pubDate>
+      <title>如果每个人都讨厌人工智能，为什么 Stack Overflow 访问量从每天约 2000 万下降到每天约 300 万？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qduvk4/if_everyone_hates_ai_why_did_stack_overflow/</link>
+      <description><![CDATA[ 由   提交/u/Local_Scar9276  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qduvk4/if_everyone_hates_ai_why_did_stack_overflow/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>Ken Thompson 实时重写了他的代码。联邦法院称他是 MP3 的共同创造者。那么为什么没有人听说过詹姆斯·D·约翰斯顿呢？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qd3mko/ken_thompson_rewrote_his_code_in_realtime_a/</link>
-      <description><![CDATA[1988 年，贝尔实验室的 James D. Johnston 和德国的 Karlheinz Brandenburg 独立发明了感知音频编码 - MP3 背后的科学。勃兰登堡名声大振。约翰斯顿被从历史中抹去了。证据很丰富：1989 年至 1990 年间，勃兰登堡在贝尔实验室与 Johnston 一起开发了 MP3。联邦上诉法院明确表示，他们“一起”创建了标准。 Ken Thompson - 是的，就是 Ken Thompson - 在 Johnston 实时向他解释功能后的一周内，亲自将 Johnston 的 PAC 编解码器从 Fortran 重写为 C，然后宣称它“远远优于 MP3”。 AT&amp;T 甚至于 1998 年推出了 iPod 竞争对手，但由于“没有人会通过互联网销售音乐”而将其淘汰。该原型现在位于计算机历史博物馆。我采访了约翰斯顿，并仔细研究了法庭记录、专利和勃兰登堡本人的采访，以拼凑出实际发生的情况。 IEEE 称约翰斯顿为“感知音频编码之父”。但几乎没有人知道他的名字。   由   提交/u/Traditional_Rise_609   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qd3mko/ken_thompson_rewrote_his_code_in_realtime_a/</guid>
-      <pubDate>Wed, 14 Jan 2026 23:50:27 GMT</pubDate>
+      <title>回家吧，Windows EXE，你醉了</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdt9s5/go_home_windows_exe_youre_drunk/</link>
+      <description><![CDATA[ 由   提交/u/nicebyte  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdt9s5/go_home_windows_exe_youre_drunk/</guid>
+      <pubDate>Thu, 15 Jan 2026 19:30:54 GMT</pubDate>
     </item>
     <item>
-      <title>PR 审查指南：我在代码审查中寻找什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcyy22/pr_review_guidelines_what_i_look_for_in_code/</link>
-      <description><![CDATA[这些是我在审查拉取请求或提交我自己的 PR 时在个人清单中保存的注释。 这不是一个详尽的列表，也绝对不是一个严格的原则。显然，有时我们会在压力下放弃快速 POC 或一些修补程序的彻底性。 在此分享，以防对其他人有帮助。随意采取有效的方法，忽略无效的方法:) 1.以您所使用语言的自然风格编写  每种语言都有自己的习语和模式，即自然的做事方式。当您通过借用其他语言或生态系统的方法来对抗这些模式时，代码通常会变得更加冗长、难以维护，有时效率也会降低。 例如。 Rust 更喜欢迭代器而不是手动循环，因为迭代器消除了运行时绑定检查，因为编译器知道它们不会产生越界索引。 2.使用错误代码/枚举，而不是字符串消息  错误应该表示为结构化类型，即 Rust 中的枚举、Java 中的错误代码。当错误只是像“连接失败”这样的字符串时或“无效请求”，您将失去以编程方式区分不同故障模式的能力。通过错误枚举或代码，您的可观察性堆栈可以获得结构化数据，它实际上可以使用它来按错误类型跟踪指标。 3.结构化日志记录打印语句  日志应该首先是机器可解析的，其次是人类可读的。使用输出 JSON 或键值对的结构化日志库，而不是 println！或字符串连接。对于非结构化日志，您最终会编写脆弱的正则表达式模式，数据不会被索引，并且您无法对特定字段进行聚合或发出警报。每个问题都需要新的 grep 模式和手动计数。 4.可读代码和优化之间的健康平衡  默认为可读且可维护的代码，仅在分析显示真正的瓶颈时进行优化。即便如此，也要尽可能保持清晰度。过早的微优化通常会引入微妙的错误，并使未来的更改和调试速度变慢。 5.避免使用幻数和字符串 分散在代码中的文字值很难理解，而且更改起来很危险。未来的维护者不知道该值是任意的、经过精心调整的还是由规范强制执行的。将它们提取到命名常量中，以解释其含义并提供单一事实来源。 6.注释应该解释“为什么”，而不是“什么” 好的代码是“什么”的自我记录。注释应该包含代码本身不明显的推理、权衡和上下文。 7.保持小而集中的更改 较小的 PR 更容易理解。审稿人可以掌握完整的上下文，而不会造成认知超载。这可以实现更快的周期和更快的批准。 如果出现问题，更容易隔离错误。您可以挑选或恢复单个重点更改，而无需撤消不相关的工作。    由   提交 /u/Normal-Tangelo-7120   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcyy22/pr_review_guidelines_what_i_look_for_in_code/</guid>
-      <pubDate>Wed, 14 Jan 2026 20:47:49 GMT</pubDate>
+      <title>探索初级、中级、高级工程师的技能！ 🤖🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdsepg/exploring_the_skills_of_junior_mid_and_senior/</link>
+      <description><![CDATA[ 由   提交/u/Gopher-Face912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdsepg/exploring_the_skills_of_junior_mid_and_senior/</guid>
+      <pubDate>Thu, 15 Jan 2026 19:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>聊天是法学硕士最不感兴趣的界面</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcwi0i/chat_is_the_least_interesting_interface_to_llms/</link>
-      <description><![CDATA[ 由   提交/u/Tekmo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcwi0i/chat_is_the_least_interesting_interface_to_llms/</guid>
-      <pubDate>Wed, 14 Jan 2026 19:17:22 GMT</pubDate>
+      <title>软件开发浪费</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdredf/software_development_waste/</link>
+      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdredf/software_development_waste/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>工程团队成熟度的一个很好的考验是你吸收初级人才的能力</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcw37d/a_good_test_of_engineering_team_maturity_is_how/</link>
-      <description><![CDATA[Christine Miao 在这里指出： &gt;能够轻松吸收初级人才的团队拥有弹性系统，可以最大限度地减少错误的影响。实习生无法停止生产，因为**没有任何一个工程师**可以停止生产！ 整篇文章是 Charity Majors 的“赞扬普通工程师”的续集。从去年开始。   由   提交/u/sean-adapt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcw37d/a_good_test_of_engineering_team_maturity_is_how/</guid>
-      <pubDate>Wed, 14 Jan 2026 19:02:19 GMT</pubDate>
+      <title>影响者：没有证据的人工智能炒作</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdqtk0/the_influentists_ai_hype_without_proof/</link>
+      <description><![CDATA[ 由   提交/u/iamapizza  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdqtk0/the_influentists_ai_hype_without_proof/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔沃汽车正在使用 Rust</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcv8yy/rust_is_being_used_at_volvo_cars/</link>
-      <description><![CDATA[ 由   提交/u/NYPuppy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcv8yy/rust_is_being_used_at_volvo_cars/</guid>
-      <pubDate>Wed, 14 Jan 2026 18:32:13 GMT</pubDate>
+      <title>当写代码不再是瓶颈</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdos9l/when_writing_code_is_no_longer_the_bottleneck/</link>
+      <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdos9l/when_writing_code_is_no_longer_the_bottleneck/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 VS Code 公共 API 的限制内构建重要的扩展功能？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcuy8d/how_do_you_build_serious_extension_features/</link>
-      <description><![CDATA[大多数工具甚至不会尝试。他们分叉编辑器或构建自定义 IDE，以便可以跳过困难的交互问题。  我正在开发一个开源编码代理，并面临着如何在 VS Code 中呈现代码建议的困境。我们的 NES 是 VS Code 的原生功能。这意味着要生活在严格的性能预算和交互模式中，而这些预算和交互模式从来不是为提出实时多行结构编辑的法学硕士而设计的。  在这种情况下，在不引起关注的情况下，为人工智能建议提供足够的背景信息以使其具有可操作性要困难得多。  这促使我们采用动态渲染策略，而不是单一的人工智能建议 UI。每条路径都被有意地限定在其表现最佳的情况下，将其与给定编辑的破坏性最小的表示对齐。  如果人工智能要存在于真正的编辑器中，我认为这才是真正重要的层。  博客中的完整描述   由   提交 /u/National_Purpose5521   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcuy8d/how_do_you_build_serious_extension_features/</guid>
-      <pubDate>Wed, 14 Jan 2026 18:21:32 GMT</pubDate>
+      <title>构建 Webhook 调试器的令人惊讶的棘手部分：SSE 内存泄漏、SSRF 边缘情况和定时安全身份验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdof8e/the_surprisingly_tricky_parts_of_building_a/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdof8e/the_surprisingly_tricky_parts_of_building_a/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>零拷贝 SIMD 解析可处理二进制协议中的未对齐读取和生命周期复杂性</title>
-      <link>https://www.reddit.com/r/programming/comments/1qctri6/zerocopy_simd_parsing_to_handle_unaligned_reads/</link>
-      <description><![CDATA[我一直在为 NASDAQ ITCH 构建解析器。这就是实时订单簿背后的二进制消防水带。在繁忙的市场中，它每秒可以处理数百万条消息，因此任何为每条消息分配或复制的东西都会崩溃。这变成了对零拷贝解析、SIMD 以及 Rust 推回之前你能推多远的深入探讨。 每条消息的分配问题 ITCH 是紧密的二进制数据。两个字节长度，一个字节类型，固定头，然后是负载。明显的 Rust 方法如下所示： ```rust fn parse_naive(data: &amp;[u8]) -&gt; Vec&lt;消息&gt; { 让 mut out = Vec::new();让 mut pos = 0; while pos &lt;; data.len() { let len = u16::from_be_bytes([data[pos], data[pos + 1]]) as usize;让 msg = data[pos..pos + len].to_vec(); out.push(消息::from_bytes(msg)); pos += len； } out  } ``` 这有效，但速度很慢。您为每条消息分配一个 Vec。在规模上，这意味着大量的堆搅动和糟糕的缓存行为。对于数千万条消息，您基本上是在对 malloc 进行基准测试。 零复制解析和终身痛苦 解决方法是停止拥有字节并只是借用它们。直接从输入缓冲区进行解析，除非确实需要，否则永远不要复制。 在我的情况下，每个解析的消息仅保存对原始缓冲区的引用。 ```使用 Zerocopy::Ref; pub struct ZeroCopyMessage&lt;&#39;a&gt;; { header: Ref&lt;&amp;&#39;a [u8], MessageHeaderRaw&gt;, 负载: &amp;&#39;a [u8], } impl&lt;&#39;a&gt;; ZeroCopyMessage&lt;&#39;a&gt; { pub fn read_u32(&amp;self, offset: usize) -&gt;; u32 { 让字节 = &amp;self.payload[offset..offset + 4]; u32::from_be_bytes(bytes.try_into().unwrap()) } } ``` zerocopy 箱负责处理标头的繁重工作。它检查大小和对齐方式，因此您不需要原始指针转换。有效负载是可变的，因此这些字段需要手动读取。 权衡是显而易见的。一生是严格的。您无法将这些消息隐藏在某处或将它们发送到另一个线程而不进行复制。当您立即处理并丢弃时，此方法效果最佳。作为回报，您在解析过程中获得零分配，并显着降低内存使用量。 SIMD 真正重要的地方 一个热门路径是查找消息边界。标量代码逐字节运行并不断分支。 SIMD 可让您一次扫描多个块。 这是一次扫描 32 个字节的简化 AVX2 示例： ```rust use std::arch::x86_64::*; pub fn scan_boundaries_avx2(data: &amp;[u8], pos: usize) -&gt;选项&lt;使用大小&gt; { let chunk = unsafe { _mm256_loadu_si256(data.as_ptr().add(pos) as *const __m256i) }; let Needle = _mm256_set1_epi8(b&#39;A&#39;);让 cmp = _mm256_cmpeq_epi8(块，针);让掩码= _mm256_movemask_epi8(cmp); if mask != 0 { Some(pos + mask.trailing_zeros() as usize) } else { None }  } ``` 这会一次性检查 32 个字节。在支持它的 CPU 上，您可以对 AVX512 执行相同的操作，并将其加倍。运行时的功能检测会选择最佳版本并回退到旧机器上的标量代码。 好处是真实的。在现代硬件上，吞吐量测试明显快了两到四倍。 缺点也是真实的。 SIMD 代码写起来很烦人，更难调试，而且充满了不安全的块。对于小投入，设置成本可能会超过胜利。 安全与速度 Rust 有所帮助，但它并不能帮助您避免权衡。零复制意味着生命周期无处不在。 SIMD意味着不安全。在发布版本中会跳过一些验证，因为检查所有内容都会花费时间。 与其他语言相比。 Cpp 可以对视图进行零复制，但悬空指针总是潜伏着。 Go 在并发方面表现出色，但零拷贝解析会与 GC 发生冲突。 Zig 可能会使这个过程更清晰，但您仍然要付出复杂性成本。 此设置的重点是每秒传递 1 亿条消息。如果您想要完整的内容，代码就在这里 https://github.com/lunyn-hft/lunary 好奇其他人如何处理这个问题。您是否曾与 Rust 生命周期进行过如此艰苦的斗争，或者手动编写过 SIMD 来进行二进制解析？您如何用您的语言做到这一点而不失去理智？   由   提交 /u/capitanturkiye   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qctri6/zerocopy_simd_parsing_to_handle_unaligned_reads/</guid>
-      <pubDate>Wed, 14 Jan 2026 17:39:19 GMT</pubDate>
+      <title>Cursor CEO 使用人工智能打造了一款浏览器，但它真的有用吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdo9r3/cursor_ceo_built_a_browser_using_ai_but_does_it/</link>
+      <description><![CDATA[ 由   提交/u/ImpressiveContest283  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdo9r3/cursor_ceo_built_a_browser_using_ai_but_does_it/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:32:27 GMT</pubDate>
     </item>
     <item>
-      <title>n8n 感觉很快，直到你需要解释它</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcpor9/n8n_feels_fast_until_you_need_to_explain_it/</link>
-      <description><![CDATA[为什么没有可解释性的速度会变成技术债务。   由   提交/u/Unhappy_Concept237  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcpor9/n8n_feels_fast_until_you_need_to_explain_it/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:08:54 GMT</pubDate>
+      <title>视窗？ Linux？浏览器？相同的可执行文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdnx4a/windows_linux_browser_same_executable/</link>
+      <description><![CDATA[ 由   提交 /u/double-happiness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdnx4a/windows_linux_browser_same_executable/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年 SWE 必须具备的基本技能和知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcpo2s/fundamental_skills_and_knowledge_you_must_have_in/</link>
-      <description><![CDATA[杰弗里·亨特利 (Geoffrey Huntley)，拉尔夫循环的创建者   由   提交/u/creaturefeature16  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcpo2s/fundamental_skills_and_knowledge_you_must_have_in/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:08:11 GMT</pubDate>
+      <title>通过快照测试捕获 API 回归</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdnj1f/catching_api_regressions_with_snapshot_testing/</link>
+      <description><![CDATA[ 由   提交 /u/mallenspach   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdnj1f/catching_api_regressions_with_snapshot_testing/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>系统设计面试的缓存手册</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcpk06/caching_playbook_for_system_design_interviews/</link>
-      <description><![CDATA[这是一篇关于缓存的文章，缓存是任何系统设计中最重要的组件之一。  本文涵盖以下内容： - 什么是缓存？  - 我们什么时候应该缓存？  - 缓存层 - 缓存策略 - 缓存驱逐策略 - 缓存生产边缘情况以及如何处理它们 还包含简短的备忘单和漂亮的图表，请查看。    由   提交/u/Comfortable-Fan-580   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcpk06/caching_playbook_for_system_design_interviews/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:03:42 GMT</pubDate>
+      <title>LLM 应用程序的构建时信任边界：在运行时防止上下文泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdmu67/buildtime_trust_boundaries_for_llm_apps/</link>
+      <description><![CDATA[ 由   提交/u/Electrical_Worry_728  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdmu67/buildtime_trust_boundaries_for_llm_apps/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:40:06 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Linus 和 DHH 现在都在进行 vivi 编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1qcp6hu/why_linus_and_dhh_are_vibe_coding_now/</link>
-      <description><![CDATA[ 由   提交/u/Waterty  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qcp6hu/why_linus_and_dhh_are_vibe_coding_now/</guid>
-      <pubDate>Wed, 14 Jan 2026 14:49:14 GMT</pubDate>
+      <title>失忆法学硕士的生活</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdlcq8/life_of_an_amnesic_llm/</link>
+      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdlcq8/life_of_an_amnesic_llm/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:43:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
