@@ -4,48 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Jan 2026 21:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:04:44 GMT</lastBuildDate>
     <item>
-      <title>0x校准</title>
-      <link>https://www.producthunt.com/products/0xcal</link>
+      <title>克劳德代码的红灯绿灯</title>
+      <link>https://www.producthunt.com/products/redlight-greenlight-for-claude-code</link>
       <description><![CDATA[
-            输入 + 捕获您的膳食，通过 Apple Health Sync 记录卡路里
+            在 Mac 上的任何位置接受或拒绝 Claude Code 权限
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/0xcal</guid>
-      <pubDate>Tue, 13 Jan 2026 21:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>o11</title>
-      <link>https://www.producthunt.com/products/o11</link>
-      <description><![CDATA[
-            微软副驾驶，但它确实有效
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/o11</guid>
-      <pubDate>Tue, 13 Jan 2026 20:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>酒馆</title>
-      <link>https://www.producthunt.com/products/taphouse</link>
-      <description><![CDATA[
-            Homebrew 缺少 GUI
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/taphouse</guid>
-      <pubDate>Tue, 13 Jan 2026 20:11:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/redlight-greenlight-for-claude-code</guid>
+      <pubDate>Wed, 14 Jan 2026 06:06:03 GMT</pubDate>
     </item>
     <item>
       <title>一点</title>
@@ -60,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/one-dot-a-living-timeline-wallpaper</guid>
       <pubDate>Tue, 13 Jan 2026 19:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>离开</title>
-      <link>https://www.producthunt.com/products/relinq</link>
-      <description><![CDATA[
-            即时转换平台之间的音乐链接
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/relinq</guid>
-      <pubDate>Tue, 13 Jan 2026 19:24:17 GMT</pubDate>
     </item>
     <item>
       <title>泰迪</title>
@@ -146,6 +104,20 @@
       <pubDate>Tue, 13 Jan 2026 10:06:01 GMT</pubDate>
     </item>
     <item>
+      <title>运输公司</title>
+      <link>https://www.producthunt.com/products/transmov-video-animation-tool</link>
+      <description><![CDATA[
+            在 Mac 上本地转换、编辑和导出视频和动画
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/transmov-video-animation-tool</guid>
+      <pubDate>Tue, 13 Jan 2026 09:48:20 GMT</pubDate>
+    </item>
+    <item>
       <title>网页可访问性测试 MCP</title>
       <link>https://www.producthunt.com/products/web-accessibility-testing-mcp</link>
       <description><![CDATA[
@@ -188,7 +160,21 @@
       <pubDate>Mon, 12 Jan 2026 15:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>布洛克帕德</title>
+      <title>雷米奥2.0</title>
+      <link>https://www.producthunt.com/products/remio-ai-note-taker</link>
+      <description><![CDATA[
+            捕获您的工作以构建可搜索的知识库
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/remio-ai-note-taker</guid>
+      <pubDate>Fri, 09 Jan 2026 07:42:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlocPad - 项目和团队工作区</title>
       <link>https://www.producthunt.com/products/blocpad</link>
       <description><![CDATA[
             看板和 wiki 可立即更新您的项目
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/langfinity</guid>
       <pubDate>Wed, 31 Dec 2025 16:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ekamoira Google 搜索控制台 MCP</title>
+      <link>https://www.producthunt.com/products/ekamoira-gsc-mcp</link>
+      <description><![CDATA[
+            在 Claude &amp; ChatGPT 中查询搜索控制台
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ekamoira-gsc-mcp</guid>
+      <pubDate>Wed, 31 Dec 2025 10:37:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
