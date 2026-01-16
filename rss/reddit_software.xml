@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 16 Jan 2026 18:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 21:18:34 GMT</lastBuildDate>
+    <item>
+      <title>刻录 DVD 时文件大小太大</title>
+      <link>https://www.reddit.com/r/software/comments/1qesbjy/file_size_too_big_when_burning_dvds/</link>
+      <description><![CDATA[我最近有一个 DVD 播放器可以用来刻录，但以前从未这样做过。当我导入文件时，程序（尝试过 dvdstyler 和 yuhan）说它比 4.7GB 限制大得多，即使文件刚刚超过 1GB。我能做什么？   由   提交 /u/Beekle-4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qesbjy/file_size_too_big_when_burning_dvds/</guid>
+      <pubDate>Fri, 16 Jan 2026 21:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件不会说“我不知道这是什么字体”。</title>
+      <link>https://www.reddit.com/r/software/comments/1qerp0z/software_that_doesnt_say_i_dont_know_what_font/</link>
+      <description><![CDATA[使用 adobe acrobat pro PDF 编辑器使用确切的字体，并且在元数据中不会添加或导致问题。我使用的每个 pdf 编辑器都存在字体和元数据问题。 任何与 Adob​​e Acrobat Pro 一样工作但不要求我提供 mulas 的 PDF 文本编辑器。谢谢。我尝试过 PDFGear Sejda ILovePDF  等等。    由   提交 /u/ysfi__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qerp0z/software_that_doesnt_say_i_dont_know_what_font/</guid>
+      <pubDate>Fri, 16 Jan 2026 20:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>RDP 中的 HASP - 有可能吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1qer16p/hasp_in_rdp_is_it_possible/</link>
+      <description><![CDATA[我有一个旧的 HASP HL 3.25 加密狗，我需要将其用于较旧的软件包，但我无法让它通过 RDP 运行。该软件坚持将加密狗插入本地计算机，但这是不可能的。有人设法远程共享此加密狗吗？我缺少什么？   由   提交 /u/Oopsiforgotmyoldacc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qer16p/hasp_in_rdp_is_it_possible/</guid>
+      <pubDate>Fri, 16 Jan 2026 20:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个应用程序可以跟踪您的所有订阅？</title>
+      <link>https://www.reddit.com/r/software/comments/1qeql9p/is_there_an_app_that_tracks_all_your_subscriptions/</link>
+      <description><![CDATA[感谢上帝，我破产了哈哈，但我的银行对被拒绝的交易收取费用，所以我可以看到有人试图从我的帐户中提取资金但失败了。是否有应用可以查看使用我的银行卡的所有订阅？   由   提交/u/pattison_iman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qeql9p/is_there_an_app_that_tracks_all_your_subscriptions/</guid>
+      <pubDate>Fri, 16 Jan 2026 20:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建软件来解决我自己的问题：记住它们是关于哪个网页的注释</title>
+      <link>https://www.reddit.com/r/software/comments/1qeot3e/built_software_to_solve_my_own_problem_notes_that/</link>
+      <description><![CDATA[其他人也有这个问题吗？您可能正在阅读一篇文章或文档，在某处做笔记，然后几周后就不知道这些笔记实际上是关于哪个网页了。或者你会回到某个页面并想“我知道我以前读过这个......我什至从中拿走了什么？” 我找不到任何可以按照我想要的方式解决这个问题的东西，所以我最终自己构建了它 - 一个将注释直接附加到 URL 的浏览器扩展。您在页面上写了一条注释，每当您返回该页面时，它就会再次显示。基本上就是这样。 我自己已经使用它几个月了，它改变了我的研究方式。但我显然有偏见。 寻求来自在线大量阅读/研究的人的诚实反馈：  这是否真正解决了您遇到的问题，还是我是唯一的问题？ 如果您尝试一下，有什么感觉不对劲或令人困惑吗？ 缺少什么可以使这对您的工作流程真正有用？  评论中的链接。它可以免费使用 - 有一个付费套餐，但您不需要它来尝试核心功能。   由   提交/u/iasik  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qeot3e/built_software_to_solve_my_own_problem_notes_that/</guid>
+      <pubDate>Fri, 16 Jan 2026 18:57:27 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找可以让我输入单词或短语的快捷方式的软件</title>
       <link>https://www.reddit.com/r/software/comments/1qen47t/looking_for_software_that_will_allow_me_to_type/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[今天，我突然想到要将一些 DVD 上传到互联网档案馆，然后我意识到我需要将第三方光盘映像刻录程序下载到我的笔记本电脑上。经过一些研究后，我注意到我要使用的程序 ImgBurn 可能与广告软件捆绑在一起。有替代方案吗？ 澄清一下：我使用的是具有 16GB RAM 和 Intel Core i7 的 Windows 11 笔记本电脑，或另一台具有 8GB RAM 和 Intel Pentium Silver 的 Windows 11 笔记本电脑。我正在尝试克隆 DVD iso 以上传到互联网档案馆。   由   提交 /u/Which-Ad4197   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qe6dmz/looking_for_an_alternative_to_imgburn/</guid>
       <pubDate>Fri, 16 Jan 2026 04:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>对人工智能应用程序过敏</title>
-      <link>https://www.reddit.com/r/software/comments/1qe6cay/getting_allergic_to_ai_apps/</link>
-      <description><![CDATA[我不知道是不是只有我这样，但我现在基本上对任何被描述为“我的新 AI &lt;类别名称&gt;”的产品过敏。我最近一直在寻找一款生产力应用程序，并且我实际上跳过了所有在演示/登陆页面中将自己介绍为 AI Workspace 的应用程序。 它们都是很好的应用程序，但就像他们没有聊天机器人一样，然后允许他们将其称为他们无法再部署的人工智能产品。只要提供关心它是否是人工智能的服务即可。把它留给你的投资者推销平台，这样他们就可以准备他们的 Linkedin 帖子，其中包含他们所做的人工智能投资的数量。作为消费者，我不会跟踪这一点（如果我跟踪了，我希望它尽可能少）。   由   提交/u/HughPacman38  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qe6cay/getting_allergic_to_ai_apps/</guid>
-      <pubDate>Fri, 16 Jan 2026 04:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人有使用紫苑的经验？有什么办法可以绕过暴乱与我的伙伴一起玩英勇吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1qe572i/anyone_with_experience_with_aster_is_there_any/</link>
-      <description><![CDATA[我只是想玩《valorant》，但我不能因为 riot 将其检测为作弊软件？我们只是想一起打球，但这很糟糕，即使是在联赛中。如果有任何设置或我们可以做的事情请帮忙:(    提交者    /u/BlissfulAurora   [链接]   href=&quot;https://www.reddit.com/r/software/comments/1qe572i/anyone_with_experience_with_aster_is_there_any/&quot;&gt;[评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qe572i/anyone_with_experience_with_aster_is_there_any/</guid>
-      <pubDate>Fri, 16 Jan 2026 03:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>思维导图网站/应用程序/软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1qe1cmr/mindmap_sitesappssoftware/</link>
-      <description><![CDATA[ 由   提交 /u/InternationalSun744   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qe1cmr/mindmap_sitesappssoftware/</guid>
-      <pubDate>Fri, 16 Jan 2026 00:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于桌面应用程序代码签名证书的问题</title>
-      <link>https://www.reddit.com/r/software/comments/1qe1azl/question_about_code_signing_certificates_for/</link>
-      <description><![CDATA[嗨，我是编程新手，最近启动了一个项目，该项目从打印机读取页计数器并将该数据发送到数据库。在研究过程中，我意识到我需要一个代码签名证书（或类似的证书）才能在另一台电脑上运行我的应用程序。如果我不签名，应用程序就会被删除或阻止。 我一直在寻找廉价的代码签名证书，但我不确定哪些提供商值得信赖。我找到了一些供应商，例如 Verokey 和 Certum，但我不知道他们是否可靠，或者他们的证书是否在我的国家/地区（我在墨西哥）工作。 我以前从未这样做过，并且对代码签名的工作原理有很多疑问。如果有人可以帮助或为我指明正确的方向，我将非常感激。谢谢！   由   提交 /u/Wonderful-Peach-1225   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qe1azl/question_about_code_signing_certificates_for/</guid>
-      <pubDate>Fri, 16 Jan 2026 00:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picasa 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1qdzvfa/picasa_replacement/</link>
-      <description><![CDATA[我希望能够观看视频（来自 go pro）并按下按钮并捕获静态图像并将其即时保存到文件中。我拍摄了很多个人的剧照，所以我无法单独操纵每一张。我可以使用 Picasa 执行此操作，但尚未找到可以执行此操作的程序。    由   提交/u/Oak_Leaf_2025   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qdzvfa/picasa_replacement/</guid>
-      <pubDate>Thu, 15 Jan 2026 23:43:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
