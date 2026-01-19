@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 18 Jan 2026 21:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 01:22:14 GMT</lastBuildDate>
+    <item>
+      <title>2026 年，您可以从 PC 上串流游戏</title>
+      <link>https://www.reddit.com/r/software/comments/1qglukg/streaming_games_from_your_pc_in_2026/</link>
+      <description><![CDATA[您好，我想知道当我去旅行时是否可以将游戏从我的电脑流式传输到我的手机或低配置的笔记本电脑。我看到有大量的服务，但我在 Moonlight（不存在，但不存在）、Steam Link、Razer Remote Play、Parsec 等之间迷失了方向。我需要帮助！   由   提交/u/Similar-Ad2854  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qglukg/streaming_games_from_your_pc_in_2026/</guid>
+      <pubDate>Sun, 18 Jan 2026 22:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发服务。</title>
+      <link>https://www.reddit.com/r/software/comments/1qgl2lp/development_services/</link>
+      <description><![CDATA[软件开发和系统配置服务 我从事软件、机器人和脚本开发以及完整的服务器和平台配置工作，根据每个客户的需求提供定制解决方案。 提供的服务：  定制软件开发 创建自动化机器人 Discord 服务器配置和组织 游戏脚本开发 Minecraft Java版服务器配置 Minecraft基岩版服务器配置 插件和附加组件的安装、调整和优化 纠错和性能改进  所有服务均以专业方式执行，注重质量、稳定性和效率。 价格：价格根据服务、项目复杂程度和开发时间而有所不同。 价格面议。 📩 如需更多信息或索取报价，请联系我们。 yokkiysincero   由   提交 /u/Yookiiy_py   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qgl2lp/development_services/</guid>
+      <pubDate>Sun, 18 Jan 2026 21:39:45 GMT</pubDate>
+    </item>
     <item>
       <title>有人成功地将 HTML 文档转换为单个 PDF（针对 ChatGPT/LLM）吗？</title>
       <link>https://www.reddit.com/r/software/comments/1qgioj2/did_someone_successfully_convert_the_html_doc_to/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我说这是在寻找适用于 Windows 的软件，但实际上它既是 Windows 又是 Linux。 有时我必须使用 Zoom 进行一些在线会议（不是我的选择，会议是别人安排的）。 Zoom 真正让我烦恼的一些事情是，当用户移动到不同的“房间”时，Zoom 会关闭并关闭。打开一个新窗口，该窗口最终位于其他窗口之上。 Linux 版本更糟糕，因为在 Linux 中，Zoom 有时也会窃取输入焦点，并且不记得窗口定位和窗口定位。像 Windows 版本一样查看设置。我希望有一个与 Zoom 会议兼容的替代客户端，并且不会抢走其他应用程序的焦点。   由   提交/u/RolandMT32  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qfwdlm/is_there_an_alternative_zoomcompatible_zoom/</guid>
       <pubDate>Sun, 18 Jan 2026 02:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载了 WSL，PC 无法再启动。</title>
-      <link>https://www.reddit.com/r/software/comments/1qfu3pg/downloaded_wsl_pc_wont_boot_anymore/</link>
-      <description><![CDATA[ 由   提交 /u/ExpressionDue4141   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qfu3pg/downloaded_wsl_pc_wont_boot_anymore/</guid>
-      <pubDate>Sun, 18 Jan 2026 00:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orchestra - 具有智能路由的多模型AI编排系统（100％本地，18+专家模型）</title>
-      <link>https://www.reddit.com/r/software/comments/1qfphs0/orchestra_multimodel_ai_orchestration_system_with/</link>
-      <description><![CDATA[ 由   提交 /u/ericvarney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qfphs0/orchestra_multimodel_ai_orchestration_system_with/</guid>
-      <pubDate>Sat, 17 Jan 2026 21:32:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
