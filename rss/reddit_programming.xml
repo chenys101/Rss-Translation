@@ -4,13 +4,104 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 19 Jan 2026 09:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 15:22:49 GMT</lastBuildDate>
     <item>
-      <title>您的 CDN 不会保存 Web Vitals：修复 Web Vitals 的严肃指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgz3nc/your_cdn_wont_save_web_vitals_the_nononsense/</link>
-      <description><![CDATA[剧透警告：昂贵的 CDN 设置可能会让您对性能感到安全，而实际的用户体验却在崩溃。 👉 请在此处阅读完整的严肃指南以及完整的可操作路线图： 您的 CDN 不会拯救网络生命：完整指南 这是一个令人不安的事实，有数据支持：  根据华盛顿大学对 10,000 个网站的研究，CDN 对性能提升的贡献率仅为 15%。另外 85% 来自您的架构。  让我们理解这一点。一直在微调缓存规则？它正在解决错误的问题。 你需要知道的 Netflix 情节转折 Netflix 的“完美” CDN架构。然而他们的互动时间却很糟糕。为什么？ 问题出在注销页面上的 React 组件。不是 CDN。 他们的解决方案？他们从注册页面中删除了 React，并将其替换为普通 JavaScript。 结果如何？ JavaScript 减少了 200kb，交互时间缩短了 50%。 CDN 没有改变。问题不在于交付速度，而在于执行。 👉 请在此处阅读完整的严肃指南，其中包含完整的可操作路线图： 您的 CDN 不会保存 Web 生命：完整指南 这是基础设施与架构之间的差距 CDN 的作用是尽快将文件从服务器传输到客户端。 客户端上这些文件的执行无法使用 CDN 进行优化。 您的 CDN 可以在 50 毫秒内提供英雄图像，但如果大型 JavaScript 阻止浏览器解析请求它的 HTML，您的 LCP 仍然会很糟糕。 真正的公司，您的 CDN 无法解决的实际问题  Airbnb 的 LCP 被卡住了尽管有复杂的 CDN，但速度仍为 4.2 秒。英雄图像已交付，但被 JavaScript 掩埋。修复？ fetchpriority=“高”。 LCP 降至 2.1 秒。预订量增加了 12%。 Shopify 在其结账按钮上发现了 450 毫秒的 INP。第三方欺诈脚本阻塞了主线程。将其转移到 Partytown 的网络工作人员中，INP 提高了 120 毫秒，购物车放弃率降低了 7%。 Wayfair 发现 CLS 增加 0.1，导致收入损失 1.2%。 动态广告导致 0.45 CLS。通过容器预留修复该问题恢复了 240 万美元的月收入。  难以接受的药丸 如果您的LCP 较高，您的 CDN 无法修复资源加载延迟或元素渲染延迟。如果您的INP很差，您的CDN可以快速交付JS，但无法为您快速执行它。如果您的CLS 很糟糕，您的 CDN 实际上可能会通过不可预测地交付资产而使情况变得更糟。 您一直在优化 15%，而忽略了 85%。 这只是一个开始。我们已经构建了一个完整的90 天性能转型路线图，其中包含 Netflix、Airbnb 和 Walmart 使用的确切步骤，以帮助您实现目标。超越 CDN 神话。 👉 在此处阅读完整的严肃指南以及完整的可操作路线图： 您的 CDN 不会保存 Web 生命：完整指南 P.S.指南的第一部分有一个 60 分钟的行动计划，您可以从今天开始。无需 CDN 配置。   由   提交/u/Additional_Sample758  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgz3nc/your_cdn_wont_save_web_vitals_the_nononsense/</guid>
-      <pubDate>Mon, 19 Jan 2026 08:52:50 GMT</pubDate>
+      <title>让 Claude 擅长 Go（使用一些上下文工程 + Tessl）</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh6uev/making_claude_good_at_go_with_some_context/</link>
+      <description><![CDATA[ 由   提交/u/rotemtam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh6uev/making_claude_good_at_go_with_some_context/</guid>
+      <pubDate>Mon, 19 Jan 2026 15:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于重建读取模型、死信队列以及为什么放手有时是答案</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh6amq/on_rebuilding_read_models_deadletter_queues_and/</link>
+      <description><![CDATA[ 由   提交 /u/Adventurous-Salt8514   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh6amq/on_rebuilding_read_models_deadletter_queues_and/</guid>
+      <pubDate>Mon, 19 Jan 2026 14:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 神经引擎的使用与相机使用期间 M3/M4 芯片的高温相关</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh5uju/apple_neural_engine_usage_correlates_with_high/</link>
+      <description><![CDATA[我一直在开发 Hopp（一款低延迟屏幕共享应用程序），在 MacOS 上我们收到了一些关于高风扇使用率的请求（我自己也经历过）。 这篇文章探讨了我们如何使用 Grafana 和 InfluxDB/macmon 找到发热的确切原因，以及MacOS 是如何导致此问题的。 如果您知道解决方法，很高兴听到它！   由   提交/u/kostakos14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh5uju/apple_neural_engine_usage_correlates_with_high/</guid>
+      <pubDate>Mon, 19 Jan 2026 14:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近在 https://github.com/learning-cloud-native-go/myapp 上达到了 1000 个 GitHub star :)</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh4dmy/i_recently_reached_1000_github_stars_on/</link>
+      <description><![CDATA[我最近在 https://github.com/learning-cloud-native-go/myapp 我在 6-8 年前创建了这个。因此，我推出了即将发布的 Go 1.26rc2、JSON v2、OpenAPI v3 以及最重要的全新 GORM 存储库生成器的重大更新。也检查 Just 文件！ :) 包含电池  使用 Go linter、Docker、Docker Compose、Alpine 开发映像和 Distroless 生产映像。 使用 GORM CLI 生成基于 Go 泛型的数据库存储库。 使用 Goose 构建具有嵌入式迁移功能的数据库迁移 CLI。 使用 Validator.v10 通过 Go 验证表单基于泛型的快速失败验证中间件。 使用 Zerolog 生成请求日志和集中式 Syslog 日志记录。 使用 Swag.v2 生成 OpenAPI v3 规范。 使用 GitHub Actions 运行 linter 和测试，以及构建生产映像并将其推送到注册表。   💡 基于 Go 泛型的表单验证器中间件和存储库生成器。另一个模板，但纯粹由人构建/不是人工智能，也没有遗留框架。采用 STD/轻量级封装。   Golang Subreddit 中的讨论，因为编程 subreddit 不允许交叉发布文本帖子   由   提交/u/dumindunuwan  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh4dmy/i_recently_reached_1000_github_stars_on/</guid>
+      <pubDate>Mon, 19 Jan 2026 13:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器和代理人工智能：更好的结合 • Prashanth HN</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh46pa/serverless_agentic_ai_better_together_prashanth_hn/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh46pa/serverless_agentic_ai_better_together_prashanth_hn/</guid>
+      <pubDate>Mon, 19 Jan 2026 13:30:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙虾首页如何运作</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh44o1/how_the_lobsters_front_page_works/</link>
+      <description><![CDATA[ 由   提交/u/Xadartt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh44o1/how_the_lobsters_front_page_works/</guid>
+      <pubDate>Mon, 19 Jan 2026 13:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建闪电般的高度可配置的基于 Rust 的回测系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh3ci2/building_a_lightningfast_highlyconfigurable/</link>
+      <description><![CDATA[ 由   提交/u/ReplacementNo598  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh3ci2/building_a_lightningfast_highlyconfigurable/</guid>
+      <pubDate>Mon, 19 Jan 2026 12:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>模拟“瓢虫时钟拼图”</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh2b19/simulation_of_the_ladybird_clock_puzzle/</link>
+      <description><![CDATA[ 由   提交/u/lungi_bass  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh2b19/simulation_of_the_ladybird_clock_puzzle/</guid>
+      <pubDate>Mon, 19 Jan 2026 12:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wasm 漏洞：逃离后端 WebAssembly 沙箱</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh2aij/the_wasm_breach_escaping_backend_webassembly/</link>
+      <description><![CDATA[ 由   提交/u/JadeLuxe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh2aij/the_wasm_breach_escaping_backend_webassembly/</guid>
+      <pubDate>Mon, 19 Jan 2026 11:59:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>主题演讲：Rust 与内存安全无关 - Helge Penne - NDC TechTown 2025</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh29xb/keynote_rust_is_not_about_memory_safety_helge/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh29xb/keynote_rust_is_not_about_memory_safety_helge/</guid>
+      <pubDate>Mon, 19 Jan 2026 11:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby on Rails 创建者表示 AI 尚未准备好取代初级开发人员</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh23o0/ai_is_not_ready_to_replace_junior_devs_says_ruby/</link>
+      <description><![CDATA[ 由   提交/u/ImpressiveContest283  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh23o0/ai_is_not_ready_to_replace_junior_devs_says_ruby/</guid>
+      <pubDate>Mon, 19 Jan 2026 11:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>道格拉斯·克罗克福德 (Douglas Crockford) 的新采访</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh1zz5/new_interview_with_douglas_crockford/</link>
+      <description><![CDATA[ 由   提交/u/yegor256  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh1zz5/new_interview_with_douglas_crockford/</guid>
+      <pubDate>Mon, 19 Jan 2026 11:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 数组的隐藏成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1qh13xf/the_hidden_cost_of_postgresql_arrays/</link>
+      <description><![CDATA[关于 Postgres ARRAY 的权衡的非常深思熟虑的文章，在许多情况下可以替代一对多和多对多。多对多关系：  等等？我们要讨论 JSONB 数组吗？一点也不。 RDBMS 中数组的整个概念实际上是变相的文档存储。 在数据库设计中，局部性通过将相关数据保持在物理存储上来确保更快的检索时间。无论您使用不同的整数 [] 类型还是 JSON 列表 [1,2,3]，您都在做出完全相同的架构决策：您优先考虑局部性而不是规范化。    由   提交/u/BinaryIgor  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qh13xf/the_hidden_cost_of_postgresql_arrays/</guid>
+      <pubDate>Mon, 19 Jan 2026 10:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程作为理论构建，第二部分：当制度崩溃时</title>
+      <link>https://www.reddit.com/r/programming/comments/1qgzsm1/programming_as_theory_building_part_ii_when/</link>
+      <description><![CDATA[ 由   提交 /u/cekrem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qgzsm1/programming_as_theory_building_part_ii_when/</guid>
+      <pubDate>Mon, 19 Jan 2026 09:35:18 GMT</pubDate>
     </item>
     <item>
       <title>追逐换行符</title>
@@ -18,97 +109,6 @@
       <description><![CDATA[换行符 \n 的 ASCII 表示形式是什么？我们可以编写一个简单的程序来打印一些带有换行符的文本，然后查看二进制输出...    由   提交 /u/Idiomatic-Oval   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qgyp1c/chasing_a_newline/</guid>
       <pubDate>Mon, 19 Jan 2026 08:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 Java 开发人员和架构师的 Google Gemini：2026 年实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgxxhl/google_gemini_for_java_developers_architects_a/</link>
-      <description><![CDATA[让我们探索 Java 开发人员和软件架构师如何使用 Google Gemini，重点关注真实的开发和架构用例，而不是炒作。  本文涵盖：Google Gemini 是什么以及它与典型的代码助手有何不同，它如何适应 Java 开发工作流程（IDE 支持、API、CLI、Vertex AI）、使用 Gemini 进行架构审查、微服务和迁移场景、生产使用的优势、限制和最佳实践，以及适合初学者的解释和实际示例。  让我们在这里完整地查看一下：Google Gemini for Java Developers &amp;建筑师   由   提交/u/erdsingh24  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgxxhl/google_gemini_for_java_developers_architects_a/</guid>
-      <pubDate>Mon, 19 Jan 2026 07:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>可靠性 > 运输速度。跟我战斗吧</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgxl7w/reliability_shipping_speed_fight_me/</link>
-      <description><![CDATA[构建雅虎财经 MCP 服务器。  第 3 天：20 个请求中有 17 个超时。大多数开发人员无论如何都会发布并称之为“MVP”。 我花了 2 周的时间进行弹性工程。 这是我构建的： 🔹 断路器 — 带自动恢复的 CLOSED/OPEN/HALF_OPEN 状态 🔹 令牌桶 + 自适应 + 每个端点速率限制 🔹 LRU 缓存stale-while-revalidate — 70-90% 的命中率 🔹 数据质量评分 — 完整性 + 完整性验证 🔹 混沌测试 — 网络故障、速率限制、部分数据 PM 决策：不要交付不可靠的代码。 如果您的机器人在凌晨 2 点死亡，您的 2 天交付时间并不重要。 使用 AI 构建我的结对程序员（TRAE 😍）。 TRAE 抓住了我会错过的边缘情况。我们讨论了权衡。我们一起编写了混沌测试。 结果： ✅ 95%+ 测试覆盖率 ✅ &lt;500ms 冷启动 ✅ 13 多个工具已验证工作 ✅ 生产级弹性 已知问题： - 加密货币/外汇 = 占位符数据 - 金融 = 某些交易品种可能会失败 残酷的事实： 建立在不可靠的 API 之上？ 要么设计弹性，要么继承其不可靠性。 tl;dr： 在 2 天的发货时间内选择 2 周的弹性。  PM 决定是可靠性&gt;速度。  人工智能结对程序员提供了帮助。 95% 测试覆盖率。   由   提交/u/kanishkanmd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgxl7w/reliability_shipping_speed_fight_me/</guid>
-      <pubDate>Mon, 19 Jan 2026 07:20:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>重构俱乐部的真正魔力</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgx8hs/the_true_magic_of_refactoring_club/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgx8hs/the_true_magic_of_refactoring_club/</guid>
-      <pubDate>Mon, 19 Jan 2026 07:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业转换者：Thane 的 Java 课程是否是一个合适的切入点？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgvxww/career_switchers_would_java_classes_in_thane_be/</link>
-      <description><![CDATA[我也在考虑将我的职业转向软件开发，并考虑在 Thane 学习 Java 课程，但是，我试图现实地看待学习曲线。我的非IT背景使得Java在OOP、逻辑构造和应用程序设计等概念上显得令人生畏却又令人困惑。  根据我的经验，转行最大的问题不是语法，而是在实际项目中如何使用 Java 的感觉。许多人开始随机地学习教程，并由于缺乏特定的顺序而感到困惑。  我采访了一些学习者，他们声称结构化学习使他们保持一致，特别是当科目按顺序教授并结合现实生活中的例子时。其他人则表示，他们在 Quastech IT Training &amp; 培训中的学习变得如此清晰。位于塔那的安置学院，他们在进一步学习之前在那里学习了基础知识。  我正处于决策阶段并做出正确的期望。  对于那些转行Java的人来说，一开始最困难的事情是什么，你是如何度过的？   由   提交/u/PristinePlace3079  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgvxww/career_switchers_would_java_classes_in_thane_be/</guid>
-      <pubDate>Mon, 19 Jan 2026 05:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码审查经济的基础建立在沙子上，而且已经变得太大而无法移动（人工智能泡沫短篇小说）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgv8yy/the_code_review_economy_built_its_foundations_on/</link>
-      <description><![CDATA[ 由   提交/u/plettj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgv8yy/the_code_review_economy_built_its_foundations_on/</guid>
-      <pubDate>Mon, 19 Jan 2026 05:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源为何失败？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgrlxu/why_is_open_source_failing/</link>
-      <description><![CDATA[ 由   提交/u/nix-solves-that-2317   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgrlxu/why_is_open_source_failing/</guid>
-      <pubDate>Mon, 19 Jan 2026 02:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>UTF-8为什么在第一个字节指定长度？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgqj55/utf8_why_specify_length_in_the_first_byte/</link>
-      <description><![CDATA[我偶然发现了这个视频，它解释了 UTF-8 编码如何很好地工作，但有一点我不太了解非 ASCII 字符的编码。如果我理解正确的话，这些字符可以由 1-4 个字节组成。第一个字节必须以 10、110、1110 或 11110 开头，长度为 1、2、3 或 4 个字节。接下来的字节（相同字符）必须以 10 开头。这是有道理的，但对我来说似乎非常浪费。相反，如果每个字符的第一个字节以 11 开头，并且后续字节（同一字符）以 10 开头，则始终可以清楚某个字节是否位于字符的开头。同样，通过这种方式，4 个字节将能够编码 224 个符号，而不是 221。 我能想到的第一种方法的唯一好处是，对字符串中的某个字符进行计数或索引速度更快，因为只需要读取每个字符的第一个字节。与第二个系统相比，还有其他优点或问题吗？   由   提交/u/zz9873  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgqj55/utf8_why_specify_length_in_the_first_byte/</guid>
-      <pubDate>Mon, 19 Jan 2026 01:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 开发的真正未来不是新的 IDE</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgjqlm/the_real_future_of_ai_development_isnt_a_new_ide/</link>
-      <description><![CDATA[ 由   提交/u/yuvalhazaz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgjqlm/the_real_future_of_ai_development_isnt_a_new_ide/</guid>
-      <pubDate>Sun, 18 Jan 2026 20:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 多个氛围编码项目是什么样的</title>
-      <link>https://www.reddit.com/r/programming/comments/1qggmn5/what_100_vibe_coding_projects_looks_like/</link>
-      <description><![CDATA[两年来，我一直在 6 个垂直领域使用 Claude Code 进行构建： - 教育（Google 课堂自动化） - 医疗保健（28 天平台构建） - 音乐（Rust 音频插件） - 游戏（15+ Roblox 游戏） - 数据科学（Kaggle 竞赛） - 电子商务（Shopify 主题）   由   提交/u/No_Hand_6692   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qggmn5/what_100_vibe_coding_projects_looks_like/</guid>
-      <pubDate>Sun, 18 Jan 2026 18:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>人人都会成为程序员</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgga3r/everyone_will_be_a_programmer/</link>
-      <description><![CDATA[我们正处于软件世界根本性转变的边缘。软件即服务的概念在过去十年中主导了市场，但现在正慢慢开始动摇。不是因为新的竞争或更好的替代方案，而是因为为通用解决方案付费的想法正在失去意义。   由   提交/u/Sad-Interaction2478  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgga3r/everyone_will_be_a_programmer/</guid>
-      <pubDate>Sun, 18 Jan 2026 18:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPU 产量很高，但几乎每个人都误读了它</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgg93z/cpu_is_high_in_production_and_almost_everyone/</link>
-      <description><![CDATA[有关调试高 CPU 使用率进程的快速介绍。    由   提交 /u/SmoothYogurtcloset65   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgg93z/cpu_is_high_in_production_and_almost_everyone/</guid>
-      <pubDate>Sun, 18 Jan 2026 18:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>太多的儿童照片和 Apple Vision 框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1qge2q8/too_many_kid_photos_and_the_apple_vision_framework/</link>
-      <description><![CDATA[ 由   提交/u/scotchi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qge2q8/too_many_kid_photos_and_the_apple_vision_framework/</guid>
-      <pubDate>Sun, 18 Jan 2026 17:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何更快地学习编程/编码？提示和指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1qgcg95/how_do_i_learn_programmingcoding_faster_tips_and/</link>
-      <description><![CDATA[您好！我目前是一名大学一年级学生，学习信息技术。现在是我的第二学期。第一学期我没学到太多东西。我现在要认真了。告诉我，除了在学习中掌握编码/编程之外，学习或购买专门针对Java或Python等编程语言的教科书也很重要吗？我的学校只给我们提供了简短的模块作为指导，而不是整本书，它很短并且没有足够的解释。我有几千页的PDF书籍，但我也不习惯在笔记本电脑上学习，我的视力会变得更差。而且我没有足够的预算来写一本书。那么，我应该让自己习惯在笔记本电脑上学习吗？并专注于通过应用我所学的知识进行更多的实践编码和编程？或者我真的应该买书吗？我真的非常想学习这门课程，如果我想学习一些东西，我真的想更深入地研究它并完全理解它是如何工作的，而不仅仅是通过放置代码。    由   提交/u/No_Childhood7709   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qgcg95/how_do_i_learn_programmingcoding_faster_tips_and/</guid>
-      <pubDate>Sun, 18 Jan 2026 16:07:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
