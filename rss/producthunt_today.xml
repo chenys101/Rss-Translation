@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 21 Jan 2026 09:29:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:40:05 GMT</lastBuildDate>
     <item>
       <title>人民网</title>
       <link>https://www.producthunt.com/products/the-people-net</link>
@@ -65,7 +65,7 @@
       <title>关联数据库</title>
       <link>https://www.producthunt.com/products/relatedb</link>
       <description><![CDATA[
-            浏览器中的离线优先数据库模式设计器
+            浏览器中的离线优先数据库架构设计器
           
 
 讨论
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/forvibe</guid>
       <pubDate>Mon, 19 Jan 2026 10:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>痕迹</title>
-      <link>https://www.producthunt.com/products/trace-23</link>
-      <description><![CDATA[
-            该死的算法。自己制作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/trace-23</guid>
-      <pubDate>Mon, 19 Jan 2026 10:05:47 GMT</pubDate>
     </item>
     <item>
       <title>活</title>
@@ -158,6 +144,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/blink-21</guid>
       <pubDate>Thu, 15 Jan 2026 04:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>多巴胺聊天</title>
+      <link>https://www.producthunt.com/products/dopamine-chat</link>
+      <description><![CDATA[
+            轻松为您所做的一切建立 AI 团队
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dopamine-chat</guid>
+      <pubDate>Tue, 13 Jan 2026 14:40:40 GMT</pubDate>
     </item>
     <item>
       <title>引用</title>
