@@ -4,111 +4,111 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Jan 2026 18:30:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 21:21:47 GMT</lastBuildDate>
     <item>
-      <title>对于 OSS 维护者：除了代码之外，您希望开发人员从您的存储库中学到什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnjt6l/for_oss_maintainers_beyond_the_code_what_do_you/</link>
-      <description><![CDATA[考虑到许多新开发人员希望通过开源项目来学习和贡献，除了代码之外，他们还能从您的存储库中学到什么？  可能与架构、项目结构、创新系统设计、算法等相关。   由   提交/u/bills2go  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnjt6l/for_oss_maintainers_beyond_the_code_what_do_you/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:53:40 GMT</pubDate>
+      <title>OneTalker - 用 Rust 编写的增强和替代通信 (AAC) 应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qkny99/onetalker_an_augmentative_and_alternative/</link>
+      <description><![CDATA[ 由   提交 /u/MissionNo4775   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qkny99/onetalker_an_augmentative_and_alternative/</guid>
+      <pubDate>Fri, 23 Jan 2026 11:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>Schema3D：交互式 SQL 数据库架构可视化工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnjjg4/schema3d_interactive_sql_database_schema/</link>
-      <description><![CDATA[      很高兴分享我最近开源的一个项目：Schema3D - 用于在交互式 3D 空间中可视化数据库架构的工具。 为什么开源现在？ 在内部使用它并从各个开发社区获得反馈后，感觉是时候让其他人贡献并分叉它来满足他们的特定需求了。 主要功能：  使用 Three.js 实现复杂架构导航的 3D 可视化 从 SQL DDL 或 Mermaid Markdown 导入 按自定义类别过滤 共享整个架构&amp;通过编码的 URL 查看状态（不需要后端/数据库）  现场演示：Schema3D.com GitHub：[链接] 我最初是为自己构建的，但很乐意看到它成长并对其他人有用。欢迎提出建议和贡献！   由   提交/u/shane-jacobeen  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnjjg4/schema3d_interactive_sql_database_schema/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:44:03 GMT</pubDate>
+      <title>帮助调试生产事件的开源人工智能代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qkkf6m/an_open_source_ai_agent_to_help_debug_production/</link>
+      <description><![CDATA[我最近开源了一个我构建的 AI 代理，用于帮助调试生产事件。 当产品损坏时，需要花费大量时间来重建上下文。警报、日志、票证、注释和临时检查最终分散在不同的工具中，人们重复相同的工作或提出相同的问题，因为没有人清楚地了解已经查看过的内容。 代理与事件一起运行，并且：  将警报、日志和注释放在一起 持续总结已知和尚不清楚的内容 跟踪检查和操作，以便工作不重复 建议缓解措施（服务重启、配置回滚、修复 PR），但一切都需要明确的人工批准  这是故意保守的。没有自动修复，未经人工批准，后台不会发生任何事情。 这是第一个开源版本。它在本地运行，自述文件包括设置说明和演示。 存储库：https://github.com/incidentfox/incidentfox   由   提交 /u/Useful-Process9033   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qkkf6m/an_open_source_ai_agent_to_help_debug_production/</guid>
+      <pubDate>Fri, 23 Jan 2026 07:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>检索和重新排序：无需离开 Postgres 的个性化搜索</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnjcq4/retrieve_and_rerank_personalized_search_without/</link>
-      <description><![CDATA[       由   提交/u/philippemnoel  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnjcq4/retrieve_and_rerank_personalized_search_without/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:37:30 GMT</pubDate>
+      <title>我为 Linux 和 Android 构建了一个开源、本地优先的 Things 3 替代品（React Native + Tauri）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qkgq9k/i_built_an_opensource_localfirst_alternative_to/</link>
+      <description><![CDATA[嗨 r/opensource， 我是 Dongda，一名博士生和长期 Linux 用户。 多年来，我一直对最好的“把事情做好”感到沮丧。 (GTD) 应用程序（例如 Things 3 或 OmniFocus）专门锁定在 Apple 生态系统中。作为生活在 Arch Linux 和 Android 中的人，我被 Electron 网络包装器或专有应用程序困住了，这些应用程序将我的生活数据以明文形式存储在服务器上。 因此，我去年花了一年时间构建 Mindwtr 来解决这个问题。 它是一个严格的 GTD 任务管理器，将 Linux 和 Android 视为一等公民，默认尊重您的隐私，并且完全开源。 🛠️技术堆栈 我知道这个 sub 喜欢细节，所以它的构建方式如下：  移动设备： React Native (Expo)，带有 Reanimated 60fps 手势。 桌面： Tauri v2 (Rust + React)。与 Electron 重量级应用程序相比，这使应用程序保持轻量级（约 10MB 安装程序）。 数据库： SQLite（在移动设备上通过 op-sqlite，在桌面上原生）。所有数据都严格本地优先。 同步：我构建了一个端到端加密的自定义同步引擎。您可以使用我的中继或自行托管您自己的 Docker 容器。它也支持基于文件的同步（Syncthing/Dropbox）和 WebDAV。 许可证： MIT 许可证。  ✨ 为什么使用它？  严格的方法：这不仅仅是一个清单。它强制 GTD 工作流程：捕获 → 澄清（收件箱向导）→ 组织（上下文/项目）→ 反思（每周回顾）。 跨平台：Android 和 Linux 版本功能相同。 无订阅：它是免费的。没有“溢价”锁定深色模式或重复任务等基本功能。  🔗 链接  源代码： GitHub Google Play 商店： 下载 桌面版本 (Linux/Windows/macOS)： GitHub 版本  我正在积极寻找贡献者！如果您了解 React 或 Rust，并希望帮助构建最好的开放生产力工具，我很乐意看到一些 PR。 让我知道您对该架构的看法，或者如果您对同步实现有疑问！   由   提交 /u/dongdongbh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qkgq9k/i_built_an_opensource_localfirst_alternative_to/</guid>
+      <pubDate>Fri, 23 Jan 2026 04:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>LLM代码安全检查器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnjcd4/llm_code_safety_checker/</link>
-      <description><![CDATA[您好，我正在开发一个小型开源工具，该工具可以在人工审核之前过滤 LLM 生成的代码。 重要提示：这不是为了判断代码质量、正确性或更换人工审核者。人类仍然编写测试，定义约束，并决定代码是否可接受。 该工具只做一件狭隘的事情：给定一组明确的规则（构建、单元测试、覆盖阈值、禁止的 API/库、安全 linter、无网络等），它在隔离的容器中运行代码，并在出现问题时快速失败并提供具体证据（日志、跟踪、规则违规）。 目标是减少低信号审查工作，例如“这是否可以运行”，“它是否会随机抽取”，或者“为什么这个测试在本地失败，但在这里却失败”，因此审阅者可以从更高的级别开始。 对于审阅大量不受信任或自动生成的代码的人：这样的东西实际上会有所帮助，还是前提有缺陷？ 上下文回购（不是试图出售它）：https://github.com/JihadHammoud02/codegate 很高兴邀请人们就此进行协作。   由   提交 /u/Record_Greedy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnjcd4/llm_code_safety_checker/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:37:09 GMT</pubDate>
+      <title>构建了一个开源、自托管的人工智能代理自动化平台——欢迎反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qkgf6j/built_an_opensource_selfhosted_ai_agent/</link>
+      <description><![CDATA[大家好👋 我一直在构建一个开源、自托管的 AI 代理自动化平台，该平台在本地运行并将所有数据置于您的控制之下。它专注于代理工作流程、调度、执行日志和文档聊天 (RAG)，而不依赖于托管 SaaS 工具。 我最近整理了一个包含文档和项目概述的小型网站。 评论中提供了该网站和 GitHub 的链接。 非常感谢构建或试验开源 AI 系统的人们的反馈🙌   由   提交 /u/Feathered-Beast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qkgf6j/built_an_opensource_selfhosted_ai_agent/</guid>
+      <pubDate>Fri, 23 Jan 2026 03:57:06 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个开源 AI 编码代理，可以处理线性问题并创建 GitHub PR</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnj4f8/i_built_an_opensource_ai_coding_agent_that/</link>
-      <description><![CDATA[大家好， 我一直在研究 Ralph，一个事件驱动的 AI 编码代理平台。它监视线性问题，使用 Claude AI 规划和编写代码，使用 linter/类型检查器验证所有内容，并将 PR 推送到 GitHub。  它的作用： - 触发标记为“Ralph”的线性问题 - Claude Opus 创建实施计划  - Claude Sonnet 使用本机工具生成代码  - 使用 Biome、TSC、Ruff、Mypy、Trivy 进行验证  - 将功能分支推送到 GitHub  多存储库支持： 通过 env 变量将 Linear 团队映射到存储库。团队“FRONT”转到前端存储库，“BACK”团队转到后端存储库。问题描述中没有魔法。  STACK： - Node.js + TypeScript  - 用于作业队列的 Redis + BullMQ  - 用于部署的 Docker + Helm + Terraform  - 为 GKE 设计，但可与 Redis 一起在任何地方使用  自托管： 只需运行： docker-compose up --build  您需要： Anthropic API 密钥、GitHub 令牌、线性 Webhook 秘密  安全：命令允许列表、shell 注入阻止、工作区隔离、Trivy 扫描  GitHub：github.com/Replikanti/ralph-platform 许可证：MIT  希望获得反馈，尤其是有关安全模型的反馈。您希望添加什么内容？   由   提交 /u/No_Professional7654   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnj4f8/i_built_an_opensource_ai_coding_agent_that/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:29:13 GMT</pubDate>
+      <title>如何让测试人员接受一个想法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk8zbi/how_does_one_get_testers_for_an_idea/</link>
+      <description><![CDATA[很好奇你们是怎么做到的，特别是如果它是专注于开发+利基的。   由   提交/u/EnderAvni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk8zbi/how_does_one_get_testers_for_an_idea/</guid>
+      <pubDate>Thu, 22 Jan 2026 22:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>使用 GitHub 私人存储库进行零信任安全密钥存储</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnj2xq/zero_trust_secure_key_storage_using_your_github/</link>
-      <description><![CDATA[嘿伙计们， 本周末构建了 AxKeyStore - 一个开源 CLI，用于使用您自己的私有 GitHub 存储库作为存储来安全地管理机密。 -&gt;上传前本地加密 -&gt;零信任架构 -&gt;通过 Git 提交进行版本控制的机密 无纯文本。没有外部秘密服务器。 只有你 + GitHub。 请尝试并提供反馈。非常感谢。   由   提交/u/robin_a_p   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnj2xq/zero_trust_secure_key_storage_using_your_github/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:27:46 GMT</pubDate>
+      <title>我开源了 macOS 应该内置的鼠标中键</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk8c0i/i_opensourced_the_middle_mouse_button_macos/</link>
+      <description><![CDATA[   多年来，我一直对 Mac 触控板上不存在像中键单击这样基本的功能感到沮丧。确实存在的解决方案是：  付费 - BetterTouchTool（10-24美元），中级（8美元） 废弃 - MagicPrefs几年前就停止工作了 仅CLI - MiddleClick需要终端配置，没有GUI  这样的基本功能是付费的或被保留的，这感觉不对腐烂。因此，我构建了 MiddleDrag 并在 MIT 下发布了它。 它的作用： 三指点击用于中键单击，三指拖动用于中键拖动。与任务控制一起工作 - 您不必禁用系统手势。 为什么要开源它？ 中键单击不是一项高级功能。这是苹果只是……没有实施的基本输入。收取 8 美元的费用或将其埋在 24 美元的生产力套件中，感觉就像对买不起外部鼠标的人征税。我想要一些可以正常工作、免费、并且在我被公交车撞到时可以由社区维护的东西。 网站：https://middledrag.app GitHub：https://github.com/NullPointerDepressiveDisorder/MiddleDrag 安装：brew tap nullpointerdepressivedisorder/tapbrew install --cask middledrag如果您发现它有用，GitHub 上的星星确实会有所帮助 - 我正在努力达到 75 颗星以获得官方 Homebrew 存储库的资格。如果您想贡献或跟踪更新，也欢迎分叉和观察者。 很乐意回答有关实施的问题、修复错误或接受功能请求。不要害怕公关！   由   提交 /u/KKMAWESOME   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk8c0i/i_opensourced_the_middle_mouse_button_macos/</guid>
+      <pubDate>Thu, 22 Jan 2026 22:05:48 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在完善 Go 后端框架并添加了一个 PostgreSQL 示例 - 希望得到反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnin0r/ive_been_refining_a_go_backend_framework_and/</link>
-      <description><![CDATA[       由   提交/u/janishar  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnin0r/ive_been_refining_a_go_backend_framework_and/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:11:43 GMT</pubDate>
+      <title>深陷 AI 泥潭，cURL 终止了 bug 赏金</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk6vz5/drowning_in_ai_slop_curl_ends_bug_bounties/</link>
+      <description><![CDATA[       由   提交 /u/CackleRooster   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk6vz5/drowning_in_ai_slop_curl_ends_bug_bounties/</guid>
+      <pubDate>Thu, 22 Jan 2026 21:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>LLM-X：开源 Python 库，用于对语言模型进行精确的、硬件感知的内存估计（仅限 *.safetensors）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnifs9/llmx_opensource_python_library_for_precise/</link>
-      <description><![CDATA[大家好， 我要介绍LLM-X（就像CPU-X！）。  LLM-X 是一个开源 Python 库，用于对语言模型的推理内存消耗进行**精确、硬件感知的估计**。  它对模型的张量进行逆向工程，以确定生产中的内存消耗量，从而比 hf-mem 或 Accelerate 等其他工具具有更高的精度，这些工具仅通过计算当前模型权重的大小来低估内存消耗。 这意味着 LLM-X 考虑：  真实张量形状、填充和填充。对齐。 引擎特定的开销（融合操作、分配器行为）。 准确的 KV 缓存大小调整（根据上下文长度、批量大小、量化）。 内存的硬件感知检测（使用 nvidia-ml-py 和 psutil 的 VRAM/RAM），其指标显示模型在不同级别的量化和上下文窗口下在生产中使用的可用内存百分比。  典型准确度：~98%（误差~1.8%），而朴素方法的误差为113–130%。  由于GGUF（来自 llama.cpp 框架）是一个单文件二进制容器，鉴于它需要特殊处理，我推迟了添加对它的支持，但它会来的。目前仅支持 *.safetensors。 尝试一下，分享您的结果！我愿意接受反馈/PR。   由   提交/u/sheikyon_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnifs9/llmx_opensource_python_library_for_precise/</guid>
-      <pubDate>Mon, 26 Jan 2026 15:04:23 GMT</pubDate>
+      <title>微软发布用于纠错和化学的开源量子开发工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk6ikl/microsoft_releases_opensource_quantum_development/</link>
+      <description><![CDATA[       由   提交/u/donutloop  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk6ikl/microsoft_releases_opensource_quantum_development/</guid>
+      <pubDate>Thu, 22 Jan 2026 20:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>开源项目：GitHub 排名</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnhs7p/opensource_project_github_ranked/</link>
-      <description><![CDATA[刚刚完成了一个工具，可以将您的 GitHub 活动转变为有竞争力的排名徽章。 它根据 PR (40%)、评论 (30%)、问题 (20%)、提交 (10%) 和星星来计算 Elo 风格的分数。级别范围从铁级（排名最后 5%）到挑战者（排名前 0.1%）。支持主题（目前仅支持深色和浅色）和每年的季节。 [Repo] [演示] 轻松添加到您的个人资料： ！[Rank](https://github-ranked.vercel.app/api/rank/YOUR_USERNAME) 接受贡献！以及你们的总体想法。   由   提交 /u/Verlassenh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnhs7p/opensource_project_github_ranked/</guid>
-      <pubDate>Mon, 26 Jan 2026 14:39:47 GMT</pubDate>
+      <title>重塑开源（和 Arc Raiders）品牌</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk6129/rebranding_open_source_and_arc_raiders/</link>
+      <description><![CDATA[我最近开始在我的 Steam Deck 上玩很多 Arc Raiders。对于那些不熟悉的人来说，这是一款像《堡垒之夜》一样的游戏，你必须自己制作枪支、弹药等，如果你在一轮中死亡，你就会失去一切。  在每轮开始时，您可以制作（或购买）枪支/弹药或使用“免费装载”武器。 - 非常基本的物品套装，具有最低限度。一直使用免费负载有点被人看不起。  你还可以在一轮中抢劫以获得制作材料、枪支和弹药......以及蓝图。  蓝图解锁了制作特定物品的能力，否则你必须用游戏内的钱购买或在一轮中偶然遇到这些物品。通常，根据蓝图构建物品所使用的材料所使用的资源远少于购买该物品所需的游戏内金钱。  我一直在思考开源和“品牌问题”。它确实如此，许多公司类型认为对于大学生来说这些都是不可靠的东西，可以修补，但不适合严肃的业务，除了一两个例外。  但是在玩《Arc Raiders》时，令我印象深刻的是，出于某种原因，使用开源（如啤酒中的免费）被视为使用“免费加载”。 - 例如，Android 因为 iPhone 很贵，Linux 因为你买不起 Mac，LibreOffice 因为 Office 365 太贵等等。没有传达的是开源（自由中的免费）就是拥有蓝图。事实上，它像啤酒一样免费，这只是一个额外的好处。 有点漫无目的/随意的想法，但希望《Arc Raiders》玩家们能理解我在说什么。    由   提交 /u/Last_Bad_2687   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk6129/rebranding_open_source_and_arc_raiders/</guid>
+      <pubDate>Thu, 22 Jan 2026 20:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个可以自行托管的单文件 PHP MP3 播放器 (NeonAMP)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qngqpe/i_built_a_singlefile_php_mp3_player_you_can/</link>
-      <description><![CDATA[ 由   提交/u/hilti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qngqpe/i_built_a_singlefile_php_mp3_player_you_can/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:58:45 GMT</pubDate>
+      <title>另类 Android 音乐播放器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk4nhy/alternative_android_music_player/</link>
+      <description><![CDATA[嗯，这是我第一次在这里发帖。我只是想知道是否有适用于 Android 的音乐播放器可以选择将图像添加到播放列表。 我想离开 Spotify 并将我的歌曲传输到 MP3，但我怀念 Spotify 的这个功能。 我目前使用 Musicolet，但如果它有这个选项那就太好了。   由   提交 /u/GreenFox_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk4nhy/alternative_android_music_player/</guid>
+      <pubDate>Thu, 22 Jan 2026 19:46:39 GMT</pubDate>
     </item>
     <item>
-      <title>VaultSync：专为提高透明度和速度而构建的开源备份和快照管理器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qngo7v/vaultsync_an_opensource_backup_snapshot_manager/</link>
-      <description><![CDATA[我想介绍一下VaultSync，它是一款开源桌面备份和快照实用程序，专为使用大型项目文件夹和网络存储的开发人员、创建者和高级用户而设计。 VaultSync 专注于可见性和可预测性：您始终可以看到备份的内容、备份的去向、更改的内容以及原因。 与此不同与其他备份工具相比，VaultSync 会公开其完整历史记录、元数据和状态，以便随着时间的推移，多机和 NAS 设置保持易于理解。 它的用途 VaultSync 管理项目文件夹的快照 + 备份，具有简洁的 UI 和对本地磁盘、外部驱动器和网络共享的强大支持。 它特别适合：  开发工作区 游戏项目 创意文件夹 NAS / 家庭实验室环境  主要功能  快照和快照历史记录跟踪每个项目添加、修改、删除和未更改的文件。 透明备份带有完整历史记录和可检查元数据的时间戳备份。 跨机器同步备份历史记录可以通过元数据同步跨机器跟踪您。 NAS 和存储设备。网络共享支持 SMB 自动挂载以及凭据配置文件、权限感知清理和重试处理。 保留和重试处理。 “保留”备份自动修剪受保护的备份，永远不会删除。 散列和备份。验证准确了解哪些内容发生了变化，哪些内容没有变化。 自动备份和验证更新程序设置一次，VaultSync 就会使其自身和您的数据保持最新状态。 跨平台现已支持 Windows 和 macOS，Linux 即将推出。  理念 VaultSync 的构建基础是：  透明高于魔法 长时间内可预测的行为会话 清晰的用户界面，而不是隐藏的自动化 尊重网络存储怪癖（NAS、权限、睡眠、安装）  链接   GitHub 存储库： https://github.com/ATAC-Helicopter/VaultSync  Subreddit： https://www.reddit.com/r/VaultSync/  我正在积极开发它并在subreddit。 非常欢迎反馈、边缘情况和奇怪的存储设置   由   提交/u/mainseeker1486  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qngo7v/vaultsync_an_opensource_backup_snapshot_manager/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:55:56 GMT</pubDate>
+      <title>开源 UI 引擎，用语义意图替换组件树</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk2v36/open_sourcing_a_ui_engine_that_replaces_component/</link>
+      <description><![CDATA[我正在开发一个名为Ripple的项目。 概念： 如今，大多数 AI UI 生成都依赖于了解特定组件库的法学硕士（“使用 props X 渲染卡”）。我想构建一些更抽象的东西：一个人工智能仅声明意图（“显示飞行选项”）并由引擎处理渲染实现的引擎。 状态：  核心引擎 (Svelte) 已在演示中上线。 文档和规格已在 GitHub 上发布。 完整代码计划于第二季度发布。  演示（免费） GitHub： github.com/interacly/ripple（我们正在清理代码并构建独立核心以支持更多前端框架） 很想听听您对此的想法   由   提交/u/prakashTech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk2v36/open_sourcing_a_ui_engine_that_replaces_component/</guid>
+      <pubDate>Thu, 22 Jan 2026 18:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>City2Graph：将地理空间数据转换为图形（网络）的 Python 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qng3rb/city2graph_a_python_library_converting_geospatial/</link>
-      <description><![CDATA[      我想介绍 City2Graph，一个新的 Python 包，它弥补了地理空间数据和基于图形的机器学习之间的差距。 它的作用：City2Graph 将地理空间数据集转换为图形表示，并无缝集成 GeoPandas、NetworkX 和 PyTorch Geometric。无论您是进行空间网络分析还是为 GeoAI 应用构建图神经网络，它都提供了统一的工作流程。 主要功能：  形态图：对建筑物、街道和城市空间之间的关系进行建模 交通网络：将 GTFS 交通数据处理为多模态图 交通流：根据 OD 矩阵和移动流数据构建图表 邻近图：根据距离或邻接构建图表  链接：  💻 GitHub：https://github.com/c2g-dev/city2graph  📚 文档：https://city2graph.net    由   提交/u/Tough_Ad_6598  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qng3rb/city2graph_a_python_library_converting_geospatial/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:32:29 GMT</pubDate>
+      <title>有任何开源项目需要帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk2trb/any_opensource_projects_looking_for_help/</link>
+      <description><![CDATA[寻找具有以下功能的开源项目：  需要更多开发人员 已经被人们使用并且对他们很重要  不需要付费或任何东西，只是寻找建议。我对这些技能拥有相当广泛的技能（从最多经验到最少经验）：  C++ HTML/CSS/JS 以及 React Java 后端服务器 Python 深度学习 C 编程  通过这些随机接触  Godot 游戏开发、Java 桌面应用、Android 开发    由   提交 /u/Critical-Volume2360   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk2trb/any_opensource_projects_looking_for_help/</guid>
+      <pubDate>Thu, 22 Jan 2026 18:41:11 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建 LibertyLens – 为您的手机提供的开源“黑匣子”（双重录制 + 隐形模式）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qng0c6/im_building_libertylens_an_open_source_black_box/</link>
-      <description><![CDATA[嘿， 我一直在致力于一个名为 **LibertyLens** 的项目，我正在寻找反馈和贡献者。  **问题：** 我们都看过公开对抗或行使第一修正案权利的视频，其中视频被剪切、删除或手机被拿走。仅仅依靠直播（会降低质量）或本地录制（可以删除）是不够的。  **解决方案：** LibertyLens 是一款基于 Flutter 的开源移动应用程序，旨在成为终极个人随身摄像机/证据记录器。它将数据完整性和安全性放在首位。  **主要功能（已实现和计划中）：** * **🎥 双模式录制：** 在本地同时录制高比特率 4K 视频（以保证证据质量），同时将低延迟源传输到反弹服务器（以进行即时异地备份）。 * **🕵️ 隐形模式：** 将 UI 转变为功能齐全的“假启动器”。对于观察者来说，看起来您只是在看主屏幕，但相机正在记录后台的所有内容。 * **🔒 锁定模式：** 一旦开始录制，屏幕就会锁定。停止录制需要生物识别/PIN 身份验证，防止其他人在抢走您的手机时停止录制。 * **🔐 证据库：** 立即自动散列 (SHA-256) 每个视频文件，以证明其以后未被篡改。  **技术堆栈：** * **移动设备：** Flutter (iOS/Android) * **后端：** Go/Node.js（计划用于自托管中继服务器） * **许可证：** AGPL v3（修改必须保持开放）。  **当前状态：** 我刚刚获得了核心“双录音”功能发动机工作和“隐形发射器” UI 已启动并正在运行。我正在寻找有兴趣帮助后端中继 (Go) 或提高 Android 后台服务可靠性的开发人员。  **仓库：** [https://github.com/Dobbs3313/liberty\_lens\](https://github.com/Dobbs3313/liberty\_lens)  “真理是最终的防御。”  让我知道你的想法！   由   提交 /u/ComputerInaComputer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qng0c6/im_building_libertylens_an_open_source_black_box/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:28:27 GMT</pubDate>
+      <title>正在寻找开源卡通或 3D 头像生成？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk2diz/looking_for_open_source_cartoon_or_3d_avatar/</link>
+      <description><![CDATA[尝试避免生成人工智能，这是一种简单的东西，可以保持你的隐私完整，但又是个性化的，即使你只是自己设计   由   提交 /u/wobblyunionist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk2diz/looking_for_open_source_cartoon_or_3d_avatar/</guid>
+      <pubDate>Thu, 22 Jan 2026 18:25:18 GMT</pubDate>
     </item>
     <item>
-      <title>Leadsmart / Ringba 开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnfm3m/leadsmart_ringba_open_source_alternatives/</link>
-      <description><![CDATA[ 由   提交/u/Soggy-Job-3747   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnfm3m/leadsmart_ringba_open_source_alternatives/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:11:00 GMT</pubDate>
+      <title>大声疾呼，争取欧盟为开源提供更多资金！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk1lc1/speak_up_for_more_funding_for_open_source_from/</link>
+      <description><![CDATA[欧盟委员会刚刚启动了有关欧盟未来开源战略的咨询。截止日期是2 月 3 日。 该战略将涵盖：  欧盟对在欧盟机构中部署开源软件的立场。 欧盟对采购开源解决方案的立场。 欧盟自己的开源贡献。 为开源开发者、公司和基金会提供资金。 帮助开源基金会在欧洲。 实施 CRA 等欧盟法律。 开源社区在立法方面的未来磋商。  欧盟通过其下一代互联网计划资助了大量开源项目（如 Mastodon）。 （您可以在此处查看完整列表（所有具有 NGI 的列表）） 该计划目前正在接受审查。 如果您希望欧盟为开源提供更多资金，现在是时候大声说出来了！   由   提交/u/jman6495  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk1lc1/speak_up_for_more_funding_for_open_source_from/</guid>
+      <pubDate>Thu, 22 Jan 2026 17:57:27 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能对 Tailwind 的残酷影响</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qnf4sa/the_brutal_impact_of_ai_on_tailwind/</link>
-      <description><![CDATA[       由   提交 /u/thewritingwallah   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qnf4sa/the_brutal_impact_of_ai_on_tailwind/</guid>
-      <pubDate>Mon, 26 Jan 2026 12:48:45 GMT</pubDate>
+      <title>帮助我们构建 MCP 的首选 TypeScript 框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qk114b/help_us_build_the_goto_typescript_framework_for/</link>
+      <description><![CDATA[大家好！来自 xmcp.dev 的 Koller 签到。我们正在构建一个专门用于创建 MCP 服务器的开源 TypeScript 框架，以开发人员体验 (DX) 作为首要任务 - 考虑文件系统路由、单命令设置、Next.js/Express/Nest 的即插即用、WorkOS/Clerk/Auth0/Better-Auth 的身份验证等等。 我们最近添加了一些可靠的好东西第一个问题，并且真诚地希望社区做出贡献来帮助项目发展！ 您可以在此处    查看它们。由   提交 /u/0xKoller   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qk114b/help_us_build_the_goto_typescript_framework_for/</guid>
+      <pubDate>Thu, 22 Jan 2026 17:36:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
