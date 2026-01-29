@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Jan 2026 15:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 18:39:32 GMT</lastBuildDate>
     <item>
       <title>提示公司</title>
       <link>https://www.producthunt.com/products/the-prompting-company</link>
@@ -104,6 +104,20 @@
       <pubDate>Wed, 28 Jan 2026 00:02:34 GMT</pubDate>
     </item>
     <item>
+      <title>AI Chrome 扩展生成器</title>
+      <link>https://www.producthunt.com/products/shipper-now</link>
+      <description><![CDATA[
+            通过与 AI 对话构建 Chrome 扩展
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/shipper-now</guid>
+      <pubDate>Tue, 27 Jan 2026 16:32:11 GMT</pubDate>
+    </item>
+    <item>
       <title>突出显示GPT</title>
       <link>https://www.producthunt.com/products/highlightgpt</link>
       <description><![CDATA[
@@ -130,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/fundable-2</guid>
       <pubDate>Fri, 23 Jan 2026 04:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>流星体</title>
-      <link>https://www.producthunt.com/products/meteroid-2</link>
-      <description><![CDATA[
-            用于启动、测试和扩展业务模型的计费平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/meteroid-2</guid>
-      <pubDate>Wed, 21 Jan 2026 09:25:43 GMT</pubDate>
     </item>
     <item>
       <title>流利</title>
@@ -202,18 +202,18 @@
       <pubDate>Tue, 13 Jan 2026 17:38:36 GMT</pubDate>
     </item>
     <item>
-      <title>故事简历</title>
-      <link>https://www.producthunt.com/products/storycv</link>
+      <title>Kipps AI WhatsApp 代理</title>
+      <link>https://www.producthunt.com/products/kipps-ai</link>
       <description><![CDATA[
-            引导人工智能面试你并为你写简历
+             自动将 WhatsApp 聊天转化为收入
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/storycv</guid>
-      <pubDate>Thu, 24 Jul 2025 05:59:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kipps-ai</guid>
+      <pubDate>Fri, 02 Jan 2026 08:43:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
