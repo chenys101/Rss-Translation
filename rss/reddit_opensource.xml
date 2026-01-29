@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 29 Jan 2026 12:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 15:33:02 GMT</lastBuildDate>
+    <item>
+      <title>开源对企业 API 和集成的好处</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qqax01/benefits_of_open_source_for_enterprise_apis_and/</link>
+      <description><![CDATA[ 由   提交 /u/sandeep_k_n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qqax01/benefits_of_open_source_for_enterprise_apis_and/</guid>
+      <pubDate>Thu, 29 Jan 2026 15:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secure Converter：使用 React 和 Web Workers 进行客户端图像处理 (MIT)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qqaeg3/secure_converter_clientside_image_processing_with/</link>
+      <description><![CDATA[我构建了一个云转换器的开源替代方案，因为我不想只是为了更改格式而将个人文档上传到服务器。 它使用 HTML5 Canvas API 和 WebAssembly（适用于 HEIC/PDF）完全在浏览器中运行。没有数据离开设备。 技术： React + Vite 6 Web Workers（用于非阻塞批处理） Zustand（原子状态管理） Tailwind CSS 它支持 JPG、PNG、 WebP、SVG 和 HEIC 转换，以及 PDF 合并。 Github 存储库   由   提交 /u/AmineAce   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qqaeg3/secure_converter_clientside_image_processing_with/</guid>
+      <pubDate>Thu, 29 Jan 2026 14:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了 Ricochet：具有 Swarm Parallelism、Shadow Git 和远程控制功能的本地开源 Go AI 代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qqa5tb/i_built_ricochet_a_local_opensource_go_ai_agent/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qqa5tb/i_built_ricochet_a_local_opensource_go_ai_agent/</guid>
+      <pubDate>Thu, 29 Jan 2026 14:34:02 GMT</pubDate>
+    </item>
     <item>
       <title>很高兴推出 compressGPT</title>
       <link>https://www.reddit.com/r/opensource/comments/1qq6o1l/excited_to_launch_compressgpt/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Wavesonics  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qpufm9/snapsafe_now_with_video_support/</guid>
       <pubDate>Thu, 29 Jan 2026 01:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在无头Linux机器上以编程方式接收/发送whatsapp消息？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qptn9m/programatically_receive_send_whatsapp_message_on/</link>
-      <description><![CDATA[大家好，我正在开发一个涉及回复 Whatsapp 消息的自我项目。 我尝试使用 WebWhatsapp-Wrapper by mukulhase 但它似乎不起作用。 /&gt; 有人可以建议任何可能对您有用的类似软件包吗。 提前致谢   由   提交/u/wweverma1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qptn9m/programatically_receive_send_whatsapp_message_on/</guid>
-      <pubDate>Thu, 29 Jan 2026 00:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Rumble 和 YouTube 开源项目货币化？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qprxwq/monetize_open_source_projects_with_rumble_and/</link>
-      <description><![CDATA[       由   提交 /u/bombthetorpedos   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qprxwq/monetize_open_source_projects_with_rumble_and/</guid>
-      <pubDate>Wed, 28 Jan 2026 23:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个开源 npm 包。学到的比我预期的要多</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qpp4or/my_first_opensource_npm_package_learned_more_than/</link>
-      <description><![CDATA[我想分享一个小小的个人里程碑。 我最近发布了我的第一个开源 npm 包，我没想到这个过程本身能教会我这么多。 我一直在使用 Convex 构建一个副项目，虽然开发人员体验很棒，但我一直遇到同样的问题： 我到处重复授权逻辑。 不是以“这已被破坏”的方式 - 更像是：   我找不到一个简单的 RBAC 风格的解决方案，感觉是 Convex 原生的，所以我决定尝试自己构建一个 - 主要作为学习练习。 这变成了这个小组件： https://github.com/dbjpanda/convex-authz 这是一个轻量级的 RBAC 层，有助于保持权限逻辑集中，而不是将其分散到突变和查询中。 对我来说最大的学习甚至不是关于 RBAC：  了解 npm 发布的实际工作原理 为其他开发人员（不仅仅是我自己） 编写不假设上下文的文档 意识到有多少“小决定”进入开源  这绝对不是完美的，但交付它感觉就像跨越了一条无形的界限，从“我构建项目”到“我构建其他人可能使用的东西”。 希望听到其他人发布他们的第一个包或图书馆当您这样做时，最令您惊讶的是什么？ 感谢您的阅读。只是想分享一点小小的胜利。   由   提交 /u/No_More_Fail   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qpp4or/my_first_opensource_npm_package_learned_more_than/</guid>
-      <pubDate>Wed, 28 Jan 2026 21:48:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

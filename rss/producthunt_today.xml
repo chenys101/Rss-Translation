@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Jan 2026 12:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 15:33:07 GMT</lastBuildDate>
     <item>
       <title>提示公司</title>
       <link>https://www.producthunt.com/products/the-prompting-company</link>
@@ -90,18 +90,32 @@
       <pubDate>Wed, 28 Jan 2026 10:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>AI Chrome 扩展生成器</title>
-      <link>https://www.producthunt.com/products/shipper-now</link>
+      <title>Windows 上的柳树</title>
+      <link>https://www.producthunt.com/products/willow-voice</link>
       <description><![CDATA[
-            通过与 AI 对话构建 Chrome 扩展
+            在计算机上的任意位置书写。通过声音。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/shipper-now</guid>
-      <pubDate>Tue, 27 Jan 2026 16:32:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/willow-voice</guid>
+      <pubDate>Wed, 28 Jan 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>突出显示GPT</title>
+      <link>https://www.producthunt.com/products/highlightgpt</link>
+      <description><![CDATA[
+            在 ChatGPT 中突出显示，在侧面板中询问 GPT
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/highlightgpt</guid>
+      <pubDate>Mon, 26 Jan 2026 11:55:23 GMT</pubDate>
     </item>
     <item>
       <title>可资助</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/meet-ting</guid>
       <pubDate>Tue, 13 Jan 2026 17:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kipps AI WhatsApp 代理</title>
-      <link>https://www.producthunt.com/products/kipps-ai</link>
-      <description><![CDATA[
-             自动将 WhatsApp 聊天转化为收入
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kipps-ai</guid>
-      <pubDate>Fri, 02 Jan 2026 08:43:55 GMT</pubDate>
     </item>
     <item>
       <title>故事简历</title>
