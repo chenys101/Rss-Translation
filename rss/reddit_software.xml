@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 31 Jan 2026 06:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 09:24:34 GMT</lastBuildDate>
+    <item>
+      <title>DXO 照相馆</title>
+      <link>https://www.reddit.com/r/software/comments/1qrx4xg/dxo_photolab/</link>
+      <description><![CDATA[您好，我使用了 photolab 9 的试用版来编辑 RAW 图像。审判已经结束。我真的很喜欢这个软件，但我没有预算购买该软件。有什么选项可以获取它吗？   由   提交/u/Haikoo_Pulavar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qrx4xg/dxo_photolab/</guid>
+      <pubDate>Sat, 31 Jan 2026 08:40:37 GMT</pubDate>
+    </item>
     <item>
       <title>到 2025 年，任何销售人员都没有理由进行手动 CRM 更新。请证明我错了。</title>
       <link>https://www.reddit.com/r/software/comments/1qrqwqy/theres_no_reason_any_salesperson_should_be_doing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[BREP.io 是一款基于浏览器的参数化 CAD，具有真实的特征建模 我一直在构建 BREP，这是一个基于浏览器的 CAD 系统，专注于使用 BREP 样式工作流程的基于特征的实体建模。 在浏览器中运行的 BREP.io CAD 的屏幕截图 重点是实际建模工具，而不仅仅是可视化：  参数化基元和基准特征 具有 2D 约束解算器的草图 拉伸、旋转、扫掠、放样、镜像和阵列工具 稳健的布尔值 圆角、倒角和脱壳 具有约束的装配体解决 PMI尺寸和制造注释 完全可编辑的特征历史记录  一切都直接在浏览器中运行，具有快速、响应灵敏的建模UI，同时保持几何、历史和演示之间的清晰分离。 您可以自行托管应用程序或在以下位置使用公共版本 🔗应用程序：https://BREP.io 🔗 GitHub：https://github.com/mmiscool/BREP 欢迎从事 CAD、几何内核或基于浏览器的工程工具工作的人员提供反馈。   由   提交/u/3DprintNow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qqxq1n/self_hostable_browser_based_parametric_cad/</guid>
       <pubDate>Fri, 30 Jan 2026 06:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[网站] 免费多平台视频下载器（TikTok/Instagram）</title>
-      <link>https://www.reddit.com/r/software/comments/1qqvfha/website_free_multiplatform_video_downloader/</link>
-      <description><![CDATA[[网站] 免费多平台视频下载器 (TikTok/Instagram)  干净、无广告的替代品，可替代常见的粗略下载网站。   https://preview.redd.it/nsf6krdeyegg1.png?width=2136&amp;format=png&amp;auto=webp&amp;s=e8872eb3df97ba871143cb44fab8ba15f7e6b33a 功能： ✓ 无水印 ✓ 无需注册  ✓ 适用于移动设备 ✓ 支持 TikTok、Instagram 链接：https://youtubeconverter.watch   由   提交 /u/Creative_Captain9243   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qqvfha/website_free_multiplatform_video_downloader/</guid>
-      <pubDate>Fri, 30 Jan 2026 04:23:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
