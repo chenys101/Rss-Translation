@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Feb 2026 12:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 15:46:10 GMT</lastBuildDate>
     <item>
       <title>穿山甲</title>
       <link>https://www.producthunt.com/products/pangolin-2</link>
@@ -20,32 +20,46 @@
       <pubDate>Tue, 03 Feb 2026 05:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>格洛克想象1.0</title>
-      <link>https://www.producthunt.com/products/grok-com-beta</link>
+      <title>周一爪</title>
+      <link>https://www.producthunt.com/products/manepaw</link>
       <description><![CDATA[
-            将您的想法变为现实从未如此简单。
+            使用自然语言在 Mac 上查找文档
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/grok-com-beta</guid>
-      <pubDate>Mon, 02 Feb 2026 20:03:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/manepaw</guid>
+      <pubDate>Mon, 02 Feb 2026 21:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>筛管</title>
-      <link>https://www.producthunt.com/products/screenpipe</link>
+      <title>OpenAI 的法典</title>
+      <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            你的人工智能终于知道你在做什么
+            与特工合作的指挥中心
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/screenpipe</guid>
-      <pubDate>Mon, 02 Feb 2026 18:42:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Mon, 02 Feb 2026 18:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>雨果</title>
+      <link>https://www.producthunt.com/products/crisp</link>
+      <description><![CDATA[
+            每张支持票不收取 1 美元费用的 AI 代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/crisp</guid>
+      <pubDate>Mon, 02 Feb 2026 13:43:37 GMT</pubDate>
     </item>
     <item>
       <title>可以找到的。</title>
@@ -60,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/findable-3</guid>
       <pubDate>Mon, 02 Feb 2026 11:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 的内存插件</title>
+      <link>https://www.producthunt.com/products/memoryplugin-for-openclaw</link>
+      <description><![CDATA[
+            OpenClaw、ChatGPT、Claude 和 Gemini 的一份记忆
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/memoryplugin-for-openclaw</guid>
+      <pubDate>Mon, 02 Feb 2026 10:51:10 GMT</pubDate>
     </item>
     <item>
       <title>Trupeer 的 AI Doc Writer</title>
@@ -90,20 +118,6 @@
       <pubDate>Mon, 02 Feb 2026 00:35:44 GMT</pubDate>
     </item>
     <item>
-      <title>24呼叫台</title>
-      <link>https://www.producthunt.com/products/24calldesk</link>
-      <description><![CDATA[
-            适用于小型企业的人工智能呼叫代理和工作流程自动化
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/24calldesk</guid>
-      <pubDate>Sun, 01 Feb 2026 22:38:55 GMT</pubDate>
-    </item>
-    <item>
       <title>超特塞</title>
       <link>https://www.producthunt.com/products/hyperterse</link>
       <description><![CDATA[
@@ -118,18 +132,18 @@
       <pubDate>Sun, 01 Feb 2026 15:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>莫伊萨姆</title>
-      <link>https://www.producthunt.com/products/moisam</link>
+      <title>赫里斯</title>
+      <link>https://www.producthunt.com/products/heuris</link>
       <description><![CDATA[
-            找到每个人之间最好的中间点聚会地点
+            克劳德遇见维基百科，为好奇的人们服务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/moisam</guid>
-      <pubDate>Sat, 31 Jan 2026 22:21:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/heuris</guid>
+      <pubDate>Fri, 30 Jan 2026 15:34:56 GMT</pubDate>
     </item>
     <item>
       <title>莫尔特克拉夫特</title>
@@ -146,74 +160,60 @@
       <pubDate>Thu, 29 Jan 2026 16:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>Blocpad CLI-光标缺失层</title>
-      <link>https://www.producthunt.com/products/blocpad</link>
+      <title>Lightfern 电子邮件</title>
+      <link>https://www.producthunt.com/products/lightfern</link>
       <description><![CDATA[
-            将 BlocPad 任务转化为 AI 安全自动化指令
+            心灵感应人工智能写作工具
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/blocpad</guid>
-      <pubDate>Thu, 29 Jan 2026 10:27:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lightfern</guid>
+      <pubDate>Tue, 27 Jan 2026 14:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>亚维</title>
-      <link>https://www.producthunt.com/products/yavy</link>
+      <title>帮助</title>
+      <link>https://www.producthunt.com/products/helply</link>
       <description><![CDATA[
-            将任何网站变成 AI 的 MCP 服务器
+            90 天内 65% 的 AI 解决率，否则您无需支付任何费用
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/yavy</guid>
-      <pubDate>Wed, 28 Jan 2026 21:01:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/helply</guid>
+      <pubDate>Mon, 26 Jan 2026 21:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>原子</title>
-      <link>https://www.producthunt.com/products/atoms-5</link>
+      <title>Relay.app 代理</title>
+      <link>https://www.producthunt.com/products/relay-app</link>
       <description><![CDATA[
-            将您的想法转化为可销售的产品  
+            打造一支适合您的 AI 团队
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/atoms-5</guid>
-      <pubDate>Wed, 28 Jan 2026 13:36:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/relay-app</guid>
+      <pubDate>Mon, 26 Jan 2026 17:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>游牧追踪者</title>
-      <link>https://www.producthunt.com/products/nomad-tracker-tax-residency-for-nomads</link>
+      <title>雷3.0</title>
+      <link>https://www.producthunt.com/products/ray-2</link>
       <description><![CDATA[
-            iOS 应用程序可计算国家/地区的天数、设置限制和警报
+            AI 代理的输出窗口
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nomad-tracker-tax-residency-for-nomads</guid>
-      <pubDate>Sun, 18 Jan 2026 17:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>太阳</title>
-      <link>https://www.producthunt.com/products/sun-ai</link>
-      <description><![CDATA[
-            立即创建音频课程和有声读物摘要
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sun-ai</guid>
-      <pubDate>Mon, 17 Mar 2025 05:09:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ray-2</guid>
+      <pubDate>Fri, 23 Jan 2026 09:38:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
