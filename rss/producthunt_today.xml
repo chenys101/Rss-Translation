@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Feb 2026 21:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 01:32:04 GMT</lastBuildDate>
     <item>
       <title>克林3.0</title>
       <link>https://www.producthunt.com/products/kling-ai-4</link>
@@ -62,18 +62,18 @@
       <pubDate>Thu, 05 Feb 2026 02:00:36 GMT</pubDate>
     </item>
     <item>
-      <title>希格斯菲尔德振动运动</title>
-      <link>https://www.producthunt.com/products/higgsfield</link>
+      <title>代理沙箱</title>
+      <link>https://www.producthunt.com/products/agent-sandbox</link>
       <description><![CDATA[
-            在编辑画布中的单个提示中创建动态图像
+            您代理的个人远程计算机和驱动器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/higgsfield</guid>
-      <pubDate>Wed, 04 Feb 2026 19:39:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agent-sandbox</guid>
+      <pubDate>Thu, 05 Feb 2026 01:23:50 GMT</pubDate>
     </item>
     <item>
       <title>流行空气</title>
@@ -102,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mistral-7b</guid>
       <pubDate>Wed, 04 Feb 2026 17:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络术语</title>
+      <link>https://www.producthunt.com/products/webterm</link>
+      <description><![CDATA[
+            甚至可以安全地运行 rm -rf / — 全部在您的浏览器中运行。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/webterm</guid>
+      <pubDate>Wed, 04 Feb 2026 15:36:57 GMT</pubDate>
     </item>
     <item>
       <title>人工智能批量分析</title>
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/miro</guid>
       <pubDate>Wed, 04 Feb 2026 09:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的v0</title>
-      <link>https://www.producthunt.com/products/v0</link>
-      <description><![CDATA[
-            全栈氛围编码平台。由维塞尔创建。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/v0</guid>
-      <pubDate>Tue, 03 Feb 2026 13:31:28 GMT</pubDate>
     </item>
     <item>
       <title>人工智能治疗师</title>
