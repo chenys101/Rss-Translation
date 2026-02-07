@@ -4,34 +4,41 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Sat, 07 Feb 2026 01:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 04:26:15 GMT</lastBuildDate>
     <item>
-      <title>当人工智能可以为我们思考和决定时，“成为人类”意味着什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy0a6r/what_does_being_human_even_mean_when_ai_can_think/</link>
-      <description><![CDATA[我一直对人工智能的可能性及其增强人类能力的潜力着迷。作为一个花了很多时间思考奇点含义的人，我逐渐意识到我们正处于工作和互动方式革命的风口浪尖。我认为值得考虑一下作为“人类”意味着什么。当像 Atlas 这样的人工智能系统融入我们的日常生活时。我们还需要人类来完成大部分思考吗？人工智能不能简单地从数据中学习并自行做出决策吗？作为热衷于探索这些问题的人，我很想听听您的想法 - 在人工智能日益普及的世界中，您认为工作的未来是什么？   由   提交 /u/AccomplishedOffer856   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy0a6r/what_does_being_human_even_mean_when_ai_can_think/</guid>
-      <pubDate>Sat, 07 Feb 2026 01:26:10 GMT</pubDate>
+      <title>人工智能原生浏览器和浏览器内人工智能代理是否完全打破了我们当前的安全模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy2ceg/are_ainative_browsers_and_inbrowser_ai_agents/</link>
+      <description><![CDATA[最近一直在思考这个问题，尤其是随着 openclaw 的流行。  传统浏览器安全性假设人类点击链接、填写表单并做出决定。但人工智能代理只是自动做事。他们抓取、提交、导航，无需人工监督。 我们的 DLP、内容过滤器，甚至基本的访问控制都是围绕“用户执行 X，我们检查 Y”构建的。当循环中没有用户时会发生什么？ 您如何监控人工智能代理正在访问的内容？真的很好奇。   由   提交 /u/TehWeezle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy2ceg/are_ainative_browsers_and_inbrowser_ai_agents/</guid>
+      <pubDate>Sat, 07 Feb 2026 03:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个人工智能，可以将你的孩子变成故事书的主角，寻找残酷的反馈</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzugy/i_built_an_al_that_turns_your_child_into_the_main/</link>
-      <description><![CDATA[我构建了一个 AI，可以将您的孩子变成故事书的主角，寻找残酷的反馈 首先我们有音频故事。轻声叙述，非常适合睡前例行公事，提供淡入白噪音或重复库等选项。 或者您可以使用孩子自己的照片为他们生成自定义故事书。阿尔在整本书中保持了孩子的形象一致。您可以在应用程序中阅读它们、下载 PDF 版本或获取实体打印件。 寻找以下方面的诚实反馈： UX/UI - 直观还是令人困惑？价值 - 有用还是只是另一个 Al 包装器？ 链接：https://lunalisten.com   由   提交/u/Paul1337noob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzugy/i_built_an_al_that_turns_your_child_into_the_main/</guid>
-      <pubDate>Sat, 07 Feb 2026 01:06:42 GMT</pubDate>
+      <title>我可以在专用笔记本电脑上安全地运行 Open Claw 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy22y1/can_i_run_open_claw_on_dedicated_laptop_safely/</link>
+      <description><![CDATA[我听说这是一个重大的安全风险，但是如果我将其安装在完全不同的计算机上，我的所有计算机都在 linux 上，不运行网络，但它们都共享相同的路由器连接。 这安全吗？   由   提交 /u/AHVincent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy22y1/can_i_run_open_claw_on_dedicated_laptop_safely/</guid>
+      <pubDate>Sat, 07 Feb 2026 02:48:45 GMT</pubDate>
     </item>
     <item>
-      <title>可逆性作为自治代理社区的主要稳定机制</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzsyn/reversibility_as_a_primary_stability_mechanism_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzsyn/reversibility_as_a_primary_stability_mechanism_in/</guid>
-      <pubDate>Sat, 07 Feb 2026 01:04:53 GMT</pubDate>
+      <title>提示防止出现“You did not just...you blah blah blah”类型的答案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy1mr4/prompts_to_prevent_that_you_didnt_justyou_blah/</link>
+      <description><![CDATA[在使用 OpenAI 之后主要使用 Gemini，我认为这严格来说是 OpenAI 的事情，但 Gemini 也在这样做，这告诉我我可以做一些事情   由   提交 /u/Sactownkingstacotwo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy1mr4/prompts_to_prevent_that_you_didnt_justyou_blah/</guid>
+      <pubDate>Sat, 07 Feb 2026 02:28:04 GMT</pubDate>
     </item>
     <item>
-      <title>这里有人最近真的构建了自己的人工智能代理吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzi8g/anyone_here_actually_built_their_own_ai_agent/</link>
-      <description><![CDATA[我一直很好奇人们如何构建简单的人工智能代理，无论是从头开始还是使用可视化工具。我开始深入研究，因为我厌倦了处理一堆自动化平台，每个平台只覆盖工作流程的一部分，而且大多数平台似乎都认为你可以花几天时间进行集成或编写代码。令人疯狂的是这个空间现在的发展速度有多快。它不再只是聊天机器人，人们正在连接数据管道、内部工具，甚至支持系统，代理在其中做出决策，而不仅仅是传递数据。在对 MindStudio 进行了一番研究之后，它终于意识到，当 UI 是为非技术人员构建时，这是多么的平易近人。感觉还为时过早，这里有人推动代理超越基本自动化进入真正的工作流程，比如随着时间的推移随着事情的变化而适应吗？有没有人运行过一些感觉更像是一个轻量级同事而不是另一个脚本的东西？   由   提交 /u/baddie_spotted   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzi8g/anyone_here_actually_built_their_own_ai_agent/</guid>
-      <pubDate>Sat, 07 Feb 2026 00:51:38 GMT</pubDate>
+      <title>人工智能在工作和学习中的技巧和经验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy1lkg/tips_and_experiences_on_ai_for_work_and_study/</link>
+      <description><![CDATA[嗨，我目前正在寻找一个新的 AI 工具，因为自从 OpenAI 发布了 ChatGPT 版本 5 以来，我不得不反复修改我在以前版本中创建的所有自定义设置。老实说，我正在考虑放弃它并投资于更好的东西。我的工作涉及管理企业服务器并寻找特定技术问题的解决方案。 因此我开始评估哪种人工智能可能最适合我的需求。 我尝试了 Gemini：许多响应都是有效的，并且随着持续使用，它似乎有所改进。然而，我并不完全相信。我常常必须非常努力才能获得真正有用​​的结果。对于我的工作来说，主要依赖于技术文档，它对我的​​帮助并没有我希望的那么大，尤其是Notebook LLM，我认为我不知道如何正确使用它。我对定制和界面也不满意。最终，我发现它对于深入研究比日常使用更有用。 然而，使用 Grok 时，我的体验令人失望。我经常发现很难让它有效地发挥作用。我几乎立即放弃了它，尽管我可能会考虑再试一次。 在我看来，Claude 是最接近 ChatGPT 的解决方案。我已经开始定制一些项目，效果还不错。然而，我需要更彻底地测试它，看看它是否真的值得永久采用。它产生了很好的代码，但需要更多的努力和上下文。 Mistral 与过去相比有所改进，但它对于我的需求来说似乎仍然太有限。 经过最初的普遍热情，我从那以后就没有使用过 DeepSeek。 总的来说，我今天使用 AI 主要是为了快速查阅在线文档，组织我每天制作或使用的技术材料，以及制定学习计划。 自从一周前开始，我还没决定是转还是留下。   由   提交 /u/MediumAd7537   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy1lkg/tips_and_experiences_on_ai_for_work_and_study/</guid>
+      <pubDate>Sat, 07 Feb 2026 02:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人工智能视频和艺术感觉不太一样？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy0cpf/why_do_ai_videos_and_art_feel_off/</link>
+      <description><![CDATA[我无法解释。我一直在尝试，感觉动作不自然。一名士兵殴打另一名士兵的动画将这名士兵飞到空中。妈妈打孩子屁股的家庭动画场景要么太轻，要么妈妈打孩子（WTF？）。摄像机角度无处不在。对话来自错误的角色。一名骑士跪下对他的公主说话，他转身离开她而不是面对她，然后将手指放入她的嘴里（再一次，WTF？）   由   提交/u/BetLeft2840  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy0cpf/why_do_ai_videos_and_art_feel_off/</guid>
+      <pubDate>Sat, 07 Feb 2026 01:29:17 GMT</pubDate>
     </item>
     <item>
       <title>我们是在构建人工智能来帮助人类，还是构建需要人类帮助的人工智能？</title>
@@ -46,13 +53,6 @@
       <description><![CDATA[是的，我使用聊天在更短的时间内清晰地表达了自己的意思。但我相信这就是我们所说的“ai-slop”的根源。随着法学硕士和生成式人工智能扩展到一切领域——这种死亡是我们未来不可避免的吗？  “LLM 已经拥有世界模型并且基本上处于 AGI 边缘”的热门观点在这里受到了挑战。理查德·萨顿认为这个故事将模仿与智力混为一谈。在他的框架中，法学硕士主要学习模仿人类会说的话，而不是预测世界上实际发生的行动结果。这种区别很重要，因为它同时攻击了两个主流假设：下一个令牌预测等于有根据的理解，而仅扩展文本就是通往强大代理的直线。  他拒绝接受法学硕士“有目标”的普遍说法。 “预测下一个代币”并不是一个关于外部世界的目标；它没有定义环境中更好与更差的结果。他认为，如果没有这种根深蒂固的对/错概念，持续学习的定义就会不明确，“法学硕士作为一个好的先修课程”变得比人们想象的更加不稳定。  他对未来的预测也与主流的轨迹叙述相悖：从经验中学习（行动、观察后果、在线更新政策和世界转型模型）的系统最终将超越文本训练的模仿者——即使法学硕士今天看起来是无与伦比的。他将今天的势头描述为另一个“感觉良好”的阶段，人类知识注入看起来像是进步，直到经验驱动的扩展吞噬它。  法学硕士主要接受训练来模仿人类文本，而不是从现实世界的行动后果中学习，因此他们缺乏由扎根的反馈和目标驱动的原生的、持续的“生活中学习”适应能力。  在这个框架中，当“正确性”主要是基于语言或政策的时候，上限最高；而当正确性取决于环境动态、长期结果和现实的持续更新时，上限最低。  法学硕士在商业上已经具有竞争力或优于人类： 大量语言工作：起草、总结、重写、分类、翻译、模板化分析。 在提供事实来源时跨大型语料库进行检索/综合。 以一致的格式快速迭代替代方案（副本变体、大纲、剧本）。  人类仍然占主导地位的地方： 具有实际利害关系的模糊目标：选择目标、设定优先级、进行权衡。 获取事实真相：注意市场/客户/组织中实际发生的变化，并相应地更新行为。 稀疏反馈下的长期执行（多月战略、政治、信任、激励）。 不确定性下的责任和判断。 https://www.youtube.com/watch?v=21EYKqUsPfg   由   提交/u/ApplePrimary2985  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzaui/are_llms_leading_to_existential_death/</guid>
       <pubDate>Sat, 07 Feb 2026 00:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人为随机工作流程构建迷你人工智能代理吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxz48w/anyone_else_building_mini_ai_agents_for_random/</link>
-      <description><![CDATA[最近，我想到了设置小型人工智能代理来处理那些耗费时间的烦人的事情，比如从电子邮件线程中提取关键点或将消息路由到正确的位置，这样我就不用手动对所有内容进行排序。我之前使用过一些自动化工具，它们非常适合连接应用程序，但是一旦您想要可以做出基本决策的工具，流程就会很快变得混乱。我最近开始尝试 MindStudio，这是第一次感觉无需编写代码即可直接设计特定于任务的代理。视觉设置帮助我区分了代理应该知道什么和应该做什么。看着这些小帮手处理我通常推迟的任务是一种奇怪的满足感，虽然我对任何复杂的事情仍然保持谨慎，但这绝对改变了我对自动化以及可能悄悄地成为人工智能驱动的日常工作的看法。   由   提交 /u/TheFoolishCrow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxz48w/anyone_else_building_mini_ai_agents_for_random/</guid>
-      <pubDate>Sat, 07 Feb 2026 00:34:43 GMT</pubDate>
     </item>
     <item>
       <title>“高盛聘请 Anthropic 的 Claude 来自动化会计和合规职位” - CNBC</title>
