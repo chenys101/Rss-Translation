@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Sun, 08 Feb 2026 04:59:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:42:20 GMT</lastBuildDate>
+    <item>
+      <title>[理论] 生成模糊自回归（GenFAR）架构。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qz14ku/theoretical_generative_fuzzy_autoregression/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qz14ku/theoretical_generative_fuzzy_autoregression/</guid>
+      <pubDate>Sun, 08 Feb 2026 06:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​7/2026</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qz0spc/oneminute_daily_ai_news_272026/</link>
+      <description><![CDATA[ ChatGPT新的互联网浏览器可以运行 80% 的单人业务 - 无需任何技术技能。[1] 机器人在中国少林寺与僧侣练习功夫。[2] 快手科技推出了 Kling AI 3.0，这是一种新的技术其人工智能视频和图像生成工具的版本。[3] Google 的 Gemini 应用每月活跃用户数已超过 7.5 亿。[4]  来源包括：https://bushaicave.com/2026/02/07/one-million-daily-ai-news-2-7-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qz0spc/oneminute_daily_ai_news_272026/</guid>
+      <pubDate>Sun, 08 Feb 2026 05:44:01 GMT</pubDate>
+    </item>
     <item>
       <title>单聊人工智能无法扩展。我用 7 个孤立的代理替换了我的代理（并停止燃烧代币）。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qyzqft/singlechat_ai_doesnt_scale_i_replaced_mine_with_7/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[寻求合作者开发符号推理语言（SRL） - 一种最小的、令牌有效的推理框架，可以显着提高 LLM 推理效率。 它是什么：SRL 使用 15 个 Unicode 符号来表示完整的认知子例程（比例、级联、不可逆性、对抗动态等）。每个符号都对包含输入、逻辑和输出的整个推理操作进行编码。 当前状态：我们有一个工作规范（15 个原语、语法、组合规则、域绑定），并已在多个域中对其进行了测试。现在我们需要合作者来实现这一伟大成就。 为什么这很重要： · 5-15 倍压缩 - 可以使小型模型 (7B-13B) 在复杂推理方面与前沿模型竞争 · 跨模型兼容性 - 有效，因为它重新利用了现有的 Unicode 字符和编程语法 · 实际应用 - 已经针对机器人导航、财务决策、紧急响应进行了测试 · 结构化推理 - 强制输出可量化、可测试的结果，而不是“感觉像”的结果。或“优化” 示例转换： 自然语言：“考虑到我们的现金跑道和收购要约的条款，我们需要考虑机会成本、下游影响以及我们是否正在解决正确的问题......” （52 个代币） SRL：◊：报价 ⧉：跑道 ⟲：框架 ⟁：下游 → ⟠=0.68（8 个代币）   由   提交 /u/lil-Zavy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qyystc/symbolic_reasoning_language_srl_that_could_give/</guid>
       <pubDate>Sun, 08 Feb 2026 04:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望在视频教程中让一群孩子说出 3 个单词。有没有人工智能方法可以做到这一点，而且最好是免费的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qyw5zf/i_want_to_have_3_words_spoken_by_what_sounds_like/</link>
-      <description><![CDATA[基本上我想模仿一群小学生说“你很糟糕”之类的话或“操，别特朗普了”或其他什么。我看到的大多数语音内容都是为了模拟特定的语音或语音转录文本。  一群孩子齐声说出孩子们不应该说的话怎么样？   由   提交 /u/trollkin34   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qyw5zf/i_want_to_have_3_words_spoken_by_what_sounds_like/</guid>
-      <pubDate>Sun, 08 Feb 2026 01:56:03 GMT</pubDate>
     </item>
     <item>
       <title>AI作战计划</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[为了更好地了解 OpenAI 的现状，能否请您介绍一下 OpenAI 与 Google 和 Anthrophic 的不同之处？ Google 有自己的数据中心，但 Anthrophic 呢？ 他们也是一家初创公司，我们不会读到有关他们的灾难性新闻。   由   提交 /u/datoml   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy8o6t/what_is_causing_openai_to_lose_so_much_money/</guid>
       <pubDate>Sat, 07 Feb 2026 08:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府人工智能支出与大型科技公司人工智能支出之间的差距变得荒谬</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qy7bf5/the_gap_between_government_ai_spending_and_big/</link>
-      <description><![CDATA[法国刚刚为一些新的人工智能产品投入了 3000 万美元，有人指出这就是谷歌今年每 90 分钟在资本支出上的支出。每一个。 90分钟。这只是一家公司，甚至不包括微软元亚马逊等。诚实地开始怀疑民族国家是否可以再成为人工智能领域的相关参与者，或者这现在是否只是一场大型科技游戏 &lt;！-- SC_ON --&gt;  由   提交 /u/Background-Tear-1046   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qy7bf5/the_gap_between_government_ai_spending_and_big/</guid>
-      <pubDate>Sat, 07 Feb 2026 07:15:49 GMT</pubDate>
     </item>
     <item>
       <title>预测：ChatGPT 是人工智能领域的 MySpace</title>

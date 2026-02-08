@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Feb 2026 02:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:43:38 GMT</lastBuildDate>
+    <item>
+      <title>2026 年的人力资源软件：成长型团队如何才能做好？</title>
+      <link>https://www.reddit.com/r/software/comments/1qz1uww/hr_software_in_2026_how_growing_teams_can_get_it/</link>
+      <description><![CDATA[随着公司员工人数超过 50 人，人力资源流程往往会在员工人数增加的压力下开始变得紧张。研究和行业洞察表明，对小型团队有效的方法在不进行调整的情况下很少能扩展。 成长型团队面临的常见挑战： 入职效率低下：入职过程混乱的员工在第一年离职的可能性高达 60%（SHRM，2021）。电子表格和分散的文档无法跟上。 PTO 跟踪问题：休假余额缺乏透明度会降低信任并增加人力资源工作量。集中式考勤软件有助于消除错误。 报告困难：经理需要准确的实时人力资源分析和报告。手动跟踪会消耗大量时间并延迟决策。 采用差距：Deloitte (2022) 发现，40% 的人力资源软件失败是由于采用不佳，而不是缺乏功能。工具必须与现有工作流程保持一致。 选择 HR 软件的关键见解： 首先关注核心 HR 功能：可靠地处理 HR 数据、休假跟踪和入职培训的员工管理软件为其他一切奠定了基础。 与现有系统集成：使用 Microsoft 365、Google Workspace 或会计软件的团队在 HR 软件无缝连接时受益，减少重复工作并提高采用率。 员工自助服务至关重要：让员工能够更新信息、请求 PTO 或访问政策文档，可以减少人力资源投诉并提高信任度。可扩展性很重要：适合 20-30 名员工的工作往往在 50-100 名员工时就失效了。选择可以与您的团队一起成长的 HRIS 软件，以避免重复迁移。从真实团队中汲取的经验教训： 从解决最大的痛点开始，而不是追逐每个功能。跟踪实际使用的内容与演示中看起来不错的内容。预期增长；今天有效的流程可能会在一年后失败。 要点： 最好的人力资源软件不是花哨的，而是花里胡哨的。这是关于适合性、采用性和可靠性。集中的人力资源系统、适当的时间和出勤工具以及实际有效的分析使扩展更顺畅、压力更小。 （Microsoft 365 环境中经常使用的系统示例：Lanteria HR）   由   提交/u/vinewb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qz1uww/hr_software_in_2026_how_growing_teams_can_get_it/</guid>
+      <pubDate>Sun, 08 Feb 2026 06:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一次性电子邮件服务，因为我厌倦了我的收件箱被“免费试用”破坏</title>
+      <link>https://www.reddit.com/r/software/comments/1qz1igp/made_a_disposable_email_service_because_i_was/</link>
+      <description><![CDATA[我们都经历过这种情况。 您想尝试一项服务。他们需要一封电子邮件。你知道接下来会发生什么：时事通讯、促销垃圾，也许他们会出售你的电子邮件。 我曾经：  创建一次性 Gmail 帐户（乏味） 使用粗略的临时电子邮件网站（一半不起作用，另一半被广告覆盖） 只需提供我的真实电子邮件，稍后就会后悔  所以我建立了我真正想要的：一个临时电子邮件服务，  EasyTempInbox 的不同之处：  即时收件箱 - 无需注册，无需验证码 电子邮件实时到达 简洁的界面（没有试图诱骗您点击的广告） 适用于帐户验证、一次性注册、测试  我构建的用例这是为了：  注册“免费试用”没有承诺 在开发中测试电子邮件流 在您将使用一次的网站上创建帐户 避免简讯垃圾邮件  构建此项目的现实检查：  托管电子邮件基础设施比我想象的更难 垃圾邮件过滤是一门完整的科学 人们更关心可靠性而不是花哨的功能 竞争很激烈，但大多数工具要么损坏，要么充满广告  网站：https://easytempinbox.com 我希望获得以下方面的反馈：  目前是什么阻止您使用临时电子邮件服务？ 哪些功能实际上会让您放弃当前的解决方案？ 是否有“杀手级功能”？我失踪了？  将此作为一个业余项目来解决我自己的问题。希望它对其他人也有帮助。   由   提交/u/manikumarthati   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qz1igp/made_a_disposable_email_service_because_i_was/</guid>
+      <pubDate>Sun, 08 Feb 2026 06:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣杯：开源自主开发代理</title>
+      <link>https://www.reddit.com/r/software/comments/1qyxc9z/holy_grail_open_source_autonomous_development/</link>
+      <description><![CDATA[https://github.com/dakotalock/holygrailopensource 包含自述文件。 它的作用：这是我热爱的项目。它是一个可以自主运行的端到端开发管道。它还具有状态内存、应用程序内 IDE、实时互联网访问、应用程序内互联网浏览器、伪自我改进循环等等。 这是完全开源且免费使用的。 如果您使用它，请注明原始项目。我将其开源是为了引起人们的关注，并希望在软件开发行业找到一份工作。 目标受众：软件开发人员 比较：如果 replit 具有状态内存、应用程序内 IDE、应用程序内互联网浏览器，那么它就像 replit，并且随着您使用它的次数的增加而改进。这就像 replit，但更好，哈哈 Codex 可以一次自主试验几个小时（请参阅自述文件），并且已经做到了。我使用的核心LLM是Gemini，因为它是免费的，但是可以很容易地更改为GPT，只需对代码进行很少的修改（只需更改使用的模型和api调用函数）。   由   提交/u/AppropriateLeather63  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qyxc9z/holy_grail_open_source_autonomous_development/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>[发布] Antigravity Link v1.0.10 – 修复了最近的 Google IDE 更新</title>
       <link>https://www.reddit.com/r/software/comments/1qywa6w/release_antigravity_link_v1010_fixes_for_the/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>终于解决了乱七八糟的代码反馈——引入Temetro</title>
       <link>https://www.reddit.com/r/software/comments/1qyoqzt/i_finally_solved_messy_code_feedback_introducing/</link>
-      <description><![CDATA[在与碎片化的代码审查和在 GitHub、Slack 和电子邮件中丢失反馈进行了数月的斗争之后，我意识到必须有更好的方法。 我构建了 Temetro 来解决这个问题：  将评论、语音注释和视频直接附加到相关代码行 保留为您的团队提供上下文，没有分散的线程 使解释意图和逻辑更快、更清晰且可操作  Temetro 不会追逐多个工具和平台，而是保留代码所在的位置的所有内容，帮助团队更智能地协作，而不是更困难。 如果您曾经因反馈不连贯或令人困惑的 PR 评论而感到沮丧，那么 Temetro 可能会有所帮助：Temetro 很想听听您的想法和反馈！   由   提交 /u/Direct-Attention8597   [链接] [评论]]]></description>
+      <description><![CDATA[在与碎片化的代码审查和在 GitHub、Slack 和电子邮件中丢失反馈进行了几个月的斗争之后，我意识到必须有更好的方法。 我构建了 Temetro 来解决这个问题：  将评论、语音注释和视频直接附加到相关代码行 保留为您的团队提供上下文，没有分散的线程 使解释意图和逻辑更快、更清晰且可操作  Temetro 不会追逐多个工具和平台，而是保留代码所在的位置的所有内容，帮助团队更智能地协作，而不是更困难。 如果您曾经因反馈不连贯或令人困惑的 PR 评论而感到沮丧，那么 Temetro 可能会有所帮助：Temetro 很想听听您的想法和反馈！   由   提交 /u/Direct-Attention8597   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qyoqzt/i_finally_solved_messy_code_feedback_introducing/</guid>
       <pubDate>Sat, 07 Feb 2026 20:39:41 GMT</pubDate>
     </item>
@@ -41,6 +62,13 @@
       <pubDate>Sat, 07 Feb 2026 13:42:53 GMT</pubDate>
     </item>
     <item>
+      <title>Majorgeeks.com 安全与否</title>
+      <link>https://www.reddit.com/r/software/comments/1qydsx7/is_majorgeekscom_is_safe_or_not/</link>
+      <description><![CDATA[ 由   提交 /u/One-Possession5560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qydsx7/is_majorgeekscom_is_safe_or_not/</guid>
+      <pubDate>Sat, 07 Feb 2026 13:28:17 GMT</pubDate>
+    </item>
+    <item>
       <title>我发布了 Sus VM 计算器。</title>
       <link>https://www.reddit.com/r/software/comments/1qyca9d/i_released_sus_vm_calculator/</link>
       <description><![CDATA[Sus Calculator 是一款带有隐藏 VM 触发器的 Windows 桌面计算器。您可以通过执行 404+404=  https://github.com/namyeluska/sus-calculator    进行配置由   提交 /u/sbklol   [链接] [评论]]]></description>
@@ -62,53 +90,25 @@
       <pubDate>Sat, 07 Feb 2026 12:07:02 GMT</pubDate>
     </item>
     <item>
+      <title>什么是好的轻型防病毒软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1qybo5x/whats_a_good_light_antivirus/</link>
+      <description><![CDATA[我正在寻找可以扫描文件/文件夹/任何内容并完成它的东西。我使用的是 Windows，我曾经使用 ClamWin，但它已经停止使用了，现在我有 Malwarebytes——只是为了扫描垃圾——每次我使用该死的东西时，它总是要求我升级。哪里有一款最新的防病毒软件，它可以扫描垃圾，而不用试图用砂纸把我口袋里的最后一毛钱拉下来   由   提交 /u/Far-Position7115   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qybo5x/whats_a_good_light_antivirus/</guid>
+      <pubDate>Sat, 07 Feb 2026 11:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建产品后营销的第一步可能是什么</title>
+      <link>https://www.reddit.com/r/software/comments/1qybk6f/what_could_be_the_first_steps_to_go_for_marketing/</link>
+      <description><![CDATA[ 由   提交/u/Feeling_Theory_4176   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qybk6f/what_could_be_the_first_steps_to_go_for_marketing/</guid>
+      <pubDate>Sat, 07 Feb 2026 11:33:38 GMT</pubDate>
+    </item>
+    <item>
       <title>瞳下载器问题</title>
       <link>https://www.reddit.com/r/software/comments/1qy9bmx/hitomi_downloader_question/</link>
       <description><![CDATA[某些视频无法下载，我不明白原因。他们似乎没有什么问题。    由   提交/u/FawnaFlytrap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qy9bmx/hitomi_downloader_question/</guid>
       <pubDate>Sat, 07 Feb 2026 09:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有软件可以训练球的轨迹角度？</title>
-      <link>https://www.reddit.com/r/software/comments/1qy9ank/is_there_software_to_train_the_angles_of_the/</link>
-      <description><![CDATA[我正在寻找软件，简单地说，我可以将球扔到角落上以查看球的轨迹。我是一名板球运动员，我对不同的情况及其结果感到好奇。我想看看网球会飞到哪里。与我所见过的类似的是台球游戏，您可以在其中看到球将如何移动   由   提交 /u/IIIIlIIIIlIIIIII   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qy9ank/is_there_software_to_train_the_angles_of_the/</guid>
-      <pubDate>Sat, 07 Feb 2026 09:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能告诉我这个 YouTube 视频中使用的是哪个应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1qy23bc/can_anyone_tell_me_which_app_is_being_used_in/</link>
-      <description><![CDATA[https://youtu.be/C9Lstq05g3o?si=Ai8WLUTneC4CQrbR   由   提交 /u/BobLoblawsLawBlogged   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qy23bc/can_anyone_tell_me_which_app_is_being_used_in/</guid>
-      <pubDate>Sat, 07 Feb 2026 02:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀适合绝对初学者的 OpenClaw 设置（包括一键设置指南）</title>
-      <link>https://www.reddit.com/r/software/comments/1qy1zux/openclaw_setup_for_absolute_beginners_include_a/</link>
-      <description><![CDATA[ 由   提交 /u/Front_Lavishness8886   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qy1zux/openclaw_setup_for_absolute_beginners_include_a/</guid>
-      <pubDate>Sat, 07 Feb 2026 02:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有推荐的绘画（动漫）编辑想法吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1qy1nl7/recomendations_for_drawing_anime_edit_ideas/</link>
-      <description><![CDATA[我想学习如何进行酷炫的编辑，我得到了很多想法（我记性不好并且忘记了）我想要一个地方用几条线和一些东西来绘制它的基本版本（用那些框架，就像定格动画应用程序类型的东西）有什么建议吗？   由   提交/u/Annual-Process3645  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qy1nl7/recomendations_for_drawing_anime_edit_ideas/</guid>
-      <pubDate>Sat, 07 Feb 2026 02:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>给基于 Python 的应用程序混淆服务提供商的建议 - PyArmour Pro 或 Nuitka Commercial</title>
-      <link>https://www.reddit.com/r/software/comments/1qy0y31/advice_for_a_python_based_app_obfuscation_service/</link>
-      <description><![CDATA[ 由   提交 /u/Most-Address-3016   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qy0y31/advice_for_a_python_based_app_obfuscation_service/</guid>
-      <pubDate>Sat, 07 Feb 2026 01:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，你们知道有一个软件，它只充当页面，我可以标记一个巨大的蜘蛛图吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1qxwiys/guys_do_you_a_know_a_software_that_just_acts_as_a/</link>
-      <description><![CDATA[我希望能够删除文档链接。但只要有一个无尽的页面，我就可以创建一个巨大的网络。我想将节点链接回文档。 我们正在建造一座非常复杂的建筑，我需要规划出所有的技术服务。    由   提交 /u/Lancs_wrighty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qxwiys/guys_do_you_a_know_a_software_that_just_acts_as_a/</guid>
-      <pubDate>Fri, 06 Feb 2026 22:47:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
