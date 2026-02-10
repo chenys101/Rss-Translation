@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 09 Feb 2026 15:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 02:00:11 GMT</lastBuildDate>
     <item>
-      <title>寻求帮助：安全和隐私审计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r07m0t/looking_for_help_security_and_privacy_audit/</link>
-      <description><![CDATA[大家好，我是一名半称职的前端开发人员/设计师，一直在构建一个 SaaS 工具，现在我有一个非常热情的企业客户，这很棒，但是......他们对安全和隐私合规性提出了一些有效的问题，这是大池塘里的小鱼，我需要帮助。  是否有人知道专门从事 SaaS 产品安全审核的信誉良好的自由职业者或小型企业，可以帮助我的潜在客户安心？  我的堆栈主要是前端的 React/TypeScript，并使用 Supabase 作为数据库，边缘函数管理对产品所依赖的其他工具的所有调用（例如 Resend、OpenAI 等）。据我所知，我制定了可靠的 RLS 策略，但我不知道我有多容易受到 JavaScript 或 SQL 注入等的攻击，这可能会给我的客户带来风险。  谢谢！   由   提交 /u/millerandlevine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r07m0t/looking_for_help_security_and_privacy_audit/</guid>
-      <pubDate>Mon, 09 Feb 2026 15:45:19 GMT</pubDate>
+      <title>作为初级开发人员不断出现故障</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0nh0c/constant_breakdowns_as_a_junior_dev/</link>
+      <description><![CDATA[大家好，我是一名初级 Web 开发人员，拥有大约一年的经验，在失业 5 个月后，我最近加入了一家小型初创公司。我在父母家远程工作，整天独自一人。自从我开始工作以来，我一直在崩溃和哭泣，因为我觉得自己完全没用。我总是误解任务，交付糟糕的结果（这个月发生了 4 次），而且没有真正的代码审查或反馈，所以我只是感到失落和愚蠢。我必须寻找一切，这让我觉得我什至不值得这份工作。老实说，我不知道自己出了什么问题，也不知道如何解决这个问题。以前有人有过这样的感觉吗？   由   提交/u/DoctorTenmathis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0nh0c/constant_breakdowns_as_a_junior_dev/</guid>
+      <pubDate>Tue, 10 Feb 2026 01:44:09 GMT</pubDate>
     </item>
     <item>
-      <title>在 monorepo 中使用 NestJS + better-auth 实施 Google 社交身份验证时面临问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r07g4s/facing_issues_implementing_google_social_auth/</link>
-      <description><![CDATA[我正在使用 NestJS (API)、Next.js (app) 和 better-auth（身份验证提供程序）构建一个自学 monorepo 项目。  使用`@thallesp/nestjs-better-auth`包将better-auth连接到nestjs。电子邮件和密码身份验证流程工作正常，但我不知道如何实现社交身份验证流程。我的代码中的问题要么是后端的配置，要么是前端的实现。  当前设置  Monorepo（pnpm + Turbo） 后端： NestJS + better-auth 前端： Next.js Auth： 使用凭据进行更好的身份验证 + Google 提供商 会话：基于cookie  此外，如果您无法帮助我解决建议的问题，请建议在您认为必要的地方进行编辑。由于这是一个自学习版本，因此可能存在潜在的问题和错误。 Github 存储库： https://github.com/AdityaP183/skimr/tree/feat/app-auth   由   提交/u/Ap_is_Op18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r07g4s/facing_issues_implementing_google_social_auth/</guid>
-      <pubDate>Mon, 09 Feb 2026 15:39:20 GMT</pubDate>
+      <title>一个只有一个按钮和计数器的网站怎么样，你点击了多少次有人告诉你“已经存在”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0nbeu/how_about_a_site_thats_a_single_button_and/</link>
+      <description><![CDATA[我不赞同“其他人已经在这样做”的心态。我应该躺在外面的人行道上放弃还是什么。 也许我只是一个没有原创想法的傻瓜，但该死的，我讨厌人们说这句话，就像用棍棒打你放弃一样。 “X 已经这样做了”O YA？酷男人。很棒的故事。爱它。谢谢。 👍👍👍👍👍👍x1000000   由   提交 /u/Emergency-Lettuce220   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0nbeu/how_about_a_site_thats_a_single_button_and/</guid>
+      <pubDate>Tue, 10 Feb 2026 01:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>我的项目流量突然增加，但推荐数为 0</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r066bo/my_project_saw_a_sudden_rise_in_traffic_but_0/</link>
-      <description><![CDATA[我最近推出了一个极简实用网站。经过一段平静的开始后，我看到流量显着上升，现已稳定在非常稳定的每日流量中。 谜团：作为一名查看数据的开发人员，这些模式让我感到困惑，我试图确定这是跟踪问题还是特定的用户行为：  90%+ 直接流量： 几乎没有推荐或社交媒体峰值。人只是“出现”而已 “新用户”悖论：GA4 几乎将每个会话标记为“新用户”，  稳定性：流量曲线不会出现尖峰或“病毒式”传播。寻找。这是一个平坦、一致的平台。  我的理论：  隐私/Cookie：由于它是一个旨在在选项卡中保持打开状态的工具，因此用户是否会清除 Cookie 或使用隐私模式，从而导致 GA4 将其视为“新”应用程序？每次他们返回时？ 机器人流量？ 我检查了会话持续时间和参与度；用户正在与设置进行交互并保持选项卡处于活动状态，这表明真正的人类使用情况。  调查：我刚刚在网站上添加了一个小公告，其中包含一项直接询问用户的调查。这里有人见过这个“Flat Direct”吗？之前的图案？我想弄清楚我是否误解了 GA4 如何跟踪“新用户”对于一个简单的实用程序，或者如果有一个我完全缺少的分发源。   由   提交 /u/sdwill   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r066bo/my_project_saw_a_sudden_rise_in_traffic_but_0/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:50:24 GMT</pubDate>
+      <title>Jmail用五个小时开发完成</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0lhwu/jmail_was_developed_in_five_hours/</link>
+      <description><![CDATA[src: https://www.standard.co.uk/news/world/jmail-website-jeffrey-epsteins-emails-b1260026.html 我认为这是可能的唯一方法是人工智能主要是一次性完成或大部分代码编写已经躺在那里了。或者它是帽子，它是一些奇怪的角度来促进 kino ai。 想法？   由   提交 /u/livingdeadghost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0lhwu/jmail_was_developed_in_five_hours/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:17:34 GMT</pubDate>
     </item>
     <item>
-      <title>走哪条路</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r05k87/which_path_to_go_for/</link>
-      <description><![CDATA[所以我的一个朋友需要一个博客网站，为他的非营利组织提供另外 2 条路线，此时我真的无法决定该走哪条路，一个全栈 React 网站、带有 cms 的 astro 或 Wordpress。我问这个的主要原因是因为他根本不懂技术。   由   提交 /u/0xREvil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r05k87/which_path_to_go_for/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:25:42 GMT</pubDate>
+      <title>构建了一个小型网络应用程序来分析银行对账单，并比我预期了解更多有关前端性能和隐私的知识。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0kcrn/built_a_small_web_app_to_analyze_bank_statements/</link>
+      <description><![CDATA[      这最初是一个个人项目，因为我想要一种快速了解自己支出的方法，而无需将所有内容导出到 Excel。 我最终构建了一个简单的 Web 应用程序，它采用 CSV 或 PDF 银行对账单并分析内存中的所有内容，显示经常性费用、支出模式和类别细分。没有帐户，没有数据库，没有任何持久性。 从技术角度来看，有几件事让我感到惊讶。 在浏览器中处理 PDF 比 CSV 更混乱。 CSV 很简单，但 PDF 需要解析库、表格启发式以及大量取决于银行格式的边缘情况处理。 首先保持所有内容的隐私会带来一些有趣的限制。我避免了任何永久存储，并确保上传仅在浏览器内存或临时服务器内存中处理。这推动我走向一个非常轻量级的后端和比我最初计划更多的客户端逻辑。   由   提交/u/Jonyesh-2356   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0kcrn/built_a_small_web_app_to_analyze_bank_statements/</guid>
+      <pubDate>Mon, 09 Feb 2026 23:29:48 GMT</pubDate>
     </item>
     <item>
-      <title>您如何在 Web 开发工作流程中进行测试和调试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r05b4r/how_do_you_approach_testing_and_debugging_in_your/</link>
-      <description><![CDATA[测试和调试是 Web 开发的重要方面，但它们经常被忽视或仓促。我有兴趣了解您在确保代码质量方面的具体工作流程和工具。  您更喜欢自动化测试，如单元测试或端到端测试，还是更依赖手动测试？ 您如何将调试工具集成到您的流程中？此外，您使用什么策略来有效跟踪和修复错误？   由   提交 /u/bandito_13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r05b4r/how_do_you_approach_testing_and_debugging_in_your/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:15:34 GMT</pubDate>
+      <title>使用 DTO 时如何填充状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0jf69/how_to_populate_state_when_using_dtos/</link>
+      <description><![CDATA[在前端填充状态时，这样做的一般规则是什么？当访问页面并因此调用 API 时，您是否会填充其中的某些部分？或者当用户第一次访问网站时，您是否会拨打一个大电话来获取所有内容？  说到填充，如果我使用 DTO，它只有必要的数据，为什么不发送整个对象，或者镜像对象的 DTO，这样状态就类似于数据库，这有点真正的单一事实来源？我也不必随后拨打电话来获取遗漏的详细信息。  抱歉，如果这是一个愚蠢的问题。我是前端开发的新手。    由   提交/u/zerquet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0jf69/how_to_populate_state_when_using_dtos/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:52:55 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个开源“UI Bank”，因此您无需再次从头开始设计登录或 HUD（包括 Rust/Python/Nodejs 后端）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r0558z/i_built_an_open_source_ui_bank_so_you_never_have/</link>
-      <description><![CDATA[      大家好！ 我不是最优秀的前端，但我厌倦了为每个新的个人项目设置相同的样板，所以我花了周末构建 UI Bank。这是“押金”。优先考虑零配置的高级、即用型界面：只需下载并双击 index.html 内容： 🎨 5 个高级 GUI：Glassmorphism 登录、科幻 HUD（赛博朋克风格）、Neumorph 仪表板等。 🚀 3 个后端加速器：Rust 中的预配置设置， Python 和 Node.js 用于高性能应用程序。 🛠️ 入门套件：基础（Vite + Web 组件）和Pro（Web Workers + 关键 CSS）。 💎 免费资源：图标、声音 (UI SFX)、纹理和设备模型。 100% 开源 (MIT)。我很乐意看到您的贡献！ 仓库：https://github.com/Wiskey009/UI_BANK 让我知道您的想法！   由   提交/u/United-Practice-6070   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r0558z/i_built_an_open_source_ui_bank_so_you_never_have/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:08:46 GMT</pubDate>
+      <title>Reddit 和 Twitter (X) 哪个更适合网站推广？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0ir3n/which_is_better_for_website_promotion_reddit_or/</link>
+      <description><![CDATA[开发一个网站后，我需要推广它并获得用户。 Reddit 或 Twitter (X) 哪个平台更适合？   由   提交/u/sh4manik  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0ir3n/which_is_better_for_website_promotion_reddit_or/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>目前使用 Siteground 作为我的网站服务器主机，但他们的续订费率对我来说有点太贵了......该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r05505/currently_using_siteground_as_my_website_server/</link>
-      <description><![CDATA[我已经成为 Siteground 客户很多年了，总的来说，他们的整体服务和对客户服务的承诺非常出色。然而，他们最近提高了续订费率，以至于他们的 GoGeek 托管计划将花费我 863.71 英镑为期 24 个月 - 大约每月 36 英镑 - 当它在 9 月份续订时。 就像我说的，Siteground 非常出色，虽然我确实相信一分钱一分货，但我不确定他们的续订价格在当前市场上是否完全合理......但您认为呢？是否值得坚持使用它们并支付“相当高的价格”？ 我目前在 GoGeek 计划中托管 2 个（WordPress）网站 - 其中一个是规模相对较小的网站，不会引起太多关注，而另一个网站将在今年晚些时候推出时成为一个全面的电子商务网站。 该怎么办？该怎么办？ 感谢您提前做出的所有回复...   由   提交 /u/prankster999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r05505/currently_using_siteground_as_my_website_server/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:08:29 GMT</pubDate>
+      <title>新的 SaaS，我做错了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0infg/new_saas_am_i_doing_this_wrong/</link>
+      <description><![CDATA[      我想尝试在这里分享我的小项目，也许会得到一些关于如何开发这样的东西的良好反馈，或者它是否只是愚蠢的。 创建于 3 周前，很快就在有机搜索中获得了一些关注，但跳出率很高。.它是一款免费邮件扫描仪，具有高级功能，有助于邮件投递。积分（现收现付） 希望我没有错误地使用这个子程序，该网站是：https://mailrisk.io 最后一张照片是我的晚餐。   由   提交/u/DaddyMcLovin1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0infg/new_saas_am_i_doing_this_wrong/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:23:21 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚在我的应用程序中实现了社交身份验证。评价我的誓言。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r051dw/i_just_implemented_social_auth_in_my_app_rate_my/</link>
-      <description><![CDATA[       由   提交/u/ixartz  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r051dw/i_just_implemented_social_auth_in_my_app_rate_my/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:04:16 GMT</pubDate>
+      <title>新的 SaaS，我做错了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0in9u/new_saas_am_i_doing_this_wrong/</link>
+      <description><![CDATA[      我想尝试在这里分享我的小项目，也许会得到一些关于如何开发这样的东西的良好反馈，或者它是否只是愚蠢的。 创建于 3 周前，很快就在有机搜索中获得了一些关注，但跳出率很高。.它是一款免费邮件扫描仪，具有高级功能，有助于邮件投递。积分（现收现付） 希望我没有错误地使用这个子程序，该网站是：https://mailrisk.io 最后一张照片是我的晚餐。   由   提交/u/DaddyMcLovin1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0in9u/new_saas_am_i_doing_this_wrong/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:23:12 GMT</pubDate>
     </item>
     <item>
-      <title>作为开发人员，您每天访问哪些网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r04yhu/what_websites_do_you_visit_daily_as_a_developer/</link>
-      <description><![CDATA[我正在做一个业余项目，想听听其他开发人员的日常生活。我不打算在这里为这个项目做广告。只是想学习和理解。   由   提交 /u/onatm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r04yhu/what_websites_do_you_visit_daily_as_a_developer/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:01:10 GMT</pubDate>
+      <title>第一次网站设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0igun/first_time_website_designing/</link>
+      <description><![CDATA[您好，我是一名大学生，想要为我的工程项目设计一个网站。该项目是一个足球VAR系统，该网站基本上有一些非常基本的功能，应该能够显示是否有进球，以及一些有关进球的额外信息，例如球的速度等，我也在考虑在网站上添加某种实时视频源，我希望该网站对移动设备和桌面设备友好。有人可以给我一些指导，告诉我从哪里开始，选择什么软件，并学习如何实现这一目标吗？谢谢！   由   提交 /u/IIToodlesII   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0igun/first_time_website_designing/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:16:23 GMT</pubDate>
     </item>
     <item>
-      <title>构建表单工具——比较 Typeform、Tally、Google Forms、Jotform 和 AntForms（技术说明）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r048lz/building_a_form_tool_comparing_typeform_tally/</link>
-      <description><![CDATA[我构建了一个简单的表单生成器，因为我一直在免费计划中遇到付费墙。我记录了比较、用户体验权衡以及我们所做的技术选择（我们如何实现条件逻辑、分析捕获和基本人工智能表单建议）。 TL;DR：无限响应 + 本地分析 + 轻量级逻辑引擎 = 小项目的巨大用户体验胜利。 很好奇这里是否有任何开发人员构建了类似的东西或可以指出我应该注意的扩展陷阱。   由   提交/u/Devashish07  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r048lz/building_a_form_tool_comparing_typeform_tally/</guid>
-      <pubDate>Mon, 09 Feb 2026 13:29:59 GMT</pubDate>
+      <title>MrBeast Salesforce 网站 - 检查的元素显示奇怪的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0ic18/mrbeast_salesforce_website_inspected_elements/</link>
+      <description><![CDATA[      抱歉，如果这也不是发布此内容的正确 subreddit，我只是在寻找答案。 希望更聪明的人可以向我解释这一点，但在尝试 MrBeasts Salesforce 难题时，我决定检查 https://mrbeast.salesforce.com/。基本上只需右键单击网站，然后单击“检查”即可。它将在屏幕右侧打开一个框。该框的第一行是带有下拉菜单的#adopted-style-sheet。我决定单击下拉箭头，看看里面有什么信息。翻看了一下，发现这里列出了一大堆奇怪的网站。看照片。有比我聪明得多的人请解释一下为什么这些网站会出现吗？郑重声明，我从未访问过这些网站。   由   提交/u/akozlows  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0ic18/mrbeast_salesforce_website_inspected_elements/</guid>
+      <pubDate>Mon, 09 Feb 2026 22:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>公司正在加大招聘初级开发人员的难度。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r03ypw/companies_are_making_it_hard_to_hire_junior/</link>
-      <description><![CDATA[我最近看到 u/UseApart2127（编辑：现已删除）的帖子，内容是关于人工智能据说如何让招聘人员更难雇用初级开发人员（即使是那些拥有强大投资组合的开发人员），因为一些候选人无法完全解释部分内容 对初级开发人员（在梦境中）的担忧是完全公平的...... 这并没有提到这样一个事实：早在人工智能出现之前，这是一个问题，特别是 Stack Overflow 技术兄弟。 那么，从那时起，实际上发生了什么变化，为什么公司突然停止培训初级开发人员？ 我会把这个问题留给你。 此外，在评论中，他们提到了这一点： - - - - “我正在寻找那些深入了解自己在做什么并在工程系统方面进行权衡的人。而不是那些用人工智能开发东西但不了解其背后架构的人” - - - - 编辑：证明他们所说的话他们*现在声称*他们从未说过说（https://imgur.com/a/YdSN0Ve） 这个描述听起来更接近中级开发人员的期望，对吧？ 所以我很好奇，除了明显的原因之外，是什么真正阻止了像u/UseApart2127 会以中等薪酬聘用中级开发人员，而不是指望初级候选人具备如此水平的专业知识？ 我们都很想知道。   由   提交 /u/ActuatorOutside5256   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r03ypw/companies_are_making_it_hard_to_hire_junior/</guid>
-      <pubDate>Mon, 09 Feb 2026 13:17:27 GMT</pubDate>
+      <title>在 Web 开发中，您使用 JS 和那些 NPM 软件包，那么 2026 年开发人员应该使用什么防病毒软件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0grgr/in_web_dev_you_work_with_js_and_those_npm/</link>
+      <description><![CDATA[   /u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0grgr/in_web_dev_you_work_with_js_and_those_npm/</guid>
+      <pubDate>Mon, 09 Feb 2026 21:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>您最喜欢的静态站点生成器是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r03uhe/what_is_your_favourite_static_site_generator/</link>
-      <description><![CDATA[我想放弃 WordPress，并且正在寻找一个好的静态站点生成器。以前，我用的是 Jekyll。但我认为它不再那么流行了。 我也会对拥有良好活跃社区的一个感兴趣。   由   提交 /u/Ok-Consideration2955   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r03uhe/what_is_your_favourite_static_site_generator/</guid>
-      <pubDate>Mon, 09 Feb 2026 13:12:01 GMT</pubDate>
+      <title>后端开发有点被迫在前端工作，我需要一些帮助来选择正确的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0grbm/backend_dev_kinda_forced_to_work_on_frontend_and/</link>
+      <description><![CDATA[我正在开发美容应用程序（主要是指甲）。这个应用程序完全基于网络。  这个想法很简单，客户可以在某个时间预约专家。没有什么新奇或奇特的东西。我可以很好地处理后端，因为这是我的日常工作。但我很少做前端的事情。 我想在类似日历的界面中显示预订，这样它们看起来就不错。 我正在寻找一个可以执行以下操作的 JavaScript 库  必须适合移动设备。这是没有商量余地的。由于 91% 的流量来自移动设备。 按日和周显示预订 拥有良好的文档（这一点至关重要） 轻量级 理想的原生 JavaScript 要么可扩展，要么有选项（点击预订了解详细信息，有一个删除按钮 - 基本上是取消按钮）预订，可以选择只读等）  文档和自定义对我作为开发人员来说是迄今为止最有价值的。但移动友好对业务至关重要。天知道客户会想出什么疯狂的主意。 我研究过 TUI Calendar 和 CalendarJS。恕我直言，两者看起来都不错，但我又不知道自己要做什么。 我真的很感激你们的一些意见，因为我在这里看到的东西令人兴奋。至少从我的角度来看。   由   提交 /u/AppointmentFar6096   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0grbm/backend_dev_kinda_forced_to_work_on_frontend_and/</guid>
+      <pubDate>Mon, 09 Feb 2026 21:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌是邪恶的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r02v7f/is_google_evil/</link>
-      <description><![CDATA[你觉得怎么样？与数据的东西等等。    由   提交/u/KevinIdkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r02v7f/is_google_evil/</guid>
-      <pubDate>Mon, 09 Feb 2026 12:26:19 GMT</pubDate>
+      <title>veryrandom.site — 每次刷新时人工智能都会生成讽刺网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0geuu/veryrandomsite_ai_generated_satire_website_on/</link>
+      <description><![CDATA[ 由   提交/u/darksworm  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0geuu/veryrandomsite_ai_generated_satire_website_on/</guid>
+      <pubDate>Mon, 09 Feb 2026 21:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 要求对旧版 Facebook SDK 游戏进行企业帐户验证——独立开发者陷入困境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r016ac/meta_requires_business_account_verification_for/</link>
-      <description><![CDATA[大家好，我是一名独立开发者，我有一款使用 Facebook SDK 的旧游戏。 最近，Meta 使用以下消息标记了我的应用：   问题是：我不是企业或公司，只是一个开发者。 当我尝试验证企业时帐户，Meta 要求提供我没有的官方商业文件。 还有其他人处理过这个问题吗？ 个人开发者有什么办法可以在没有商业验证的情况下恢复应用程序吗？ 还是完全删除 Facebook 登录的唯一选择？ 感谢您的帮助。   由   提交 /u/DiscoverFolle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r016ac/meta_requires_business_account_verification_for/</guid>
-      <pubDate>Mon, 09 Feb 2026 10:53:18 GMT</pubDate>
+      <title>帮助 squarespace 和 shopify 网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0fbc6/help_with_squarespace_and_shopify_sites/</link>
+      <description><![CDATA[      大家好， 我希望这是提出这个问题的正确地方。 我有两个网站（第一个我已经使用了几年。第二个是我刚刚发布的） 网站 1：www.birdcvlt.net 网站 2：www.ricardoalestattoo.com 问题：网站 1 不断重定向到网站 2，但仅限于我第一次在浏览器中输入其 URL 时。我第二次尝试时，它会定向到正确的站点。此外，如果我将网站 1 的链接放在 Instagram 上的个人简介中并点击它，它会定向到网站 2 上的错误页面。 注意：网站 1 是一个 Shopify 网站，但域名是通过 squarespace 注册的。网站2是一个squarespace网站，但域名是通过shopify注册​​的。别问我为什么这么做。 lol 域名的注册相隔数年，我在决定使用哪个平台来构建我的网站之前就进行了注册。 我相当确定我的 DNS 设置是正确的并且应该如此。我将在这里截屏，以便您可以查看。我不知道这里发生了什么，也不知道我做了什么把事情搞砸了。 我尽力解释清楚，但请让我知道我遗漏了重要信息。 感谢您提供的任何帮助！ 再次抱歉，如果这不是解决此类问题的正确 Reddit 子版块。   由   提交/u/Ricardoalestattoo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0fbc6/help_with_squarespace_and_shopify_sites/</guid>
+      <pubDate>Mon, 09 Feb 2026 20:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>为第三方 API 自动生成 LLM 可读文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r00lwq/autogenerate_llmreadable_docs_for_third_party_apis/</link>
-      <description><![CDATA[      大家好， 我花了很多时间将任何类型的第三方 API 集成到网站和在线商店中。一次又一次困扰我的一件事是，其中许多都没有文档或 OpenAPI 规范。因此，在我的上一个项目中，我构建了 autodisco，一个用于从给定端点自动生成架构规范的工具。 该工具现在还生成一个 API.md 文件，可以将其输入 LLM 以更好地理解 要运行发现过程，您只需通过 npx 调用它： npx autodisco https://jsonplaceholder.typicode.com/posts  这将为端点生成 OpenAPI 架构以及包含一些附加信息的 Markdown 文档。 对于多个端点和更高级的用例，您还可以将其与配置文件一起使用： // autodisco.config.{js,ts,mjs,cjs} 导出默认值 { baseUrl: &#39;https://jsonplaceholder.typicode.com&#39;, headers: { &#39;My-Custom-Header&#39;: &#39;Hello World&#39;, }probes: { get: { &#39;/posts&#39;: {}, }, post: { &#39;/users&#39;: { body: { name: &#39;John Doe&#39;, username: &#39;johndoe&#39;, email: &#39;johndoe@example.com&#39;, }, }, }, },generate: { openApi: true, // default markdown: true, // default }, }  这将生成与上一个示例相同的 OpenAPI 架构和 markdown 文档，但带有附加标头和 POST 端点。此外，您还可以设置生成配置来输出 TypeScript 类型、JSON 模式或 Zod 模式。 发现、解析和生成过程也可以通过钩子完全自定义。如果您想了解解析和生成的工作原理，可以在此处阅读更多内容。 如果您有任何反馈，请告诉我！ 感谢您的阅读，祝您度过愉快的一天   由   提交/u/freb97  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r00lwq/autogenerate_llmreadable_docs_for_third_party_apis/</guid>
-      <pubDate>Mon, 09 Feb 2026 10:19:17 GMT</pubDate>
+      <title>我很好奇那些盗版流媒体网站，比如连续剧、动漫。 100集/动漫有新EP的时候，怎么1-3个小时就更新得这么快？他们使用 webhook 还是其他东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r0f4nn/im_curious_those_pirated_streaming_sites_like/</link>
+      <description><![CDATA[   例如，假设《绝命毒师》和其他 100 系列有新剧集，周五，这些网站的更新速度相当快。    由   提交/u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r0f4nn/im_curious_those_pirated_streaming_sites_like/</guid>
+      <pubDate>Mon, 09 Feb 2026 20:13:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
