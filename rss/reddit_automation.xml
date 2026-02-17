@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 17 Feb 2026 06:52:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 09:42:03 GMT</lastBuildDate>
+    <item>
+      <title>小企业主们，每周都有哪些重复性的工作在悄然耗尽您的时间呢？</title>
+      <link>https://www.reddit.com/r/automation/comments/1r70ymg/small_business_owners_what_repetitive_task_is/</link>
+      <description><![CDATA[大家好，  我与一个专注于中小企业工作流程自动化的小团队合作。我来这里不是为了卖任何东西。我真诚地试图了解小企业目前面临的运营痛点。  在过去的几个月里，我们注意到一些一致的事情：大多数企业并不缺乏工具。他们缺乏干净的工作流程。  我们看到的常见模式：  每周手动跟踪进餐时间 由于没有人“拥有”管道而导致漏掉 不应该再手动进行的重复性管理工作 流程严重依赖于一个无所不知的人  我对这个社区很好奇： 什么重复性任务现在最让您沮丧的是什么？ 潜在客户或内部流程在哪里出现故障？  是否有一些您知道可以自动化但没有时间修复的问题？  如果您愿意分享，我很想听听具体信息。我将用我在类似情况下见过的实用想法来回应。   由   提交/u/Necessary-Body-6108  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1r70ymg/small_business_owners_what_repetitive_task_is/</guid>
+      <pubDate>Tue, 17 Feb 2026 08:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能接管任务代理时会发生什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1r7061t/what_happens_when_ai_takes_over_with_task_agents/</link>
+      <description><![CDATA[ 由   提交 /u/Innvolve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1r7061t/what_happens_when_ai_takes_over_with_task_agents/</guid>
+      <pubDate>Tue, 17 Feb 2026 08:01:33 GMT</pubDate>
+    </item>
     <item>
       <title>一个可以按位置和关键字过滤 Instagram 个人资料的工具？</title>
       <link>https://www.reddit.com/r/automation/comments/1r6yxgg/a_tool_that_can_filter_instagram_profiles_by/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[我在一个小型财务团队工作，我们正在处理大量发票，尤其是在月末结算期间。我一直在研究使用人工智能的发票 OCR，但我不确定它的可靠性如何。有什么工具可以推荐吗？   由   提交/u/AndreiaVenturini   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1r6w18p/any_ai_invoice_ocr_tools_that_work/</guid>
       <pubDate>Tue, 17 Feb 2026 04:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 r/ShopAI — 为早期 SaaS 构建者分享短视频实验</title>
-      <link>https://www.reddit.com/r/automation/comments/1r6on73/launching_rshopai_sharing_short_video_experiments/</link>
-      <description><![CDATA[       由   提交/u/ailovrrs  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r6on73/launching_rshopai_sharing_short_video_experiments/</guid>
-      <pubDate>Mon, 16 Feb 2026 22:48:47 GMT</pubDate>
     </item>
     <item>
       <title>自动化机构空间是否过于饱和？</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[在进行了大量内部自动化（操作、支持、移交）之后，我注意到了一个一致的模式： 大多数失败都不是技术性的。 流程本身还没有准备好。 在我现在实现自动化之前，我会通过三个问题来运行每个工作流程：  人类每次都会以同样的方式这样做吗？  如果结果取决于判断或解释，自动化就会变得脆弱。  逻辑可以在 30 秒内解释清楚吗？  如果第一天需要边缘情况或异常，维护很快就会超过收益。  手动流程是否已经端到端运行？  自动化无法修复它暴露的损坏的工作流程 我所做的大多数回滚都在 #3 处失败。 我现在遵循的规则： 自动化可重复的决策，而不是松散定义的职责。 社区问题： 您过早自动化并不得不撤消的工作流程是什么？   由   提交 /u/Commercial-Job-9989   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1r65poe/my_3question_test_before_i_automate_anything/</guid>
       <pubDate>Mon, 16 Feb 2026 10:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>易于设置的文档提取软件？</title>
-      <link>https://www.reddit.com/r/automation/comments/1r60g06/document_extraction_software_thats_easy_to_set_up/</link>
-      <description><![CDATA[谁能推荐一个易于设置的文档提取软件？我需要尽快扫描一批文档，有些页面有表格和图表   由   提交 /u/Fantastic-Welder2755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r60g06/document_extraction_software_thats_easy_to_set_up/</guid>
-      <pubDate>Mon, 16 Feb 2026 04:56:04 GMT</pubDate>
     </item>
     <item>
       <title>我从每天破坏 n8n 工作流程到找到付费客户，说实话，如果没有这个社区，我就不会明白这一点</title>
