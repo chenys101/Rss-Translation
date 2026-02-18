@@ -4,9 +4,9 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 17 Feb 2026 21:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 01:47:39 GMT</lastBuildDate>
     <item>
-      <title>独立创始人为何失败：“公共建设”之外的令人不安的真相</title>
+      <title>独立创始人为何失败：“公共建设”之外的令人不安的事实</title>
       <link>https://feed.indiehackers.world/post/b51fd6509b</link>
       <description><![CDATA[我们在 Twitter 上看到了亮点：MRR 里程碑、庆祝船舶帖子、时尚的登陆页面。我们看不到的是静默的枢纽、废弃的存储库、即将过期的域名。每个独立的成功故事都有一百个安静的结局。你已经知道这个故事了。
 在与数十位创始人交谈过之后，他们要么欣欣向荣，要么陷入困境，并且自己也尝过失败和微薄的成功的滋味，我开始相信我们的失败很少与代码有关。它们是关于一些更深刻、更人性化、而且往往不言而喻的事情。以下是我们真正失败的原因的详细分析。
@@ -62,7 +62,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>您的 SaaS 没有流量问题 — 它有信任问题</title>
       <link>https://feed.indiehackers.world/post/1f6b72e05f</link>
       <description><![CDATA[大多数 SaaS 创始人认为，他们的增长困境归结于缺乏流量。他们将大量时间投入到内容、广告和社交活动中，认为数字可以解决一切。但令人不安的事实是：单靠流量并不能拯救 SaaS。
-您的网站每月可能有数千名访问者，但仍难以实现转化。为什么？因为访问者不够信任您而不会采取行动。
+您的网站每月可能有数千名访问者，但仍然难以实现转化。为什么？因为访问者不够信任您而不会采取行动。
 信任是无形的转化引擎。没有它，即使是最漂亮的产品页面也只是一本坐在那里收集点击的小册子。
 &lt;小时/&gt;
 
@@ -216,11 +216,11 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>第一周现实检查：社交媒体、文章以及建议和结果之间的差距</title>
       <link>https://feed.indiehackers.world/post/f260bdf245</link>
-      <description><![CDATA[It&#39;s been 9 days since I launched SharpDay, and honestly?这就像坐过山车一样。
-Going in, I had two big fears: First, is my whole approach to productivity even valid, or am I building something nobody wants? Second, where the hell do I find my first users?
-The numbers right now: 15 trial users, and 2 already converted to paid plans. Those 2 are actively bombarding me with feature requests and feedback, which feels like putting their real trust in what I&#39;m building.
+      <description><![CDATA[自从我推出 SharpDay 以来已经 9 天了，说实话？这就像坐过山车一样。
+刚开始时，我有两大恐惧：首先，我的整个生产力方法是否有效，或者我正在构建一些没人想要的东西？其次，我到底在哪里找到我的第一批用户？
+目前的数字：15 名试用用户，2 名已转换为付费计划。那两个人正在积极地向我提供功能请求和反馈，这感觉就像他们真正信任我正在构建的东西。
 虽然数字不是很大，但它们是真实的。到达这里并不容易。
-我在开始之前就做好了准备。 Watched tons of videos with advice about what works and what doesn&#39;t.但最终，大部分对我来说都不起作用。 Maybe my use-case is too different, or my personality doesn&#39;t fit the mold, I&#39;m not sure.
+我在开始之前就做好了准备。观看了大量视频，其中提供了有关哪些有效、哪些无效的建议。但最终，大部分对我来说都不起作用。也许我的用例太不同了，或者我的个性不符合模式，我不确定。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/f260bdf245</guid>
       <pubDate>Fri, 24 Oct 2025 09:29:11 GMT</pubDate>
