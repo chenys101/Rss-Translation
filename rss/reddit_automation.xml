@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 21 Feb 2026 06:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 09:25:07 GMT</lastBuildDate>
+    <item>
+      <title>是否还有机器人为你参与赠品（Tiktok/Instagram）？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ralana/are_there_still_bots_which_participate_in_give/</link>
+      <description><![CDATA[这仍然是一件事并且有利可图吗？我没有这方面的知识，我只是好奇。   由   提交 /u/Odd_Judgment_3513   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ralana/are_there_still_bots_which_participate_in_give/</guid>
+      <pubDate>Sat, 21 Feb 2026 07:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>训练（如果需要）或解决这些验证码的最佳方法？</title>
+      <link>https://www.reddit.com/r/automation/comments/1rakqxm/best_way_to_train_if_required_or_solve_these/</link>
+      <description><![CDATA[      我尝试了这个：keras 的 captcha_ocr 但效果不佳。解决这些问题的任何其他方法。   由   提交/u/DevanshGarg31   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rakqxm/best_way_to_train_if_required_or_solve_these/</guid>
+      <pubDate>Sat, 21 Feb 2026 07:16:34 GMT</pubDate>
+    </item>
     <item>
       <title>想要监控 reddit 关键词</title>
       <link>https://www.reddit.com/r/automation/comments/1ra5t65/looking_to_monitor_reddit_keywords/</link>
@@ -69,13 +83,6 @@
       <pubDate>Fri, 20 Feb 2026 10:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>视频OCR工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1r9r79p/video_ocr_tool/</link>
-      <description><![CDATA[大家好 我有一些视频，我想要一个工具来从这些视频中提取所有书面文本有什么工具可以解决我的问题吗？最好是免费的，或者至少不贵我尝试了很多工具，但没有成功。   由   提交/u/Sylense_03  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r9r79p/video_ocr_tool/</guid>
-      <pubDate>Fri, 20 Feb 2026 09:50:02 GMT</pubDate>
-    </item>
-    <item>
       <title>n8n 和 Make 是否开始让人感觉过时了，或者自动化领域正在不断发展？</title>
       <link>https://www.reddit.com/r/automation/comments/1r9qldj/are_n8n_and_make_starting_to_feel_outdated_or_is/</link>
       <description><![CDATA[ 由   提交 /u/Extreme-Brick6151   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/Good-Baby-232   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1r9lfzo/automated_qa_testing_our_own_website_using_our/</guid>
       <pubDate>Fri, 20 Feb 2026 04:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉失落</title>
-      <link>https://www.reddit.com/r/automation/comments/1r9a0qa/feeling_lost/</link>
-      <description><![CDATA[嘿伙计们，我刚刚开始通过 Make 学习无代码自动化（它比 n8n “更好”吗？）几周了，我有点迷失了，你们必须拥有深厚的编码知识才能掌握这些工具吗？如果您是一个刚刚开始的初学者，并且根本不想学习编码，只是没有代码并且适合中小型企业，您会给自己什么建议，谢谢    由   提交/u/jaych_777  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r9a0qa/feeling_lost/</guid>
-      <pubDate>Thu, 19 Feb 2026 20:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
