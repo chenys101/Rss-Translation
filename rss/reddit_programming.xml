@@ -4,20 +4,69 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 23 Feb 2026 21:40:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 01:31:39 GMT</lastBuildDate>
+    <item>
+      <title>字典压缩终于来了，而且非常棒</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd0ulc/dictionary_compression_is_finally_here_and_its/</link>
+      <description><![CDATA[ 由   提交 /u/mycall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd0ulc/dictionary_compression_is_finally_here_and_its/</guid>
+      <pubDate>Tue, 24 Feb 2026 01:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在用 AI 对 Redis 兼容的数据库进行 vivi 编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd0mti/ive_been_vibecoding_a_rediscompatible_database/</link>
+      <description><![CDATA[我一直在构建一个名为 PeaDB 的小型 Redis 兼容内存数据库作为实验。 工作流程很简单：  定义需求和范围 首先设计基准和测试方法 让 AI 帮助实施 直接与 Redis 进行比较 测量、查找差距、迭代  人工智能编写所有代码（羞耻？）。我决定构建什么以及结果是否可接受。 当前状态：  支持字符串、列表、集合、哈希、排序集 与现有 Redis 客户端配合使用 在与 Redis 相同的机器上进行基准测试（8 个 CPU，31GB RAM） 大多数吞吐量数据在 Redis 的 2-4% 范围内 轻微尾部延迟回归混合工作负载  我对以下方面的反馈感兴趣：  人工智能辅助工作流程 基准方法 这种方法可能会在规模上出现问题  Repo：https://github.com/alsatianco/peadb 基准报告： https://github.com/alsatianco/peadb/blob/main/comparison_report.txt   由   提交/u/alsatian-studio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd0mti/ive_been_vibecoding_a_rediscompatible_database/</guid>
+      <pubDate>Tue, 24 Feb 2026 01:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>C 枚举大小；或者，MSVC 如何再次忽视该标准</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd0400/c_enum_sizes_or_how_msvc_ignores_the_standard/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd0400/c_enum_sizes_or_how_msvc_ignores_the_standard/</guid>
+      <pubDate>Tue, 24 Feb 2026 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>帝国时代：25 年以上的 C++ 寻路问题 - Raymi Klingers - Meeting C++ 2025</title>
+      <link>https://www.reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/</guid>
+      <pubDate>Tue, 24 Feb 2026 00:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Odin 的反射如何使类型信息变得微不足道</title>
+      <link>https://www.reddit.com/r/programming/comments/1rczjs2/how_odins_reflection_makes_type_information/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rczjs2/how_odins_reflection_makes_type_information/</guid>
+      <pubDate>Tue, 24 Feb 2026 00:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名、密封、被盗：我们如何在攻​​击下修补关键漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1rcy9l1/signed_sealed_stolen_how_we_patched_critical/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rcy9l1/signed_sealed_stolen_how_we_patched_critical/</guid>
+      <pubDate>Mon, 23 Feb 2026 23:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>绑定端口0，避免端口冲突</title>
+      <link>https://www.reddit.com/r/programming/comments/1rcvfpm/binding_port_0_to_avoid_port_collisions/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rcvfpm/binding_port_0_to_avoid_port_collisions/</guid>
+      <pubDate>Mon, 23 Feb 2026 22:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Shufflepuck Cafe 移植到 8 位 Apple II 的挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1rcveof/the_challenges_of_porting_shufflepuck_cafe_to_the/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rcveof/the_challenges_of_porting_shufflepuck_cafe_to_the/</guid>
+      <pubDate>Mon, 23 Feb 2026 22:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>Grafana 的课程 - 第 1 部分：愿景</title>
       <link>https://www.reddit.com/r/programming/comments/1rcum6t/lessons_in_grafana_part_one_a_vision/</link>
       <description><![CDATA[最近重新开始写博客，这个系列主要是数据分析。第一个条目（链接在此处）重点介绍如何可视化存储在电子表格中的职位申请数据。第二个条目是关于从垃圾箱机器人中抓取数据的。希望您喜欢！   由   提交 /u/LivInTheLookingGlass   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rcum6t/lessons_in_grafana_part_one_a_vision/</guid>
       <pubDate>Mon, 23 Feb 2026 21:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brownfield Spec Flow — 预先设计功能的恢复优先 AI 执行</title>
-      <link>https://www.reddit.com/r/programming/comments/1rctztd/brownfield_spec_flow_resumefirst_ai_execution_for/</link>
-      <description><![CDATA[ 由   提交 /u/HumorNo461   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rctztd/brownfield_spec_flow_resumefirst_ai_execution_for/</guid>
-      <pubDate>Mon, 23 Feb 2026 21:08:09 GMT</pubDate>
     </item>
     <item>
       <title>博客文章：Glue IDL 和工具链，新项目的技术文章</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rcpom8/swift_import_declarations/</guid>
       <pubDate>Mon, 23 Feb 2026 18:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 C++ 模拟聚变反应堆</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpodq/simulating_fusion_reactors_in_c/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpodq/simulating_fusion_reactors_in_c/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSLib：精益计算机科学图书馆</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpnv3/cslib_the_lean_computer_science_library/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpnv3/cslib_the_lean_computer_science_library/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 C/C++ 统一构建与大型代码库上的常规构建进行比较</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpntb/comparing_cc_unity_build_with_regular_build_on_a/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpntb/comparing_cc_unity_build_with_regular_build_on_a/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>解析，不验证又称为一些 C 安全提示</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpn6x/parse_dont_validate_aka_some_c_safety_tips/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpn6x/parse_dont_validate_aka_some_c_safety_tips/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>管道式关系查询语言，发音为“Prequel”</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpmx9/pipelined_relational_query_language_pronounced/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpmx9/pipelined_relational_query_language_pronounced/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>位域</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpm9p/bitfields/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpm9p/bitfields/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何培训您的程序验证员</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcpizu/how_to_train_your_program_verifier/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcpizu/how_to_train_your_program_verifier/</guid>
-      <pubDate>Mon, 23 Feb 2026 18:29:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
