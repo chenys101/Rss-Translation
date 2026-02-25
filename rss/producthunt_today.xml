@@ -4,20 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Feb 2026 21:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 01:47:04 GMT</lastBuildDate>
     <item>
-      <title>报警人工智能</title>
-      <link>https://www.producthunt.com/products/nag-alarm-ai</link>
+      <title>衬垫写入</title>
+      <link>https://www.producthunt.com/products/liner-write</link>
       <description><![CDATA[
-            通过个性化消息与您对话的闹钟
+            专业写作光标
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nag-alarm-ai</guid>
-      <pubDate>Tue, 24 Feb 2026 07:56:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/liner-write</guid>
+      <pubDate>Tue, 24 Feb 2026 07:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>芽</title>
+      <link>https://www.producthunt.com/products/gemma</link>
+      <description><![CDATA[
+            AI 私人助理，给您打电话并提供提醒
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gemma</guid>
+      <pubDate>Tue, 24 Feb 2026 05:33:11 GMT</pubDate>
     </item>
     <item>
       <title>基维库埃</title>
@@ -34,32 +48,18 @@
       <pubDate>Tue, 24 Feb 2026 05:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>兹瓦.sh</title>
-      <link>https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines</link>
+      <title>兰花1.0</title>
+      <link>https://www.producthunt.com/products/orchids</link>
       <description><![CDATA[
-            为 Godot 游戏引擎构建的 AI 代理
+            使用现有的 AI 订阅构建任何应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines</guid>
-      <pubDate>Tue, 24 Feb 2026 03:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>径向</title>
-      <link>https://www.producthunt.com/products/radial</link>
-      <description><![CDATA[
-            用手势自动化任何事情
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/radial</guid>
-      <pubDate>Mon, 23 Feb 2026 17:29:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/orchids</guid>
+      <pubDate>Tue, 24 Feb 2026 04:23:29 GMT</pubDate>
     </item>
     <item>
       <title>OpenClaw 切换</title>
@@ -90,6 +90,20 @@
       <pubDate>Mon, 23 Feb 2026 13:44:09 GMT</pubDate>
     </item>
     <item>
+      <title>平淡无奇</title>
+      <link>https://www.producthunt.com/products/prosaic</link>
+      <description><![CDATA[
+            一个最小的、开源的、作家优先的终端写作应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/prosaic</guid>
+      <pubDate>Mon, 23 Feb 2026 12:43:21 GMT</pubDate>
+    </item>
+    <item>
       <title>藏匿或通行证</title>
       <link>https://www.producthunt.com/products/stash-or-pass</link>
       <description><![CDATA[
@@ -104,18 +118,18 @@
       <pubDate>Mon, 23 Feb 2026 12:42:54 GMT</pubDate>
     </item>
     <item>
-      <title>口授</title>
-      <link>https://www.producthunt.com/products/dictato</link>
+      <title>定居</title>
+      <link>https://www.producthunt.com/products/settle-4</link>
       <description><![CDATA[
-            适用于每台 Mac 的本地即时语音转文本
+            利用人工智能寻找、管理并赢得更多合同
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dictato</guid>
-      <pubDate>Mon, 23 Feb 2026 09:52:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/settle-4</guid>
+      <pubDate>Mon, 23 Feb 2026 09:02:20 GMT</pubDate>
     </item>
     <item>
       <title>脚本矿</title>
@@ -132,18 +146,18 @@
       <pubDate>Fri, 20 Feb 2026 11:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>利夫塞尔</title>
-      <link>https://www.producthunt.com/products/liftsell</link>
+      <title>柠檬水密码管理器</title>
+      <link>https://www.producthunt.com/products/lemonade-password-manager</link>
       <description><![CDATA[
-            跟踪收入的智能弹出窗口和小部件
+            简单、安全，为您的 .env 文件提供 Env Vault
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/liftsell</guid>
-      <pubDate>Wed, 18 Feb 2026 18:43:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lemonade-password-manager</guid>
+      <pubDate>Fri, 20 Feb 2026 03:32:06 GMT</pubDate>
     </item>
     <item>
       <title>模型应用程序生成器</title>
@@ -160,20 +174,6 @@
       <pubDate>Wed, 18 Feb 2026 04:17:57 GMT</pubDate>
     </item>
     <item>
-      <title>爪食谱</title>
-      <link>https://www.producthunt.com/products/clawrecipes-openclaw-recipes</link>
-      <description><![CDATA[
-            一次安装即可为您的 OpenClaw 提供更多操作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/clawrecipes-openclaw-recipes</guid>
-      <pubDate>Tue, 17 Feb 2026 19:33:59 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌缝合</title>
       <link>https://www.producthunt.com/products/stitch-by-google</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@
       <pubDate>Tue, 17 Feb 2026 16:42:26 GMT</pubDate>
     </item>
     <item>
-      <title>阿尼玛</title>
-      <link>https://www.producthunt.com/products/anima-app</link>
+      <title>集体操作系统</title>
+      <link>https://www.producthunt.com/products/collective-os</link>
       <description><![CDATA[
-            用户体验设计代理|设计到代码
+            面向机构和顾问的 Al-powered 推荐网络
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/anima-app</guid>
-      <pubDate>Thu, 12 Feb 2026 23:27:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/collective-os</guid>
+      <pubDate>Mon, 16 Feb 2026 03:47:19 GMT</pubDate>
     </item>
     <item>
       <title>semn.ai</title>
