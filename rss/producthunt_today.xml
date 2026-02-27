@@ -4,35 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Feb 2026 21:30:58 GMT</lastBuildDate>
-    <item>
-      <title>海姆达尔</title>
-      <link>https://www.producthunt.com/products/heimdall-3</link>
-      <description><![CDATA[
-            查看地球轨道上物体的实时遥测数据
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/heimdall-3</guid>
-      <pubDate>Thu, 26 Feb 2026 06:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>食品健康评分</title>
-      <link>https://www.producthunt.com/products/foodhealth-score</link>
-      <description><![CDATA[
-            网上购物时寻找更健康的食品杂货
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/foodhealth-score</guid>
-      <pubDate>Thu, 26 Feb 2026 03:45:07 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 01:31:41 GMT</lastBuildDate>
     <item>
       <title>铁爪</title>
       <link>https://www.producthunt.com/products/ironclaw</link>
@@ -62,6 +34,34 @@
       <pubDate>Wed, 25 Feb 2026 21:33:25 GMT</pubDate>
     </item>
     <item>
+      <title>Read AI 的数字孪生</title>
+      <link>https://www.producthunt.com/products/read-dashboard</link>
+      <description><![CDATA[
+            抄送：ada@read.ai。让您的数字孪生处理剩下的事情
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/read-dashboard</guid>
+      <pubDate>Wed, 25 Feb 2026 19:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>排名优秀</title>
+      <link>https://www.producthunt.com/products/rankingsuperior</link>
+      <description><![CDATA[
+            利用您的专业知识进行排名并获得引用
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rankingsuperior</guid>
+      <pubDate>Wed, 25 Feb 2026 18:54:22 GMT</pubDate>
+    </item>
+    <item>
       <title>台达内存</title>
       <link>https://www.producthunt.com/products/deltamemory</link>
       <description><![CDATA[
@@ -76,32 +76,32 @@
       <pubDate>Wed, 25 Feb 2026 16:01:31 GMT</pubDate>
     </item>
     <item>
-      <title>种子梦5.0精简版</title>
-      <link>https://www.producthunt.com/products/pixeldance-seaweed</link>
+      <title>开爪城</title>
+      <link>https://www.producthunt.com/products/openclawcity</link>
       <description><![CDATA[
-            下一代AI图像创作就在这里
+            人工智能代理生活、创造和发展的持久城市
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pixeldance-seaweed</guid>
-      <pubDate>Wed, 25 Feb 2026 14:35:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openclawcity</guid>
+      <pubDate>Wed, 25 Feb 2026 12:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>凯龙星</title>
-      <link>https://www.producthunt.com/products/chiron</link>
+      <title>嘘</title>
+      <link>https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop</link>
       <description><![CDATA[
-            位于 DAW 中的 AI 制作导师
+            模糊您凌乱的桌面以在屏幕共享期间将其隐藏
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chiron</guid>
-      <pubDate>Wed, 25 Feb 2026 01:16:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop</guid>
+      <pubDate>Wed, 25 Feb 2026 11:09:41 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 的 gpt-realtime-1.5</title>
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chatpal-2</guid>
       <pubDate>Mon, 23 Feb 2026 16:48:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕德尔国际象棋</title>
+      <link>https://www.producthunt.com/products/padel-chess</link>
+      <description><![CDATA[
+            Padel 战术学习应用
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/padel-chess</guid>
+      <pubDate>Thu, 19 Feb 2026 15:12:23 GMT</pubDate>
     </item>
     <item>
       <title>字棒</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/codewords</guid>
       <pubDate>Tue, 10 Feb 2026 17:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>科伊迪克斯</title>
-      <link>https://www.producthunt.com/products/koidex-2</link>
-      <description><![CDATA[
-            了解包、扩展或 AI 模型是否真正安全
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/koidex-2</guid>
-      <pubDate>Tue, 10 Feb 2026 16:33:08 GMT</pubDate>
     </item>
     <item>
       <title>rtrvr.ai 的漫游者</title>
