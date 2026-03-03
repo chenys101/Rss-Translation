@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Mar 2026 18:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 21:30:32 GMT</lastBuildDate>
+    <item>
+      <title>MOGWAI - 用于 .NET IoT/嵌入式的基于堆栈的 RPN 脚本语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1rk248p/mogwai_a_stackbased_rpn_scripting_language_for/</link>
+      <description><![CDATA[经过 3 年的生产运行（通过天文钟控制街道照明），我开源了 MOGWAI——一种用于 .NET 的基于堆栈的 RPN 脚本语言。 为什么将 RPN 用于物联网？  最小内存占用（&lt;500KB） 确定性执行（无 GC 暂停） 简单的解析器（200 行 vs 数千行中缀） 内置沙箱  示例 - 日出/日落照明控制： gps.coordinates -&gt; &#39;位置&#39;现在位置日出日落 -&gt; &#39;次&#39;次-&gt;日出30分钟+-&gt; &#39;lightsOff&#39; LightsOff &#39;lights&#39; gpio.off timer.at  经过生产验证：  3 年内零严重故障 嵌入式设备 24/7 运行 240 个内置原语 跨平台（Windows、Linux、macOS、Android、iOS）  技术：  .NET 9.0、Apache 2.0 许可证 全程异步/等待 可视化调试协议  在 NuGet 和 GitHub 上提供。 GitHub： https://github.com/Sydney680928/mogwai 欢迎提问！   由   提交/u/sydney73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rk248p/mogwai_a_stackbased_rpn_scripting_language_for/</guid>
+      <pubDate>Tue, 03 Mar 2026 21:27:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑商威胁建模</title>
+      <link>https://www.reddit.com/r/programming/comments/1rjzudz/threat_modelling_for_builders/</link>
+      <description><![CDATA[ 由   提交 /u/Missics   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rjzudz/threat_modelling_for_builders/</guid>
+      <pubDate>Tue, 03 Mar 2026 20:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年，在短短 24 小时内抓取 10 亿个网页</title>
+      <link>https://www.reddit.com/r/programming/comments/1rjynii/crawling_a_billion_web_pages_in_just_over_24/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rjynii/crawling_a_billion_web_pages_in_just_over_24/</guid>
+      <pubDate>Tue, 03 Mar 2026 19:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>TorchLean：形式化精益神经网络</title>
       <link>https://www.reddit.com/r/programming/comments/1rjvc1b/torchlean_formalizing_neural_networks_in_lean/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Big-Engineering-9365   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rjnpqk/oauth_redirect_abuse_lets_attackers_bypass_mfa/</guid>
       <pubDate>Tue, 03 Mar 2026 12:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>匿名凭证：我们如何生活在一个具有常规年龄验证和人类身份识别的世界中，而又不完全放弃我们的隐私？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rjm79m/anonymous_credentials_how_do_we_live_in_a_world/</link>
-      <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rjm79m/anonymous_credentials_how_do_we_live_in_a_world/</guid>
-      <pubDate>Tue, 03 Mar 2026 10:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ANSI 转义码构建您自己的命令行</title>
-      <link>https://www.reddit.com/r/programming/comments/1rjljyf/build_your_own_command_line_with_ansi_escape_codes/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rjljyf/build_your_own_command_line_with_ansi_escape_codes/</guid>
-      <pubDate>Tue, 03 Mar 2026 10:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOS内存管理</title>
-      <link>https://www.reddit.com/r/programming/comments/1rjlclc/dos_memory_management/</link>
-      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rjlclc/dos_memory_management/</guid>
-      <pubDate>Tue, 03 Mar 2026 09:56:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
