@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Mar 2026 12:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 15:37:38 GMT</lastBuildDate>
+    <item>
+      <title>为什么DRAM仍然是一个黑匣子？我正在尝试构建一个开放式 DDR 内存模块。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rknyvh/why_is_dram_still_a_black_box_im_trying_to_build/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rknyvh/why_is_dram_still_a_black_box_im_trying_to_build/</guid>
+      <pubDate>Wed, 04 Mar 2026 15:12:19 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了 crikket，这是 jam.dev 和 Marker.io 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1rkjwwb/i_built_crikket_an_open_source_alternative_to/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[大家好， 我目前正在尝试更新我们公司的电子表格，我们是一家制造公司/机械车间/加工车间。  我正在寻找一个程序，我可以像Excel一样输入行信息，但可以更好地链接单元格并更好地显示信息。现在的电子表格基本上只有我们设计师使用。我们用它来保存有关常见零件及其尺寸/材料等的信息 例如；   零件编号 宽度 高度 长度 孔尺寸 材料    该工作表大约有 60 个不同样式零件的选项卡，每个选项卡有 50 到 1500 行零件，每个选项卡大约有 5 到 12 列，如上面描述零件 我们还有一个指向服务器上 pdf 绘图的超链接。我希望（真的很喜欢）一种将鼠标悬停在其上的方法，并且能够打开链接或让它以视觉方式显示链接，这样我就不必点击愿望清单上的部分  使用的部分（因此跟踪物料清单或项目是否在其他地方使用） 一个功能，可以让我们知道一个部分是否与已经存在的另一个部分相似 足够灵活，可以将其添加到未来并且不破坏任何链接 能够从 Excel 导入对我来说也很重要 成本非常低/免费 自托管首选  该程序不需要涵盖任何会计或计费（如果涉及的话，也不是世界末日） 谢谢！   由   提交/u/Iguy_Poljus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1riwcb1/spreadsheet_transfer_ui_improved_program_tracking/</guid>
       <pubDate>Mon, 02 Mar 2026 15:47:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机使用协议 - 在任何操作系统和环境中使用您的 AI 代理。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ric2t1/computer_use_protocol_use_your_ai_agent_with_any/</link>
-      <description><![CDATA[我构建 CUP 是因为每个 AI 代理框架都在独立地重新发明如何感知桌面 UI，并且碎片化越来越严重。 CUP 是一个标准化所有平台的单一 JSON 模式：59 个 ARIA 派生角色、16 个状态标志、15 个规范操作，并具有针对所有六个平台的显式映射。编写一次代理逻辑，然后针对任何 UI 树运行它。 我认为对于代理来说最重要的部分是紧凑文本格式。 这是 CUP 紧凑中的真实 Spotify 窗口： # CUP 0.1.0 |窗户 | 1920x1080 # app: Spotify # 14 个节点（修剪前 187 个） [e0] win “Spotify” {foc} [e1] nav“主” [e2] lnk“主页” 16,12 248x40 {sel} [clk] [e3] sbx“搜索” 16,56 248x40 [clk,typ] (ph=“你想听什么？”) [e5] lst “最近播放” [scr] [e6] li“喜欢的歌曲 - 2,847 首歌曲” 296,80 192x248 [clk] [e7] li“发现每周” 504,80 192x248 [clk] [e12] tlbr“正在播放” [e13] txt“波西米亚狂想曲” [e14]txt“女王” [e16] btn“上一个” 870,1038 32x32 [clk] [e17] btn“暂停” 914,1034 40x40 {prs} [clk,tog] [e18] btn“下一个” 966,1038 32x32 [clk] [e20] sld “歌曲进度” 720,1072 480x4 [inc,dec,sv] val=“142” (范围=0..354) [e22] sld“体积” 1780,1048 100x4 [inc,dec,sv] val=“72” (range=0..100)  我在一个文本较多的 wiki 页面上将其与其他格式进行了基准测试：   格式 令牌 字符 $/snapshot $/1K 快照    CUP 紧凑型 6,244 18,041 $0.019 $19   剧作家 ARIA 91,339 259,137 $0.274 $274   Vercel 代理浏览器 99,648 276,654 $0.299 $299   CUP JSON（完整） 218,277 3,440,085 $0.655 $655  原始 HTML DOM 299,776 890,796 $0.899 $899   原始 UIA 树 467,755 4,922,099 $1.403 $1,403   GitHub：https://github.com/computeruseprotocol/computeruseprotocol 网站：https://computeruseprotocol.com/   由   提交/u/kiddingmedude  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ric2t1/computer_use_protocol_use_your_ai_agent_with_any/</guid>
-      <pubDate>Sun, 01 Mar 2026 23:03:48 GMT</pubDate>
     </item>
     <item>
       <title>Delta：磁盘空间分析器，跟踪磁盘空间的去向</title>
