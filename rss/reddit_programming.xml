@@ -4,20 +4,83 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Mar 2026 19:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 01:46:01 GMT</lastBuildDate>
+    <item>
+      <title>如果没有 coud 仓库，DuckDB 能走多远？</title>
+      <link>https://www.reddit.com/r/programming/comments/1rm04o3/how_far_can_duckdb_go_without_a_coud_warehouse/</link>
+      <description><![CDATA[ 由   提交/u/TheLostWanderer47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rm04o3/how_far_can_duckdb_go_without_a_coud_warehouse/</guid>
+      <pubDate>Fri, 06 Mar 2026 01:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道 GNU 网站发生了什么吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlz1ly/anybody_know_what_happened_to_the_gnu_site/</link>
+      <description><![CDATA[暂时，我发现 GNU 网站上有一堆 unicode 乱码。它自行修复了，但我只是好奇是否有人也看到了这一点，或者可以解释他们认为发生了什么。   由   提交 /u/JeffTheMasterr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlz1ly/anybody_know_what_happened_to_the_gnu_site/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>以最短的停机时间将 300GB PostgreSQL 数据库从 Heroku 迁移到 AWS</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlx892/migrating_a_300gb_postgresql_database_from_heroku/</link>
+      <description><![CDATA[ 由   提交/u/gregberge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlx892/migrating_a_300gb_postgresql_database_from_heroku/</guid>
+      <pubDate>Thu, 05 Mar 2026 23:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用视觉语言模型来索引和搜索字体</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlvble/using_vision_language_models_to_index_and_search/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlvble/using_vision_language_models_to_index_and_search/</guid>
+      <pubDate>Thu, 05 Mar 2026 22:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>异步编程只是 @Inject 时间</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlv66x/async_programming_is_just_inject_time/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlv66x/async_programming_is_just_inject_time/</guid>
+      <pubDate>Thu, 05 Mar 2026 22:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 终于有了 Lambda——酝酿 8 年</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlv3xe/go_is_finally_getting_lambdas_8_years_in_the/</link>
+      <description><![CDATA[ 由   提交/u/Jabes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlv3xe/go_is_finally_getting_lambdas_8_years_in_the/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:58:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 Rust 1.94.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1rltxbg/announcing_rust_1940/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rltxbg/announcing_rust_1940/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息传递是共享可变状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1rls8kp/message_passing_is_shared_mutable_state/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rls8kp/message_passing_is_shared_mutable_state/</guid>
+      <pubDate>Thu, 05 Mar 2026 20:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>小马网络，拿两个</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlr3xa/pony_networking_take_two/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlr3xa/pony_networking_take_two/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fil-C 的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlr3qa/how_filc_works/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlr3qa/how_filc_works/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:28:30 GMT</pubDate>
+    </item>
     <item>
       <title>Mockmechanics 作为一个库</title>
       <link>https://www.reddit.com/r/programming/comments/1rlqla2/mockmechanics_as_a_library/</link>
       <description><![CDATA[嘿伙计们，我已经将我的 MockMechanics 项目重新设计为搅拌器插件和 javascript/ Threejs 库，让您可以创建交互式对象，然后在任何程序中使用它们。它就像一个具有内置交互性的增强型 .glb。请参阅视频，了解创建魔方和按钮的示例，但之前在频道中看到的任何其他对象或机制都应该可以通过这种方式创建。然后您就可以共享该对象，它现在是一个 zip，安装了该库的任何人都可以按照您想要的方式与您的对象进行交互。将来我会将这个库移植到 Unity 等其他框架，以便任何交互式对象都可以在该库可用的任何地方使用。只要你可以用鼠标、VR手等来推拉它的一部分，那么你就可以与它进行交互。   由   提交/u/FelipeReigosa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rlqla2/mockmechanics_as_a_library/</guid>
       <pubDate>Thu, 05 Mar 2026 19:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为编码代理构建了一种人工智能优先的指令语言：VIBE</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlqk54/i_built_an_aifirst_instruction_language_for/</link>
-      <description><![CDATA[在过去的几天里，我建立了一个名为 VIBE 的实验项目，这是一种专门为 AI 编码代理设计的指令语言。 这个想法很简单： 不要让 AI 直接修改代码，而是引入一个结构化的中间步骤。 工作流程： 人类意图（自然语言） → AI 生成 VIBE 计划 → AI 执行 VIBE 计划 这迫使代理将计划与执行分开，这有助于防止： • 幻觉文件 • 不完整的实现 • 对代码库的不受控制的更改  在实践中，它的行为有点像 AI 操作的 Terraform — 代理必须遵循的确定性计划。 人类永远不会直接编写 VIBE。 AI 将其生成为执行计划。 我正在尝试用它作为一种使编码代理更加可靠和可检查的方法。 Repo： https://github.com/flatherskevin/vibe 好奇人们的想法 - 特别是那些构建代理工具或从事 vivi 编码工作流程的人。 这个领域正在迅速发展，因为人工智能从“代码助手”转向自主编码代理。   由   提交 /u/TnyTmCruise   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlqk54/i_built_an_aifirst_instruction_language_for/</guid>
-      <pubDate>Thu, 05 Mar 2026 19:09:09 GMT</pubDate>
     </item>
     <item>
       <title>包含 150 多个提要的实时仪表板的要点不会让您的浏览器崩溃</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/BrewedDoritos  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rlkt3a/what_pythons_asyncio_primitives_get_wrong_about/</guid>
       <pubDate>Thu, 05 Mar 2026 15:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员的软件安全 • Laur Spilca 和 Thomas Vitale</title>
-      <link>https://www.reddit.com/r/programming/comments/1rliqsu/software_security_for_developers_laur_spilca/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rliqsu/software_security_for_developers_laur_spilca/</guid>
-      <pubDate>Thu, 05 Mar 2026 14:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>但计算机实际上是如何工作的呢？ （从头开始，没有先验知识......</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlggcp/but_how_does_a_computer_actually_work_from/</link>
-      <description><![CDATA[任何程序员都需要的基础知识！    由   提交/u/ahnerd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlggcp/but_how_does_a_computer_actually_work_from/</guid>
-      <pubDate>Thu, 05 Mar 2026 12:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑的幻觉</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlgcs9/the_illusion_of_building/</link>
-      <description><![CDATA[我不断看到类似病毒式传播的帖子：“我构建了一个没有编码经验的移动应用程序。” “我在一个周末克隆了 Spotify。” 构建应用程序和设计系统是两种不同的活动，但人们总是混淆它们。人工智能使第一个成本大大降低。它还没有触及第二个。 我花了一些时间思考这里实际发生的事情。什么是“构建软件”？意味着什么，它不是什么，以及为什么每个人都问错误的问题。   由   提交/u/No_Zookeepergame7552   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlgcs9/the_illusion_of_building/</guid>
-      <pubDate>Thu, 05 Mar 2026 12:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Heroku 迁移到 Magic Containers</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlg1c0/migrating_from_heroku_to_magic_containers/</link>
-      <description><![CDATA[ 由   提交 /u/pimterry   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlg1c0/migrating_from_heroku_to_magic_containers/</guid>
-      <pubDate>Thu, 05 Mar 2026 12:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您不必编写检测代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1rldzvl/you_shouldnt_have_to_write_instrumentation_code/</link>
-      <description><![CDATA[ 由   提交/u/GlitteringPenalty210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rldzvl/you_shouldnt_have_to_write_instrumentation_code/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACGS 算法用于选择乘数的隐藏数问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rldqyr/acgs_algorithm_for_hidden_number_problems_with/</link>
-      <description><![CDATA[ 由   提交/u/DataBaeBee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rldqyr/acgs_algorithm_for_hidden_number_problems_with/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在编程中考虑时间</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlb585/how_to_think_about_time_in_programming/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlb585/how_to_think_about_time_in_programming/</guid>
-      <pubDate>Thu, 05 Mar 2026 07:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>据估计 10% 的 Firefox 崩溃是由位翻转引起的</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl26xw/10_of_firefox_crashes_are_estimated_to_be_caused/</link>
-      <description><![CDATA[ 由   提交/u/cdb_11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl26xw/10_of_firefox_crashes_are_estimated_to_be_caused/</guid>
-      <pubDate>Thu, 05 Mar 2026 00:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>凸三角剖分和树旋转的翻转距离是 NP 完全的</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl1ntz/flip_distance_of_convex_triangulations_and_tree/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl1ntz/flip_distance_of_convex_triangulations_and_tree/</guid>
-      <pubDate>Wed, 04 Mar 2026 23:44:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
