@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 11 Mar 2026 01:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:29:08 GMT</lastBuildDate>
+    <item>
+      <title>我的人工智能图像生成器自动化完全失控了，我通过艰难的方式学到了一些东西</title>
+      <link>https://www.reddit.com/r/automation/comments/1rqjy2r/my_ai_image_generator_automation_went_completely/</link>
+      <description><![CDATA[构建了我认为非常聪明的自动化：客户将产品规格上传到表单，zapier 启动人工智能图像生成器工作流程，生成三个模型变体，将它们发送到客户的 Slack 通道以供批准。干净、简单、最少的手动干预。在大约 48 小时内，我为自己感到非常自豪。 然后是周一早上。来自客户端的十七条松弛消息。该管道处理了我忘记清除的积压的测试条目，一夜之间生成了大约五十张图像，其中包括几张来自占位符文本的图像，这些图像表示“测试产品忽略此”之类的内容。和“asdf键盘粉碎”，并在凌晨 3 点将所有这些内容倾倒到他们团队的主频道中。 没有人受伤，没有任何敏感信息泄露，但你的自动化系统吐出了数十张 AI 生成的“asdf 键盘粉碎”图像，这让你感到职业尴尬。凌晨 3 点将产品放入客户的空闲状态……意义重大。客户最终笑了，但我度过了一个非常焦虑的早晨，想知道我是否刚刚失去了合同。 测试环境的存在是有原因的。在客户面临任何事情之前，自动化管道需要断路器，可能还需要人工检查站。当你认为自己比实际情况更聪明时，也许不要在凌晨 1 点构建生产自动化。对于任何使用 zapier 或 make 构建类似图像生成工作流程的人，您有什么保障措施？因为我的显然不够。   由   提交/u/Flat_Row_10  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rqjy2r/my_ai_image_generator_automation_went_completely/</guid>
+      <pubDate>Wed, 11 Mar 2026 04:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 CLI 取代了头脑风暴，并获得了更好的结果。</title>
+      <link>https://www.reddit.com/r/automation/comments/1rqjx2r/i_replaced_brainstorming_with_a_cli_and_got/</link>
+      <description><![CDATA[ 由   提交/u/lgbgb9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rqjx2r/i_replaced_brainstorming_with_a_cli_and_got/</guid>
+      <pubDate>Wed, 11 Mar 2026 04:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>Shopify x Make 问题连接</title>
       <link>https://www.reddit.com/r/automation/comments/1rqe6fe/shopify_x_make_issue_connexion/</link>
@@ -41,13 +55,6 @@
       <pubDate>Tue, 10 Mar 2026 20:49:58 GMT</pubDate>
     </item>
     <item>
-      <title>在测试 AI 驱动的内容自动化时使用 akool 进行试验</title>
-      <link>https://www.reddit.com/r/automation/comments/1rq6s8o/experimenting_with_akool_while_testing_ai_driven/</link>
-      <description><![CDATA[我一直在探索人工智能简化重复性内容任务的不同方式，特别是在生成视频草稿、翻译剪辑和准备快速视觉材料方面。最近，我尝试构建一个小型工作流程，其中生成脚本，将其转换为基本视频草稿，然后在最终编辑之前进行审核。 在这些测试中，对我来说最突出的是自动化如何加快了制作的早期阶段，但仍然为人类判断留下了很大的空间。初始输出可以相当快地组合在一起，但在任何东西可用之前，仍然需要手动检查时间、色调和视觉一致性等细节。 在其中一个实验中，我使用 akool 进行了一些测试，看看它如何在这种自动化过程中处理基于头像的视频草稿和翻译。这让我想知道其他人在使用这样的人工智能工具时如何将自动化与手动审核结合起来。   由   提交 /u/ProfessionAfraid1164   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rq6s8o/experimenting_with_akool_while_testing_ai_driven/</guid>
-      <pubDate>Tue, 10 Mar 2026 19:30:04 GMT</pubDate>
-    </item>
-    <item>
       <title>我们从仅使用电子邮件转变为多渠道（电子邮件 + linkedin），回复率大约翻了一番。分享哪些有效，哪些无效。</title>
       <link>https://www.reddit.com/r/automation/comments/1rq6hl0/we_switched_from_email_only_to_multichannel_email/</link>
       <description><![CDATA[所以我们是一家小型 B2B 机构，有 4 个人。做冷电子邮件大约有两年了，回复率一直在稳步下降。几个月来，我们的利用率一直在 3-4% 左右，这让我们很痛苦。 大约 3 个月前，我们开始在第一封电子邮件之前添加 linkedin 触摸。没什么疯狂的，只是一个带有简短说明的连接请求，等待几天，然后开始发送电子邮件序列。有时会在后续跟进之间发送 linkedin 消息。 回复率从 3-4% 上升到 8-10% 左右，具体取决于客户。一些活动的点击率更高。如果有意义的话，仅连接请求似乎就能让冷冰冰的电子邮件感觉不那么冷了。 我们从惨痛的教训中学到了一些东西： 不要开始在新的 linkedin 帐户上每天发出 40 多个连接请求。我们在第一周就有一个帐户受到限制。现在，我们会在几周内从每天 10 次增加到 15 次，并永久保持下去。 linkedin 似乎更关心一致性而不是数量。 对您使用的任何工具的代理支持比我预期的更重要。在我们弄清楚这一点之前，有两个帐户已被标记。如果您使用的工具不能处理代理，请切换。 4 周的预热期感觉缓慢得令人痛苦，但这是值得的。自从我们开始正确执行此操作以来，我们的帐户都没有受到限制。 我们用了一些工具，然后才找到了一个有效的设置，因为人们总是询问，所以我认为 id 也共享这一点。 我们现在使用 Warmysender 来处理所有事情。最初注册只是为了免费电子邮件预热，然后他们添加了 linkedin 外展和多渠道序列，所以我们留下来了。 linkedin 的席位价格为每个帐户 7 美元/月，这比我们发现的其他任何东西都便宜得多。对序列进行 A/B 测试，对 crm 内容的 webhook 支持，内置代理轮换，并且包括 AI 文档在内的文档实际上很可靠。现已运行 6 个 linkedin 帐户 2 个月，限制为零。但并不完美，没有本地 hubspot/salesforce，因此您必须自己连接 Webhooks，并且分析仪表板可以更深入。但以这样的价格，很难抱怨。 在此之前，我们尝试过 Expandi，它具有令人惊叹的个性化功能、连接请求中的动态图像和 gif，实际上获得了更好的接受率。但 6 个帐户的价格为 99 美元/个/月，仅 linkedin 就几乎是 600 美元/月。当我们在其他地方得到 90% 相同的结果时，我们无法证明这一点是合理的。 还短暂尝试过 waalaxy。法国公司，界面干净，有免费套餐。对于一个经营多个客户的机构来说，感觉有点基本，而且 60 美元以上的付费计划让它处于一个奇怪的位置。如果您是一个刚刚入门的人，这可能很棒。 老实说，最大的区别甚至不是工具，它只是向我们的序列添加 linkedin 接触。无论您使用什么工具，如果您现在仅使用电子邮件，只需尝试在发送第一封冷电子邮件之前添加连接请求即可。提升对我们来说是真实的。 好奇其他人正在运行什么设置，或者是否有人看到类似的多渠道结果。   由   提交/u/Iammnhamza   [链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[有没有办法创建一个操作，读取 Outlook 电子邮件并解释任何事件/日期/时间组合，然后自动创建日历事件。我工作场所的人员不喜欢发送日历邀请，而只是发送包含未来会议日期和时间的电子邮件，我正在尝试找到一种方法来自动执行这些会议活动。   由   提交 /u/Illustrious-Cod6838   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rq3jre/email_to_calendar_event_in_power_automate/</guid>
       <pubDate>Tue, 10 Mar 2026 17:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建自动化工作流程，每周节省 20 小时，但 IT 票证管理仍需手动</title>
-      <link>https://www.reddit.com/r/automation/comments/1rq38tl/built_automated_workflow_saving_20_hours_weekly/</link>
-      <description><![CDATA[自动化我们的整个订单履行流程。客户可以获得实时更新，库存自动同步，无需人工输入即可生成运输标签。与此同时，我们自己的员工将 IT 请求提交到黑洞中。必须有人手动阅读每一份，找出优先级，将其分配给正确的人，并希望不会遗漏任何内容。  我们优化了客户面临的一切，完全忽略了内部运营。我并没有忘记这种讽刺。   由   提交 /u/NinjaNebulah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rq38tl/built_automated_workflow_saving_20_hours_weekly/</guid>
-      <pubDate>Tue, 10 Mar 2026 17:25:48 GMT</pubDate>
     </item>
     <item>
       <title>寻求用于业务工作流程的“免费测试”人工智能堆栈</title>
