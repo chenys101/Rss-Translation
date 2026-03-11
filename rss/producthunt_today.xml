@@ -4,35 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Mar 2026 09:39:14 GMT</lastBuildDate>
-    <item>
-      <title>开放用户界面</title>
-      <link>https://www.producthunt.com/products/thesys</link>
-      <description><![CDATA[
-            生成式 UI 的开放标准
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/thesys</guid>
-      <pubDate>Wed, 11 Mar 2026 06:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT互动学习</title>
-      <link>https://www.producthunt.com/products/chatgpt-interactive-learning</link>
-      <description><![CDATA[
-            通过交互式视觉解释学习数学和科学 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/chatgpt-interactive-learning</guid>
-      <pubDate>Wed, 11 Mar 2026 03:55:49 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 12:48:53 GMT</lastBuildDate>
     <item>
       <title>然后</title>
       <link>https://www.producthunt.com/products/hume-2</link>
@@ -62,18 +34,18 @@
       <pubDate>Wed, 11 Mar 2026 02:10:32 GMT</pubDate>
     </item>
     <item>
-      <title>CodeYam CLI 和内存</title>
-      <link>https://www.producthunt.com/products/codeyam-cli-memory</link>
+      <title>精灵</title>
+      <link>https://www.producthunt.com/products/no-more-vibe-coding-in-the-blind</link>
       <description><![CDATA[
-            Claude Code 的全面内存管理
+            召唤你的精灵大军
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/codeyam-cli-memory</guid>
-      <pubDate>Tue, 10 Mar 2026 19:58:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/no-more-vibe-coding-in-the-blind</guid>
+      <pubDate>Tue, 10 Mar 2026 19:01:15 GMT</pubDate>
     </item>
     <item>
       <title>Firecrawl CLI</title>
@@ -160,18 +132,18 @@
       <pubDate>Tue, 10 Mar 2026 14:01:25 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Code 的产品工作台</title>
-      <link>https://www.producthunt.com/products/chordio-workbench</link>
+      <title>因斯福吉</title>
+      <link>https://www.producthunt.com/products/insforge-alpha</link>
       <description><![CDATA[
-            将功能创意转化为利益相关者就绪的代码原型
+            为代理商提供交付全栈应用程序所需的一切
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chordio-workbench</guid>
-      <pubDate>Tue, 10 Mar 2026 02:23:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/insforge-alpha</guid>
+      <pubDate>Tue, 10 Mar 2026 06:15:54 GMT</pubDate>
     </item>
     <item>
       <title>心灵空间</title>
@@ -188,6 +160,20 @@
       <pubDate>Tue, 10 Mar 2026 01:16:33 GMT</pubDate>
     </item>
     <item>
+      <title>引用</title>
+      <link>https://www.producthunt.com/products/citable</link>
+      <description><![CDATA[
+            在您的竞争对手之前获得人工智能答案。我们为您做。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/citable</guid>
+      <pubDate>Sat, 07 Mar 2026 02:36:18 GMT</pubDate>
+    </item>
+    <item>
       <title>离子路由器</title>
       <link>https://www.producthunt.com/products/ionrouter-by-cumulus-labs</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/ionrouter-by-cumulus-labs</guid>
       <pubDate>Thu, 05 Mar 2026 04:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>炒作抄写员</title>
+      <link>https://www.producthunt.com/products/hypescribe</link>
+      <description><![CDATA[
+            Google Drive for Your Speech 带 99% AI 转录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hypescribe</guid>
+      <pubDate>Tue, 03 Mar 2026 01:55:17 GMT</pubDate>
     </item>
     <item>
       <title>知道</title>
