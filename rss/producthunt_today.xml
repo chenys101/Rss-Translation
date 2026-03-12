@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Mar 2026 21:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:28:35 GMT</lastBuildDate>
     <item>
       <title>开放用户界面</title>
       <link>https://www.producthunt.com/products/thesys</link>
@@ -20,46 +20,32 @@
       <pubDate>Wed, 11 Mar 2026 06:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>然后</title>
-      <link>https://www.producthunt.com/products/hume-2</link>
+      <title>ChatGPT互动学习</title>
+      <link>https://www.producthunt.com/products/chatgpt-interactive-learning</link>
       <description><![CDATA[
-            1:1 文本声学对齐，语音生成速度提高 5 倍
+            通过交互式视觉解释学习数学和科学 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hume-2</guid>
-      <pubDate>Wed, 11 Mar 2026 02:35:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chatgpt-interactive-learning</guid>
+      <pubDate>Wed, 11 Mar 2026 03:55:49 GMT</pubDate>
     </item>
     <item>
-      <title>原生AI+云</title>
-      <link>https://www.producthunt.com/products/nativeline</link>
+      <title>CodeYam CLI 和内存</title>
+      <link>https://www.producthunt.com/products/codeyam-cli-memory</link>
       <description><![CDATA[
-            原生 Swift 应用程序 + 真正的云数据库。一提示就到了。
+            Claude Code 的全面内存管理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nativeline</guid>
-      <pubDate>Wed, 11 Mar 2026 02:10:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>精灵</title>
-      <link>https://www.producthunt.com/products/no-more-vibe-coding-in-the-blind</link>
-      <description><![CDATA[
-            召唤你的人工智能特工大军
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/no-more-vibe-coding-in-the-blind</guid>
-      <pubDate>Tue, 10 Mar 2026 19:01:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/codeyam-cli-memory</guid>
+      <pubDate>Tue, 10 Mar 2026 19:58:36 GMT</pubDate>
     </item>
     <item>
       <title>Firecrawl CLI</title>
@@ -104,6 +90,34 @@
       <pubDate>Tue, 10 Mar 2026 17:43:05 GMT</pubDate>
     </item>
     <item>
+      <title>双子座嵌入 2</title>
+      <link>https://www.producthunt.com/products/gemini-embedding-2</link>
+      <description><![CDATA[
+            谷歌第一个原生多模态嵌入模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gemini-embedding-2</guid>
+      <pubDate>Tue, 10 Mar 2026 17:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MorphMind：可操控的人工智能平台</title>
+      <link>https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform</link>
+      <description><![CDATA[
+            建立一支提供高质量工作的人工智能专家团队
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform</guid>
+      <pubDate>Tue, 10 Mar 2026 15:34:51 GMT</pubDate>
+    </item>
+    <item>
       <title>ScreenGeany AI</title>
       <link>https://www.producthunt.com/products/screengeany-ai</link>
       <description><![CDATA[
@@ -116,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/screengeany-ai</guid>
       <pubDate>Tue, 10 Mar 2026 14:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>因斯福吉</title>
-      <link>https://www.producthunt.com/products/insforge-alpha</link>
-      <description><![CDATA[
-            为代理商提供交付全栈应用程序所需的一切
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/insforge-alpha</guid>
-      <pubDate>Tue, 10 Mar 2026 06:15:54 GMT</pubDate>
     </item>
     <item>
       <title>Claude Code 的产品工作台</title>
@@ -160,18 +160,18 @@
       <pubDate>Tue, 10 Mar 2026 01:16:33 GMT</pubDate>
     </item>
     <item>
-      <title>引用</title>
-      <link>https://www.producthunt.com/products/citable</link>
+      <title>离子路由器</title>
+      <link>https://www.producthunt.com/products/ionrouter-by-cumulus-labs</link>
       <description><![CDATA[
-            在您的竞争对手之前获得人工智能答案。我们为您做。
+            为任何人工智能模型提供服务，更快、更便宜
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/citable</guid>
-      <pubDate>Sat, 07 Mar 2026 02:36:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ionrouter-by-cumulus-labs</guid>
+      <pubDate>Thu, 05 Mar 2026 04:20:40 GMT</pubDate>
     </item>
     <item>
       <title>炒作抄写员</title>
