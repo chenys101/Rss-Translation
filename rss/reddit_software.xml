@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 14 Mar 2026 04:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:40:16 GMT</lastBuildDate>
+    <item>
+      <title>任天堂的“z-mario-4”文件夹充满了甜蜜、多汁的神秘！</title>
+      <link>https://www.reddit.com/r/software/comments/1rtbfdm/nintendos_zmario4_folder_is_full_of_sweet_juicy/</link>
+      <description><![CDATA[2020 年左右，任天堂的大量文件被泄露。在提供的混乱文件夹中，有一些奇怪的文件，例如“chr-stock-2.CGX”、“chr-stock-2-minidoragon.OBJ”和“2bit-title.COL”。当我询问它们时，我的一个朋友给了我一个程序（HyperCG-CAD-Viewer），它使用这些文件作为构建动画的指令。 CGX 是图块集，COL 是图块集的调色板，OBJ 是动画信息。在十六进制编辑器中打开 OBJ 让我可以尝试并更改事物的移动方式，但如果不知道 OBJ 文件（以及其他文件）的实际格式，则很难做到这一点。所以，这就是我想知道的！肯定有人知道，否则这个程序怎么会存在？   由   提交 /u/ShrunkenSailor55555   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rtbfdm/nintendos_zmario4_folder_is_full_of_sweet_juicy/</guid>
+      <pubDate>Sat, 14 Mar 2026 05:49:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个可以记录键盘按下和鼠标点击+位置的自动点击器</title>
+      <link>https://www.reddit.com/r/software/comments/1rtajzl/looking_for_an_autoclicker_that_has_recording_of/</link>
+      <description><![CDATA[是否有一个自动点击器可以记录按钮和鼠标按下并重复它们？   由   提交 /u/Savings_Storm6620   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rtajzl/looking_for_an_autoclicker_that_has_recording_of/</guid>
+      <pubDate>Sat, 14 Mar 2026 05:01:25 GMT</pubDate>
+    </item>
     <item>
       <title>升级（Ser + 高级着色器交付 + Microsoft 存储）</title>
       <link>https://www.reddit.com/r/software/comments/1rt7t57/mise_à_niveau_ser_advanced_shader_delivery/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[我需要一个免费工具，可以将多个 URL 粘贴到其中，并且它会截取每个 URL 的整页屏幕截图，并将它们保存在我的本地计算机上。我尝试过的所有方法要么无法捕获整个页面，要么不等待其完全加载，要么存在其他问题。   由   提交/u/Puzzleheaded_Duck897  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rt49v2/bulk_screenshot_tool/</guid>
       <pubDate>Sat, 14 Mar 2026 00:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的繁荣并没有创造更多的应用程序，而是改变了应用程序的类型</title>
-      <link>https://www.reddit.com/r/software/comments/1rt3i85/the_ai_boom_didnt_create_more_apps_it_changed_the/</link>
-      <description><![CDATA[ 由   提交/u/Sea_Bee29  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rt3i85/the_ai_boom_didnt_create_more_apps_it_changed_the/</guid>
-      <pubDate>Fri, 13 Mar 2026 23:33:50 GMT</pubDate>
     </item>
     <item>
       <title>这是什么演示软件？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[搜索页面突然发生了变化。过去，如果进行搜索，首先会给出维基百科的定义，然后是我的问题的答案。现在都是广告和赞助网站   由   提交 /u/Live_Percentage6756   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rsuw4g/whats_with_my_search_function/</guid>
       <pubDate>Fri, 13 Mar 2026 18:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[DEV] 我构建了一个免费的 100% 本地 AI 工作跟踪器来治愈“时间盲目性”并编写我的站立笔记 (SheepCat v1.1)</title>
-      <link>https://www.reddit.com/r/software/comments/1rsuadg/dev_i_built_a_free_100_local_ai_work_tracker_to/</link>
-      <description><![CDATA[嘿r/software， 我想分享一个我一直在构建的名为 SheepCat 的开源工具，它是新版本 v1.1 背景故事：作为一名高级 C# 开发人员，花了半天时间深入后端逻辑或理清大量 SQL查询，我的执行功能通常在一天结束时就完全崩溃了。每当需要填写 Jira 时间表或编写每日更新时，我都会经历完全的“时间盲目性”。并忘记过去 8 个小时我实际上在做什么。 带有滴答作响的时钟的标准时间追踪器只会让我感到焦虑，所以我建立了一个“温和”的追踪器。纯粹为认知人体工程学而设计的跟踪器。 它的工作原理：它安静地坐在您的机器上，每小时给您一个轻柔的、可忽略不计的推动。你只需将原始的、混乱的、充满拼写错误的大脑转储转储到其中（“与数据库连接战斗”，“文档又错了”）。你不会打破你的心流状态。最终，它使用 Ollama 运行本地 LLM，将您杂乱的笔记翻译成干净、专业的摘要。 我刚刚发布了 v1.1，其中添加了： 🔍 搜索 + AI 摘要：您现在可以搜索“last Tuesday”；本地人工智能会立即读取你过去杂乱的日志，并生成一份关于你所做事情的清晰摘要。不再需要疯狂地滚动来记住您的一周。 🧠 自定义人工智能提示：您现在可以自定义间隔签到和每日摘要的系统提示，以完全适应您的大脑工作方式。 技术细节：100% 本地和本地化私有：零云同步。您的专有代码和内部咆哮永远不会离开您的机器。技术堆栈：用 Python 构建，使用 Ollama 进行本地 LLM 处理。 成本：完全免费且开源。您可以在此处获取最新的 v1.1 版本并查看源代码：https://github.com/Chadders13/SheepCat-TrackingMyWork 我专门构建此版本来解决我自己的工作流程痛点，但我很想听听其他人是否认为它有用或对功能或 UI 有反馈！   由   提交 /u/Tech_Devils   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rsuadg/dev_i_built_a_free_100_local_ai_work_tracker_to/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:46:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
