@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 14 Mar 2026 21:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 01:53:14 GMT</lastBuildDate>
+    <item>
+      <title>用AI总结工作笔记？</title>
+      <link>https://www.reddit.com/r/automation/comments/1rtxqi8/using_ai_to_summarize_job_notes/</link>
+      <description><![CDATA[我一直在尝试一个简单的工作流程。 接到服务电话后，我会录制有关工作的语音笔记。 然后我使用人工智能将笔记总结为文档。 它节省了大量的打字时间。 很好奇是否还有其他人尝试过使用人工智能进行文档或笔记记录。   由   提交 /u/Keyfers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rtxqi8/using_ai_to_summarize_job_notes/</guid>
+      <pubDate>Sat, 14 Mar 2026 23:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>结论：Openclaw 没什么汉堡</title>
+      <link>https://www.reddit.com/r/automation/comments/1rtvd1k/conclusion_openclaw_is_a_nothing_burger/</link>
+      <description><![CDATA[ 由   提交 /u/Alternative-Lime7814   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rtvd1k/conclusion_openclaw_is_a_nothing_burger/</guid>
+      <pubDate>Sat, 14 Mar 2026 21:23:28 GMT</pubDate>
+    </item>
     <item>
       <title>带 webhooks 的开源 WhatsApp MCP（只需扫描二维码）！</title>
       <link>https://www.reddit.com/r/automation/comments/1rtv2pl/open_source_whatsapp_mcp_with_webhooks_just_need/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[只是不是最令人印象深刻的工作流程，但节省时间最多的数字也不是最复杂的堆栈。到底是什么在后台悄悄运行，当想象再次没有它时，胃里的东西会下降一点？ 因为节省纸面时间的自动化和实际上改变一天的纹理的自动化之间存在差异。一个删除一个任务。另一个消除了一种感觉。 周一早上管理的恐惧。忘记跟进的焦虑。记住下一步需要做什么的精神负担。 这些是值得了解的。 你的是什么？   由   提交 /u/Better_Charity5112   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rtbftw/whats_the_one_automation_that_genuinely_changed/</guid>
       <pubDate>Sat, 14 Mar 2026 05:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个代理来检查您的克劳德代码会话并建议工作流程自动化和重复错误更正。</title>
-      <link>https://www.reddit.com/r/automation/comments/1rt4u6c/created_an_agent_that_reviews_your_claude_code/</link>
-      <description><![CDATA[   这是一个即将实现的开源项目，它会分析您之前的 Claude Code 会话。提供自动化修复重复错误的机会。  https://preview.redd.it/2ljto2xqnwog1.png?width=2642&amp;format=png&amp;auto=webp&amp;s=ce9bd9c7cff21ff0ff09b2348b0387f65d783209 你觉得怎么样？最近发表的一些论文支持这对 Claude 代码有多大的改进。    由   提交 /u/Ok-Dragonfly-6224   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rt4u6c/created_an_agent_that_reviews_your_claude_code/</guid>
-      <pubDate>Sat, 14 Mar 2026 00:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们真的使用人工智能从真实照片生成电子商务产品图像/视频吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1rsyczq/are_people_actually_using_ai_to_generate_product/</link>
-      <description><![CDATA[我想知道这里是否有人已经在认真使用人工智能从真实的产品照片开始为电子商务创建产品内容。例如，通过组合多张照片从不同角度生成新图像，从白色背景静物照片开始创建生活方式图像，生成展示产品如何使用的解释性图像，或者仅从几张照片生成简短的产品视频（如演示或亚马逊风格的列表剪辑）。我并不是指完全从头开始生成的图像，而是指从真实的产品照片开始，人工智能将其扩展或转换为新内容的工作流程。这里有人系统地做这件事吗？您是在内部处理还是依赖自由职业者或机构？我也很想知道您正在使用哪些工具，结果是否足够可靠，可以在列表中实际使用，以及与传统摄影或视频制作相比，成本大致如何。   由   提交 /u/Ok-Cucumber101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rsyczq/are_people_actually_using_ai_to_generate_product/</guid>
-      <pubDate>Fri, 13 Mar 2026 20:14:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
