@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 15 Mar 2026 12:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 15:24:45 GMT</lastBuildDate>
+    <item>
+      <title>Canva 对人类来说非常有用。这对于自动化来说是可怕的。</title>
+      <link>https://www.reddit.com/r/automation/comments/1rudapp/canva_is_great_for_humans_its_terrible_for/</link>
+      <description><![CDATA[我想提前说明，Canva 是一款了不起的产品。就其功能而言，对于非设计师来说，它可能是最好的设计工具。我自己用它来做快速的事情。 但是，如果您曾经尝试使用 Canva 进行任何自动化或程序化的操作，您就会知道它有多么令人沮丧。 我运行一个 SaaS，它可以实现设计自动化，并且在尝试让 Canva 满足其自动化需求后来找我们的人数非常多。总是同样的故事：“我需要生成 500 张产品图像”。或“每次我们发布文章时我都需要创建社交媒体帖子”或者“我需要我的用户能够在我的应用程序中编辑模板。” 每次他们尝试 Canva 时，都会遇到同样的困难。 他们的 API 被锁定在企业定价后面。我们谈论的是销售电话、长期合同和定价，这对于小团队或早期产品来说毫无意义。如果您只想通过 API 渲染图像，则无需与企业销售代表交谈。 该编辑器并非设计为嵌入式。人们尝试在自己的应用程序中使用 Canva 的编辑器，但这是一场 iframe 的噩梦、有限的自定义以及除非您在企业中否则无法删除的品牌。 批量生成并不是真正的问题。当然，您可以手动执行一些批处理操作，但如果您需要从电子表格或数据库等数据源生成数千个图像，则没有干净的方法来执行此操作。 无代码集成受到限制。如果您想将 Canva 连接到 n8n 或 Make 或 Zapier 以实现自动化工作流程，那么与适当的 API 相比，您的选择基本上不存在。 我认为核心问题是 Canva 是作为人类的设计工具而构建的，而不是作为开发人员或自动化工作流程的基础设施。这很好，不必是一切。但市场上存在这样的差距：人们认为“Canva 可以做到”。然后花几周时间尝试强制执行，然后才意识到他们需要其他东西。 我们专门构建了 Templated 来填补这一空白。 API 优先、可嵌入编辑器、与自动化工具集成以及无需销售电话的定价。但老实说，即使您不使用我们，要点仍然是：如果您的用例是自动化，Canva 可能不是正确的工具，您可以通过尽早弄清楚这一点来节省大量时间。 还有其他人经历过这个吗？尝试使用 Canva 实现自动化，但最终不得不寻找替代方案？   由   提交 /u/camposped   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rudapp/canva_is_great_for_humans_its_terrible_for/</guid>
+      <pubDate>Sun, 15 Mar 2026 12:53:36 GMT</pubDate>
+    </item>
     <item>
       <title>不符合实践，但是是否有一个独立的自动化平台可以很好地在任务管理平台中创建项目？</title>
       <link>https://www.reddit.com/r/automation/comments/1ruczky/out_of_practice_but_is_there_a_independent/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rtd3c2/ive_been_building_an_ai_agent_every_week_for_the/</guid>
       <pubDate>Sat, 14 Mar 2026 07:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正改变您一天感觉的自动化是什么？不是生产力指标。实际感觉如何。</title>
-      <link>https://www.reddit.com/r/automation/comments/1rtbftw/whats_the_one_automation_that_genuinely_changed/</link>
-      <description><![CDATA[只是不是最令人印象深刻的工作流程，但节省时间最多的数字也不是最复杂的堆栈。到底是什么在后台悄悄运行，当想象再次没有它时，胃里的东西会下降一点？ 因为节省纸面时间的自动化和实际上改变一天的纹理的自动化之间存在差异。一个删除一个任务。另一个消除了一种感觉。 周一早上管理的恐惧。忘记跟进的焦虑。记住下一步需要做什么的精神负担。 这些是值得了解的。 你的是什么？   由   提交 /u/Better_Charity5112   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rtbftw/whats_the_one_automation_that_genuinely_changed/</guid>
-      <pubDate>Sat, 14 Mar 2026 05:50:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
