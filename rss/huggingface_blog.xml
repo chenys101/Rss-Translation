@@ -3,14 +3,14 @@
   <channel>
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
-    <description></description>
-    <lastBuildDate>Fri, 13 Mar 2026 01:29:30 GMT</lastBuildDate>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Tue, 17 Mar 2026 01:43:12 GMT</lastBuildDate>
     <item>
-      <title>构建像数据科学家一样思考的代理：我们如何通过可重用工具生成在 DABStep 上取得第一名</title>
-      <link>https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place</link>
+      <title>第一个医疗保健机器人数据集和医疗保健机器人基础物理人工智能模型</title>
+      <link>https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</link>
       <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place</guid>
-      <pubDate>Fri, 13 Mar 2026 01:02:47 GMT</pubDate>
+      <guid>https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics</guid>
+      <pubDate>Mon, 16 Mar 2026 21:58:40 GMT</pubDate>
     </item>
     <item>
       <title>Hugging Face Hub 上引入存储桶</title>
