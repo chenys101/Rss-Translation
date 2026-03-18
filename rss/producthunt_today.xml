@@ -4,48 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Mar 2026 04:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:57:37 GMT</lastBuildDate>
     <item>
-      <title>用户调用触发器</title>
-      <link>https://www.producthunt.com/products/usercall</link>
+      <title>食品法典分代理</title>
+      <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            在行为发生变化时与用户交谈
+            用于复杂任务的并行自定义代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/usercall</guid>
-      <pubDate>Tue, 17 Mar 2026 06:56:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Tue, 17 Mar 2026 04:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>DLSS 5</title>
-      <link>https://www.producthunt.com/products/nvidia</link>
+      <title>索科苏米</title>
+      <link>https://www.producthunt.com/products/sokosumi</link>
       <description><![CDATA[
-            实时计算机图形学的 GPT 时刻
+            为您研究、规划和管理的营销代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nvidia</guid>
-      <pubDate>Tue, 17 Mar 2026 02:09:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sokosumi</guid>
+      <pubDate>Tue, 17 Mar 2026 01:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>我的电脑（Manus AI）</title>
-      <link>https://www.producthunt.com/products/manus</link>
+      <title>代理讨论</title>
+      <link>https://www.producthunt.com/products/agentdiscuss</link>
       <description><![CDATA[
-            使用 Manus Desktop 自动化文件、应用程序和工作流程
+            AI 代理的产品搜寻——代理讨论产品
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/manus</guid>
-      <pubDate>Mon, 16 Mar 2026 15:14:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agentdiscuss</guid>
+      <pubDate>Mon, 16 Mar 2026 16:45:59 GMT</pubDate>
     </item>
     <item>
       <title>视差</title>
@@ -62,18 +62,32 @@
       <pubDate>Mon, 16 Mar 2026 10:18:49 GMT</pubDate>
     </item>
     <item>
-      <title>安吉</title>
-      <link>https://www.producthunt.com/products/angy</link>
+      <title>环路</title>
+      <link>https://www.producthunt.com/products/forg</link>
       <description><![CDATA[
-            具有人工智能驱动调度+安全检查的多代理管道
+            最有意义的独立黑客/开发者网络
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/angy</guid>
-      <pubDate>Mon, 16 Mar 2026 09:54:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/forg</guid>
+      <pubDate>Mon, 16 Mar 2026 05:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>眼镜猴</title>
+      <link>https://www.producthunt.com/products/mcp360</link>
+      <description><![CDATA[
+            用于管理 MCP 服务器和客户端的开源平台
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mcp360</guid>
+      <pubDate>Sun, 15 Mar 2026 14:36:17 GMT</pubDate>
     </item>
     <item>
       <title>活动状态</title>
@@ -88,34 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/activestat</guid>
       <pubDate>Sun, 15 Mar 2026 14:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿让</title>
-      <link>https://www.producthunt.com/products/agen</link>
-      <description><![CDATA[
-            完全自主的人工智能编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agen</guid>
-      <pubDate>Sat, 14 Mar 2026 19:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>打开标志</title>
-      <link>https://www.producthunt.com/products/openflags</link>
-      <description><![CDATA[
-            适合现代团队的快速、自托管、边缘就绪的功能标志
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/openflags</guid>
-      <pubDate>Sat, 14 Mar 2026 17:15:11 GMT</pubDate>
     </item>
     <item>
       <title>点击说</title>
@@ -146,6 +132,20 @@
       <pubDate>Fri, 13 Mar 2026 02:04:33 GMT</pubDate>
     </item>
     <item>
+      <title>开发影响</title>
+      <link>https://www.producthunt.com/products/dev-impact</link>
+      <description><![CDATA[
+            通过可衡量的指标+证据将项目转化为成果
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dev-impact</guid>
+      <pubDate>Thu, 12 Mar 2026 20:24:02 GMT</pubDate>
+    </item>
+    <item>
       <title>简单的应用程序报告</title>
       <link>https://www.producthunt.com/products/easy-app-reports</link>
       <description><![CDATA[
@@ -158,34 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/easy-app-reports</guid>
       <pubDate>Thu, 12 Mar 2026 15:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>索拉亚</title>
-      <link>https://www.producthunt.com/products/solaya</link>
-      <description><![CDATA[
-            从智能手机扫描到 3D 模型 + 无限的产品视觉效果
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/solaya</guid>
-      <pubDate>Thu, 12 Mar 2026 15:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>佳士招聘</title>
-      <link>https://www.producthunt.com/products/hirehunch</link>
-      <description><![CDATA[
-            处理电话屏幕的 AI ATS + 第一轮面试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hirehunch</guid>
-      <pubDate>Wed, 11 Mar 2026 12:05:35 GMT</pubDate>
     </item>
     <item>
       <title>螺栓铸造厂</title>
@@ -202,6 +174,20 @@
       <pubDate>Tue, 10 Mar 2026 21:16:31 GMT</pubDate>
     </item>
     <item>
+      <title>德克斯代码</title>
+      <link>https://www.producthunt.com/products/dexcode</link>
+      <description><![CDATA[
+            您的人工智能代理构建甲板并且您永远不会离开终端
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dexcode</guid>
+      <pubDate>Tue, 10 Mar 2026 16:54:26 GMT</pubDate>
+    </item>
+    <item>
       <title>基拉4.0</title>
       <link>https://www.producthunt.com/products/kira-art</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kira-art</guid>
       <pubDate>Fri, 06 Mar 2026 17:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>避雷针</title>
+      <link>https://www.producthunt.com/products/training-data-generator</link>
+      <description><![CDATA[
+            快速将现实世界数据转化为训练数据集
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/training-data-generator</guid>
+      <pubDate>Tue, 03 Mar 2026 16:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
