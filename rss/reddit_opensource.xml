@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Mar 2026 06:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 09:49:22 GMT</lastBuildDate>
     <item>
       <title>Writeup：使用 LD_PRELOAD 修改程序的行为并更改其函数调用</title>
       <link>https://www.reddit.com/r/opensource/comments/1rwvb04/writeup_using_ld_preload_to_modify_a_programs/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[      我一直在构建一个名为 Git Web 管理器 (Laravel + Livewire) 的自托管部署管理器。它旨在用干净的 UI 取代手动拉取/构建/回滚工作流程。 主要功能： - 每个项目部署 + 回滚 - 带状态徽章的运行状况检查 - 按提交预览构建（非常适合暂存） - 依赖项操作 (composer/npm) + 审核输出 - 存储库更改时自动更新 - 未解决的 dependentabot 问题的安全选项卡 - 强制更改密码的用户管理 - 仅深色 UI（无浅色主题） 它是开源的，我正在寻找反馈/测试人员。 存储库：https://github.com/WallabyDesigns/gitmanager 文档（GitHub 页面）：https://wallabydesigns.github.io/gitmanager 注意：不隶属于 Git/GitHub。   由   提交/u/Steve_OH  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rwgd7u/i_created_a_git_web_manager_and_have_opened_it_up/</guid>
       <pubDate>Tue, 17 Mar 2026 19:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个开源简历生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rweoal/built_an_open_source_resume_builder/</link>
-      <description><![CDATA[我和一个朋友构建了 Resumy — 一个开源 AI 简历生成器。 我们主要专注于构建核心引擎（简历解析、编辑流程、模板、AI 建议），但在真正制作一份优秀简历方面，我们并不是专家。 现在，它可以让您： • 导入简历 (PDF/DOCX) • 通过实时预览进行编辑 • 获取基于人工智能的建议 • 导出干净的 PDF 它也是完全响应式的，因此在移动设备上运行良好。 演示：https://arnavcloud.co.in/resumy/resume-creator/ GitHub：https://github.com/arnofrxdd/resumy   由   提交/u/Cautious-Control-419   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rweoal/built_an_open_source_resume_builder/</guid>
-      <pubDate>Tue, 17 Mar 2026 18:19:56 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个现代的开源 WinUI 3 来替代 Windows 任务计划程序。 v1.7.0 已经出来了！</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[源代码和详细信息：https://github.com/umutcamliyurt/IrisChat IrisChat 是一款轻量级开源 IRC 客户端，适用于 Android。它将您连接到 IRC 网络——互联网上最古老、最具弹性的通信协议之一——具有干净、现代的界面，没有不必要的复杂性。  同时连接到多个 IRC 服务器 - Libera、OFTC、您自己的保镖或任何其他网络。来自每个服务器的频道显示为分组的、可滚动的选项卡，因此您永远不会错过网络上的任何消息。   由   提交 /u/0TheNemesis0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rulvmn/a_modern_privacyrespecting_irc_client_for_android/</guid>
       <pubDate>Sun, 15 Mar 2026 18:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的 git-worktree 脚本来自动化您的多分支开发设置</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rucii5/simple_gitworktree_script_to_automate_your/</link>
+      <description><![CDATA[      Git worktree 很棒；它不提供复制 git 忽略的文件（如 .env）或在设置新工作树后运行开发服务器的选项。 这就是我创建这个简单脚本来自动化该过程的原因。   由   提交/u/mittalyashu  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rucii5/simple_gitworktree_script_to_automate_your/</guid>
+      <pubDate>Sun, 15 Mar 2026 12:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
