@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 18 Mar 2026 18:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 21:31:27 GMT</lastBuildDate>
     <item>
-      <title>我们在 Anthropic 之前几周推出了“Dispatch”（远程 CLI 代理控制）——他们只是发布了具有相同名称的完全相同的概念</title>
-      <link>https://www.reddit.com/r/programming/comments/1rxcizl/we_launched_dispatch_remote_cli_agent_control_a/</link>
-      <description><![CDATA[嗯，现在正是时候。 Anthropic 于昨天（3 月 17 日）推出了 Claude Cowork Dispatch，该功能可让您通过手机远程控制桌面 Claude 代理。当 Claude 在沙盒虚拟机中的 Mac 上工作时，您可以扫描二维码、配对设备并发送任务。 由 Nocetic Limited 构建的 dispatch.codes 几乎完全做到了这一点，但对于任何 CLI（Claude Code、Codex、OpenAI、Gemini）来说，通过看板， Telegram/Discord/WhatsApp/Slack/Voice 频道，由他们的 Flowly-Code（openclaw 替代方案，但速度快得多） 多代理框架提供支持。 讽刺吗？ Dispatch 比 Anthropic 的 Dispatch 早几周推出。相同的名称、相同的核心概念（通过手机进行远程代理编排），甚至与 OpenClaw 替代品的定位类似。 目前的主要区别：Anthropic 的版本是沙盒的且“安全”。但有限制——单线程，Mac 必须处于唤醒状态，无后台服务，早期评审成功率约为 50%。 Dispatch 支持跨所有主要 CLI 的多代理编排、超过 18 个内置工具、实时看板同步和 BYOK。 无论名称重叠是否巧合，时间安排都让人难以忽视。 “远程派遣您的人工智能代理”这个概念显然具有强大的动力——独立开发者和 Anthropic 都在几周内发布了它。   由   提交/u/hakanorenn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rxcizl/we_launched_dispatch_remote_cli_agent_control_a/</guid>
-      <pubDate>Wed, 18 Mar 2026 18:48:56 GMT</pubDate>
+      <title>道路的数据结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1rxgkva/the_data_structures_of_roads/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rxgkva/the_data_structures_of_roads/</guid>
+      <pubDate>Wed, 18 Mar 2026 21:14:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Factory AI 禁止 React 的 useEffect</title>
+      <link>https://www.reddit.com/r/programming/comments/1rxf45h/why_factory_ai_banned_reacts_useeffect/</link>
+      <description><![CDATA[ 由   提交 /u/unicorn4sale   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rxf45h/why_factory_ai_banned_reacts_useeffect/</guid>
+      <pubDate>Wed, 18 Mar 2026 20:21:15 GMT</pubDate>
     </item>
     <item>
       <title>使用隐形代码的供应链攻击攻击 GitHub 和其他存储库</title>
@@ -29,7 +36,7 @@
     <item>
       <title>理解债：许多管理者都忽视的无声定时炸弹</title>
       <link>https://www.reddit.com/r/programming/comments/1rx8kfc/comprehension_debt_the_silent_time_bomb_a_lot_of/</link>
-      <description><![CDATA[我真诚地希望每一位高层和最高管理层成员在启动更多裁员之前都必须阅读本文。  每个“效率驱动”的经理都需要进行认真的现实检查：解雇人工智能代理的开发人员会造成理解上的差距，最终将使项目破产。您已经可以在现实生活中看到这一点：在项目中，没有人可以在不破坏系统的情况下进行简单的更改，因为没有人真正理解各个部分如何组合在一起。 人工智能可以输出代码，但它不理解长期意图。如果没有人有深入的系统背景来监督为什么做出决策，那么您只是用今天的较低成本换取明天的巨大理解费用。   由   提交/u/Marmelab  [link] [评论]]]></description>
+      <description><![CDATA[我真诚地希望每一位高层和最高管理层成员在启动更多裁员之前都必须阅读本文。  每个“效率驱动”的经理都需要进行认真的现实检查：解雇人工智能代理的开发人员会造成理解上的差距，最终将使项目破产。您已经可以在现实生活中看到这一点：在项目中，没有人可以在不破坏系统的情况下进行简单的更改，因为没有人真正理解各个部分如何组合在一起。 人工智能可以输出代码，但它不理解长期意图。如果没有人有深入的系统背景来监督为什么做出决策，那么您只是用今天的较低成本换取明天的巨大理解费用。   由   提交/u/Marmelab  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rx8kfc/comprehension_debt_the_silent_time_bomb_a_lot_of/</guid>
       <pubDate>Wed, 18 Mar 2026 16:26:45 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rwnfam/torturing_rustc_by_emulating_hkts/</guid>
       <pubDate>Tue, 17 Mar 2026 23:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>修补 LMDB：我们如何使 Meil​​isearch 的矢量存储速度提高 3 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1rwhoyg/patching_lmdb_how_we_made_meilisearchs_vector/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rwhoyg/patching_lmdb_how_we_made_meilisearchs_vector/</guid>
-      <pubDate>Tue, 17 Mar 2026 20:03:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
