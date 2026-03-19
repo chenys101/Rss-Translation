@@ -4,23 +4,23 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Mar 2026 12:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 15:51:50 GMT</lastBuildDate>
     <item>
-      <title>比利.sh</title>
-      <link>https://www.producthunt.com/products/billy-sh</link>
+      <title>卸载</title>
+      <link>https://www.producthunt.com/products/imbue-7</link>
       <description><![CDATA[
-            使用 Ollama 为您的终端提供本地 AI 编码助手
+            通过一个命令在 200 多个云沙箱中并行测试
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/billy-sh</guid>
-      <pubDate>Thu, 19 Mar 2026 02:28:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/imbue-7</guid>
+      <pubDate>Thu, 19 Mar 2026 06:17:00 GMT</pubDate>
     </item>
     <item>
-      <title>可创建的API</title>
+      <title>可资助的API</title>
       <link>https://www.producthunt.com/products/fundable-2</link>
       <description><![CDATA[
             通过API启动数据 
@@ -48,18 +48,32 @@
       <pubDate>Thu, 19 Mar 2026 00:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>涂鸦艾</title>
-      <link>https://www.producthunt.com/products/doodles-ai</link>
+      <title>谷歌的 Stitch 2.0</title>
+      <link>https://www.producthunt.com/products/stitch-2-0-by-google-2</link>
       <description><![CDATA[
-            使用独立 Doodles IP LLM 的艺术家平台
+            Vibe 在几秒钟内设计出漂亮的可投入生产的 UI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/doodles-ai</guid>
-      <pubDate>Wed, 18 Mar 2026 20:05:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/stitch-2-0-by-google-2</guid>
+      <pubDate>Wed, 18 Mar 2026 18:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>像素爪</title>
+      <link>https://www.producthunt.com/products/pixelclaw</link>
+      <description><![CDATA[
+            一只住在你 Dock 上的小像素螃蟹
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pixelclaw</guid>
+      <pubDate>Wed, 18 Mar 2026 17:47:20 GMT</pubDate>
     </item>
     <item>
       <title>说</title>
@@ -76,48 +90,6 @@
       <pubDate>Wed, 18 Mar 2026 17:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 版彗星</title>
-      <link>https://www.producthunt.com/products/comet-5</link>
-      <description><![CDATA[
-            Perplexity 的 AI 浏览器和助手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/comet-5</guid>
-      <pubDate>Wed, 18 Mar 2026 17:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo-V2-Pro 和 Omni</title>
-      <link>https://www.producthunt.com/products/mimo-3</link>
-      <description><![CDATA[
-            小米的旗舰代理和全模态基础模型
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mimo-3</guid>
-      <pubDate>Wed, 18 Mar 2026 16:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Budibase 人工智能代理</title>
-      <link>https://www.producthunt.com/products/budibase</link>
-      <description><![CDATA[
-            运行您的操作的人工智能代理（开源）
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/budibase</guid>
-      <pubDate>Wed, 18 Mar 2026 14:58:30 GMT</pubDate>
-    </item>
-    <item>
       <title>MiniMax-M2.7</title>
       <link>https://www.producthunt.com/products/minimax-agent</link>
       <description><![CDATA[
@@ -130,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/minimax-agent</guid>
       <pubDate>Wed, 18 Mar 2026 12:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSTRUX — 从理念到利润</title>
-      <link>https://www.producthunt.com/products/jstrux-from-idea-to-profit</link>
-      <description><![CDATA[
-            利用人工智能将您的想法变成真正的业务
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/jstrux-from-idea-to-profit</guid>
-      <pubDate>Wed, 18 Mar 2026 12:44:02 GMT</pubDate>
     </item>
     <item>
       <title>简单银行业务</title>
@@ -163,7 +121,7 @@
       <title>iOS 版侦察兵</title>
       <link>https://www.producthunt.com/products/scouts-by-yutori</link>
       <description><![CDATA[
-            您永远在线的人工智能代理来监控网络。现在在 iOS 上。 
+            用于监控网络的始终在线 AI 代理现已在 iOS 上推出
           
 
 讨论
@@ -172,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/scouts-by-yutori</guid>
       <pubDate>Tue, 17 Mar 2026 23:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>MCP核心</title>
-      <link>https://www.producthunt.com/products/mcpcore</link>
-      <description><![CDATA[
-            从浏览器构建和部署 MCP 服务器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mcpcore</guid>
-      <pubDate>Tue, 17 Mar 2026 16:47:48 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA 尼莫爪</title>
@@ -214,6 +158,62 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/netlify</guid>
       <pubDate>Mon, 16 Mar 2026 04:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>冥王星门</title>
+      <link>https://www.producthunt.com/products/pluto-door</link>
+      <description><![CDATA[
+            使用 AI 编辑器、文件浏览器、拖放功能保护 MacOS SSH
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pluto-door</guid>
+      <pubDate>Mon, 09 Mar 2026 19:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>朗讯</title>
+      <link>https://www.producthunt.com/products/lucent-3</link>
+      <description><![CDATA[
+            人工智能可以观看您的会话重播并检测问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lucent-3</guid>
+      <pubDate>Mon, 09 Mar 2026 11:53:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>信息操作系统</title>
+      <link>https://www.producthunt.com/products/infros</link>
+      <description><![CDATA[
+            在发布前预测并验证云架构
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/infros</guid>
+      <pubDate>Sun, 08 Mar 2026 15:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版彗星</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <description><![CDATA[
+            Perplexity 的 Agentic AI 浏览器和移动助手 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
+      <pubDate>Thu, 19 Feb 2026 19:30:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
