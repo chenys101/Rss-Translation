@@ -4,11 +4,18 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Fri, 20 Mar 2026 06:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 09:35:30 GMT</lastBuildDate>
+    <item>
+      <title>学术写作。使用 50 篇论文作为知识库——最好的工具和工作流程是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryq7z6/academic_writing_using_50_papers_as_a_knowledge/</link>
+      <description><![CDATA[向 AI 人员提出一个简单的问题：我有一个包含 50 篇论文的文件夹，我想将它们用作使用 Claude Code 撰写文章的知识库。 我担心简单地加载它们会超出上下文窗口。 我应该怎么做？他们是否事先压缩为约 2000 个单词，然后将其输入人工智能？或者使用 NotebookLLM？ 对于上下文，这是我非常熟悉的项目的工作概述。虽然我没有阅读每篇论文的每个字，但我对如何发现幻觉有一个相当不错的概述。   由   提交 /u/lipflip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryq7z6/academic_writing_using_50_papers_as_a_knowledge/</guid>
+      <pubDate>Fri, 20 Mar 2026 07:56:58 GMT</pubDate>
+    </item>
     <item>
       <title>正式证明“垃圾进，垃圾出”何时以及为何是错误的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryns35/a_formal_proof_when_and_why_garbage_in_garbage/</link>
-      <description><![CDATA[论文：https://arxiv.org/abs/2603.12288  GitHub（R 模拟、论文摘要、音频概述）：https://github.com/tjleestjohn/from-garbage-to-gold 我是第一作者 Terry。这篇论文是我花了 2.5 年的时间试图解释一些我在行业中经常看到的缺乏良好理论解释的工作的结果。 **一个现代悖论：** 在巨大的、极其肮脏的、未经整理的数据集上训练的模型（每个人都说如果不先清理就无法建模的数据）有时会优于在干净的、经过整理的数据上训练的精心构建的模型。 This completely defies the &quot;Garbage In, Garbage Out&quot;驱动大量企业数据清理投资的口头禅。 对于为什么这种情况不断发生，我找不到令人满意的正式解释。所以，我花了 2.5 年的时间建造了一个。 The paper is long because the GIGO paradigm is deeply entrenched.挑战它的数学论点需要将通常不会相互影响的几种理论传统联系起来，我希望这篇论文是全面的。 **论文的简短版本：** GIGO 范式将数据质量视为单个变量的属性 - 在建模之前使每个变量尽可能干净和精确。这通常是正确的本能。但它忽略了一些基本的东西。 对于复杂系统（医疗患者、金融市场、工业流程、传感器网络）生成的数据，存在驱动您可以观察到的一切的潜在状态。 Your observable variables are imperfect proxies of those underlying states. The question isn&#39;t just &quot;how clean is each proxy?&quot;问题是“你的代理是否共同提供了底层状态的完整覆盖？” 即使是完美清理的代理，如果代理数量不够，也会让你对底层状态产生不可减少的模糊性。我将其称为“结构性不确定性”。 ——再多的清洁也无法解决这个问题。 The only fix is more diverse proxies, even imperfect ones. This is the formal proof of when and why GIGO fails.它失败的条件通常描述了复杂的企业数据环境。 **实际含义：** 在满足这些条件的领域中，数据质量更好地理解为组合级架构属性，而不是项目级清洁度属性。 The question shifts from &quot;how do I make each variable cleaner?&quot; to &quot;does my predictor set provide complete and redundant coverage of the underlying latent drivers?&quot; These are genuinely different questions with genuinely different answers. **The real-world example:** This isn&#39;t just theory.其核心理念在阿布扎比克利夫兰诊所进行了大规模论证——利用来自超过 558,000 名患者、超过 340 万患者月的数据以及来自现实世界电子健康记录的数千个未经整理的变量来预测中风和心脏病发作，无需手动清理。 We achieved .909 AUC, substantially beating the clinical risk models that cardiologists currently use as standard of care. Published and peer-reviewed in PLOS Digital Health. https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000589 **诚实的警告：** 这并不到处工作。该框架需要由具有底层潜在结构的复杂系统生成的数据。医疗数据、金融数据、传感器数据、工业数据——这些通常都适合。简单、扁平的数据生成过程则不然。该论文解释了如何评估您的数据是否符合条件。 **模拟：** GitHub 存储库中有一个带完整注释的 R 模拟，演示了核心机制 - 在不同的噪声条件下系统地添加脏特征如何优于清理固定集。自己运行它。 **有问题吗？批评？** 乐于回答问题或反对意见 - 包括范围条件，这是正确处理的最重要的事情。   由   提交 /u/Chocolate_Milk_Son   [link] [评论]]]></description>
+      <description><![CDATA[论文：https://arxiv.org/abs/2603.12288  GitHub（R 模拟、论文摘要、音频概述）：https://github.com/tjleestjohn/from-garbage-to-gold 我是第一作者 Terry。这篇论文是我花了 2.5 年的时间试图解释一些我在行业中经常看到的缺乏良好理论解释的工作的结果。 **一个现代悖论：** 在巨大的、极其肮脏的、未经整理的数据集上训练的模型（每个人都说如果不先清理就无法建模的数据）有时会优于在干净的、经过整理的数据上训练的精心构建的模型。这完全违背了“垃圾进，垃圾出”的原则。驱动大量企业数据清理投资的口头禅。 对于为什么这种情况不断发生，我找不到令人满意的正式解释。所以，我花了 2.5 年的时间建造了一个。这篇论文很长，因为 GIGO 范式根深蒂固。挑战它的数学论点需要将通常不会相互影响的几种理论传统联系起来，我希望这篇论文是全面的。 **论文的简短版本：** GIGO 范式将数据质量视为单个变量的属性 - 在建模之前使每个变量尽可能干净和精确。这通常是正确的本能。但它忽略了一些基本的东西。 对于复杂系统（医疗患者、金融市场、工业流程、传感器网络）生成的数据，存在驱动您可以观察到的一切的潜在状态。您的可观察变量是这些潜在状态的不完美代理。问题不仅仅是“每个代理有多干净？”问题是“你的代理是否共同提供了底层状态的完整覆盖？” 即使是完美清理的代理，如果代理数量不够，也会让你对底层状态产生不可减少的模糊性。我将其称为“结构性不确定性”。 ——再多的清洁也无法解决这个问题。唯一的解决办法是更多样化的代理，甚至是不完美的代理。 这是 GIGO 何时以及为何失败的正式证明。它失败的条件通常描述了复杂的企业数据环境。 **实际含义：** 在满足这些条件的领域中，数据质量更好地理解为组合级架构属性，而不是项目级清洁度属性。问题从“如何使每个变量更清晰？”转变为“如何使每个变量更清晰？” “我的预测器集是否提供了对潜在潜在驱动因素的完整且冗余的覆盖？”这些是真正不同的问题，有着完全不同的答案。 **现实世界的例子：** 这不仅仅是理论。其核心理念在阿布扎比克利夫兰诊所进行了大规模论证——利用来自超过 558,000 名患者、超过 340 万患者月的数据以及来自现实世界电子健康记录的数千个未经整理的变量来预测中风和心脏病发作，无需手动清理。我们实现了 0.909 AUC，大大超过了心脏病专家目前用作护理标准的临床风险模型。在 PLOS Digital Health 上发表并经过同行评审。 https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000589 **诚实的警告：** 这并不到处工作。该框架需要由具有底层潜在结构的复杂系统生成的数据。医疗数据、金融数据、传感器数据、工业数据——这些通常都适合。简单、扁平的数据生成过程则不然。该论文解释了如何评估您的数据是否符合条件。 **模拟：** GitHub 存储库中有一个带完整注释的 R 模拟，演示了核心机制 - 在不同的噪声条件下系统地添加脏特征如何优于清理固定集。自己运行它。 **有问题吗？批评？** 乐于回答问题或反对意见 - 包括范围条件，这是正确处理的最重要的事情。   由   提交/u/Chocolate_Milk_Son   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryns35/a_formal_proof_when_and_why_garbage_in_garbage/</guid>
       <pubDate>Fri, 20 Mar 2026 05:28:59 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[ 由   提交 /u/CackleRooster   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ry4l2b/github_copilots_effect_on_collaboration_has/</guid>
       <pubDate>Thu, 19 Mar 2026 16:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>快餐工人正在培训他们的人工智能替代者</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ry4hc2/fast_food_workers_are_training_their_ai/</link>
-      <description><![CDATA[汉堡王刚刚推出了“Patty”，这是一个相当令人讨厌的人工智能代理，其设计目的是帮助员工保持礼貌，或者有时发出打扫浴室的命令。是的，没有什么比让一个开朗的机器人告诉你去清理尿液和粪便更能鼓舞士气了。然而帕蒂也可能有邪恶的一面。   由   提交/u/GrahamPhisher  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ry4hc2/fast_food_workers_are_training_their_ai/</guid>
-      <pubDate>Thu, 19 Mar 2026 16:04:04 GMT</pubDate>
     </item>
     <item>
       <title>黄仁勋刚刚描绘了人工智能未来最大胆的形象：750万智能体，75,000个人——每人100名人工智能工作者</title>
