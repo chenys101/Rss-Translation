@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Mar 2026 15:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:41:56 GMT</lastBuildDate>
     <item>
       <title>GitAgent 由 Lyzr 提供</title>
       <link>https://www.producthunt.com/products/gitagent-2</link>
@@ -34,6 +34,34 @@
       <pubDate>Fri, 20 Mar 2026 04:35:29 GMT</pubDate>
     </item>
     <item>
+      <title>上下文溢出</title>
+      <link>https://www.producthunt.com/products/context-overflow</link>
+      <description><![CDATA[
+            AI 代理的知识共享
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/context-overflow</guid>
+      <pubDate>Fri, 20 Mar 2026 02:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>很多</title>
+      <link>https://www.producthunt.com/products/telea</link>
+      <description><![CDATA[
+            说话就像你总是知道该说什么
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/telea</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
       <title>聊天</title>
       <link>https://www.producthunt.com/products/chat-5</link>
       <description><![CDATA[
@@ -48,32 +76,18 @@
       <pubDate>Fri, 20 Mar 2026 00:15:04 GMT</pubDate>
     </item>
     <item>
-      <title>凝视卫士</title>
-      <link>https://www.producthunt.com/products/gaze-guard</link>
+      <title>客房服务</title>
+      <link>https://www.producthunt.com/products/room-service-2</link>
       <description><![CDATA[
-            即时隐私和屏幕模糊
+            专为开发者打造的 Mac 清理器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gaze-guard</guid>
-      <pubDate>Thu, 19 Mar 2026 21:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>看</title>
-      <link>https://www.producthunt.com/products/looq-3</link>
-      <description><![CDATA[
-            从“快速查看”中预览 Markdown、代码和数据文件
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/looq-3</guid>
-      <pubDate>Thu, 19 Mar 2026 20:58:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/room-service-2</guid>
+      <pubDate>Thu, 19 Mar 2026 21:57:07 GMT</pubDate>
     </item>
     <item>
       <title>Cursor 的作曲家 2</title>
@@ -146,6 +160,20 @@
       <pubDate>Thu, 19 Mar 2026 08:03:13 GMT</pubDate>
     </item>
     <item>
+      <title>无缓存</title>
+      <link>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</link>
+      <description><![CDATA[
+            AI 支持的 Mac 系统数据清理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</guid>
+      <pubDate>Thu, 19 Mar 2026 05:28:53 GMT</pubDate>
+    </item>
+    <item>
       <title>维斯迪夫</title>
       <link>https://www.producthunt.com/products/visdiff</link>
       <description><![CDATA[
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/adsturbo-2</guid>
       <pubDate>Tue, 17 Mar 2026 07:31:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>温和限制</title>
-      <link>https://www.producthunt.com/products/gentlelimit</link>
-      <description><![CDATA[
-            留意 macOS 的屏幕时间，而不阻止应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gentlelimit</guid>
-      <pubDate>Sun, 15 Mar 2026 13:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>装配2.0</title>
-      <link>https://www.producthunt.com/products/assembly-7</link>
-      <description><![CDATA[
-            为服务企业构建现代客户门户
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/assembly-7</guid>
-      <pubDate>Fri, 27 Feb 2026 21:12:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
