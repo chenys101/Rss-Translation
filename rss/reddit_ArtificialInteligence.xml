@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Fri, 20 Mar 2026 21:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 01:26:08 GMT</lastBuildDate>
+    <item>
+      <title>人们还在报名参加编码课程吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rze60a/are_people_still_enrolling_in_coding_classes/</link>
+      <description><![CDATA[十年前，我非常有动力学习编码，并且开始涉足。但从未给予它应有的承诺，使其变得有能力。  最终进入了一些电子邮件列表，今天收到了这个。 严重的问题，人们还在报名参加这样的入门级编程课程吗？   由   提交/u/lesshonkymoretonky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rze60a/are_people_still_enrolling_in_coding_classes/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了一个开源路由层，将您的 AI 请求发送到可以处理它们的最便宜的模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rzdtu7/we_built_an_opensource_routing_layer_that_sends/</link>
+      <description><![CDATA[大家好， 我想介绍一下我们正在构建的内容，因为它正在解决这里很多人都遇到的问题。 如果您正在运行 OpenClaw 代理，则每个请求都会发送到您配置的任何模型。通常是很贵的。 Manifest 位于中间，将每个请求路由到实际可以处理它的最便宜的模型。 它使用跨 23 个维度的确定性评分算法。路由本身不涉及 LLM，它的运行时间不到 2 毫秒。您将获得一个仪表板，准确显示每个代理、每个操作和每个模型的实时成本。 一切都在本地运行。 Manifest 没有收集任何提示，也没有存储任何消息。仅元数据，通过 OpenTelemetry。 大多数用户的账单下降了 60% 到 80%。 自推出以来，我们一直在努力推动。仅在过去 7 天，我们就发布了 Anthropic 订阅支持，随后是 OpenAI 和 MiniMax 它是免费且开源的。我们正在积极寻找反馈、测试人员和贡献者。如果您好奇，设置过程需要几分钟。我们很想听听您的想法 -&gt; github.com/mnfst/manifest 我们有 4,000 颗星，并且还在不断增加。很高兴回答评论中的任何问题。   由   提交/u/stosssik  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rzdtu7/we_built_an_opensource_routing_layer_that_sends/</guid>
+      <pubDate>Sat, 21 Mar 2026 00:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么子代理有帮助：视觉指南</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rzcsff/why_subagents_help_a_visual_guide/</link>
+      <description><![CDATA[ 由   提交/u/phoneixAdi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rzcsff/why_subagents_help_a_visual_guide/</guid>
+      <pubDate>Sat, 21 Mar 2026 00:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人仅仅因为“重启税”就烧掉了 30% 的预算吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rzb5or/is_anyone_else_burning_30_of_their_budget_just_on/</link>
+      <description><![CDATA[我刚刚查看了我们的日志，意识到我们仅在重新启动时就消耗了 30% 的预算。 每次都是同样的故事 - 我设置了一个工作流程，一切看起来都很完美（模因的左侧），然后一个微小的服务器闪烁或超时。代理不会从中断的地方继续，而是重新设置并从头开始整个 40 分钟的研究任务。 感觉我们只是接受这是“正常的”，但由于网络故障而为相同的 500 个潜在客户支付两次费用，这对于利润来说是痛苦的。 我最终转向了一种设置，该设置实际上对每个工具调用进行检查点，并且它立即降低了我们的 API 成本。不再需要重新计算我们已经支付的费用。 你们是如何处理状态管理混乱的？您是否仍在手动将每个代理连接到 Redis 以保存进度，或者只是让重试循环消耗您的预算？   由   提交/u/Interesting_Ride2443  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rzb5or/is_anyone_else_burning_30_of_their_budget_just_on/</guid>
+      <pubDate>Fri, 20 Mar 2026 23:01:04 GMT</pubDate>
+    </item>
     <item>
       <title>我们期待 HAL 或贾维斯……我们得到了一些可以弥补的东西</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rz72gj/we_expected_hal_or_jarvis_we_got_something_that/</link>
@@ -20,20 +48,6 @@
       <pubDate>Fri, 20 Mar 2026 19:43:04 GMT</pubDate>
     </item>
     <item>
-      <title>我们是否已经摆脱了 Slop 软件的不归路？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rz403n/are_we_already_getting_past_the_point_of_no/</link>
-      <description><![CDATA[现在创建的软件中 99% 都是 slop，分为两类 AI  围绕 LLM 的代理包装器，使您能够更快地生成 slop（不一定更便宜或更有效，其中许多会疯狂地消耗代币） Slop 应用程序是寻找问题的解决方案（其中大多数已经被其他开发人员解决），货币化没有充分理由的 whazoo。  真正有用的应用程序被制作出来的比例非常小，考虑到互联网其他部分的情况，这是可以预料的。问题是信噪比现在已经达到顶峰，互联网（github、应用商店等）正变得如此淹没在垃圾之中，光是看着它们就让我头疼。希望奶油能够上升到顶峰，但事实证明，有时进入的障碍并不是一件坏事。这就像社交媒体一样，结果给每个人一个发言的论坛，结果大多是脑腐烂的废话。  我真的很想知道一两年后我们会在这些东西上达到什么水平。   由   提交 /u/Dredgefort   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rz403n/are_we_already_getting_past_the_point_of_no/</guid>
-      <pubDate>Fri, 20 Mar 2026 18:21:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个人工智能代理来解决价格比较疲劳</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rz2cf1/i_built_an_ai_agent_to_solve_price_comparison/</link>
-      <description><![CDATA[大家好！ 我想分享一个我一直在做的项目，名为 Lumu.dev。作为一名在线购物者，我厌倦了手动打开十几个选项卡来比较不同零售商的价格。 解决方案：我构建了一个 B2C 价格编排工具，该工具使用 Gemini 1.5 Flash 来处理实时自然语言查询。您无需逐家搜索商店，只需询问人工智能，它就会立即找到跨多个平台的最佳优惠。 工作流程：  Stack： Next.js 用于前端。 AI：通过 Google 的 Gemini API 进行编排，以提高查询处理速度。 方法：主要通过“Vibe Coding”开发，利用 AI 代理来加速构建过程。  我 19 岁，仍在学习，所以我希望能获得有关 UI 和代理准确性的高信号反馈！ 链接：https://lumu.dev   由   提交/u/desent17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rz2cf1/i_built_an_ai_agent_to_solve_price_comparison/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:18:46 GMT</pubDate>
-    </item>
-    <item>
       <title>让我们花 25 万美元购买代币只是为了消费</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rz2777/lets_spend_250k_on_tokens_just_for_sake_of/</link>
       <description><![CDATA[根据 Jensen 完美的逻辑，最好的工程师并不是编写优雅、高效的代码来用最少的资源解决问题的人。不，真正的 10 倍工程师是那些能以最快的速度在数字熔炉中点燃一半薪水的人。 忘掉优雅的解决方案吧。衡量天才的新标准是你获得答案的效率有多低  老派工程师：我花了一周时间优化这个算法，使其运行速度提高 100 倍，并减少 90% 的计算量 Jensen 认可的工程师我编写了一个脚本，要求超级强大的 AI 在连续循环中计算 2+2。我的代币消耗已经达到顶峰！我期待升职  他理想的员工基本上是一个开着悍马车到街角商店，让它整夜运转，然后出示汽油收据作为他高影响力流动性的证明 当然，为整个人工智能推理热潮提供动力的公司的首席执行官希望你相信价值是通过消费来衡量的。就像可口可乐的首席执行官说最健康的人是那些在汽水上花费最多的人 所以，让我们一起为新的范式举杯：“少想，多花。”这不在于你的输出质量，而在于你的数字废气的绝对量   由   提交/u/Kakachia777   [链接] [评论]]]></description>
@@ -41,7 +55,7 @@
       <pubDate>Fri, 20 Mar 2026 17:13:25 GMT</pubDate>
     </item>
     <item>
-      <title>成千上万的人都为这位 MAGA 梦想女孩所倾倒。她是用人工智能创造的。</title>
+      <title>成千上万的人为这位 MAGA 梦想女孩所倾倒。她是用人工智能创造的。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rz1n8k/thousands_have_swooned_over_this_maga_dream_girl/</link>
       <description><![CDATA[ 由   提交 /u/CackleRooster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rz1n8k/thousands_have_swooned_over_this_maga_dream_girl/</guid>
@@ -76,7 +90,7 @@
       <pubDate>Fri, 20 Mar 2026 13:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>恐怖小说《害羞的女孩》因疑似人工智能而被取消使用 |纽约时报</title>
+      <title>恐怖小说《害羞的女孩》因疑似人工智能而被取消使用|纽约时报</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryur63/horror_novel_shy_girl_canceled_over_suspected_ai/</link>
       <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryur63/horror_novel_shy_girl_canceled_over_suspected_ai/</guid>
@@ -88,20 +102,6 @@
       <description><![CDATA[白宫周五公布了首个人工智能联邦政策框架——旨在建立“一致”人工智能的立法大纲。全国人工智能发展的国家标准，旨在防止审查并保护言论自由和儿童。   由   提交 /u/coinfanking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rytumq/white_house_unveils_its_first_national_ai/</guid>
       <pubDate>Fri, 20 Mar 2026 11:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达将在 2027 年底之前通过云交易向亚马逊出售 100 万块芯片</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryslfx/nvidia_to_sell_1_million_chips_to_amazon_by_end/</link>
-      <description><![CDATA[&quot;Nvidia (NVDA.O)，打开新标签将向 Amazon.com 的   https://www.reuters.com/business/retail-consumer/nvidia-sell-1-million-chips-amazon-by-end-2027-cloud-deal-2026-03-19/   由   提交 /u/talkingatoms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryslfx/nvidia_to_sell_1_million_chips_to_amazon_by_end/</guid>
-      <pubDate>Fri, 20 Mar 2026 10:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>黄仁勋刚刚描绘了人工智能未来最大胆的形象：750万智能体，75,000个人——每人100名人工智能工作者</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ry49gc/jensen_huang_just_painted_the_most_bold_image_of/</link>
-      <description><![CDATA[今年是 2036 年。你坐在办公桌前，旁边有 100 个 AI 代理。 至少，Nvidia 首席执行官黄仁勋 (Jensen Huang) 想象中的 Nvidia 工作有一天会是这样的。在圣何塞举行的 Nvidia GTC 会议上的媒体问答环节中，首席执行官兼联合创始人表示，十年内，公司预计将拥有约 75,000 名员工，几乎是公司目前 42,000 名员工的两倍，所有员工都与数百万人工智能代理一起工作。 “十年内，我们希望拥有 75,000 名员工，尽可能小，尽可能大。他们将成为超级员工忙”黄笑着说道。 “这 75,000 名员工将与 750 万个代理一起工作。” 代理与人类的比例为 100 比 1。 Huang 表示，这些人工智能代理不会完全取代工人。相反，他们将承担人类员工不需要完成的繁重工作。 “他们将全天候工作，”他说。 “所以希望我们的员工不必跟上他们的步伐。” 阅读更多：https://fortune.com/2026/03/19/jensen-huang-nvidia-ai-agents-future-of-work-autonomous/   由   提交/u/fortune  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ry49gc/jensen_huang_just_painted_the_most_bold_image_of/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:56:06 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
