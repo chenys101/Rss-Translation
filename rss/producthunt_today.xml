@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Mar 2026 01:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:27:16 GMT</lastBuildDate>
     <item>
       <title>GitAgent 由 Lyzr 提供</title>
       <link>https://www.producthunt.com/products/gitagent-2</link>
@@ -34,6 +34,20 @@
       <pubDate>Fri, 20 Mar 2026 04:35:29 GMT</pubDate>
     </item>
     <item>
+      <title>上下文溢出</title>
+      <link>https://www.producthunt.com/products/context-overflow</link>
+      <description><![CDATA[
+            AI 代理的知识共享
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/context-overflow</guid>
+      <pubDate>Fri, 20 Mar 2026 02:07:57 GMT</pubDate>
+    </item>
+    <item>
       <title>凝视卫士</title>
       <link>https://www.producthunt.com/products/gaze-guard</link>
       <description><![CDATA[
@@ -46,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gaze-guard</guid>
       <pubDate>Thu, 19 Mar 2026 21:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>客房服务</title>
+      <link>https://www.producthunt.com/products/room-service-2</link>
+      <description><![CDATA[
+            专为开发者打造的 Mac 清理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/room-service-2</guid>
+      <pubDate>Thu, 19 Mar 2026 21:57:07 GMT</pubDate>
     </item>
     <item>
       <title>音乐库</title>
@@ -102,34 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/ai-skills-manager</guid>
       <pubDate>Thu, 19 Mar 2026 13:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件夹</title>
-      <link>https://www.producthunt.com/products/kickfolder</link>
-      <description><![CDATA[
-            将 Mac 的顶部边缘变成隐藏的命令中心
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kickfolder</guid>
-      <pubDate>Thu, 19 Mar 2026 08:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>无缓存</title>
-      <link>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</link>
-      <description><![CDATA[
-            AI 支持的 Mac 系统数据清理器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</guid>
-      <pubDate>Thu, 19 Mar 2026 05:28:53 GMT</pubDate>
     </item>
     <item>
       <title>维斯迪夫</title>
