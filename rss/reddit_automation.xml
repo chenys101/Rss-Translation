@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 28 Mar 2026 09:31:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:41:13 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Apify AI Web Scraper 用简单的英语提取结构化 Web 数据</title>
+      <link>https://www.reddit.com/r/automation/comments/1s5xc1f/how_to_extract_structured_web_data_with_plain/</link>
+      <description><![CDATA[      由   提交/u/FrostyBother3984  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s5xc1f/how_to_extract_structured_web_data_with_plain/</guid>
+      <pubDate>Sat, 28 Mar 2026 10:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩展自动化项目：“从小事做起”何时真正停止工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1s5wf6u/scaling_automation_projects_when_does_start_small/</link>
+      <description><![CDATA[一直在试图找出从一些工作自动化转向更系统化的东西的正确时机。从一些简单的工作流程开始，现在随着它的发展，我正在将一些东西用胶带粘在一起。感觉从“有效”到“可扩展”的跳跃是大多数人陷入困境的地方，而且，我没有找到很多关于这种转变在实践中实际情况的实用建议。对于那些经历过这个的人来说，您是否从头开始重建并考虑到可扩展性，或者您是否只是不断修补并以某种方式将其组合在一起？我也很好奇人们是否认为开源路线（n8n、Robot Framework 等）在规模上仍然可行，或者您最终是否只是屈服并为 UiPath 这样的东西付费。   由   提交/u/mokefeld  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s5wf6u/scaling_automation_projects_when_does_start_small/</guid>
+      <pubDate>Sat, 28 Mar 2026 10:05:52 GMT</pubDate>
+    </item>
     <item>
       <title>您构建的最能真正节省您时间的自动化系统是什么？</title>
       <link>https://www.reddit.com/r/automation/comments/1s5uujm/whats_the_best_automation_youve_built_that/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>您愿意付费学习和使用经过验证的 AI SOP 流程吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1s58iwk/are_you_willing_to_pay_for_learning_and_working/</link>
-      <description><![CDATA[大家好我目前是一名自由职业者，目前正在考虑人工智能知识创业，想研究一下你是否愿意付出实际工作或学习人工智能来解决问题并提高验证方法过程的效率？如果是，愿意为 SOP（标准操作程序）工作流程或视频教学演示付费的范围是多少？您学习这些 SOP 的首选形式是什么？您有兴趣通过人工智能提高哪些能力或工作类型？您通常在哪里学习使用人工智能解决问题？如果我也能吸引需要人工智能技术员工的老板，你会对这个社区更感兴趣吗？如果您愿意花点时间回答这些问题，非常感谢，如果您有任何其他意见，请随时询问   由   提交/u/CompanyRemarkable381  [链接] [评论]]]></description>
+      <description><![CDATA[大家好我目前是一名自由职业者，目前正在考虑人工智能知识创业，想研究一下你是否愿意付出实际工作或学习人工智能来解决问题并提高验证方法过程的效率？如果是，愿意为 SOP（标准操作程序）工作流程或视频教学演示付费的范围是多少？您学习这些 SOP 的首选形式是什么？您有兴趣通过人工智能提高哪些能力或工作类型？您通常在哪里学习使用人工智能解决问题？如果我也能吸引需要人工智能技术员工的老板，你会对这个社区更感兴趣吗？如果您愿意花点时间回答这些问题，非常感谢，如果您有任何其他意见，请随时询问   由   提交 /u/CompanyRemarkable381   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s58iwk/are_you_willing_to_pay_for_learning_and_working/</guid>
       <pubDate>Fri, 27 Mar 2026 16:10:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨， 我正在构建一个 SaaS，它基本上是一个工具，可以从 Reddit、Twitter/X 和 Product Hunt 等平台找到您的 SaaS/产品的潜在销售线索。 与数字营销相比，我更偏向于开发人员，并使用我自己的工具来获得结果。但我仍然想做 EO 和我的 SaaS 的有机增长，而且我雇用的数字营销人员也忙于自己的工作（有些天）。我没有时间写大型博客文章或为有机流量做任何其他事情，这就是我需要一个自动执行此操作的工具。 如果您正在构建一个，请分享，我可以尝试一下，也可以提供反馈！ 谢谢，   由   提交/u/soham512  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s4vh9w/is_anyone_automating_organic_growth/</guid>
       <pubDate>Fri, 27 Mar 2026 05:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了第一个 n8n 自动化。您认为我会遇到什么问题？</title>
-      <link>https://www.reddit.com/r/automation/comments/1s4siih/i_built_this_first_n8n_automation_what_issue_do/</link>
-      <description><![CDATA[       由   提交/u/atul_k09  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s4siih/i_built_this_first_n8n_automation_what_issue_do/</guid>
-      <pubDate>Fri, 27 Mar 2026 03:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个免费工具来批量发布 Facebook 群组帖子</title>
-      <link>https://www.reddit.com/r/automation/comments/1s4qeim/need_a_free_tool_to_bulk_post_of_facebook_groups/</link>
-      <description><![CDATA[由于 Fewfeed 已关闭，我需要一个与 Fewfeed 完全一样的工具，它可以显示我所在的所有组，并让我对它们进行分组，并且对我每天发帖的数量没有限制。 如果有一个它的克隆版本，可以让我免费批量发帖，那就太好了。    由   提交 /u/Cool_Calligrapher_72   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s4qeim/need_a_free_tool_to_bulk_post_of_facebook_groups/</guid>
-      <pubDate>Fri, 27 Mar 2026 01:29:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
