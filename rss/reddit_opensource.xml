@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Mar 2026 18:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 21:28:31 GMT</lastBuildDate>
+    <item>
+      <title>Draw.io、FigJam、Canva 的桌面混合体？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s74ior/desktop_hybrid_of_drawio_figjam_canva/</link>
+      <description><![CDATA[寻找可以完成一些简单任务的桌面软件；我可以满足于基于网络的，但我更喜欢本地存储。  轻松快速地创建已经有与之关联的文本框的形状 徒手绘制草图 粘贴图像 某种图层管理和导航 版本历史记录  Draw.io 非常接近，但绘制草图相当笨重，而且它处理带有形状的文本流的方式也是一种有点笨重，例如将文本粘贴到形状中不会自动扩展形状。据我所知，它也没有层（也许我使用错误），只是向后/向前发送。   由   提交/u/Sudden-Wash4457  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s74ior/desktop_hybrid_of_drawio_figjam_canva/</guid>
+      <pubDate>Sun, 29 Mar 2026 19:30:59 GMT</pubDate>
+    </item>
     <item>
       <title>Mini Diarium 0.4.13：用 Rust 编写的加密的本地日志。免费和开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1s6twp1/mini_diarium_0413_an_encrypted_localonly_journal/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[现在，虽然我一直想做出贡献，但我总是发现编程是人们采取的主要途径，而对于像基础设施或 DevOps 相关的角色，代码并不是我们真正拥有的最大技能，即使我完全了解正在发生的事情，我也不想使用 AI 做出贡献。 现在，从您的经验来看，无论是自己贡献还是看到其他人做贡献，该角色通常如何为开源做出贡献项目？它们有多有用？是否只是更好地理解该语言并参加速成课程以明智地贡献代码？   由   提交 /u/bdhd656   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1s4lu6v/how_do_you_contribute_as_an_infrastructuredevops/</guid>
       <pubDate>Thu, 26 Mar 2026 22:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>此子组中是否有人是开发人员和前 Apollo 用户/粉丝（RIP）？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s4cyna/is_anyone_in_this_sub_a_developer_and_an_exapollo/</link>
-      <description><![CDATA[我目前最喜欢的 Reddit 客户端是 Hydra，Apollo 的克隆版本。它可以免费使用，但有专业版订阅，可以解锁通知和其他专业版功能（或者您可以自行托管并免费获得专业版功能）。目前只有 iOS，但开发人员表示他即将推出 Android 版本。 它是开源的，这让我更喜欢它，因为这意味着如果开发人员决定放弃它，其他人可以接过火炬。 开发人员正在接受拉取请求，我认为这个应用程序最终可能真的会成为接近 Apollo 的东西，特别是如果有才华的人帮忙的话。 是否有人是开发人员并且在 React Native 方面有经验并且想要提供帮助Hydra 项目？ 这是 GitHub 链接：https://github.com/dmilin1/Hydra   由   提交/u/jwintyo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s4cyna/is_anyone_in_this_sub_a_developer_and_an_exapollo/</guid>
-      <pubDate>Thu, 26 Mar 2026 16:51:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
