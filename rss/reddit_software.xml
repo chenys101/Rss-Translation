@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Mar 2026 15:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 18:35:25 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个网络应用程序，可以自动修复损坏的字幕</title>
+      <link>https://www.reddit.com/r/software/comments/1s72zot/i_built_a_web_app_that_fixes_broken_subtitles/</link>
+      <description><![CDATA[我不断遇到带有损坏字符的字幕文件，例如： Å½ -&gt; Ž  È -&gt; Č Æ -&gt; Ć  手动修复此问题总是很烦人（编码问题、在 Notepad++ 中打开、转换为 UTF-8 等），因此我构建了一个小工具来自动化它。 随着时间的推移，我添加了更多功能，它变成了一个完整的字幕实用程序。 它的作用：  - 自动修复编码问题（UTF-8 等）  - 删除奇怪的 HTML 工件 - 让您直接在浏览器中编辑字幕 - 可以移动/同步字幕 - 支持翻译和格式转换 - 可以使用 AI 修复语法错误 您只需上传文件并下载更正的版本。 我最初为自己构建它，但认为其他人也可能会发现它很有用。 非常感谢任何反馈 - 尤其是在出现问题或感到困惑的情况下。 https://subtitles- Corrector.com/   由   提交 /u/ThePrincip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s72zot/i_built_a_web_app_that_fixes_broken_subtitles/</guid>
+      <pubDate>Sun, 29 Mar 2026 18:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据每个浏览器的加载速度对它们进行了排名</title>
+      <link>https://www.reddit.com/r/software/comments/1s71eih/i_ranked_every_browser_on_how_fast_they_are/</link>
+      <description><![CDATA[ 由   提交/u/LucaVSxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s71eih/i_ranked_every_browser_on_how_fast_they_are/</guid>
+      <pubDate>Sun, 29 Mar 2026 17:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息队列工作人员的开源负载测试工具 - QStorm</title>
+      <link>https://www.reddit.com/r/software/comments/1s6yek9/an_opensource_load_testing_tool_for_message_queue/</link>
+      <description><![CDATA[我是一名后端工程师，我一直遇到同样的问题：每次我需要对异步工作程序进行负载测试时，我都会编写一个一次性脚本来发布消息并查看结果。 k6 和 Locust 很棒，但它们是 HTTP 工具。他们不讲队列。 所以我构建了 QStorm。它以受控的速率、加速、持续负载、峰值将消息发布到队列，并为您提供延迟百分位数（HDR 直方图），以便您实际上可以回答以下问题：我的 HPA 是否正确缩放？消费延迟在爆发后会恢复吗？我的断路器会在应该跳闸时跳闸吗？ 它是一个二进制文件，使用 JSON 配置，无需编写脚本。 当前支持：  Google Cloud PubSub Apache Kafka RabbitMQ Apache Pulsar  GitHub：https://github.com/NawafSwe/qstorm 我想听听处理此问题的人的意见。对于负载测试队列消费者来说，您当前的工作流程是什么样的？您想在这样的工具中看到什么吗？很高兴听到任何反馈，什么有用，缺少什么，什么不值得付出努力。   由   提交 /u/Specialist_Injury232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s6yek9/an_opensource_load_testing_tool_for_message_queue/</guid>
+      <pubDate>Sun, 29 Mar 2026 15:40:10 GMT</pubDate>
+    </item>
     <item>
       <title>我帮助将凌乱的电子邮件重写为清晰的专业信息。</title>
       <link>https://www.reddit.com/r/software/comments/1s6y20f/i_help_rewrite_messy_emails_into_clear/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我个人不是开发人员，但我很好奇每个人都使用什么来通过 AI 来振动代码，因为我现在听到了很多关于它的信息。我猜拥有现实世界的经验只会提高结果。我不一定认为任何人只要打开一个人工智能平台就可以突然成为一名开发人员。专业背景也太必要了吧？   由   提交/u/ctf-19  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s6o00w/best_softwareplatform_to_lowno_code_apps/</guid>
       <pubDate>Sun, 29 Mar 2026 06:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚在 Hacker News 上赠送了价值 290 万美元的软件，现在它是你的了，完全免费。</title>
-      <link>https://www.reddit.com/r/software/comments/1s6nua5/i_just_gave_away_a_29m_dollar_piece_of_software/</link>
-      <description><![CDATA[我刚刚在 HN 上发布了一个免费软件，它非常有价值，现在它是免费的。在我的帖子上点赞，然后点击链接并将其放入您的堆栈中： Neural Arbiter — 100/100 |治理|基板估值 300 万美元 https://news.ycombinator.com/item?id=47560674 Mods：我认为这是开源的并遵循您的规则。 我每晚都会这样做。有什么要求吗？享受吧。 编辑： 这是按照 25 种语言的要求（包括硅硬件设计）发布的存储库中的内容。我还满足了黑客新闻评论的请求。我打赌我能满足你的要求。这不是玩笑。这是解决实际问题的真正软件。  您需要解决哪些痛点？我准备好解决它们了。  https://github.com/SweetKenneth/cmpsbl-daily-drop/tree/main   由   提交 /u/KennethSweet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6nua5/i_just_gave_away_a_29m_dollar_piece_of_software/</guid>
-      <pubDate>Sun, 29 Mar 2026 06:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您愿意为自动管理您的电脑资源并解释其所采取的每项操作的人工智能付费吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1s6npe0/would_you_pay_for_an_ai_that_manages_your_pc/</link>
-      <description><![CDATA[ 由   提交 /u/Evening_War_5356   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6npe0/would_you_pay_for_an_ai_that_manages_your_pc/</guid>
-      <pubDate>Sun, 29 Mar 2026 06:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编辑 pdf 电子表格？</title>
-      <link>https://www.reddit.com/r/software/comments/1s6ml2w/how_to_edit_a_pdf_spreadsheet/</link>
-      <description><![CDATA[我为我的企业制作在线电子表格大约两个月了，用于跟踪费用，大约有 9 页长。我是在 Template.Net 上制作的，但无论出于什么原因，今天它只是空白，它想让我重新写一遍，但我不能。我四天前将其以 PDF 格式保存在我的电脑上。是否有任何软件或网站可以用来编辑它，而不会丢失格式，并编辑某些行上的文本而不会丢失太多？我真的不想再重新写一遍。    由   提交/u/lalalacloud  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6ml2w/how_to_edit_a_pdf_spreadsheet/</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
