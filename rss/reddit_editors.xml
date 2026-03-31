@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 31 Mar 2026 07:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:03:52 GMT</lastBuildDate>
     <item>
       <title>MacBook Air 2023 (M2) 512GB 8GB 内存适用于 ProRes 422？</title>
       <link>https://www.reddit.com/r/editors/comments/1s8fqf6/macbook_air_2023_m2_512gb_8gb_ram_for_prores_422/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>这是一个静音音频驱动程序</title>
       <link>https://www.reddit.com/r/editors/comments/1s84eh1/ndi_silent_audio_driver/</link>
-      <description><![CDATA[我正在尝试使用 NDI 虚拟输入方法通过 Zoom 将时间线传输到客户端。视频工作完美，但我无法让一滴音频通过 NDI 管道传递到 Zoom。 （我已经尝试过 Premiere 和 Avid） 我已经尝试过的所有内容：  Avid 设置：启用“广播时播放本地音频” HW/SW 菜单中的（桌面音频）。我可以听到扬声器上的音频，但 NDI 流没有声音。 缩放设置：选择“NDI 音频”作为麦克风。启用了“音乐家的原创声音”。 Mac“隐私”：NDI 虚拟输入不会出现在麦克风隐私列表中。 NDI 虚拟输入：应用程序正在运行，并且源已正确设置为“Avid Media Composer”。  我在这方面和“麦克风”上花了一段时间。权限根本不会在系统设置中触发。有没有人找到 NDI 音频驱动程序的解决方法？ 谢谢！ https://ndi.video/tools/ 编辑/更新： 我已经成功通过安装 BlackHole 并将其设置为我的系统音频输出和 Zoom 的麦克风输入来使音频正常工作。不过，质量不是很好，听起来有点压缩。   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试使用 NDI 虚拟输入方法通过 Zoom 将时间线传输到客户端。视频工作完美，但我无法让一滴音频通过 NDI 管道传递到 Zoom。 （我已经尝试过 Premiere 和 Avid） 我已经尝试过的所有内容：  Avid 设置：启用“广播时播放本地音频” HW/SW 菜单中的（桌面音频）。我可以听到扬声器上的音频，但 NDI 流没有声音。 缩放设置：选择“NDI 音频”作为麦克风。启用了“音乐家的原创声音”。 Mac“隐私”：NDI 虚拟输入不会出现在“麦克风隐私”列表中。 NDI 虚拟输入：应用程序正在运行，源已正确设置为“Avid Media Composer”。  我在这方面和“麦克风”上花了一段时间。权限根本不会在系统设置中触发。有没有人找到 NDI 音频驱动程序的解决方法？ 谢谢！ https://ndi.video/tools/ 编辑/更新： 我已经成功通过安装 BlackHole 并将其设置为我的系统音频输出和 Zoom 的麦克风输入来使音频正常工作。不过，质量不是很好，听起来有点压缩。   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s84eh1/ndi_silent_audio_driver/</guid>
       <pubDate>Mon, 30 Mar 2026 21:45:30 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>加速慢速镜头？</title>
       <link>https://www.reddit.com/r/editors/comments/1s806fb/speeding_up_offspeed_footage/</link>
-      <description><![CDATA[大家好，快速的帧率问题。我用 BRAW 拍摄了一次采访：A 摄像头是 Pyxis 6K，B 摄像头是 BMPCC 4K。我本打算以 23.976 的速度录制，但不小心打开了 Pyxis 的慢速，因此素材以 36 fps 的速度烘焙。在 DaVinci Resolve 中，我尝试将其速度提高 150% 以匹配 23.976 B 摄像头和外部音频，但它看起来太快了。有人以前遇到过这个问题吗？最好的解决方法是什么？我应该继续测试不同的速度百分比直到它对齐吗？   由   提交 /u/maslurch   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，快速的帧速率问题。我用 BRAW 拍摄了一次采访：A 摄像头是 Pyxis 6K，B 摄像头是 BMPCC 4K。我本打算以 23.976 的速度录制，但不小心打开了 Pyxis 的慢速，因此素材以 36 fps 的速度烘焙。在 DaVinci Resolve 中，我尝试将其速度提高 150% 以匹配 23.976 B 摄像头和外部音频，但它看起来太快了。有人以前遇到过这个问题吗？最好的解决方法是什么？我应该继续测试不同的速度百分比直到它对齐吗？   由   提交 /u/maslurch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s806fb/speeding_up_offspeed_footage/</guid>
       <pubDate>Mon, 30 Mar 2026 19:11:52 GMT</pubDate>
     </item>

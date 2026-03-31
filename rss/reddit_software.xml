@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 31 Mar 2026 07:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:04:26 GMT</lastBuildDate>
+    <item>
+      <title>开源社区需要解决普通用户的部署差距。</title>
+      <link>https://www.reddit.com/r/software/comments/1s8gte6/the_opensource_community_needs_to_solve_the/</link>
+      <description><![CDATA[像 Immich 或 Nextcloud 这样的开源软件令人难以置信，而且通常比 Google 或 Microsoft 的同类软件要好得多。根本问题是部署和维护仍然需要一个周末来配置 Linux、Docker 容器和反向代理。 如果唯一的选择需要成为兼职网络管理员，那么普通人将永远不会离开专有软件。我们迫切需要更多的中间解决方案来弥合自由和开源软件主权与主流即插即用可用性之间的差距。   由   提交 /u/No-Yellow9948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s8gte6/the_opensource_community_needs_to_solve_the/</guid>
+      <pubDate>Tue, 31 Mar 2026 07:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是停车管理软件？“传统”和“数字”之间的界限在哪里？</title>
+      <link>https://www.reddit.com/r/software/comments/1s8ggwm/what_is_parking_management_software_and_where_is/</link>
+      <description><![CDATA[ 由   提交 /u/parking-nerd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s8ggwm/what_is_parking_management_software_and_where_is/</guid>
+      <pubDate>Tue, 31 Mar 2026 07:17:02 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年 Windows 版 WhatsApp 的状态完全倒退。 （WebView2是一个错误）</title>
       <link>https://www.reddit.com/r/software/comments/1s8f8gt/the_state_of_whatsapp_for_windows_in_2026_is_a/</link>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 31 Mar 2026 02:55:24 GMT</pubDate>
     </item>
     <item>
-      <title>我必须自动化一款表格填写软件，该软件限制了复制粘贴。如果有任何技术人员对此感兴趣，请留言。我也可以提供费用。</title>
+      <title>我必须自动化一种表格填写软件，该软件限制了复制粘贴。如果有任何技术人员对此感兴趣，请留言。我也可以提供费用。</title>
       <link>https://www.reddit.com/r/software/comments/1s8au8c/i_have_to_automate_one_form_filling_softwarewhich/</link>
       <description><![CDATA[ 由   提交/u/sruj__56  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s8au8c/i_have_to_automate_one_form_filling_softwarewhich/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 31 Mar 2026 01:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>构建免费的 Windows 优化器，究竟是什么会让您从 CCleaner 切换过来？</title>
+      <title>构建一个免费的 Windows 优化器，究竟是什么会让您从 CCleaner 切换过来？</title>
       <link>https://www.reddit.com/r/software/comments/1s880kn/building_a_free_windows_optimizer_what_would/</link>
       <description><![CDATA[您好，我正在开发一个免费的 Windows 10/11 系统实用程序，例如 CCleaner 或 IObit，但在构建时考虑到了透明度和用户控制。 我正在寻找有关哪些功能对您最重要的反馈。以下是已有的内容：  注册表清理 文件重复数据删除（精确文件、重复照片、重复音频） Windows 修复（DISM + SFC） 磁盘分析器 启动管理器 服务管理器 隐私和隐私遥测调整 网络工具（DNS、Winsock、TCP 调整） 临时文件清理 实时系统监视器 进程管理器 浏览器数据清理 电池运行状况报告 计划任务管理器 优化配置文件（游戏、办公、低 RAM、隐私、旧硬件）  我们围绕这四件事构建了这一点： - 透明度 - 每个操作在执行之前都会准确地告诉您它将做什么，不会默默应用任何内容 - 稳定性 - 所有内容都会被记录，几乎每个操作都有撤消，因此如果出现问题，您可以将其回滚 - 性能 - 不会出现虚假的“发现 3721 个问题”吓人的数字，无膨胀，可移植的 .exe，无需安装程序 - 用户选择 - 未经您同意，任何操作都不会运行，没有捆绑，没有烦人，没有追加销售 路线图： - 崩溃分析器 - S.M.A.R.T.驱动器运行状况查看器 - 打开端口查看器 - Winget 集成（安装/更新应用程序） - 设置快照和设置恢复 - 对脚本的 CLI 支持 什么会促使您实际使用它而不是 CCleaner 之类的东西？列表中是否有任何您永远不会相信第三方应用程序会触及的内容？ 说实话：我们的目标是构建一些我实际上会推荐给我父母的东西，没有捆绑的垃圾，每次点击都不会追加销售，没有黑暗模式。 编辑：添加了更多信息。    由   提交 /u/GamerKingHD   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s880kn/building_a_free_windows_optimizer_what_would/</guid>
@@ -69,13 +83,6 @@
       <pubDate>Mon, 30 Mar 2026 21:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>医生的聊天机器人？</title>
-      <link>https://www.reddit.com/r/software/comments/1s833fn/chatbot_para_médicos/</link>
-      <description><![CDATA[基本上就是这样，伙计们，我住在一个乡村小镇，每个人都使用这些机器人来接班，以至于当他们提供轮班时，群组中大约有 20 个人回答“我”！甚至在登山者自愿加入小组之前，因为那里出现“打字……”，他们的机器人意识到他们正在打字，然后他们在同一秒内接班！我厌倦了做个傻瓜并等待运气 我决定投降并想要一个机器人，否则我会破产 如果有人拥有它并且可以将其发送给我，我将不胜感激，我可能不会接受你的轮班，因为我住在世界的尽头，我怀疑这个应用程序上有没有人 😭   由   提交 /u/med_yl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s833fn/chatbot_para_médicos/</guid>
-      <pubDate>Mon, 30 Mar 2026 20:57:14 GMT</pubDate>
-    </item>
-    <item>
       <title>现在还有什么电脑软件可以用吗？</title>
       <link>https://www.reddit.com/r/software/comments/1s81500/any_pc_software_that_still_works/</link>
       <description><![CDATA[ 由   提交 /u/Mafiatounes   [链接] [评论]]]></description>
@@ -90,13 +97,6 @@
       <pubDate>Mon, 30 Mar 2026 19:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>可用的软件工程师</title>
-      <link>https://www.reddit.com/r/software/comments/1s7zeq2/software_engineer_available/</link>
-      <description><![CDATA[需要软件、网站、应用程序，还是想要构建一个新想法？我现在提供超优惠的开发服务 - 我的人工智能机器人正在与我一起加班😄。   由   提交/u/Disastrous-Fly136   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s7zeq2/software_engineer_available/</guid>
-      <pubDate>Mon, 30 Mar 2026 18:44:26 GMT</pubDate>
-    </item>
-    <item>
       <title>如今，您的生产代码中有多少是由 AI 生成的？</title>
       <link>https://www.reddit.com/r/software/comments/1s7wja2/what_percentage_of_your_production_code_is/</link>
       <description><![CDATA[真的很好奇去年情况发生了怎样的变化。 此外，您现在最常使用哪些人工智能工具（以及用途）？   由   提交 /u/Amazing-Run-3841   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>关于代理最困难的部分是管理它们、调试它们并了解它们在做什么</title>
       <link>https://www.reddit.com/r/software/comments/1s7w10c/the_hardest_part_about_agents_is_managing_them/</link>
-      <description><![CDATA[抱歉，我试图在没有人工智能的情况下写这篇文章，没有人喜欢潦草。没有人。如果你的建筑使用 langchain、crewai、autogen、openclaw 等，那么你很可能会遇到这个问题，如果你是这个领域的新手，那么你很可能会遇到这个问题，哈哈。 我的意思是代理在会话之间忘记，你不知道你的代理为什么或在做什么，特别是在运行 5+ 时。很想听听人们对这一声明的看法？ 对我来说，没有可见性，没有审计跟踪，并且在 API 积分上烧钱，这让我很生气。 所以在过去 6 个月里，我一直在构建这个，本质上有点像你的代理的第三只眼，完全了解我在哪里以及为什么围绕我的问题构建了核心功能，我是否遗漏了任何问题？ （是的，我在 reddit 上手动完成了要点，哈哈）  跨会话的持久记忆，代理记住用户、偏好和上下文 语义搜索，不仅通过关键名称来查找记忆 共享内存空间，以便代理可以彼此共享知识 版本历史记录跟踪记忆如何随时间变化 当新数据与现有数据相矛盾时捕获冲突检测 循环检测会在代理陷入重复状态时向您发出警报 对每个决策进行完整的审计跟踪并进行推理  编译成几乎实时的分析仪表板..？ 我们在几天前推出并获得了 350 个注册，它远非完美，但真正致力于构建代理构建者可以从中受益的东西。我喜欢这个 sub reddit，因为在大多数情况下，人们都非常友善，所以请随意积极或消极，这样我就可以让它工作得更好。 此外，如果您是代理新手，请随时告诉我，我总是很乐意帮助别人，如果您对缺少什么或为什么它很糟糕有任何意见，请告诉我！ 我希望将其免费保留 12 或 2000 个用户月，或者直到我收到随机的大量存储账单哈哈。 随时查看 www.octopodas.com   由   提交/u/DetectiveMindless652   [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，试图在没有人工智能的情况下写这篇文章，没有人喜欢潦草。没有人。如果你的建筑使用 langchain、crewai、autogen、openclaw 等，那么你很可能会遇到这个问题，如果你是这个领域的新手，那么你很可能会遇到这个问题，哈哈。 我的意思是代理在会话之间忘记，你不知道你的代理为什么或在做什么，特别是在运行 5+ 时。很想听听人们对这一声明的看法？ 对我来说，没有可见性，没有审计跟踪，并且在 API 积分上烧钱，这让我很生气。 所以在过去 6 个月里，我一直在构建这个，本质上有点像你的代理的第三只眼，完全了解我在哪里以及为什么围绕我的问题构建了核心功能，我是否遗漏了任何问题？ （是的，我在 reddit 上手动完成了要点，哈哈）  跨会话的持久记忆，代理记住用户、偏好和上下文 语义搜索，不仅通过关键名称来查找记忆 共享内存空间，以便代理可以彼此共享知识 版本历史记录跟踪记忆如何随时间变化 当新数据与现有数据相矛盾时捕获冲突检测 循环检测会在代理陷入重复状态时向您发出警报 对每个决策进行完整的审计跟踪并进行推理  编译成几乎实时的分析仪表板..？ 我们在几天前推出并获得了 350 个注册，它远非完美，但真正致力于构建代理构建者可以从中受益的东西。我喜欢这个 sub reddit，因为在大多数情况下，人们都非常友善，所以请随意积极或消极，这样我就可以让它工作得更好。 此外，如果您是代理新手，请随时告诉我，我总是很乐意帮助别人，如果您对缺少什么或为什么它很糟糕有任何意见，请告诉我！ 我希望将其免费保留 12 或 2000 个用户月，或者直到我收到随机的大量存储账单哈哈。 随时查看 www.octopodas.com   由   提交/u/DetectiveMindless652   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s7w10c/the_hardest_part_about_agents_is_managing_them/</guid>
       <pubDate>Mon, 30 Mar 2026 16:47:14 GMT</pubDate>
     </item>
