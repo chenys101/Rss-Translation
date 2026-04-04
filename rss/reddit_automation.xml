@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 04 Apr 2026 09:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 12:41:43 GMT</lastBuildDate>
+    <item>
+      <title>我辞掉了工作，与 Claude 一起学习编码，并以非技术独立创始人的身份创建了 LinkedIn 推广工具。现在我需要 20 个 beta 测试人员来破解它。</title>
+      <link>https://www.reddit.com/r/automation/comments/1sc6iyq/i_quit_my_job_learned_to_code_with_claude_and/</link>
+      <description><![CDATA[ 由   提交 /u/Downtown_Pudding9728   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sc6iyq/i_quit_my_job_learned_to_code_with_claude_and/</guid>
+      <pubDate>Sat, 04 Apr 2026 11:11:37 GMT</pubDate>
+    </item>
     <item>
       <title>在阿里巴巴和电子表格上浪费了 3 周时间后，我如何自动化为我的小品牌供应商外展</title>
       <link>https://www.reddit.com/r/automation/comments/1sc4tyg/how_i_automated_supplier_outreach_for_my_small/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[每个星期二，财务部门的两个人都会做同样的事情。 从 Stripe 提取发票。从 NetSuite 提取付款。在 Excel 中打开这两个文件。突出显示不匹配的内容。追查销售部门寻求解释。键入注释。将清理后的文件发送到控制器。 十二个步骤。两个系统。手工完成。两年来每周一次。 没有人问过为什么。这就是协调的工作原理。 我们最终将整个事情端到端地映射并自动化匹配。现在，在任何人打开 Excel 之前，Slack 中就会出现不匹配的情况。 他们中的一个人在星期二不再接触电子表格。 但是在我们发货后，卡住的线路来自他们的领导： “等等。那么我不必再这样做了？就像……曾经那样？” 她简直不相信。这就是浪费的正常化程度。 您的团队每周仍然手工做的最重复、最脑死亡的事情是什么，因为这就是它的工作原理？   由   提交 /u/ZealousidealAd9886   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sb7h1v/two_people_on_our_team_lost_every_tuesday_to/</guid>
       <pubDate>Fri, 03 Apr 2026 08:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立一个人工智能“项目大脑”来单独运行和管理工程项目，如何提高效率？</title>
-      <link>https://www.reddit.com/r/automation/comments/1sb4h8r/built_an_ai_project_brain_to_run_and_manage/</link>
-      <description><![CDATA[最近，我使用 Google AI Studio 构建了一个我称之为“项目大脑”的东西。它帮助我管理印度不同州的工程项目的端到端运营，这些工作通常需要 4-5 人的团队。 核心思想很简单： 我创建了多个“个性”（后端基本结构化的提示），而不是一个助手，每个人负责项目中的特定角色。 工作原理如下： • 导师 – 用简单的术语解释项目，突出显示隐藏的内容他确实阻止我在收集缺失的澄清之前发送报价。 • 采购 – 比较供应商报价并帮助确定最佳选择，浏览条款和工作范围并确保没有人愚弄我。 • 财务 – 计算利润并标记我可能亏损的地方。 • 现场经理 – 预测实地条件和执行挑战，以便我可以提前考虑。  • 管理 – 保持事物的结构化和组织性。管理日期、团队、待澄清、最终决策。 一旦我输入工程量清单或客户查询之类的内容，所有这些都会一起运行。 还有一个仪表板层： • 跟踪所做的决策 • 存储所需的澄清 • 维护项目内存 • 允许将所有内容导出为 JSON 它比我工作得更好不出所料，我确实感觉自己正在与一个完整的团队一起管理项目。 现在我正试图进一步推动这一点。 对于那些使用过人工智能系统、多代理设置或工作流程自动化的人来说： • 是否有更高效的架构来解决这样的问题？ • 您认为有什么功能可以显着改进它吗？ • 除了即时工程之外构建个性的更好方法？ • 任何可能比我构建的工具/平台更强大地处理这个问题？ 很想听听您如何处理这个问题或需要改进什么。 谢谢🙏   由   提交/u/BaronsofDundee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sb4h8r/built_an_ai_project_brain_to_run_and_manage/</guid>
-      <pubDate>Fri, 03 Apr 2026 05:10:05 GMT</pubDate>
     </item>
     <item>
       <title>我正在手动执行人工智能无法处理的任务，以找出应该自动化的任务</title>
