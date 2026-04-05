@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Apr 2026 15:28:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 18:37:16 GMT</lastBuildDate>
+    <item>
+      <title>Hacki - 一个 FOSS 黑客新闻客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1sd9ws6/hacki_a_foss_hacker_news_client/</link>
+      <description><![CDATA[       由   提交 /u/Adorable-Salary-5204   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1sd9ws6/hacki_a_foss_hacker_news_client/</guid>
+      <pubDate>Sun, 05 Apr 2026 17:42:10 GMT</pubDate>
+    </item>
     <item>
       <title>构建了一个工具来消除手动 EVTX 分类的痛苦</title>
       <link>https://www.reddit.com/r/opensource/comments/1sd1wu1/built_a_tool_to_stop_the_pain_of_manual_evtx/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/dmjio   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sbmrys/miso_v190_release/</guid>
       <pubDate>Fri, 03 Apr 2026 19:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Euro-Office：欧洲行业倡议推出办公套件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1sbaq1u/eurooffice_european_industry_initiative_launches/</link>
-      <description><![CDATA[       由   提交/u/AnonomousWolf  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1sbaq1u/eurooffice_european_industry_initiative_launches/</guid>
-      <pubDate>Fri, 03 Apr 2026 11:15:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
