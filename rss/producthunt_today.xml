@@ -4,34 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Apr 2026 07:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 10:05:16 GMT</lastBuildDate>
     <item>
-      <title>Netflix 游乐场</title>
-      <link>https://www.producthunt.com/products/netflix</link>
+      <title>亮点工作室</title>
+      <link>https://www.producthunt.com/products/highlight-studio</link>
       <description><![CDATA[
-            孩子们可以和他们最喜欢的角色一起探索的世界
+             录制、编辑和品牌屏幕录制金属供电
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/netflix</guid>
-      <pubDate>Tue, 07 Apr 2026 02:32:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/highlight-studio</guid>
+      <pubDate>Tue, 07 Apr 2026 00:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌人工智能边缘雄辩</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>流量脉冲</title>
+      <link>https://www.producthunt.com/products/flowpulse</link>
       <description><![CDATA[
-            由 Gemma 提供支持的 Google 离线优先人工智能听写
+            了解您的自动化何时运行、失败或停止运行。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Tue, 07 Apr 2026 02:10:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flowpulse</guid>
+      <pubDate>Mon, 06 Apr 2026 20:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能设计师MCP</title>
+      <link>https://www.producthunt.com/products/aidesigner</link>
+      <description><![CDATA[
+            为您的代理工具提供创建美观、代码库感知的 UI
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/aidesigner</guid>
+      <pubDate>Mon, 06 Apr 2026 18:51:09 GMT</pubDate>
     </item>
     <item>
       <title>应用程序信号</title>
@@ -62,6 +76,34 @@
       <pubDate>Mon, 06 Apr 2026 16:28:10 GMT</pubDate>
     </item>
     <item>
+      <title>测试遗迹人工智能</title>
+      <link>https://www.producthunt.com/products/testrelic-ai</link>
+      <description><![CDATA[
+              询问您的剧作家测试失败的原因
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/testrelic-ai</guid>
+      <pubDate>Mon, 06 Apr 2026 13:01:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>船员提示</title>
+      <link>https://www.producthunt.com/products/crewcue</link>
+      <description><![CDATA[
+            活动工作人员在锁屏上查看实时时间表
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/crewcue</guid>
+      <pubDate>Mon, 06 Apr 2026 12:21:23 GMT</pubDate>
+    </item>
+    <item>
       <title>盖亚</title>
       <link>https://www.producthunt.com/products/gaia-ai-architecture-software</link>
       <description><![CDATA[
@@ -74,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gaia-ai-architecture-software</guid>
       <pubDate>Mon, 06 Apr 2026 11:09:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>奶酪！光学字符识别</title>
+      <link>https://www.producthunt.com/products/cheese-ocr</link>
+      <description><![CDATA[
+            选择任意屏幕区域，立即获取文本
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cheese-ocr</guid>
+      <pubDate>Mon, 06 Apr 2026 09:16:38 GMT</pubDate>
     </item>
     <item>
       <title>规定</title>
@@ -90,88 +146,60 @@
       <pubDate>Mon, 06 Apr 2026 09:14:53 GMT</pubDate>
     </item>
     <item>
-      <title>/dev 为克劳德代码</title>
-      <link>https://www.producthunt.com/products/dev-for-claude-code</link>
+      <title>MB指南针</title>
+      <link>https://www.producthunt.com/products/mbcompass</link>
       <description><![CDATA[
-            Claude Code 作为技术主管与并行工作代理
+            完整的导航实用程序，大约 2MB
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dev-for-claude-code</guid>
-      <pubDate>Sat, 04 Apr 2026 05:58:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mbcompass</guid>
+      <pubDate>Sat, 04 Apr 2026 12:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>麦克亚普斯</title>
-      <link>https://www.producthunt.com/products/macyaps</link>
+      <title>奥特莫克</title>
+      <link>https://www.producthunt.com/products/ultramock</link>
       <description><![CDATA[
-            电池没电了？无线网络没了？你的 Mac 终于做出回应了。
+            浏览器中的电影 UI 模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/macyaps</guid>
-      <pubDate>Fri, 03 Apr 2026 18:54:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ultramock</guid>
+      <pubDate>Wed, 01 Apr 2026 17:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>超级虾</title>
-      <link>https://www.producthunt.com/products/supershrimp</link>
+      <title>热</title>
+      <link>https://www.producthunt.com/products/calor</link>
       <description><![CDATA[
-            纠正你糟糕的姿势
+            一种测量和了解您的身体活动的正念方式
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/supershrimp</guid>
-      <pubDate>Thu, 02 Apr 2026 15:48:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/calor</guid>
+      <pubDate>Tue, 31 Mar 2026 09:35:54 GMT</pubDate>
     </item>
     <item>
-      <title>同步3</title>
-      <link>https://www.producthunt.com/products/sync-9</link>
+      <title>对开页</title>
+      <link>https://www.producthunt.com/products/folio-6</link>
       <description><![CDATA[
-            录音室级人工智能口型同步和视觉配音
+            Claude Code/Codex 的数据分析工作区
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sync-9</guid>
-      <pubDate>Wed, 01 Apr 2026 18:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺瓦之声</title>
-      <link>https://www.producthunt.com/products/novavoice</link>
-      <description><![CDATA[
-            智能听写、AI助手、+语音应用控制
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/novavoice</guid>
-      <pubDate>Thu, 26 Mar 2026 17:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>库佩拉</title>
-      <link>https://www.producthunt.com/products/keupera</link>
-      <description><![CDATA[
-            在搜索、人工智能及其他领域获得关注
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/keupera</guid>
-      <pubDate>Thu, 12 Mar 2026 03:34:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/folio-6</guid>
+      <pubDate>Mon, 30 Mar 2026 14:38:41 GMT</pubDate>
     </item>
     <item>
       <title>剪辑标记</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/clipmark</guid>
       <pubDate>Mon, 02 Mar 2026 12:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>莱西·A.I.</title>
-      <link>https://www.producthunt.com/products/lessie-ai-2</link>
-      <description><![CDATA[
-            搜索、覆盖和连接 - 找到最合适的人，速度提高 10 倍
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lessie-ai-2</guid>
-      <pubDate>Tue, 23 Sep 2025 12:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛菲镇</title>
-      <link>https://www.producthunt.com/products/lofi-town</link>
-      <description><![CDATA[
-            一款舒适的生产力应用程序，可让您与他人集中注意力 + 营造 Lofi 氛围
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lofi-town</guid>
-      <pubDate>Wed, 06 Aug 2025 00:26:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
