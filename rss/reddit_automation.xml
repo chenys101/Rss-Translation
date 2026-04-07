@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 07 Apr 2026 01:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 05:05:26 GMT</lastBuildDate>
     <item>
       <title>尝试构建自己的自动化与购买工具的企业主，哪个效果更好？</title>
       <link>https://www.reddit.com/r/automation/comments/1sehkf0/business_owners_who_tried_to_build_their_own/</link>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 06 Apr 2026 17:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>以约 15 美元/月的价格构建了一个完全自动化的 B2B 冷电子邮件系统 — AI 模板选择、6 个帐户 Gmail 轮换、基于意图的跟进和 WhatsApp 转化跟踪</title>
+      <title>以大约 15 美元/月的价格构建了一个完全自动化的 B2B 冷电子邮件系统 — AI 模板选择、6 帐户 Gmail 轮换、基于意图的跟进和 WhatsApp 转化跟踪</title>
       <link>https://www.reddit.com/r/automation/comments/1se3wdu/built_a_fully_automated_b2b_cold_email_system_for/</link>
       <description><![CDATA[      我们在外展工具上投入了大量资金，但仍然需要手动完成太多工作，因此我将工作流程重建为自托管自动化堆栈。 目标很简单： 采取主导输入 → 个性化消息传递 → 大规模发送 → 跟踪实际意图 → 触发更智能的后续行动 无需支付完整的外展 SaaS 堆栈费用。 其工作原理如下。 ⸻ 系统的功能 潜在客户通过 Airtable 进入。 对于每个潜在客户，人工智能步骤会读取以下信息： • 公司规模 • 部门 • 角色/头衔  基于它会从小模板集中选择最适合的电子邮件模板，以及最相关的客户证明/推荐块。 然后，电子邮件将呈现为 HTML 并自动发送，其中包括消息中的 WhatsApp CTA。 一旦潜在客户进入管道，其余部分就会自动运行。 ⸻ 发送设置（6 个帐户 Gmail 轮换） 而不是使用专用外展服务平台上，我将其设置为在 6 个 Google Workspace 帐户之间轮流发送。 哈希步骤每次都会将每个潜在客户映射到同一个发件人帐户，以便该潜在客户的发件人身份保持一致。然后，交换机通过正确的 Gmail 凭据路由发送。 这可以保持流量分布，并使设置出人意料地可用，而无需在顶部添加其他付费层。 ⸻ WhatsApp 转化跟踪 每封电子邮件都包含一条预填充的 WhatsApp 消息，其中包含与该潜在客户相关的唯一参考。 如果有人点击并实际发送该消息，Webhook 会捕获它并更新潜在客户记录Supabase。 这使得可以区分： • 打开/点击的人 • 显示出实际购买意图的人 这种区别最终比基本的“电子邮件参与度”指标更有用。 ⸻ 基于意图的后续行动 这是我最关心的部分。 而不是发送按固定时间表对每个人进行跟进，跟进逻辑基于行为。 示例： • 如果潜在客户点击 WhatsApp CTA • 但未在 \~48 小时内完成对话  ...系统只会针对该细分触发跟进。 因此，它不会再次轰炸整个列表，而只会推动那些已经表现出一定水平的人 这是一个比标准序列逻辑更清晰的信号，并且减少了不必要的发送。 ⸻ 基础设施/成本 整个事情非常轻量。 • AWS EC2 t3a.small (ap-south-1)：\~12 美元/月• n8n 自托管（Docker + Nginx + SSL）：免费• Supabase：免费套餐 • Airtable：免费套餐 • Gmail API：免费 • OpenAI：每个潜在客户大约 \~$0.001–0.003 美元，具体取决于提示使用情况  总计：基础架构中大约 ~$12–15/月 与此类工作流程的通常堆栈成本相比，它比我预期的要便宜得多。 ⸻ Stack • n8n — 编排 • OpenAI — 模板/消息选择 • Airtable — 潜在客户输入 • Supabase — 事件 + 转化跟踪 • Gmail API — 发送 • WhatsApp Business API — 入站归因  ⸻ 我发现有趣的内容 最大的收获并不是真正的发送部分。 而是，一旦正确跟踪意图，后续逻辑就会变得更加有用比通用的“3 天后发送电子邮件 2 次”自动化。 仅此部分就使系统感觉比典型的爆炸式设置更加高效。 ⸻   由   提交/u/Mandyhiten   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1se3wdu/built_a_fully_automated_b2b_cold_email_system_for/</guid>
