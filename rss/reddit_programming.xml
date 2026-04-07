@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 07 Apr 2026 07:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:09:19 GMT</lastBuildDate>
     <item>
-      <title>SDK 可阻止 AI API 账单失控</title>
-      <link>https://www.reddit.com/r/programming/comments/1seidut/sdk_that_stops_runaway_ai_api_bills/</link>
-      <description><![CDATA[提示循环运行过夜，他们醒来时会看到来自 OpenAI 或 Anthropic 的 500-800 美元账单。 奇怪的部分？每个人都有仪表板。每个人都有监控。但实际上没有什么可以阻止支出。 Caplyr - 位于 API 调用路径中并实时强制执行成本限制的包装器。 它的工作原理： - 使用 Protect() 包装 AI 客户端 - 设置预算 - Caplyr 会阻止预算内的请求，在成本飙升时自动降级模型，并具有紧急情况下的终止开关 它是两行代码，没有基础设施更改。 npm install caplyr https://caplyr.com   由   提交/u/Dojonx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1seidut/sdk_that_stops_runaway_ai_api_bills/</guid>
-      <pubDate>Tue, 07 Apr 2026 01:44:09 GMT</pubDate>
+      <title>边缘生活：测试数据模型的分层策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1sevdsl/live_life_on_the_edge_a_layered_strategy_for/</link>
+      <description><![CDATA[ 由   提交/u/misterchiply  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1sevdsl/live_life_on_the_edge_a_layered_strategy_for/</guid>
+      <pubDate>Tue, 07 Apr 2026 13:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·韦伯 (Jim Webber) 解释了容错性、可扩展性以及为什么计算机只是自信的醉汉。 #分布式系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1seuifi/jim_webber_explains_faulttolerance_scalability/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1seuifi/jim_webber_explains_faulttolerance_scalability/</guid>
+      <pubDate>Tue, 07 Apr 2026 12:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>C3结束了0.7时代——0.8之前专注于简单性和控制</title>
+      <link>https://www.reddit.com/r/programming/comments/1set2gu/c3_closes_out_its_07_era_focusing_on_simplicity/</link>
+      <description><![CDATA[C3 试图在控制和可预测性方面保持接近 C， 又不会增加太多复杂性 此版本主要是为了加强语义、改进推理、 以及在进入 0.8 周期之前消除边缘情况。  与其说是添加功能，不如说是让语言和标准库保持一致。   由   提交/u/Nuoji  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1set2gu/c3_closes_out_its_07_era_focusing_on_simplicity/</guid>
+      <pubDate>Tue, 07 Apr 2026 11:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>解析，不验证 — 使用一种不希望您这样做的语言 · cekrem.github.io</title>
+      <link>https://www.reddit.com/r/programming/comments/1sesbjq/parse_dont_validate_in_a_language_that_doesnt/</link>
+      <description><![CDATA[ 由   提交 /u/cekrem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1sesbjq/parse_dont_validate_in_a_language_that_doesnt/</guid>
+      <pubDate>Tue, 07 Apr 2026 10:39:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发驱动测试：为什么 TDD 不是最好的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1seqwxk/development_driven_testing_why_tdd_is_not_the/</link>
+      <description><![CDATA[ 由   提交/u/BlunderGOAT   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1seqwxk/development_driven_testing_why_tdd_is_not_the/</guid>
+      <pubDate>Tue, 07 Apr 2026 09:18:28 GMT</pubDate>
     </item>
     <item>
       <title>什么时候不应该使用事件溯源？</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/High-Impact-2025   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1sdspjj/visualizing_graph_structures_using_go_and_graphviz/</guid>
       <pubDate>Mon, 06 Apr 2026 08:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 如何执行二进制文件：ELF 和动态链接解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdp20m/how_linux_executes_binaries_elf_and_dynamic/</link>
-      <description><![CDATA[经过 25 年的 Linux 内部工作，我写了这篇文章。它深入探讨了 Linux 如何执行二进制文件，重点关注 ELF 内部结构和动态链接。涵盖 GOT/PLT、重定位以及运行时实际发生的情况（内存映射、系统调用、动态加载器）。 很高兴讨论或澄清任何部分。   由   提交/u/Solid-Film-818   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdp20m/how_linux_executes_binaries_elf_and_dynamic/</guid>
-      <pubDate>Mon, 06 Apr 2026 04:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体抓取工具 Gallery-dl 在收到 DMCA 通知后正在转向 Codeberg，声称其存在规避行为。</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdnq0f/media_scraper_gallerydl_is_moving_to_codeberg/</link>
-      <description><![CDATA[ 由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdnq0f/media_scraper_gallerydl_is_moving_to_codeberg/</guid>
-      <pubDate>Mon, 06 Apr 2026 03:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenJDK：巴拿马</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdm9ih/openjdk_panama/</link>
-      <description><![CDATA[ 由   提交 /u/SpecialistLady   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdm9ih/openjdk_panama/</guid>
-      <pubDate>Mon, 06 Apr 2026 02:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 Welford 算法和 KV 存储即可进行异常检测</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/</link>
-      <description><![CDATA[ 由   提交/u/uriwa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/</guid>
-      <pubDate>Mon, 06 Apr 2026 01:35:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
