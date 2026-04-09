@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 09 Apr 2026 18:57:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 21:43:29 GMT</lastBuildDate>
     <item>
-      <title>QSCS - 分布式系统的状态同步平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgyanl/qscs_a_state_synchronization_platform_for/</link>
-      <description><![CDATA[同步分布式应用程序寄存器状态的协议平台。一个小型静态 C 内核，用于解释数据包和有效负载，使用与模式无关的数据处理将它们压缩为状态对象，然后通过加密套接字发送最小的增量数据包，这些数据包由客户端和服务器端的解释器重新水合，根据请求将带宽使用量减少高达 100%，并将攻击面压缩为单个加密套接字。   由   提交/u/dan_c350  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgyanl/qscs_a_state_synchronization_platform_for/</guid>
-      <pubDate>Thu, 09 Apr 2026 18:40:08 GMT</pubDate>
+      <title>将《盗贼之海》从 C++14 升级到 C++20 并不容易，原因如下 - Keith Stockdale - CppCon 2026</title>
+      <link>https://www.reddit.com/r/programming/comments/1s426l8/upgrading_sea_of_thieves_from_c14_to_c20_wasnt/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s426l8/upgrading_sea_of_thieves_from_c14_to_c20_wasnt/</guid>
+      <pubDate>Thu, 26 Mar 2026 08:56:31 GMT</pubDate>
     </item>
     <item>
-      <title>Typescript 的 6 大想法</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgx97c/the_6_big_ideas_of_typescript/</link>
-      <description><![CDATA[ 由   提交/u/hallettj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgx97c/the_6_big_ideas_of_typescript/</guid>
-      <pubDate>Thu, 09 Apr 2026 18:03:18 GMT</pubDate>
+      <title>回归基础：移动语义 - Ben Saks - CppCon 2025</title>
+      <link>https://www.reddit.com/r/programming/comments/1s42690/back_to_basics_move_semantics_ben_saks_cppcon_2025/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s42690/back_to_basics_move_semantics_ben_saks_cppcon_2025/</guid>
+      <pubDate>Thu, 26 Mar 2026 08:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>Tailslayer：针对 DRAM 刷新延迟的对冲读取解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgtkdf/tailslayer_a_hedged_reads_solution_for_dram/</link>
-      <description><![CDATA[ 由   提交/u/mennydrives  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgtkdf/tailslayer_a_hedged_reads_solution_for_dram/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:53:09 GMT</pubDate>
+      <title>C++ 如何在 JSON 序列化方面最终击败 Rust - Daniel Lemire 和 Francisco Geiman Thiesen</title>
+      <link>https://www.reddit.com/r/programming/comments/1s4261u/how_c_finally_beats_rust_at_json_serialization/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s4261u/how_c_finally_beats_rust_at_json_serialization/</guid>
+      <pubDate>Thu, 26 Mar 2026 08:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>多少线性内存访问就足够了？ （可能小于 128 kB）</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgqbl6/how_much_linear_memory_access_is_enough_probably/</link>
-      <description><![CDATA[内存访问模式的典型性能建议是“保持数据连续”。仔细想想，这肯定会带来收益递减。 我尝试通过实验找到可推广的准则，看来 128 kB 对于大多数情况来说就足够了。我找不到真正需要超过 1 MB 的任何内容（在规则范围内）。   由   提交 /u/PhilipTrettner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgqbl6/how_much_linear_memory_access_is_enough_probably/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:55:27 GMT</pubDate>
+      <title>Redash 的 Python 沙箱逃逸为攻击者提供了完整的服务器访问权限。供应商表示“使用风险自负”</title>
+      <link>https://www.reddit.com/r/programming/comments/1s40jgg/redashs_python_sandbox_escape_gives_attackers/</link>
+      <description><![CDATA[ 由   提交 /u/sixcommissioner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s40jgg/redashs_python_sandbox_escape_gives_attackers/</guid>
+      <pubDate>Thu, 26 Mar 2026 07:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>环境变量是一个遗留的混乱：让我们深入研究它们</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgpy96/environment_variables_are_a_legacy_mess_lets_dive/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgpy96/environment_variables_are_a_legacy_mess_lets_dive/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:40:44 GMT</pubDate>
+      <title>octopos：Rust 中基于 xv6 的 RISC-V 操作系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3op40/octopos_xv6_based_operating_system_for_riscv_in/</link>
+      <description><![CDATA[ 由   提交 /u/brnsckn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3op40/octopos_xv6_based_operating_system_for_riscv_in/</guid>
+      <pubDate>Wed, 25 Mar 2026 21:56:42 GMT</pubDate>
     </item>
     <item>
-      <title>Rust 中的 HTTP 服务器（适用于 JavaScript 开发人员）</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgpom9/http_server_in_rust_for_javascript_developers/</link>
-      <description><![CDATA[ 由   提交/u/apatheticonion  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgpom9/http_server_in_rust_for_javascript_developers/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:30:04 GMT</pubDate>
+      <title>Github 将使用来自所有用户层的 Copilot 数据来训练和改进他们的模型，并自动选择加入</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3o7rk/github_to_use_copilot_data_from_all_user_tiers_to/</link>
+      <description><![CDATA[ 由   提交 /u/cloudsurfer48902   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3o7rk/github_to_use_copilot_data_from_all_user_tiers_to/</guid>
+      <pubDate>Wed, 25 Mar 2026 21:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>Unity 2026 中的 C#：大多数开发人员仍然不使用的功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgp9d2/c_in_unity_2026_features_most_developers_still/</link>
-      <description><![CDATA[ 由   提交 /u/KwonDarko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgp9d2/c_in_unity_2026_features_most_developers_still/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:13:04 GMT</pubDate>
+      <title>IntelliJ IDEA 2026.1 已发布！</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3mt82/intellij_idea_20261_is_out/</link>
+      <description><![CDATA[ 由   提交 /u/BlueGoliath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3mt82/intellij_idea_20261_is_out/</guid>
+      <pubDate>Wed, 25 Mar 2026 20:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 如何构建 Artemis II 的容错计算机</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgnbec/how_nasa_built_artemis_iis_faulttolerant_computer/</link>
-      <description><![CDATA[ 由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgnbec/how_nasa_built_artemis_iis_faulttolerant_computer/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:47:18 GMT</pubDate>
+      <title>转换一次，使用多次：用于从网页中进行可缓存、类型化语义提取的 SDF</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3jc75/convert_once_consume_many_sdf_for_cacheable_typed/</link>
+      <description><![CDATA[ 由   提交/u/PlayfulLingonberry73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3jc75/convert_once_consume_many_sdf_for_cacheable_typed/</guid>
+      <pubDate>Wed, 25 Mar 2026 18:41:09 GMT</pubDate>
     </item>
     <item>
-      <title>面向软件开发人员的 USB</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgmxq2/usb_for_software_developers/</link>
-      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgmxq2/usb_for_software_developers/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:28:54 GMT</pubDate>
+      <title>Mojo（还）不是 Python</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3gbuz/mojos_not_yet_python/</link>
+      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3gbuz/mojos_not_yet_python/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>信号不能保证 - e2e 测试所说的内容与实际检查的内容之间不匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgkrif/signals_are_not_guarantees_the_mismatch_between/</link>
-      <description><![CDATA[一个月前，我开源了一个 Playwright 辅助库。它上线了大约两周，下载了 300 次 - 全部都是我下载的 😅  r/Playwright 社区是公平的：框架太多了。我花了几个星期的时间思考什么才是真正重要的，我真正想表达的是什么。它归结为一个想法、一个小助手和这篇文章。 tldr：大多数 e2e 测试对行为的当前 UI 表示进行编码，而不是行为本身。它们检查信号（可见性、文本内容、启用状态），而不是测试实际上承诺保护的事实。我认为信号、状态和承诺之间存在有用的区别，这使得测试更安静、更有弹性。 如果您有兴趣，请阅读它，我将不胜感激。如果没有，也许让我知道我可以做得更好！感谢任何反馈，并乐意参与讨论:) 我将在评论中删除帮助程序的要点。   由   提交/u/TranslatorRude4917   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgkrif/signals_are_not_guarantees_the_mismatch_between/</guid>
-      <pubDate>Thu, 09 Apr 2026 09:28:27 GMT</pubDate>
+      <title>论文：如果可独立部署的函数共享内存而不是在它们之间序列化数据会怎么样？</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3fnlu/paper_what_if_independently_deployable_functions/</link>
+      <description><![CDATA[ 由   提交/u/PlayfulLingonberry73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3fnlu/paper_what_if_independently_deployable_functions/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Pizza Tycoon (1994) 如何在 25 MHz CPU 上模拟流量</title>
-      <link>https://www.reddit.com/r/programming/comments/1sg6y9x/how_pizza_tycoon_1994_simulated_traffic_on_a_25/</link>
-      <description><![CDATA[ 由   提交 /u/Optdev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sg6y9x/how_pizza_tycoon_1994_simulated_traffic_on_a_25/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:00:30 GMT</pubDate>
+      <title>优化的黄金标准：RollerCoaster Tycoon 的幕后花絮</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3fj4b/the_gold_standard_of_optimization_a_look_under/</link>
+      <description><![CDATA[ 由   提交 /u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3fj4b/the_gold_standard_of_optimization_a_look_under/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>荒谬的工作流程：仅使用 Postgres 即可实现持久执行</title>
-      <link>https://www.reddit.com/r/programming/comments/1sg5koq/absurd_workflows_durable_execution_with_just/</link>
-      <description><![CDATA[ 由   提交/u/self  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sg5koq/absurd_workflows_durable_execution_with_just/</guid>
-      <pubDate>Wed, 08 Apr 2026 21:07:02 GMT</pubDate>
+      <title>开源不是小费罐——是时候对访问收费了</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3ams9/open_source_isnt_a_tip_jar_its_time_to_charge_for/</link>
+      <description><![CDATA[ 由   提交/u/henk53  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3ams9/open_source_isnt_a_tip_jar_its_time_to_charge_for/</guid>
+      <pubDate>Wed, 25 Mar 2026 13:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>假装它直到你打破它：软件工程黎明中非技术经理的终结</title>
-      <link>https://www.reddit.com/r/programming/comments/1sg5gss/fake_it_until_you_break_it_the_end_of/</link>
-      <description><![CDATA[ 由   提交/u/derjanni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sg5gss/fake_it_until_you_break_it_the_end_of/</guid>
-      <pubDate>Wed, 08 Apr 2026 21:03:16 GMT</pubDate>
+      <title>TeamPCP 攻击如何利用 CI/CD 管道和可信版本来释放受感染的 Trivy 和 LiteLLM 软件包</title>
+      <link>https://www.reddit.com/r/programming/comments/1s35ohw/how_the_teampcp_attack_exploited_cicd_pipelines/</link>
+      <description><![CDATA[TeamPCP 攻击展示了如何通过受损管道滥用 CI/CD 到受损存储库，以推出软件包中的信息窃取者。最值得注意的是 Aquasec 的整个 GitHub acc，包括 Trivy repo 和 LiteLLM python 包。   由   提交/u/raptorhunter22  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s35ohw/how_the_teampcp_attack_exploited_cicd_pipelines/</guid>
+      <pubDate>Wed, 25 Mar 2026 09:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>VLIW：“不可能”的计算机</title>
-      <link>https://www.reddit.com/r/programming/comments/1sg4geh/vliw_the_impossible_computer/</link>
-      <description><![CDATA[ 由   提交/u/muellermichel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sg4geh/vliw_the_impossible_computer/</guid>
-      <pubDate>Wed, 08 Apr 2026 20:25:50 GMT</pubDate>
+      <title>为什么 Raft 无法安全地提交旧条目——从实现/调试的角度来看</title>
+      <link>https://www.reddit.com/r/programming/comments/1s32qin/why_raft_cant_safely_commit_oldterm_entries_from/</link>
+      <description><![CDATA[我最近完成了 MIT 分布式系统实验室，并写了一条 Raft 规则，我花了一些时间才完全理解：为什么领导者不能安全地提交旧条目，仅仅因为它们被多数人复制。 在阅读这篇论文时，这感觉就像是一个你刚刚接受并继续前进的细节。但在实现/调试过程中，它变得更加具体。你开始明白为什么“在多数上复制”本身是不够的，以及为什么当前的限制对于安全很重要。 我试图从实现和调试 Raft 的人的角度来解释它，而不仅仅是重申理论。 文章：https://abdelani.dev/posts/2026-03-23-why-raft-cant-safely-commit-old-term-entries/ 我很好奇这对其他人来说是如何点击的： 做到了立即从 Raft 论文中看出意义，还是只有在实现/调试之后才有意义？   由   提交/u/am0123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s32qin/why_raft_cant_safely_commit_oldterm_entries_from/</guid>
+      <pubDate>Wed, 25 Mar 2026 06:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>通过示例解释卡尔曼滤波器</title>
-      <link>https://www.reddit.com/r/programming/comments/1sg2bmz/kalman_filter_explained_through_examples/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sg2bmz/kalman_filter_explained_through_examples/</guid>
-      <pubDate>Wed, 08 Apr 2026 19:08:00 GMT</pubDate>
+      <title>通过仪器调试、可视化和测试嵌入式 C/C++</title>
+      <link>https://www.reddit.com/r/programming/comments/1s2xapb/debug_visualize_and_test_embedded_cc_through/</link>
+      <description><![CDATA[ 由   提交/u/pylessard  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s2xapb/debug_visualize_and_test_embedded_cc_through/</guid>
+      <pubDate>Wed, 25 Mar 2026 01:38:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
