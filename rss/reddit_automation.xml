@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 09 Apr 2026 01:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:05:29 GMT</lastBuildDate>
+    <item>
+      <title>2026 年我每天实际使用的创意投资组合分析工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1sgfh51/tools_i_actually_use_daily_for_cre_portfolio/</link>
+      <description><![CDATA[嘿！去年我花了大部分时间尝试自动化工作流程的不同部分，因为手动完成所有工作都会让我们的团队生厌，我想我应该分享我为每个用例测试的内容，因为没有太多关于房地产工具的信息。 对于投资组合报告和 LP 报告：尝试了 6 个月的 Tableau，看起来很棒，但维护yardi 连接器是一份兼职工作，Power bi 同样的问题，Leni 更适合自动化房地产报告，本地连接到yardi 并提供叙述方差分析并生成我们的季度 LP 报告，自定义甲板布局并不完美，但内容是正确的。 对于租金补偿和市场定价：Costar 是我坚持的那个，价格昂贵，但覆盖范围无与伦比。 Hellodata 专门在多户定价方面进行竞争，但仅在没有分析工作流程的情况下进行数据竞争。 对于投资者关系：Juniper square 用于 LP 门户、分销、投资者通讯，与报告生成不同的层，它是向资本合作伙伴提供服务，而不是创建分析。 对于交易跟踪：用于管道管理的 Dealpath，了解每笔交易的情况，但不会进行承销或研究，只是对其进行跟踪。 物业运营：您的 PMS Layer、yardi、entrata、appfolio、realpage，它们存储数据，问题是如何在不每周一导出 csv 的情况下提取有用的分析。 没有任何一个工具可以做好所有事情，那些知道自己的路线并连接到其他人的工具每次都能在一个平台上击败所有工具。   由   提交/u/Organic-Hall1975   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sgfh51/tools_i_actually_use_daily_for_cre_portfolio/</guid>
+      <pubDate>Thu, 09 Apr 2026 04:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>别再指责法典了。 opus 承载着你的整个设置，而你却永远不知道。</title>
       <link>https://www.reddit.com/r/automation/comments/1sgaaab/stop_blaming_codex_opus_was_carrying_your_entire/</link>
@@ -55,16 +62,9 @@
       <pubDate>Wed, 08 Apr 2026 17:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个自动创建和发送个性化邀请卡的 Python 工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1sfwgb6/built_a_python_tool_that_creates_sends/</link>
-      <description><![CDATA[大家好， 我构建了一个 Python 工具，专注于一件简单的事情： 👉 大规模创建个性化邀请卡 您只需给它一个包含名称/详细信息的 CSV/Excel 文件，它就会： • 用人名（和其他信息）填充每个邀请 • 生成为每个人提供独特的卡片 • 通过 WhatsApp/Telegram 单独发送 因此，每个人都会获得自己的版本，而不是向每个人发送相同的通用邀请。 这对于婚礼、活动和邀请等个性化真正重要的事情非常有用。 仍在改进它，但老实说，它已经比向每个人发送相同的消息感觉好多了😅 希望得到改进的建议或想法！   由   提交 /u/Much_Pomegranate6272   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sfwgb6/built_a_python_tool_that_creates_sends/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:39:56 GMT</pubDate>
-    </item>
-    <item>
       <title>我构建了一个桌面工作区，让您的代理可以继续执行长期任务，而且它是免费的</title>
       <link>https://www.reddit.com/r/automation/comments/1sfv7l0/i_built_a_desktop_workspace_that_lets_your_agent/</link>
-      <description><![CDATA[      我已经为此工作了一段时间，终于将 OSS 桌面/运行时路径形成了我感觉很好的形状，在这里分享。它绝对有助于自动化您的工作流程。 它被称为 Holaboss。基本上，它是一个桌面工作区加上运行时，让代理可以进行正在进行的工作，而不仅仅是回答提示。因此，您不仅可以与本地模特聊天，还可以执行以下操作： 收件箱管理  端到端运行您的收件箱 草稿、回复、跟进 随着时间的推移不断发现和培育新的潜在客户  销售 CRM  摆脱您的联系人电子表格 管理对话 更新 CRM 状态 保持出站和后续持续运行  DevRel  读取您的 GitHub 活动、提交、PR、发布 不断用您的声音发布更新 让您专注于构建  社交运营商  运营您的 Twitter、LinkedIn、Reddit 编写内容 分析绩效 随着时间的推移迭代您的内容策略  它还可以让您随工作空间移动员工的设置，以便环境、工具和技能随工作一起移动。 重点是本地模型推理只是一层。 Holaboss 处理其周围的工作层，规则所在的位置、未完成的工作所在的位置、可重用过程所在的位置以及本地设置明天可以返回而不会丢失线程的位置。 设置现在很简单： 设置步骤  启动并拉取一个小模型，例如 qwen2.5:0.5b 运行npm rundesktop:install 复制desktop/.env.example到desktop/.env 运行npm rundesktop:dev 在Settings to Models中，将其指向http://localhost:11434/v1  现在是OSS桌面路径首先是 macOS，Windows 和 Linux 正在进行中。 希望这里的人们能够尝试一下。如果感觉有用，那就意义重大。 很高兴回答有关连续性、会话恢复和自动化的问题。   由   提交/u/aloo__pandey   [链接] [评论] ]]></description>
+      <description><![CDATA[      我已经为此工作了一段时间，终于将 OSS 桌面/运行时路径形成了我感觉很好的形状，在这里分享。它绝对有助于自动化您的工作流程。 它被称为 Holaboss。基本上，它是一个桌面工作区加上运行时，让代理可以进行正在进行的工作，而不仅仅是回答提示。因此，您不仅可以与本地模特聊天，还可以执行以下操作： 收件箱管理  端到端运行您的收件箱 草稿、回复、跟进 随着时间的推移不断发现和培育新的潜在客户  销售 CRM  摆脱您的联系人电子表格 管理对话 更新 CRM 状态 保持出站和后续持续运行  DevRel  读取您的 GitHub 活动、提交、PR、发布 不断用您的声音发布更新 让您专注于构建  社交运营商  运营您的 Twitter、LinkedIn、Reddit 编写内容 分析绩效 随着时间的推移迭代您的内容策略  它还可以让您随工作空间移动员工的设置，以便环境、工具和技能随工作一起移动。 重点是本地模型推理只是一层。 Holaboss 处理其周围的工作层，规则所在的位置、未完成的工作所在的位置、可重用过程所在的位置以及本地设置明天可以返回而不会丢失线程的位置。 设置现在很简单： 设置步骤  启动并拉取一个小模型，例如 qwen2.5:0.5b 运行npm rundesktop:install 复制desktop/.env.example到desktop/.env 运行npm rundesktop:dev 在Settings to Models中，将其指向http://localhost:11434/v1  现在是OSS桌面路径首先是 macOS，然后是 Windows 和 Linux。 希望这里的人们能够尝试一下。如果感觉有用，那就意义重大。 很高兴回答有关连续性、会话恢复和自动化的问题。   由   提交/u/aloo__pandey   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sfv7l0/i_built_a_desktop_workspace_that_lets_your_agent/</guid>
       <pubDate>Wed, 08 Apr 2026 14:55:49 GMT</pubDate>
     </item>
