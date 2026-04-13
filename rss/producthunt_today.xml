@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Apr 2026 13:13:59 GMT</lastBuildDate>
-    <item>
-      <title>化解冲突</title>
-      <link>https://www.producthunt.com/products/deconflict</link>
-      <description><![CDATA[
-            规划您的 WiFi 并看穿墙壁
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deconflict</guid>
-      <pubDate>Mon, 13 Apr 2026 06:20:35 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Apr 2026 16:09:04 GMT</lastBuildDate>
     <item>
       <title>VoxCPM2</title>
       <link>https://www.producthunt.com/products/minicpm-4-0</link>
@@ -34,18 +20,18 @@
       <pubDate>Mon, 13 Apr 2026 04:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>超级总部</title>
-      <link>https://www.producthunt.com/products/superhq</link>
+      <title>克劳纳克特</title>
+      <link>https://www.producthunt.com/products/claunnector</link>
       <description><![CDATA[
-            在真实的 microVM 沙箱中运行 AI 编码代理
+            将 Mac 的邮件、日历等连接到 AI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/superhq</guid>
-      <pubDate>Mon, 13 Apr 2026 02:09:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claunnector</guid>
+      <pubDate>Mon, 13 Apr 2026 00:05:03 GMT</pubDate>
     </item>
     <item>
       <title>开放彗星</title>
@@ -160,18 +146,18 @@
       <pubDate>Sun, 12 Apr 2026 19:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>幽灵办公桌</title>
-      <link>https://www.producthunt.com/products/ghostdesk-2</link>
+      <title>甲板管.dev</title>
+      <link>https://www.producthunt.com/products/deckpipe-dev</link>
       <description><![CDATA[
-            您面试和会议的隐形人工智能副驾驶
+            代理优先幻灯片渲染器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ghostdesk-2</guid>
-      <pubDate>Sun, 12 Apr 2026 19:02:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/deckpipe-dev</guid>
+      <pubDate>Sun, 12 Apr 2026 12:15:27 GMT</pubDate>
     </item>
     <item>
       <title>SigmaMind MCP</title>
@@ -188,18 +174,18 @@
       <pubDate>Wed, 08 Apr 2026 05:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 YouTube 的 Krisp 口音转换器</title>
-      <link>https://www.producthunt.com/products/krisp</link>
+      <title>技能清洁工</title>
+      <link>https://www.producthunt.com/products/skills-janitor</link>
       <description><![CDATA[
-            YouTube，但你清楚地了解每个人
+            查找您实际使用的克劳德代码技能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/krisp</guid>
-      <pubDate>Wed, 01 Apr 2026 11:36:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/skills-janitor</guid>
+      <pubDate>Wed, 01 Apr 2026 11:49:40 GMT</pubDate>
     </item>
     <item>
       <title>鲁玛特工</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/luma-agents</guid>
       <pubDate>Mon, 23 Mar 2026 17:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>巧妙聊天</title>
+      <link>https://www.producthunt.com/products/ably-realtime</link>
+      <description><![CDATA[
+            专为大规模构建的聊天 API
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ably-realtime</guid>
+      <pubDate>Thu, 05 Mar 2026 16:21:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
