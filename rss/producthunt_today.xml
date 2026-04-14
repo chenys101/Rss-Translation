@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Apr 2026 21:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:01:58 GMT</lastBuildDate>
     <item>
       <title>化解冲突</title>
       <link>https://www.producthunt.com/products/deconflict</link>
@@ -34,20 +34,6 @@
       <pubDate>Mon, 13 Apr 2026 02:09:17 GMT</pubDate>
     </item>
     <item>
-      <title>克劳纳克特</title>
-      <link>https://www.producthunt.com/products/claunnector</link>
-      <description><![CDATA[
-            将 Mac 的邮件、日历等连接到 AI
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claunnector</guid>
-      <pubDate>Mon, 13 Apr 2026 00:05:03 GMT</pubDate>
-    </item>
-    <item>
       <title>开放彗星</title>
       <link>https://www.producthunt.com/products/open-comet</link>
       <description><![CDATA[
@@ -62,18 +48,32 @@
       <pubDate>Sun, 12 Apr 2026 23:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>克拉姆</title>
-      <link>https://www.producthunt.com/products/clarm-ai-technical-support</link>
+      <title>上下文池</title>
+      <link>https://www.producthunt.com/products/contextpool</link>
       <description><![CDATA[
-            AI 入站层用于捕获、限定和路由潜在客户
+            AI 编码代理的持久内存
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/clarm-ai-technical-support</guid>
-      <pubDate>Sun, 12 Apr 2026 23:21:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/contextpool</guid>
+      <pubDate>Sun, 12 Apr 2026 21:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示命令</title>
+      <link>https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview</link>
+      <description><![CDATA[
+            Markdown 从来就不是用来预览纯文本的
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview</guid>
+      <pubDate>Sun, 12 Apr 2026 19:57:08 GMT</pubDate>
     </item>
     <item>
       <title>轻松</title>
@@ -107,7 +107,7 @@
       <title>合法化</title>
       <link>https://www.producthunt.com/products/legitify</link>
       <description><![CDATA[
-            合规的跨境公证流程 
+            合规跨境公证，重新构想。
           
 
 讨论
@@ -116,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/legitify</guid>
       <pubDate>Sun, 12 Apr 2026 19:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱奥实验室</title>
+      <link>https://www.producthunt.com/products/cleo-labs</link>
+      <description><![CDATA[
+            自动化销售实物产品的全球合规性
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cleo-labs</guid>
+      <pubDate>Sun, 12 Apr 2026 19:42:17 GMT</pubDate>
     </item>
     <item>
       <title>幽灵办公桌</title>
@@ -130,34 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/ghostdesk-2</guid>
       <pubDate>Sun, 12 Apr 2026 19:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>流畅分析的收入</title>
-      <link>https://www.producthunt.com/products/sleek-analytics</link>
-      <description><![CDATA[
-            查看您的收入和流量。实时。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sleek-analytics</guid>
-      <pubDate>Sun, 12 Apr 2026 13:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲板管.dev</title>
-      <link>https://www.producthunt.com/products/deckpipe-dev</link>
-      <description><![CDATA[
-            代理优先幻灯片渲染器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deckpipe-dev</guid>
-      <pubDate>Sun, 12 Apr 2026 12:15:27 GMT</pubDate>
     </item>
     <item>
       <title>脚本语言</title>
@@ -188,18 +174,18 @@
       <pubDate>Wed, 08 Apr 2026 05:44:46 GMT</pubDate>
     </item>
     <item>
-      <title>技能清洁工</title>
-      <link>https://www.producthunt.com/products/skills-janitor</link>
+      <title>适用于 YouTube 的 Krisp 口音转换器</title>
+      <link>https://www.producthunt.com/products/krisp</link>
       <description><![CDATA[
-            查找您实际使用的克劳德代码技能
+            YouTube，但你清楚地了解每个人
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/skills-janitor</guid>
-      <pubDate>Wed, 01 Apr 2026 11:49:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/krisp</guid>
+      <pubDate>Wed, 01 Apr 2026 11:36:13 GMT</pubDate>
     </item>
     <item>
       <title>鲁玛特工</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/luma-agents</guid>
       <pubDate>Mon, 23 Mar 2026 17:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>巧妙聊天</title>
+      <link>https://www.producthunt.com/products/ably-realtime</link>
+      <description><![CDATA[
+            专为大规模构建的聊天 API
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ably-realtime</guid>
+      <pubDate>Thu, 05 Mar 2026 16:21:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
