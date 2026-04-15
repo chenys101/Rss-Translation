@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Apr 2026 13:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:01:39 GMT</lastBuildDate>
+    <item>
+      <title>小爱</title>
+      <link>https://www.producthunt.com/products/miniai</link>
+      <description><![CDATA[
+            选择文本，点击（⌥空格），获取AI解释
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/miniai</guid>
+      <pubDate>Wed, 15 Apr 2026 00:44:36 GMT</pubDate>
+    </item>
     <item>
       <title>深探3.0</title>
       <link>https://www.producthunt.com/products/fathom</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/fathom</guid>
       <pubDate>Tue, 14 Apr 2026 21:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面版 Google 应用</title>
-      <link>https://www.producthunt.com/products/the-google-app-for-desktop</link>
-      <description><![CDATA[
-            使用桌面版 Google 应用询问任何问题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/the-google-app-for-desktop</guid>
-      <pubDate>Tue, 14 Apr 2026 19:49:08 GMT</pubDate>
     </item>
     <item>
       <title>阿斯特拉</title>
@@ -62,18 +62,32 @@
       <pubDate>Tue, 14 Apr 2026 16:45:51 GMT</pubDate>
     </item>
     <item>
-      <title>双子座机器人 ER 1.6</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>实时统计</title>
+      <link>https://www.producthunt.com/products/rtcstats</link>
       <description><![CDATA[
-            Google 用于视觉和空间推理的 SOTA 机器人模型！
+            通过用户浏览器进行 WebRTC 监控和可观察性
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Tue, 14 Apr 2026 16:05:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rtcstats</guid>
+      <pubDate>Tue, 14 Apr 2026 09:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱德</title>
+      <link>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</link>
+      <description><![CDATA[
+            带有 AI 的网格布局终端可以驱动您的 shell。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</guid>
+      <pubDate>Tue, 14 Apr 2026 08:16:25 GMT</pubDate>
     </item>
     <item>
       <title>CC-蜂鸣器</title>
@@ -118,32 +132,18 @@
       <pubDate>Mon, 13 Apr 2026 12:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>窗格工作室（测试版）</title>
-      <link>https://www.producthunt.com/products/pane-studio</link>
+      <title>协作</title>
+      <link>https://www.producthunt.com/products/collabute</link>
       <description><![CDATA[
-            制作精美的产品演示
+            将您团队的背景转化为行动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pane-studio</guid>
-      <pubDate>Mon, 13 Apr 2026 07:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>晶圆通行证</title>
-      <link>https://www.producthunt.com/products/wafer</link>
-      <description><![CDATA[
-            向 OpenClaw、Hermes Agent 等最佳法学硕士提供统一费率。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wafer</guid>
-      <pubDate>Sun, 12 Apr 2026 19:34:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/collabute</guid>
+      <pubDate>Thu, 09 Apr 2026 15:13:51 GMT</pubDate>
     </item>
     <item>
       <title>轮播生成器</title>
