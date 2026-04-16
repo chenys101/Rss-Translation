@@ -4,76 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Apr 2026 10:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:19:36 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 代理 SDK</title>
-      <link>https://www.producthunt.com/products/openai</link>
+      <title>代理卡</title>
+      <link>https://www.producthunt.com/products/agent-card</link>
       <description><![CDATA[
-            使用线束和沙箱构建生产代理
+            供 AI 代理使用的预付费虚拟 Visa 卡
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 16 Apr 2026 06:51:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agent-card</guid>
+      <pubDate>Thu, 16 Apr 2026 05:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>麦克欺骗</title>
-      <link>https://www.producthunt.com/products/macspoof</link>
+      <title>Hive术语</title>
+      <link>https://www.producthunt.com/products/hiveterm</link>
       <description><![CDATA[
-            快速简便的 MAC 地址更改器
+            适用于所有 AI 代理的一个工作空间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/macspoof</guid>
-      <pubDate>Thu, 16 Apr 2026 00:15:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hiveterm</guid>
+      <pubDate>Wed, 15 Apr 2026 23:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>风帆冲浪2.0</title>
-      <link>https://www.producthunt.com/products/windsurf</link>
+      <title>重新发送 CLI 2.0</title>
+      <link>https://www.producthunt.com/products/resend</link>
       <description><![CDATA[
-            Windsurf 中的 Agent Command Center 和 Devin 简介
+            专为人类、AI 代理和 CI/CD 管道而构建
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/windsurf</guid>
-      <pubDate>Wed, 15 Apr 2026 23:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pilot5.ai</title>
-      <link>https://www.producthunt.com/products/pilot5-ai</link>
-      <description><![CDATA[
-            你的问题，由5个前沿AI模型审议
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/pilot5-ai</guid>
-      <pubDate>Wed, 15 Apr 2026 21:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini CLI 中的子代理</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            Gemini CLI 现在在您的终端中运行专业子代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 15 Apr 2026 20:06:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/resend</guid>
+      <pubDate>Wed, 15 Apr 2026 22:14:26 GMT</pubDate>
     </item>
     <item>
       <title>风键</title>
@@ -90,20 +62,6 @@
       <pubDate>Wed, 15 Apr 2026 18:33:27 GMT</pubDate>
     </item>
     <item>
-      <title>推断</title>
-      <link>https://www.producthunt.com/products/deduce</link>
-      <description><![CDATA[
-            人工智能代理的每日类似 Wordle 的谜题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deduce</guid>
-      <pubDate>Wed, 15 Apr 2026 16:56:04 GMT</pubDate>
-    </item>
-    <item>
       <title>屏幕上的黑客地球</title>
       <link>https://www.producthunt.com/products/hackerearth</link>
       <description><![CDATA[
@@ -116,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/hackerearth</guid>
       <pubDate>Wed, 15 Apr 2026 13:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>HubSpot 的 Baremetrics</title>
+      <link>https://www.producthunt.com/products/baremetrics</link>
+      <description><![CDATA[
+            查看每个 HubSpot 联系人中您的 Stripe 收入数据
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/baremetrics</guid>
+      <pubDate>Wed, 15 Apr 2026 04:07:11 GMT</pubDate>
     </item>
     <item>
       <title>钦尼利亚</title>
@@ -132,6 +104,20 @@
       <pubDate>Wed, 15 Apr 2026 03:37:18 GMT</pubDate>
     </item>
     <item>
+      <title>子空间</title>
+      <link>https://www.producthunt.com/products/subspace-4</link>
+      <description><![CDATA[
+            您的所有代理都位于一个应用程序和持久上下文中
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/subspace-4</guid>
+      <pubDate>Wed, 15 Apr 2026 01:53:00 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳德·代码桌面应用程序重新设计</title>
       <link>https://www.producthunt.com/products/claude-redesigned</link>
       <description><![CDATA[
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/claude-redesigned</guid>
       <pubDate>Tue, 14 Apr 2026 19:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌浏览器技能</title>
+      <link>https://www.producthunt.com/products/google-chrome-skills</link>
+      <description><![CDATA[
+            将您最好的 AI 提示变成 Chrome 中的一键式工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/google-chrome-skills</guid>
+      <pubDate>Tue, 14 Apr 2026 17:09:07 GMT</pubDate>
     </item>
     <item>
       <title>工作台</title>
@@ -188,20 +188,6 @@
       <pubDate>Sun, 12 Apr 2026 15:17:56 GMT</pubDate>
     </item>
     <item>
-      <title>和</title>
-      <link>https://www.producthunt.com/products/avec</link>
-      <description><![CDATA[
-            在几秒钟内处理您的 Gmail 收件箱
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/avec</guid>
-      <pubDate>Thu, 09 Apr 2026 22:43:03 GMT</pubDate>
-    </item>
-    <item>
       <title>因科克莱斯</title>
       <link>https://www.producthunt.com/products/incoclyse</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/incoclyse</guid>
       <pubDate>Thu, 09 Apr 2026 10:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>地幔保险箱</title>
+      <link>https://www.producthunt.com/products/withmantle</link>
+      <description><![CDATA[
+            免费签发和签署 SAFE。无需 DocuSign。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/withmantle</guid>
+      <pubDate>Thu, 02 Apr 2026 16:21:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
