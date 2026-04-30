@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 30 Apr 2026 10:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:31:02 GMT</lastBuildDate>
     <item>
       <title>Amber-Lang 0.6.0 - 新版本（Bash 转译器）</title>
       <link>https://www.reddit.com/r/opensource/comments/1szqoyp/amberlang_060_new_release_bash_transpiler/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[      Windows 11 手册专注于隐私、消胀以及使用 AME 向导设置更合理的默认值。 目标是使全新安装更可用、更简洁，同时保持 Windows 更新和游戏完好无损。  我正在寻找以下方面的反馈：  缺少调整或隐私漏洞 任何实施不佳的内容（可以做得更好） 下一步添加内容的想法  如果你测试它，请先使用虚拟机。 一切都是手写的，而不是人工智能生成的。   由   提交/u/PossuTryffeli   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sz5ww1/i_built_a_privacyfocused_windows_11_playbook/</guid>
       <pubDate>Wed, 29 Apr 2026 17:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资 Lumia 2，希望以后可以选择越狱</title>
-      <link>https://www.reddit.com/r/opensource/comments/1sz5ct1/investing_in_lumia_2_with_hopes_jailbreaking_will/</link>
-      <description><![CDATA[我不够聪明，无法越狱可穿戴设备，但我看到Oura环和其他智能手表已经被破解，人们可以访问生成的数据，而无需将数据发送给制造商或需要付费订阅。  有人知道 Lumia 2 耳环可穿戴设备是否会在明年左右发生这种情况吗？我的 HSA 可以覆盖它们，但如果他们几年后需要一个子系统并出售我的健康数据，我就不会选择他们。    由   提交 /u/howareyouprettygood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1sz5ct1/investing_in_lumia_2_with_hopes_jailbreaking_will/</guid>
-      <pubDate>Wed, 29 Apr 2026 17:22:30 GMT</pubDate>
     </item>
     <item>
       <title>您认为哪些框架或库目前没有得到足够的关注而可能成为游戏规则的改变者？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[      这是初始 Beta 版本。非常欢迎提出意见、建议和 PR。    由   提交/u/jgaa_from_north   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sx2u2x/announcing_lgx_a_new_logviewer_for_linux_made_by/</guid>
       <pubDate>Mon, 27 Apr 2026 12:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源铁路</title>
+      <link>https://www.reddit.com/r/opensource/comments/1swvxbq/opensource_rail/</link>
+      <description><![CDATA[ 由   提交/u/sheytanelkebir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1swvxbq/opensource_rail/</guid>
+      <pubDate>Mon, 27 Apr 2026 06:47:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
