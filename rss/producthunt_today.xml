@@ -4,62 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Apr 2026 21:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 02:35:54 GMT</lastBuildDate>
     <item>
-      <title>超级心灵</title>
-      <link>https://www.producthunt.com/products/supermind-2</link>
+      <title>Gemini 中的文件生成</title>
+      <link>https://www.producthunt.com/products/gemini-6</link>
       <description><![CDATA[
-            自行经营的企业 
+            直接在聊天中生成可用于生产的文件
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/supermind-2</guid>
-      <pubDate>Thu, 30 Apr 2026 05:03:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gemini-6</guid>
+      <pubDate>Thu, 30 Apr 2026 02:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>AstroGrid - 宇宙引擎</title>
-      <link>https://www.producthunt.com/products/astrogrid</link>
+      <title>KushoAI 剧作家</title>
+      <link>https://www.producthunt.com/products/kushoai</link>
       <description><![CDATA[
-            在浏览器中以真实 3D 方式探索整个宇宙
+            开源终端 UI，只需记录并进行详尽的测试
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/astrogrid</guid>
-      <pubDate>Thu, 30 Apr 2026 03:22:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kushoai</guid>
+      <pubDate>Wed, 29 Apr 2026 19:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>邮件到码头</title>
-      <link>https://www.producthunt.com/products/mailtodock</link>
+      <title>米斯特拉尔中型 3.5</title>
+      <link>https://www.producthunt.com/products/mistral-medium-3-5</link>
       <description><![CDATA[
-            利用 AI 技术将 Gmail 转变为 Google 任务
+            用于编码、推理和长任务的 128B 模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mailtodock</guid>
-      <pubDate>Thu, 30 Apr 2026 02:07:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mistral-medium-3-5</guid>
+      <pubDate>Wed, 29 Apr 2026 16:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>艾百合</title>
-      <link>https://www.producthunt.com/products/crin-ai</link>
+      <title>十一音乐</title>
+      <link>https://www.producthunt.com/products/elevenmusic</link>
       <description><![CDATA[
-            了解人工智能并观察文本成为节点图中的标记
+            人工智能辅助音乐创作，内置发现、版税
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/crin-ai</guid>
-      <pubDate>Wed, 29 Apr 2026 16:51:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/elevenmusic</guid>
+      <pubDate>Wed, 29 Apr 2026 14:42:03 GMT</pubDate>
     </item>
     <item>
       <title>仅限受邀者</title>
@@ -76,18 +76,18 @@
       <pubDate>Wed, 29 Apr 2026 10:54:49 GMT</pubDate>
     </item>
     <item>
-      <title>WooTrack - WooCommerce 的 POAS 插件</title>
-      <link>https://www.producthunt.com/products/wootrack-poas-plugin-for-woocommerce</link>
+      <title>采用</title>
+      <link>https://www.producthunt.com/products/adoptly</link>
       <description><![CDATA[
-            WooCommerce + Google Ads 的实际利润跟踪。
+            将产品发布转化为功能采用
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/wootrack-poas-plugin-for-woocommerce</guid>
-      <pubDate>Wed, 29 Apr 2026 09:39:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/adoptly</guid>
+      <pubDate>Wed, 29 Apr 2026 09:21:02 GMT</pubDate>
     </item>
     <item>
       <title>想知道</title>
@@ -118,32 +118,18 @@
       <pubDate>Tue, 28 Apr 2026 19:37:49 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs 代理模板</title>
-      <link>https://www.producthunt.com/products/elevenlabs-agent-templates</link>
+      <title>交响乐</title>
+      <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            部署预构建的语音和聊天代理以提供支持、销售
+            Codex 编排的开源规范
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/elevenlabs-agent-templates</guid>
-      <pubDate>Tue, 28 Apr 2026 15:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>doola MCP 帮助成立美国有限责任公司</title>
-      <link>https://www.producthunt.com/products/doola-mcp</link>
-      <description><![CDATA[
-            在 Claude 和 Replit 中使用 AI 开展业务
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/doola-mcp</guid>
-      <pubDate>Mon, 27 Apr 2026 17:44:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Mon, 27 Apr 2026 18:04:43 GMT</pubDate>
     </item>
     <item>
       <title>损失叠加</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/jupitrr</guid>
       <pubDate>Tue, 17 Mar 2026 01:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗瓦艾</title>
+      <link>https://www.producthunt.com/products/rova-ai</link>
+      <description><![CDATA[
+            针对 Web 和移动应用程序的自主、目标驱动测试
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rova-ai</guid>
+      <pubDate>Sat, 21 Feb 2026 22:35:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
