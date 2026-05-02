@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 02 May 2026 05:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:24:32 GMT</lastBuildDate>
+    <item>
+      <title>关于自动化架构（Telegram + 浏览器使用）的想法，我走在正确的道路上吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1t1hy3v/thoughts_on_an_automation_architecture_telegram/</link>
+      <description><![CDATA[在过去的几周里，我一直在为我们的店面运营开发一个内部自动化项目，我想让你们运行我的架构，看看我是否在重新发明轮子。我不是程序员，但我可以阅读脚本并理解其中的大部分内容。我让 LLM 为我编写 python 脚本，我逐行阅读它，建议需要的更改以及我可以识别然后部署的更改。  目标和目标限制 我们使用基于网络的私人管理系统来处理我们的日常审计、客户记录和每日日程安排。它完全缺乏 API。我正在构建一个内部工具，允许我们的员工输入查询以自动检索操作数据，并严格受到用户权限的限制。 （通过电报）- 对其他商店的相同商品进行价格比较，定期向员工发送有关变化的提醒。还希望高层管理人员能够访问审计号码。  到目前为止的旅程 我的第一次尝试涉及在 Windows 11 上使用通过 Podman 安装的 OpenClaw。（根据 chatgpts 说明）它完全无法与我们的本地文件交互或导航网络软件。经过两天的调试，我放弃了这种方法。 Claude 和 Gemini 都告诉我 - 由于敏感的客户数据以及代理产生幻觉并点击“删除”的风险，完全自主的代理存在安全风险。或“提交”建议我需要严格的约束。输入 python 脚本。  我当前的堆栈和解决方法 - 运行本机 Windows 11 和 Python。  浏览器： 使用浏览器使用库来驱动 Microsoft Edge。单独的配置文件 - CDP 处理： 使用具有视觉功能的 LLM API 来读取屏幕，并使用另一个模型来执行后台文本任务。 (OpenAI-mini-v4) UI 解决方法：为了避免脚本劫持活跃员工屏幕，我构建了一个启动脚本，在单独的后台工作区上启动专用的浏览器配置文件。 文件同步：我有一个后台任务，将我们的日常审计电子表格从云端单向只读同步到本地计算机，以便脚本可以在没有网络延迟的情况下读取它们。 通信：电报正在运行（用户 ID 控制）  仍然做   自动化 Excel 和 Google 表格编辑：读取人工扫描记录。   困境 - 在网站上移动并没有按照脚本中的计划进行，有时经过几次尝试后它就到达了需要的位置，有时在电报上报告了错误的号码。并非所有内容都有我可以通过页面源看到的链接，我对某些页面上的某些项目使用浏览器使用的导航菜单。它是命中或错过。现在，我的解决方案是一种混合方法：我在确定性 Python 中严格对导航路径进行硬编码。一旦 Python 脚本成功导航到安全页面，视觉模型仅用于从屏幕提取数据。老实说，感觉就像我正在为所有事情编写单独的脚本。 我的问题鉴于我必须与没有 API 的遗留 Web 系统进行交互，这种混合方法（硬编码的 Python 导航 + 屏幕抓取）是否最有意义？或者，在开始编写所有这些单独的模块之前，我是否在重新发明轮子并缺少一个更清晰的框架？想要一些见解！   由   提交 /u/adarkenigma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t1hy3v/thoughts_on_an_automation_architecture_telegram/</guid>
+      <pubDate>Sat, 02 May 2026 06:24:32 GMT</pubDate>
+    </item>
     <item>
       <title>我编写了一个 LinkedIn 外展自动化工具，第一个月就赚了 2000 美元</title>
       <link>https://www.reddit.com/r/automation/comments/1t1eoec/i_vibe_coded_a_linkedin_outreach_automation_tool/</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[我一直在做这件事，我完成了 90% 的工作，然后最后 10% 失败了，因为我的大脑已经在下一场火灾了。上周，我在下午 4:40 左右完成了修订后的报价，但它只是放在我的草稿中，因为我因运输问题而分心。我最终将 Acciowork 设置为自动发送几封后续电子邮件，这确实有助于减少失误。  但现在我陷入了下一个问题。我看到自动跟进消失了，然后我开始担心它是否听起来很奇怪或击中了错误的线索。我仍然像偏执的浣熊看守垃圾一样检查一切。我的管理更加顺利，但我并没有感到落后。我只是感觉后面不一样了。你们如何真正放弃控制？   由   提交 /u/Sudden_Breakfast_358   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t0ps4e/i_automated_my_follow_ups_and_somehow_i_am_still/</guid>
       <pubDate>Fri, 01 May 2026 10:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧吸尘器+开关机器人。需要建议</title>
-      <link>https://www.reddit.com/r/automation/comments/1t0pjep/old_vacuum_cleaner_swithbot_need_advice/</link>
-      <description><![CDATA[ 由   提交/u/Aftero320  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t0pjep/old_vacuum_cleaner_swithbot_need_advice/</guid>
-      <pubDate>Fri, 01 May 2026 10:28:21 GMT</pubDate>
     </item>
     <item>
       <title>自动化帮助：翻译图像内的文本+创建多种语言版本</title>
