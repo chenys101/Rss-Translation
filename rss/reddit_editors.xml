@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 04 May 2026 13:47:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:30:58 GMT</lastBuildDate>
+    <item>
+      <title>校验和与 CPU 基准测试</title>
+      <link>https://www.reddit.com/r/editors/comments/1t3ms1k/checksum_vs_cpu_benchmarks/</link>
+      <description><![CDATA[在这个子上或多或少有一些帖子，因为 DIT 子已经死了，而且我在这个子中看到了一些校验和帖子，所以认为这个子可能适合于有关文件传输和校验和的特定技术问题。 构建一个用于实时调色和媒体管理的 DIT 套件，我希望购买一个专门用于使用 Shotput 转储文件的系统（可能是 mac mini）。 From my reading, I’m seeing that CPU and RAM performance has an effect on checksum speeds, but I was struggling to see that claim quantified.  如果 CPU 实际上对速度有显着影响，是否有任何资源可以对不同的 CPU/核心数/线程/时钟速度与校验和持续时间进行基准测试和比较？ Don’t want to buy a system for it to be utter garbage compared to something else because a single spec is minutely different.我大多只需要使用 xxHash，但有些客户端需要 MD5，我知道 MD5 速度较慢并且受 CPU 速度的影响更大。 谢谢！   由   提交/u/7heKK   [链接] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1t3ms1k/checksum_vs_cpu_benchmarks/</guid>
+      <pubDate>Mon, 04 May 2026 16:29:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid：有没有办法一次性扩展所有嵌套效果？</title>
+      <link>https://www.reddit.com/r/editors/comments/1t3ljnz/avid_is_there_a_way_to_expand_all_nested_effects/</link>
+      <description><![CDATA[在 Avid 中工作并处理具有多个堆叠/嵌套效果的剪辑。 我知道我可以介入（隔离）以查看每个层，并且在源监视器中双击一次打开一层。另外，一旦所有内容都打开，单击源会将它们折叠回去。 但是有什么方法可以快速显示/展开所有嵌套效果吗？有点像“全部展开”等效项？ 谢谢！    由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1t3ljnz/avid_is_there_a_way_to_expand_all_nested_effects/</guid>
+      <pubDate>Mon, 04 May 2026 15:46:40 GMT</pubDate>
+    </item>
     <item>
       <title>iZotope RX</title>
       <link>https://www.reddit.com/r/editors/comments/1t3fz50/izotope_rx/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我正在制作一部纪录片，它将当今的调查线索与历史故事情节融为一体。这个想法是，当前的调查积极地揭示了过去，因此结构自然涉及到时间的来回移动。 我不断遇到的挑战是，在过去的项目中，这种结构最终导致叙述过于支离破碎。它不再给人分层和揭示的感觉，而是开始感觉脱节或难以理解。 所以我真的很想听听处理过类似问题的编辑们的意见： 你如何构建一个在时间线之间切换而又不失去清晰度的故事？当你在过去和现在之间移动时，什么可以帮助观众保持导向？ 是否有特定的编辑技术（视觉、音频或结构）来帮助统一叙述？ /&gt; 您如何决定何时切换时间线以获得最大影响而不是混乱？ 有需要注意的常见陷阱吗？ 如果您有在这方面做得特别好的纪录片示例，我也很乐意查看。 非常感谢 - 非常感谢您的见解。   由   提交 /u/Ghost_of_Aldwych   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1t1l6wa/documentary_editors_advice_on_crafting_a_clear/</guid>
       <pubDate>Sat, 02 May 2026 09:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以学习电视纪录片剪辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1t1kwxw/where_to_learn_tv_documentary_editing/</link>
-      <description><![CDATA[大家好，我是一位经验丰富的编辑，主要编辑解释性 YouTube 视频和短片，但我想更多地进行电视纪录片编辑，我想知道有哪些好的资源可以真正学习讲故事和理论，而不是如何添加效果等   由   提交 /u/BaronOfTheHunt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1t1kwxw/where_to_learn_tv_documentary_editing/</guid>
-      <pubDate>Sat, 02 May 2026 09:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何构建我的视频编辑团队工作流程？</title>
-      <link>https://www.reddit.com/r/editors/comments/1t1k6z3/how_should_i_structure_my_video_editing_team/</link>
-      <description><![CDATA[我在一家内容制作机构担任视频编辑大约 2 年。最近，我和两个朋友创办了自己的编辑机构。挑战在于，他们是完全的初学者，只有大约 2 个月的经验（不过，他们了解基础知识）。 现在，我对如何有效地构建我们的编辑工作流程感到困惑。 我正在考虑两种方法： 选项 1： 将单个视频分成几个部分，并为每个人分配特定的任务： 一个处理跳切和字幕 一个人负责幕后花絮 一个人负责特效、转场和声音设计 选项 2： 每个人拍摄一个完整的视频，并从头到尾独立完成 我不确定哪种方法在速度、质量和团队发展方面更好。 非常感谢任何曾经管理过或扩大过剪辑团队的人的建议。   由   提交/u/hemx_nth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1t1k6z3/how_should_i_structure_my_video_editing_team/</guid>
-      <pubDate>Sat, 02 May 2026 08:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
