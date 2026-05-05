@@ -4,20 +4,27 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 05 May 2026 08:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:28:59 GMT</lastBuildDate>
+    <item>
+      <title>什么是从实验开始但后来变成游戏规则改变者的自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1t4a0w9/whats_an_automation_that_started_as_an_experiment/</link>
+      <description><![CDATA[例如，我建立了一个稍微有些疯狂的实验，其中每个入站线索都会立即得到判断。如果有人使用“紧急”、“价格”或“尽快”等词语，他们就会得到快速反应并得到尖锐、直接的答复。如果他们说“只是探索”之类模糊的话，系统就会故意放慢速度，做出更柔和、延迟的反应。我花了 20 分钟使用 Zapier + Google Sheets - 主要是为了看看将语气与意图相匹配是否会产生任何影响。 我认为这可能会适得其反，但最终却适得其反。它过滤掉了低意的噪音，让认真的买家感到被优先考虑，并几乎立即提高了对话的质量。  很好奇，您作为实验构建的自动化程序是什么，后来变成了游戏规则的改变者？   由   提交/u/impeteouschestnut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t4a0w9/whats_an_automation_that_started_as_an_experiment/</guid>
+      <pubDate>Tue, 05 May 2026 09:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 在长时间对话中变慢？这就是发生这种情况的原因（以及如何修复它）</title>
+      <link>https://www.reddit.com/r/automation/comments/1t49fvl/chatgpt_getting_slow_in_long_conversations_heres/</link>
+      <description><![CDATA[问题： 如果您曾经进行过长时间的 ChatGPT 会话：编码、研究、集思广益，您可能会遇到这种情况：滚动变得缓慢、选项卡开始冻结、CPU 峰值。大约 30 多条消息就会变得很糟糕。 通常的建议是“开始新的聊天”。但这会破坏你的上下文，而这正是长时间对话的全部意义。 为什么会发生： ChatGPT 在浏览器中呈现每一条消息，并且从不清理它们。在 30、50、100 条消息之后，您的浏览器会同时在内存中保存数千个文本元素。这不是您的计算机的问题，而是页面构建方式的问题。 我做了什么修复它： 一旦我理解了问题，我就构建了一个修复程序，一次只能呈现一定数量的消息。您保留完整的历史记录和上下文，页面只是停止立即将所有内容保存在内存中。以前冻结的对话再次变得即时。 它已经运行了一段时间，已经帮助了超过 60,000 人，它适用于 Chrome 和 Firefox。 下载： 如果有人想尝试它 - 您可以将修复程序下载为名为“ChatGPT 的速度助推器”的扩展程序 Speed Booster for ChatGPT 您可以在 Chrome 扩展程序商店和Firefox 附加组件商店。 100% 隐私： 由 Google 和 Google 批准。 Mozilla。完全在您的设备上运行。永远不会收集数据，不会跟踪，不会上传，也不会删除聊天记录。 免费（对大多数人来说足够了） PRO（一次性付款）：因为我花费了大量时间来维护此功能，并尽最大努力在 ChatGPT 更新其 UI 时保持其正常运行，所以我推出了 PRO 版本，一次性购买金额为 7.99 美元。这有助于涵盖随着 ChatGPT 网站的发展而尽可能长时间地保持扩展兼容所需的持续开发。 反馈 如果您尝试过并且对您有帮助，请记住在 Chrome 网上应用店中留下正面评价（以便其他人也可以找到它），或者在下面的评论中让我和其他人知道 - 这样其他人也可以找到它！ 干杯！   由   提交 /u/Upset_Intention9027   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t49fvl/chatgpt_getting_slow_in_long_conversations_heres/</guid>
+      <pubDate>Tue, 05 May 2026 08:34:25 GMT</pubDate>
+    </item>
     <item>
       <title>自动化路线图第 2 部分</title>
       <link>https://www.reddit.com/r/automation/comments/1t48rq7/automation_roadmap_part2/</link>
       <description><![CDATA[伙计们，感谢您对上一篇文章的回复。他们非常有帮助，并提供了如何解决问题的良好感觉。  我想从问题的角度退一步，想问另一件事。假设一个人没有技术背景，但自动化的想法让他们很感兴趣，那么他们应该学习哪些技术和技能作为自动化的先决条件。我想了解如何在不使用太多工具的情况下学习裸机自动化。一旦人们掌握了事物如何构成一个完整系统的基本知识，那么人们就可以转向工具之类的东西。  例如：（这些可能符合问题，也可能不符合问题） 对于一种编程语言，可以学习Python。 API 知识、Webhooks 等。  我希望我正确地表达了问题。如果您想添加任何内容，请添加。提前感谢您的帮助。    由   提交/u/arcane_augur   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t48rq7/automation_roadmap_part2/</guid>
       <pubDate>Tue, 05 May 2026 07:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ava 2.0 实际上如何处理回复分类？从工作流程的角度询问。</title>
-      <link>https://www.reddit.com/r/automation/comments/1t485cu/how_does_ava_20_actually_handle_reply/</link>
-      <description><![CDATA[在提交之前尝试更多地了解机制。据我所知，Ava 2.0 将回复分类为意图类别并相应地路由它们 - 感兴趣，不是现在，不是合适的人，很难不，诸如此类的事情。我从文档中无法弄清楚其中有多少是可编辑的。您可以定义自己的意图类别吗？您能否自定义每个下游发生的情况 - 例如自动暂停、自动重新分配给人类、继续修改后的序列？也很好奇它如何处理模棱两可的回复。就像有人回信“这实际上是做什么的” - 这被视为兴趣还是中立？它是否会将人类卷入其中或尝试自行做出反应？如果有人深入研究了这方面的工作流程配置，我将不胜感激。营销无处不在，但实际的技术故障却很难找到。   由   提交/u/DevilxxOP  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t485cu/how_does_ava_20_actually_handle_reply/</guid>
-      <pubDate>Tue, 05 May 2026 07:15:54 GMT</pubDate>
     </item>
     <item>
       <title>使用python进行驱动控制</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[我对过去 1-2 年的总体感觉。 我有一项任务，比如说自动化每日使用报告 实际上，一个快速脚本甚至 make/n8n 自动化就足够了（30 分钟的工作） 但出于某种原因，我感到 FOMO/社会压力，需要构建一个 AI 代理来完成这项工作 我内心深处知道这是一种矫枉过正，需要更长的时间来构建（因为它对我来说仍然有点新），但我很矛盾。  我坚持使用灵长类动物来完成简单的任务是正确的，还是老式的，应该拥抱“新堆栈”？即使感觉不对？ 还有其他人有这样的感觉吗？   由   提交/u/bypass316  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t3wta5/i_feel_peer_pressure_to_build_ai_agents_for/</guid>
       <pubDate>Mon, 04 May 2026 22:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在客户告诉您之前发现自动化中断</title>
-      <link>https://www.reddit.com/r/automation/comments/1t3v625/how_do_you_catch_automations_breaking_before_the/</link>
-      <description><![CDATA[为客户端运行一些自动化/代理，大部分内置于 make 和 zapier 中。夫妇俩把人工智能的东西用螺栓固定在上面。 继续被无声的失败所困扰。不是明显的“场景错误”。东西，那很好。这是当某些东西运行但做了错误的事情时。映射了错误的字段，代理选择了奇怪的工具，电子邮件消失了，等等。没有错误触发。 通常会找出客户端何时对我进行 ping 操作，这不是氛围。 人们对此的实际设置是什么？有没有比每天刷新一次仪表板更聪明的方法，或者我只是做错了   由   提交 /u/Specialist-Abies-909   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t3v625/how_do_you_catch_automations_breaking_before_the/</guid>
-      <pubDate>Mon, 04 May 2026 21:21:54 GMT</pubDate>
     </item>
     <item>
       <title>我们与验证码</title>
