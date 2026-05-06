@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 06 May 2026 13:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:24:16 GMT</lastBuildDate>
+    <item>
+      <title>LLM 和人工智能工作流程以及人工智能自动化的新内容。 （从未编码）Gime 路线图，以便我可以快速学习和实施</title>
+      <link>https://www.reddit.com/r/automation/comments/1t5fuw7/new_to_llms_and_ai_workflows_and_ai_automation/</link>
+      <description><![CDATA[LLM 和 Ai 工作流程以及 Ai 自动化的新功能。给我学习路径的路线图，以便我可以快速学习和实施我的代理业务，并开始向其他企业提供服务。此外，伙计们，你们在运输/建造什么？有什么想法可以从哪里开始   由   提交 /u/Disastrous-Tea-7793   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t5fuw7/new_to_llms_and_ai_workflows_and_ai_automation/</guid>
+      <pubDate>Wed, 06 May 2026 15:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 2 人初创公司，您首先会构建什么人工智能自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1t5ettp/what_ai_automation_would_you_build_first_for_a/</link>
+      <description><![CDATA[想象一家只有 2 个人的初创公司。 没有运营团队。没有销售团队。没有支持团队。没有自动化专家。 只有创始人试图构建、销售、支持用户并保持活力。 如果你只能为他们构建一个人工智能自动化，那会是什么？ 我的第一个选择可能是一个领导/支持分类工作流程： 传入消息 → AI 总结意图 AI 检测紧急情况 AI 建议下一步行动 创始人批准或编辑 CRM/Sheet/Slack 更新 它很小，但它同时涉及销售、支持和运营。 对于一家几乎没有时间的小型初创公司，您会首先构建什么？   由   提交 /u/Alpertayfur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t5ettp/what_ai_automation_would_you_build_first_for_a/</guid>
+      <pubDate>Wed, 06 May 2026 14:37:58 GMT</pubDate>
+    </item>
     <item>
       <title>n8n vs Zapier vs 定制构建——我实际使用的决策矩阵</title>
       <link>https://www.reddit.com/r/automation/comments/1t590qi/n8n_vs_zapier_vs_custom_build_the_decision_matrix/</link>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 06 May 2026 03:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>为什么没有人谈论几乎免费的日常生活基本工作的 Google Colab？</title>
+      <title>为什么没有人谈论 Google Colab，它对于日常生活中的基本工作几乎免费？</title>
       <link>https://www.reddit.com/r/automation/comments/1t4wpys/why_no_one_is_talking_about_google_colab_which_is/</link>
       <description><![CDATA[      大约三年来，我一直是 Google Colab 的忠实粉丝，说实话，它的功能令人惊叹。 例如，Fiverr 上的一位客户向我提供了 3500 张图像，并要求我删除所有图像的背景。他想知道我要收多少钱，我报了 200 美元。 他立即下了订单，没有再问任何问题。我告诉他工作会在24小时内完成，并且不会影响图像质量，他同意了。 当我交付订单时，他真的很感动，开始问我是如何做到这么快完成工作的，以及我是否有团队。我告诉他，这就是八年的经验。 实际上，我只是使用免费版本的 ChatGPT 创建了一个 Python 脚本，并在 Google Colab 中运行它。整个任务大约三个小时就完成了。  这只是一个例子。你可以用 Google Colab 做无数的事情，我想很多人仍然低估了它的真正威力。 现在你也可以在 Claude Code、Codex 中连接 Google Colab 的 MCP，做任何你想做的事情。   由   提交/u/mhamza_hashim   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t4wpys/why_no_one_is_talking_about_google_colab_which_is/</guid>
@@ -74,13 +88,6 @@
       <description><![CDATA[自动化系统提取了争议的所有标准证据。追踪号码、交货确认、订单详细信息。但它完全错过了客户明确确认他们收到所有东西并且喜欢它的电子邮件线程。该电子邮件本来可以轻松胜诉，但自动化系统并未将其识别为相关证据。输了一场我本可以手动获胜的争议。这些工具真的理解上下文吗？？   由   提交 /u/Mundane-Anybody-9726   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t4oyup/dispute_resolution_automation_missing_context/</guid>
       <pubDate>Tue, 05 May 2026 19:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/automation/comments/1t4j7iu/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交 /u/Equal_Lie_5854   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t4j7iu/removed_by_reddit/</guid>
-      <pubDate>Tue, 05 May 2026 15:43:35 GMT</pubDate>
     </item>
     <item>
       <title>我们谈论了很多关于自动化的内容。您主动选择保留哪些手册？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[例如，我建立了一个稍微有些疯狂的实验，其中每个入站线索都会立即得到判断。如果有人使用“紧急”、“价格”或“尽快”等词语，他们就会得到快速反应并得到尖锐、直接的答复。如果他们说“只是探索”之类模糊的话，系统就会故意放慢速度，做出更柔和、延迟的反应。我花了 20 分钟使用 Zapier + Google Sheets - 主要是为了看看将语气与意图相匹配是否会产生任何影响。 我认为这可能会适得其反，但最终却适得其反。它过滤掉了低意的噪音，让认真的买家感到被优先考虑，并几乎立即提高了对话的质量。  很好奇，您作为实验构建的自动化程序是什么，后来变成了游戏规则的改变者？   由   提交/u/impeteouschestnut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t4a0w9/whats_an_automation_that_started_as_an_experiment/</guid>
       <pubDate>Tue, 05 May 2026 09:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 在长时间对话中变慢？这就是发生这种情况的原因（以及如何修复它）</title>
-      <link>https://www.reddit.com/r/automation/comments/1t49fvl/chatgpt_getting_slow_in_long_conversations_heres/</link>
-      <description><![CDATA[问题： 如果您曾经进行过长时间的 ChatGPT 会话：编码、研究、集思广益，您可能会遇到这种情况：滚动变得缓慢、选项卡开始冻结、CPU 峰值。大约 30 多条消息就会变得很糟糕。 通常的建议是“开始新的聊天”。但这会破坏你的上下文，而这正是长时间对话的全部意义。 为什么会发生： ChatGPT 在浏览器中呈现每一条消息，并且从不清理它们。在 30、50、100 条消息之后，您的浏览器会同时在内存中保存数千个文本元素。这不是您的计算机的问题，而是页面构建方式的问题。 我做了什么修复它： 一旦我理解了问题，我就构建了一个修复程序，一次只能呈现一定数量的消息。您保留完整的历史记录和上下文，页面只是停止立即将所有内容保存在内存中。以前冻结的对话再次变得即时。 它已经运行了一段时间，已经帮助了 60,000 多人，它适用于 Chrome 和 Firefox。 下载： 如果有人想尝试它 - 您可以将修复程序下载为名为 Speed Booster for ChatGPT 的扩展程序： 🔗 Chrome 在 Chrome 网上应用店免费下载 🔗 Firefox 在 Firefox 网上应用店免费下载 100% 隐私： 由 Google 和 Google 批准Mozilla。完全在您的设备上运行。永远不会收集数据，不会跟踪，不会上传，也不会删除聊天记录。 免费（对大多数人来说足够了） PRO（一次性付款）：因为我花费了大量时间来维护此功能，并尽最大努力在 ChatGPT 更新其 UI 时保持其正常运行，所以我推出了 PRO 版本，一次性购买金额为 7.99 美元。这有助于涵盖随着 ChatGPT 网站的发展而尽可能长时间地保持扩展兼容所需的持续开发。 反馈 如果您尝试过并且对您有帮助，请记住在 Chrome 网上应用店中留下正面评价（以便其他人也可以找到它），或者在下面的评论中让我和其他人知道 - 这样其他人也可以找到它！ 干杯！   由   提交 /u/Upset_Intention9027   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t49fvl/chatgpt_getting_slow_in_long_conversations_heres/</guid>
-      <pubDate>Tue, 05 May 2026 08:34:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
