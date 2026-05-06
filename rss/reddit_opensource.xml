@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 May 2026 08:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:04:08 GMT</lastBuildDate>
     <item>
       <title>程序员离开 GitHub 的指南</title>
       <link>https://www.reddit.com/r/opensource/comments/1t564yk/a_programmers_guide_to_leaving_github/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>这怎么能被接受呢？</title>
       <link>https://www.reddit.com/r/opensource/comments/1t55go4/how_is_this_even_accepted/</link>
-      <description><![CDATA[这是在移植所有项目或类似项目下新打开的硬件抽象层过渡库存储库。 这是某人提出的问题。现在，任何心智正常的人都可以看到并判断这是人工智能生成的污水。这还被允许吗？  这是一个奇怪的人。  谁能告诉我这是否可以？因为对我来说，事实并非如此。这么长的单子，真是老兄。 ??   由   提交 /u/Imaginary-Dig-7835   [链接] [评论]]]></description>
+      <description><![CDATA[这是在移植所有项目或类似项目下新打开的硬件抽象层过渡库存储库。 这是某人提出的问题。现在，任何心智正常的人都可以看到并判断这是人工智能生成的污水。这还被允许吗？  这是一个奇怪的人。  谁能告诉我这是否可以？因为对我来说，事实并非如此。这么长的斜坡，真是老兄。 ??   由   提交 /u/Imaginary-Dig-7835   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t55go4/how_is_this_even_accepted/</guid>
       <pubDate>Wed, 06 May 2026 07:06:41 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>我构建并开源了自己的 React 设计系统：Kiln</title>
       <link>https://www.reddit.com/r/opensource/comments/1t31p4k/i_built_and_open_sourced_my_own_react_design/</link>
-      <description><![CDATA[每次开始新项目时，我都厌倦了重建相同的按钮、输入、卡片和模式。所以我构建了 Kiln 并于本周发货。 28 个组件。 gzip 压缩后小于 26 KB。零依赖。 MIT 许可。 我最关心的三件事： 可访问性第一。每个组件都符合 WCAG AA 开箱即用的要求。每个组件都内置键盘导航、焦点管理、焦点环和 ARIA。不是事后诸葛亮。 性能第一。该文档网站在 Lighthouse 上的性能得分为 99，可访问性得分为 100。每次交互时布局均为零。所有动画均经过 GPU 加速。捆绑包大小经过测量和预算。 设置非常简单。 npm install，导入 CSS 一次，然后发货。没有配置文件，没有主题提供程序，没有设置向导。深色模式通过设置 data-theme=&quot;dark&quot; 来工作。在 HTML 上。就是这样。 麻省理工学院许可并欢迎贡献。如果您想参与其中，只需添加 CONTRIBUTING.md。 现场演示：kiln-ui.com  GitHub：github.com/Aldentec/kiln  npm：npmjs.com/package/@doriansmith/kiln   由   提交/u/dorianite  [链接] [评论]]]></description>
+      <description><![CDATA[每次开始新项目时，我都厌倦了重建相同的按钮、输入、卡片和模式。所以我构建了 Kiln 并于本周发货。 28 个组件。 gzip 压缩后小于 26 KB。零依赖。 MIT 许可。 我最关心的三件事： 可访问性第一。每个组件都符合 WCAG AA 开箱即用的要求。每个组件都内置键盘导航、焦点管理、焦点环和 ARIA。不是事后诸葛亮。 性能第一。该文档网站在 Lighthouse 上的性能得分为 99，可访问性得分为 100。每次交互时布局均为零。所有动画均经过 GPU 加速。捆绑包大小经过测量和预算。 设置非常简单。 npm install，导入 CSS 一次，然后发货。没有配置文件，没有主题提供程序，没有设置向导。深色模式通过设置 data-theme=&quot;dark&quot; 来工作。在 html 上。就是这样。 麻省理工学院许可并欢迎贡献。如果您想参与其中，只需添加 CONTRIBUTING.md。 现场演示：kiln-ui.com  GitHub：github.com/Aldentec/kiln  npm：npmjs.com/package/@doriansmith/kiln   由   提交/u/dorianite  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t31p4k/i_built_and_open_sourced_my_own_react_design/</guid>
       <pubDate>Mon, 04 May 2026 00:00:19 GMT</pubDate>
     </item>

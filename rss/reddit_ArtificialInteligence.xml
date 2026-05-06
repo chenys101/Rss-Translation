@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 06 May 2026 08:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:01:30 GMT</lastBuildDate>
+    <item>
+      <title>生产级人工智能代理的红队评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t58hbd/red_teaming_assessment_for_production_grade_ai/</link>
+      <description><![CDATA[人工智能安全的第一步是准确了解是什么破坏了你的人工智能代理。我建立了一个红队评估平台，告诉你你的漏洞在哪里，它在哪里，以及你可以采取哪些措施来修复它。 对于开发人员：它为你提供补救步骤 对于企业：你的漏洞将转换为代理规则，在生产中确定性地执行。 检查一下，破坏你的代理，这样你就知道在哪里修复它。   由   提交 /u/OneSafe8149   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t58hbd/red_teaming_assessment_for_production_grade_ai/</guid>
+      <pubDate>Wed, 06 May 2026 10:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>UBI 实际上将如何运作？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t56owd/how_would_ubi_actually_work/</link>
+      <description><![CDATA[如果人工智能取代了大部分劳动力，人们经常提到 UBI 作为解决方案。但我不完全理解这将如何解决当前富人、中产阶级和穷人之间的差距。 全民基本收入是否只是意味着每个人都能获得足够的生存空间，而现有的富人则保留他们的房屋、土地、股票、公司、游艇和其他优势？ 谁能住在好地区？谁拥有新车，谁驾驶旧车？我们还会拥有汽车，还是走向共享自动驾驶交通？机器人最终会为每个人建造足够好的住房，还是人们会被困在原地？ 我理解全民基本收入是解决收入问题的一种方式。但它是否解决了不平等问题，或者只是保留了当前的阶级制度，并在上面添加了生存金？   由   提交 /u/Michael_mkz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t56owd/how_would_ubi_actually_work/</guid>
+      <pubDate>Wed, 06 May 2026 08:20:57 GMT</pubDate>
+    </item>
     <item>
       <title>[D] 我注意到的一件事......关于“代理人工智能”等还有其他人吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t55c1f/d_one_thing_im_noticing_about_agentic_ai_etc_is/</link>
@@ -18,20 +32,6 @@
       <description><![CDATA[我已经使用 Gemini 很长时间了，我通常会与其他 AI 模型交叉检查它的响应。我注意到的一个问题是双子座经常产生幻觉。它似乎也根据用户的喜好过多地调整语气，而不是关注事实的准确性。 每当我指出这一点时，它经常会用诸如“你击中要害”之类的短语来回应，如果频繁重复，就会变得令人恼火。另一个令人沮丧的问题是，它不必要地提出以前对话中的细节，即使它们完全无关。 例如，如果我曾经在一次对话中讨论了一种南印度食物 dosa，后来又认真讨论了地缘政治，双子座可能会突然在回复中插入类似“因为你喜欢来自南印度的 dosa ......”之类的内容。这感觉无关紧要且分散注意力，尤其是在严肃的讨论中。 到目前为止，我愿意忽略其中一些问题，但最近我开始注意到更明显的错误和错误信息。有时它甚至无法识别基本事实。例如，如果我询问某个演员的著名电影，它可能会列出其他演员的电影。 我希望 Google 能够提高 Gemini 的事实准确性，减少幻觉，并使其内存使用更加相关和上下文感知。   由   提交 /u/Kalyankarthi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t53wlr/feeling_like_gemini_response_quality_regressing/</guid>
       <pubDate>Wed, 06 May 2026 05:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据管道监控看起来很好，但它却以无声的故障困扰着你，你如何尽早发现这一点？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t53vyl/data_pipeline_monitoring_looks_fine_until_it/</link>
-      <description><![CDATA[数据管道看起来很健康，但实际上却并非如此。一切都是绿色的，指标稳定，没有警报。然后你意识到下游数据是错误的，实际上没有任何失败。 我们的设置非常典型：spark -&gt;卡夫卡-&gt; db，带有仪表板以及有关滞后和错误率的警报。对于明显的故障效果很好。问题是那些沉默的人。模式漂移只会破坏一个消费者。分区倾斜会缓慢降低性能。节点运行不均匀，但不足以触发警报。 上周，我们的管道丢弃了约 20% 的事件，因为解析器开始在新的数据模式上失败。没有警报，指标中没有任何明显的信息，日志噪音太大，无法及早捕获。 我们尝试在不同阶段添加更多检查，例如记录计数和验证，但它很快就会变成噪音。 如何尽早捕获这些类型的静默故障，而不用警报淹没系统？什么对你真正有用   由   提交 /u/Impressive_Film2188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t53vyl/data_pipeline_monitoring_looks_fine_until_it/</guid>
-      <pubDate>Wed, 06 May 2026 05:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coinbase 想要一个人的团队……那么为什么这些人不建立自己的初创公司呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t525vh/coinbase_wants_1person_teams_so_why_wouldnt_those/</link>
-      <description><![CDATA[Coinbase 的信息很明确： 1 个人团队应该： - 交付产品 - 构建 UI/UX - 扩展系统  我的问题是，如果一个人可以完成所有这些，为什么他们应该在一家正在衰落的加密公司工作？  他们可以构建自己的！ 我错过了什么吗？   由   提交 /u/houmanasefiau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t525vh/coinbase_wants_1person_teams_so_why_wouldnt_those/</guid>
-      <pubDate>Wed, 06 May 2026 04:07:55 GMT</pubDate>
     </item>
     <item>
       <title>为什么没有人谈论 Google Colab，它对于日常生活中的基本工作几乎免费？</title>
