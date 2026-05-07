@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 07 May 2026 05:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:30:01 GMT</lastBuildDate>
+    <item>
+      <title>HWInfo64名称更改（应用程序名称的外观）</title>
+      <link>https://www.reddit.com/r/software/comments/1t61x9e/hwinfo64_name_change_appearance_of_the_app_name/</link>
+      <description><![CDATA[Not a big thing and nobody here may actually have any idea or care, but I just updated HWiNFO64 and saw that it&#39;s now referred to as &quot;HWiNFO® 64&quot; in every location, including the installer and in the software itself and on the website, in every instance. Even the Start Menu folder and shortcut names default to including the ® sign, although the program folder name doesn&#39;t. I get wanting to make &quot;HWiNFO&quot; a registered mark, but that was never actually the software&#39;s name. It was always referred to HWiNFO64 (or HWiNFO32), even in the software, so it seems odd to now split it up. Maybe registration is cheaper than two to cover the 32-bit and 64-bit versions? Registering it as HWiNFO64 (and HWiNFO32) would have been sufficient, unless they plan on making other &quot;HWiNFO&quot; products, as anyone creating something like &quot;HWiNFO System Details&quot; or even &quot;HWiNFO Bitmap Maker&quot; would still clearly be violating the mark by using a name where the non-generic part is largely the same, and it&#39;s is in the same product category, computer software. Yes you&#39;d have to send a cease and desist notice and maybe sue, but there&#39;s nothing to make that less likely with the new format. It&#39;s also weird to put that format even on the name of the software displayed within the application window and title bar, as well as the certificate or whatever Windows reads to pop up the UAC prompt. You generally wouldn&#39;t need to include it in the actual product in such locations. From a legal standpoint, the ® symbol isn&#39;t part of the actual software name. That is just an appended mark to indicate it&#39;s been registered, and is used in places where it might not be clear that what is being discussed is registered and you want it to be very clear, like a press release or marketing or legal documents. Having it be displayed in a font where it&#39;s the same size as other letters (the actual software opening window) also just looks really awkward. It just makes the name look weird to see the ® mark in every single location with the name shown, including places where it isn&#39;t necessary and is not commonly shown. The company&#39;s own website doesn&#39;t need it. Even Windows doesn&#39;t show &quot;Microsoft® Windows®&quot; everywhere you find the name. So, just wonder if anybody knows why it would be displayed like that now but never was before? It&#39;s really just jarring to me to see it.   由   提交 /u/evermorex76   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t61x9e/hwinfo64_name_change_appearance_of_the_app_name/</guid>
+      <pubDate>Thu, 07 May 2026 06:05:11 GMT</pubDate>
+    </item>
     <item>
       <title>内存程序报告</title>
       <link>https://www.reddit.com/r/software/comments/1t5yt87/memory_program_report/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一直致力于一个业余项目图像转换器，刚刚发布了批量图像 -&gt; PDF。由于布局边缘情况，花费的时间比预期要长。 最令人头疼的问题 - 批次中的混合纵横比。 9:16 截图旁边是一个 4:3 扫描旁边的正方形。采用比例 - 适合 - 中心 + 白色背景。不确定“填充和裁剪”是否有效老实说，对大多数人来说会感觉更自然。 方向很烦人。添加了自动模式，可以为每个图像选择纵向/横向。看起来很聪明，直到我意识到混合批次生成的 PDF 中每隔一页都会翻转。技术上是正确的，滚动时感觉很糟糕。 用 Rust 构建原始 PDF 生成，没有库。外部参照表、手动 DCT 流。想了解格式。用于图像处理的 libvips。 演示：convertifyapp.net/images-to-pdf 人们实际上多久需要这个？就像是批处理图像-&gt; PDF 是一种真正反复出现的东西，或者主要是“我需要将其作为 PDF 发送一次”？好奇是否值得进一步完善   由   提交/u/UnderstandingFit2711  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t5hymh/built_batch_image_pdf_in_rust_ran_into_layout/</guid>
       <pubDate>Wed, 06 May 2026 16:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeOffice 与 ONLYOFFICE</title>
-      <link>https://www.reddit.com/r/software/comments/1t5gc6o/freeoffice_vs_onlyoffice/</link>
-      <description><![CDATA[(Softmaker) FreeOffice 和 ONLYOFFICE 如何相互比较和叠加？   由   提交/u/Technical_Rich_3080   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t5gc6o/freeoffice_vs_onlyoffice/</guid>
-      <pubDate>Wed, 06 May 2026 15:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
