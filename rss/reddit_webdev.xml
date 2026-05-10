@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 May 2026 18:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 02:32:47 GMT</lastBuildDate>
     <item>
-      <title>开源 3D 雾化器 - 从任何 3D 模型中制作星云并嵌入到您的网站中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8cx1s/opensource_3d_nebulizer_make_nebula_out_of_any_3d/</link>
-      <description><![CDATA[      免费、开源、无需登录3D雾化器应用   由   提交/u/PhDumb  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8cx1s/opensource_3d_nebulizer_make_nebula_out_of_any_3d/</guid>
-      <pubDate>Sat, 09 May 2026 18:31:15 GMT</pubDate>
+      <title>使用不同的堆栈构建时遇到困难。我是否太执着于我所习惯的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8srf3/having_difficulties_building_with_a_different/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8srf3/having_difficulties_building_with_a_different/</guid>
+      <pubDate>Sun, 10 May 2026 01:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>托管非静态网站的最佳免费方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8ch0t/what_is_the_best_free_way_to_host_a_nonstatic_site/</link>
-      <description><![CDATA[标题   由   提交 /u/NEMOalien   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8ch0t/what_is_the_best_free_way_to_host_a_nonstatic_site/</guid>
-      <pubDate>Sat, 09 May 2026 18:14:20 GMT</pubDate>
+      <title>我构建了一个 Claude Code 插件，它充当跨编码会话的持久项目经理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8rvot/i_built_a_claude_code_plugin_that_acts_as_a/</link>
+      <description><![CDATA[如果您对跨越多个会话的项目使用 AI 编码工具，您就会遇到这样的情况：关闭终端，第二天再回来，AI 对您正在构建的内容的记忆为零。 我构建了 ProMa 来解决这个问题 - 它是一个 Claude Code 插件，可以跟踪 Markdown 文件中的项目状态，以便每个会话都准确地从上一个会话结束的位置恢复。 它的工作原理：- /proma:init 创建一个包含状态文件（路线图、待办事项、收件箱、决策）的 proma/ 目录 - /proma:boot 激活 PM 角色 - Claude 读取状态并自动接起工作 - 每日清理归档已完成的任务、标记陈旧项目并自我修复损坏的状态 两队列系统是关键：代理任务（Claude 所做的）和人工收件箱（只有您可以做出的决策）是分开的。当 Claude 的输入被阻止时，它会提出一个问题并转到下一个未阻止的任务。未答复的项目会自动升级并带有黄色/红色标记。 一切都是简单的降价。没有数据库，没有外部服务。 Git 友好。 GitHub：https://github.com/dpraj007/proma 登陆页面：https://proma-site.vercel.app MIT 许可。   由   提交 /u/DhairyaRaj13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8rvot/i_built_a_claude_code_plugin_that_acts_as_a/</guid>
+      <pubDate>Sun, 10 May 2026 00:32:21 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个免费计算器来计算 Runway、Kling 和 Luma 每月的实际成本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8ca5e/built_a_free_calculator_to_figure_out_what_runway/</link>
-      <description><![CDATA[到了月底，我一直对我的 AI 视频账单感到惊讶。 问题在于，每个型号的信用数学都不同，4K 升级会默默地使您的使用量翻倍，而且没有人提前告诉您“每月 30 个视频”意味着什么。实际上以实际美元计算。 所以我制作了一个计算器。您选择您的模型（Runway Gen-3、Kling、Luma），设置每月想要的视频数量和时长，它会为您提供估计成本、积分使用情况，以及如果您在 H100 上本地运行它的等效成本。 没有帐户，没有电子邮件，什么都没有。 https://bytecalculators.com/ai-video-cost-calculator 如果信用率错误或缺少您实际使用的模型，请告诉我。我会更新它。   由   提交/u/abarth23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8ca5e/built_a_free_calculator_to_figure_out_what_runway/</guid>
-      <pubDate>Sat, 09 May 2026 18:07:09 GMT</pubDate>
+      <title>在南佛罗里达州建立了屋顶目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8rhrf/built_a_roofing_directory_in_south_florida/</link>
+      <description><![CDATA[使用 Hello Theme、Crocoblock、Elementor Pro、RankMath Pro、PerfMatters 和 Pressable Hosting 构建完全自定义的 Wordpress 目录。我们县的市场价值约为 600 美元，并意识到棕榈滩没有任何屋顶公司聚合商。 我们构建了一个自定义工具，可以匹配 Google 地图 ID 和服务/城市并自动填充列表。我们的语义内容框架从我们的克劳德中提取并将其插入到文章/城市页面中。  我们拥有约 800 多家屋顶承包商/公司，遍布 39 个城市。 我们的目标是在 6 - 9 个月内将 MRR 提高到 15-20kk 美元。目前，我们已完成目标的 10%，但尚未真正启动（制定相关措施）。 我们的长期目标是拥有整个南佛罗里达州屋顶工相关搜索的整个营销渠道。 棕榈滩县的屋顶公司：https://561Roofers.com   提交者/u/Jazzlike_Resident_62  [链接]   href=&quot;https://www.reddit.com/r/webdev/comments/1t8rhrf/built_a_roofing_directory_in_south_florida/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8rhrf/built_a_roofing_directory_in_south_florida/</guid>
+      <pubDate>Sun, 10 May 2026 00:14:45 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个系统设计模拟器 - 在几分钟内拖动、模拟和破坏您自己的架构</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8bzia/i_built_a_system_design_simulator_drag_simulate/</link>
-      <description><![CDATA[      您可以做什么：  拖放常见部分：负载均衡器、API 网关、缓存、数据库、队列，甚至一些 AI 位。 点击“开始模拟”以实时查看延迟、错误率、吞吐量、缓存命中率。 翻转混沌开关：流量峰值、缓存未命中风暴、网络分区、组件崩溃。 分享和分享混音：每个设计都有一个短链接；任何人都可以分叉并改进。 内置提示：它会告诉您是否忘记了入口点或存储。  为什么我这样做：  图表不会失败；系统确实如此。我想要一种快速的方式来感受权衡而不需要旋转基础设施。 对于采访和设计评审，最好问“如果缓存失效了怎么办？”只需单击一个按钮即可。  在此处尝试：“https://paperdraw.dev/” 快速入门：删除负载均衡器→应用服务器→缓存→数据库，按播放，然后触发缓存未命中风暴。 希望获得反馈：  您会添加哪些指标或故障模式？ 开始/停止流程是否足够明显？ 您想要的任何预设（付款、聊天、摄取）吗？ 我应该添加“导出跑步的 GIF”以进行共享吗？  感谢您的浏览 - 如果您 ping 我，我们很乐意修复错误或添加功能。   由   提交/u/Leather_Silver3335   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8bzia/i_built_a_system_design_simulator_drag_simulate/</guid>
-      <pubDate>Sat, 09 May 2026 17:56:33 GMT</pubDate>
+      <title>[Showoff Saturday]whatlicense.org：开源许可证向导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8r0o2/showoff_saturday_whatlicenseorg_opensource/</link>
+      <description><![CDATA[      通过 https://whatlicense.org，我构建了一个实用的小网络应用程序，让您可以轻松地为您的项目选择正确的许可证 - 并且真正理解它们。 向导的首页引导您解决 5 个问题 这里是 演示工作流程的视频。 5 个问题，然后您将获得许可证建议。您还可以立即下载许可证，并为该许可证创建一个用于选择编程语言的文件头，例如： /** * 版权所有 (C) 2026 Peter Pan * https://mysite.io * info@mysite.io * * 这项工作已根据 MIT 许可证获得许可。您可以自由使用、修改、*和分发本作品，前提是您在该作品的所有副本或主要部分中包含版权声明*和本许可声明。 * 欲了解更多信息，请访问：https://opensource.org/licenses/MIT */  仅此而已。没有广告，只是对于开发软件且不想继续使用“MIT”的人们来说是一个有用的工具。在没有完全理解每个项目的情况下。我希望它对某人有帮助。 欢迎反馈。而且，不，它不是 vivi 编码的;) 堆栈，如果有人关心的话：  Nuxt.js Tailwind v4 TypeScript 通过 Wrangler 在 Cloudflare 上作为静态站点托管    由   提交 /u/Schlickeysen   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8r0o2/showoff_saturday_whatlicenseorg_opensource/</guid>
+      <pubDate>Sat, 09 May 2026 23:53:41 GMT</pubDate>
     </item>
     <item>
-      <title>我应该如何使用人工智能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8bjmp/how_should_i_be_using_ai/</link>
-      <description><![CDATA[就上下文而言，我是一名初级前端开发人员，我目前在使用 AI 时通常要求它解释有关现有架构或代码库流程的内容。失业后，我可能不会写那么多代码，部分原因在于我的分析瘫痪，我有想法要做 x、y 和 z，然后过度思考，拖延一些不编码的事情，但是当我在自己的时间编写代码时，我的人工智能使用通常只是在浏览器中使用 chatgpt 询问我编写的代码或解释方法或设计，就像我问高级开发人员一样，我尝试远离“氛围代码”场景，但在另一方面，我觉得我可以更多地利用人工智能来帮助我更加主动 一个例子是，我非常喜欢尝试构建类似自由项目作为本地企业的业余爱好的想法，以及我如何使用人工智能来帮助完成某种工作流程，该工作流程需要大量的规划和初始步骤，但老实说不知道从哪里开始   由   提交/u/aldojack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8bjmp/how_should_i_be_using_ai/</guid>
-      <pubDate>Sat, 09 May 2026 17:40:20 GMT</pubDate>
+      <title>[周六展示] 我们为代理就绪文档建立了基准</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8qtgf/showoff_saturday_we_built_a_benchmark_for/</link>
+      <description><![CDATA[      这是我们一直遇到的问题： 开发团队编写了可靠的文档。它清晰、结构良好、易于遵循。但是，当人工智能代理尝试对其进行导航时，事情会以难以发现的方式崩溃，直到生产中出现问题。 代理无法找到入口点。它误读了结构。它开始通过猜测来填补空白。到那时，使用代理的开发人员已经对该工具失去了信心。 令人沮丧的是，大多数团队直到出现问题才发现。没有明确的方法来预先测试它。 因此我们构建了 Docs Benchmark。 它通过代理驱动的测试来运行您的文档，并根据代理是否可以发现它、读取结构并提取足够的信息来实际推进而无需猜测，为您提供一个公开分数。 我们深思熟虑的一些事情：  分数是公开的，因此存在真正的责任 它是旨在反映实际损坏的内容，而不仅仅是表面上看起来干净的内容 如果您的文档存在代理可能绊倒的间隙，它会显示  我们认为，与假设您的文档已为代理做好准备相比，这是一个更诚实的起点，因为它们写得很好。 希望任何维护开发文档、API 参考或入门内容的人提供反馈。 https://docsalot.dev/benchmarks/docs   由   提交/u/fazkan  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8qtgf/showoff_saturday_we_built_a_benchmark_for/</guid>
+      <pubDate>Sat, 09 May 2026 23:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一个可视化编辑器来编辑您的实际 React 代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8bjjy/im_developing_a_visual_editor_that_edits_your/</link>
-      <description><![CDATA[      你好 我想与你分享一个我一直在做的项目。我开发了一个人工智能驱动的 Web Builder，可以直接编辑真实 React/Vite/Tailwind 项目的代码。 有什么可能？ - 您可以创建新文件并编辑现有代码。您添加的任何新代码也可以在编辑器中进行编辑。 - AI 支持有限但可用。您可以使用 Vibe 编码。我的目标是进一步开发人工智能。 - 它在真实的 Node.js 环境中运行。您可以手动安装软件包或查看 AI 安装的软件包。 - 您可以通过控制台部分以预览模式查看日志。 - 您可以创建样式变量并在代码中使用它们。 我的主要目标是创建一个真正的可视化 IDE，开发人员可以在其中管理他们的代码。不破坏现有代码是一个具有挑战性的问题。这就是为什么我正在努力仔细调整它。 目前还不可能导入完整的项目；请注意。这是未来的目标。现在，您可以从头开始创建新文件并编辑代码。这对我来说是一个非常实验性的项目，但我想将其作为 Beta 版本发布。 您可以通过此链接注册并免费试用： https://visualwizard.app/   由   提交/u/tokmako  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8bjjy/im_developing_a_visual_editor_that_edits_your/</guid>
-      <pubDate>Sat, 09 May 2026 17:40:14 GMT</pubDate>
+      <title>将我的作品集的程序背景变成了一个独立的普通 js 引擎。如果您喜欢的话，这里是如何在您的系统中使用它的方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8qger/turned_my_portfolios_procedural_backgrounds_into/</link>
+      <description><![CDATA[   免责声明：生成是基于原始过程逻辑原语的完全随机组合，因此可能是偶然的。如果您捕获了一个好的静态图像，请使用捕获帧按钮获取静态图像，或者记下要在代码中重新创建的方法，或者查看有关如何从头开始为自己创建一个的文档。 --- 我的投资组合不久前在这里获得了一些不错的流量。有人问我网站背后运行的后台情况。 当时它太融入网站了，非常单一。所以我已经研究它好几天了。将其重构为一个独立的 js 引擎，其中包含为原始程序逻辑提供支持的数学原语和画布。移动设备受到硬件限制，但如果您在桌面上摇动滑块，它实际上会测试您的CPU。 游乐场：https://substrate.ujjwalvivek.com 文档：https://substrate.ujjwalvivek.com/docs#/docs 来源：https://github.com/ujjwalvivek/substrate   由   提交 /u/VicksTurtle   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8qger/turned_my_portfolios_procedural_backgrounds_into/</guid>
+      <pubDate>Sat, 09 May 2026 23:28:18 GMT</pubDate>
     </item>
     <item>
-      <title>我给了克劳德自己的广播电台——它不会停止广播（很好）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8bfku/i_gave_claude_its_own_radio_station_it_wont_stop/</link>
-      <description><![CDATA[      我建立了一个名为 WRIT-FM 的 24/7 AI 广播电台，其中 Claude 是整个创意引擎。不是演示 - 它一直在连续运行，实时生成所有内容。 Claude 所做的（所有内容）： Claude CLI (claude -p) 记录广播中所说的每一个字。该电台有 5 名不同的人工智能主持人——The Liminal Operator（深夜哲学）、Dr. Resonance（音乐史）、Nyx（夜间沉思）、Signal（新闻分析）和 Ember（灵魂乐/放克）——每个主持人都有自己的声音、个性和反模式（他们永远不会说的话）。 Claude 收到丰富的角色提示和表演背景，并生成 1,500-3,000 字的脚本，用于深入探讨、模拟访谈、小组讨论、故事、听众邮袋片段和音乐文章。 Kokoro TTS 进行演讲。克劳德还处理真实的听众消息并生成个性化的直播响应。 每周安排有 8 个不同的节目，克劳德负责编写所有节目 - 调整每个主持人的语气、主题焦点和演讲风格。新闻节目拉取真实的 RSS 头条新闻，克劳德通过深夜镜头来解读它们，而不仅仅是报道。 没有人工智能（启发式）的自动化： 时间表（显示播出时间）纯粹是一天中的时间查找。流媒体将谈话片段与人工智能生成的音乐缓冲器交替播放，从预先生成的池中进行选择，通过播放历史记录避免重复，并在失败时自动重新启动。守护程序脚本监控库存水平并在演出不足时触发新一代。没有人工智能决定何时玩什么——这都是确定性的。 Claude Code 如何帮助构建它： 整个代码库都是用 Claude Code 开发的。令状 CLI、流媒体管道、多主机角色系统、内容生成器、时间表解析器 — 全部与 Claude Code 配对编程。 技术堆栈：Python、ffmpeg、Icecast、用于脚本的 Claude CLI、用于语音的 Kokoro TTS、用于 AI 音乐保险杠的 ACE-Step。在 Mac Mini 上运行。 收音机：www.khaledeltokhy.com/claude-show gh：https://github.com/keltokhy/writ-fm   由   提交/u/eltokh7  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8bfku/i_gave_claude_its_own_radio_station_it_wont_stop/</guid>
-      <pubDate>Sat, 09 May 2026 17:36:10 GMT</pubDate>
+      <title>寻求有关我的网络应用程序的反馈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8p4xf/seeking_feedback_on_my_web_app/</link>
+      <description><![CDATA[大家好， 我刚刚在 NitPickr 上提交了我的应用程序。如果您对我的应用程序提供反馈，我会针对您的应用程序提供反馈。 我希望获得反馈的主要内容是：  产品理念在最初几秒钟内是否清晰。 构建、测试、验证、部署工作流程是否有意义。 哪些内容让人感到困惑、缺失或过于复杂。 是否存在任何明显的技术、用户体验或信任问题。 阻止您注册或推荐给某人。  在此处请求交换：https://nitpickr.dev/reyazk08   由   提交/u/FlyTradrHQ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8p4xf/seeking_feedback_on_my_web_app/</guid>
+      <pubDate>Sat, 09 May 2026 22:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>Doraemon，完全通过在单个 <div> 元素上应用 94 个渐变来创建。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8alzb/doraemon_created_entirely_by_applying_94/</link>
-      <description><![CDATA[      包含预览和说明的 Github 链接：https://github.com/LadyBeGood/doraemon 如果您喜欢这篇文章，请考虑在 Github 上给它一颗星。这就是我发表这篇文章的主要原因。谢谢。   由   提交/u/Mindless_Head_6526  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8alzb/doraemon_created_entirely_by_applying_94/</guid>
-      <pubDate>Sat, 09 May 2026 17:05:46 GMT</pubDate>
+      <title>想购买网站域名，我应该购买 .com、.dev 还是 .cc？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8ouye/looking_to_buy_website_domain_should_i_get_com/</link>
+      <description><![CDATA[嘿伙计们！通常我会选择 .com，但是我的 fnamelname.com 已被占用，所以我需要在中间使用连字符 fname-lname.com，并且担心它可能会混淆？但是 fnamelname.dev 可用，这是我所在的领域，还有 fnamelname.cc （其中 cc 是我的姓名缩写）。 我主要将其用于个人网站/博客，您会推荐什么？感谢任何帮助，谢谢！   由   提交 /u/TallDuck9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8ouye/looking_to_buy_website_domain_should_i_get_com/</guid>
+      <pubDate>Sat, 09 May 2026 22:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 Gram Jam，一款每日填字游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8akyy/i_made_gram_jam_a_daily_word_puzzle/</link>
-      <description><![CDATA[演示：https://imgur.com/6YfcPnj  在这里玩游戏：https://gramjam.app  这个游戏一直是我过去断断续续的一个业余项目几年了。自从被解雇后，我最近有一些额外的时间投入，所以我终于完成了将其迁移到 Svelte 5，它已经像滚雪球一样对游戏内部进行了重大重写。 我刚刚在此版本中为经典游戏添加了云保存功能，这是多个用户一直要求的。我还打磨了一堆动画并清理了一些脆弱的游戏逻辑。 我的堆栈是 - Svelte 5/Sveltekit - Tanstack 查询 - 用于数据库和身份验证的 Supabase - 托管在 Cloudflare 页面上 - 用于支付处理的 Stripe 我真正引以为傲的代码的几个部分： - 动画是完全自定义的，基于 Svelte 超级强大的交叉淡入淡出和过渡 API，但使用自定义弹簧物理和同步引擎，所有这些都使用 CSS 来实现流畅的性能- 它可以作为 PWA 安装，给人一种原生的感觉（希望很快与 Ionic/Capacitor 在应用商店上推出）- 我已经投入了大量的精力来优化性能，使用 Indexeddb 来保存单词列表并延迟加载所有内容   由   提交/u/jessecoleman  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8akyy/i_made_gram_jam_a_daily_word_puzzle/</guid>
-      <pubDate>Sat, 09 May 2026 17:04:48 GMT</pubDate>
+      <title>回归 /all for reddit</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8olup/brining_back_all_for_reddit/</link>
+      <description><![CDATA[      Reddit 正在摆脱 /all。但我仍然托管它   由   提交/u/GeekLifer  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8olup/brining_back_all_for_reddit/</guid>
+      <pubDate>Sat, 09 May 2026 22:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>自学成才的开发人员将 Passkeys/WebAuthn 改造为遗留 PHP 应用程序 - 架构建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8akge/selftaught_dev_retrofitting_passkeyswebauthn_into/</link>
-      <description><![CDATA[这里是自学开发人员，如果我误解了一些基础知识，请道歉。 随着时间的推移，我已经使用跨多个子域的传统会话/cookie 身份验证构建了一个相当大的自定义 PHP 8.3 + MariaDB 应用程序。目前它在密码方面工作得很好。 我现在正在尝试实现 Apple Passkeys/WebAuthn，我遇到的感觉像是架构问题而不是编码错误。我不想在这里真正讨论这个问题。  我想我可能正在尝试以错误的方式将现代身份验证改进到旧架构上。 我的问题更多的是概念性问题，而不是特定于代码的问题： * 在 2026 年，传统 PHP 应用程序中的密钥的“正确”架构是什么？ * 身份验证应该集中到一个身份验证子域/服务上吗？ * 服务器端会话是否仍然正常，或者我应该考虑令牌/JWT 风格的身份验证？ * 对于非框架 PHP 应用程序来说，密码优先/无密码是否现实？ 非常感谢在生产中实现此功能的人们的建议，特别是如果您来自较旧的 PHP 系统而不是现代 JS 堆栈。   由   提交 /u/jjswin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8akge/selftaught_dev_retrofitting_passkeyswebauthn_into/</guid>
-      <pubDate>Sat, 09 May 2026 17:04:17 GMT</pubDate>
+      <title>为您的网络代理机构赢得更多客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8ois5/get_more_clients_for_your_web_agency/</link>
+      <description><![CDATA[我构建了 Swokei.com，这是一个分析商业网站的设计、布局、SEO 和移动优化问题的工具。然后，它根据发现的问题生成个性化的外展消息，准备直接从平台发送。   由   提交/u/Murky_Explanation_73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8ois5/get_more_clients_for_your_web_agency/</guid>
+      <pubDate>Sat, 09 May 2026 22:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>Plumio - 自托管笔记应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8akgd/plumio_self_hosted_note_taking_app/</link>
-      <description><![CDATA[      plumio 是一个简单的笔记应用程序。忘记其他第三方应用程序提供的数十种复杂功能。 您将获得一个简单但功能强大的 Markdown 编辑器，具有实时预览功能以及文本编辑器应具备的所有功能：美人鱼图、数学方程、文件附件、多用户、组织功能、导入/导出等等 在该项目的开发中使用人工智能作为支持 https://plumio.app/ https://demo.plumio.app/ https://github.com/albertasaftei/plumio   由   提交/u/alburt22  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8akgd/plumio_self_hosted_note_taking_app/</guid>
-      <pubDate>Sat, 09 May 2026 17:04:17 GMT</pubDate>
+      <title>成为一名热气球飞行员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8o5f3/be_a_hot_air_balloon_pilot/</link>
+      <description><![CDATA[      距离周日仅剩 10 分钟，这是我一直在使用 Phaser4 做的事情。看起来怎么样？灵感来自真实的热气球飞行体验。它有点缓慢和放松。使用不同的风带进行转向。   由   提交 /u/gXzaR   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8o5f3/be_a_hot_air_balloon_pilot/</guid>
+      <pubDate>Sat, 09 May 2026 21:49:33 GMT</pubDate>
     </item>
     <item>
-      <title>我改进了热图习惯跟踪器的入门，并且希望获得反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8akev/i_improved_the_onboarding_for_my_heatmap_habit/</link>
-      <description><![CDATA[      嘿伙计们， 我一直在构建 HabitHeat，一个免费的习惯跟踪器，它以热图日历的形式显示您的习惯，就像 github 贡献一样。 这非常简单。您养成习惯，每天跟踪它们，随着时间的推移，您可以看到您的一致性、差距、连续性和模式。 它目前支持四种不同的习惯类型： -“完成”和“完成”。或“未完成”简单日常习惯的习惯 - 阅读页数、水或步数等的数字习惯 - 情绪、锻炼类型或睡眠质量等选项 - 冥想、学习、深度工作或练习的计时器 - 以及每个项目的日记条目 我希望它感觉简单、直观且不超载。 很想听听你的想法，尤其是关于用户体验和首次体验的想法。 https://habitheat.com/   由   提交/u/Impressive-Pack9746   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8akev/i_improved_the_onboarding_for_my_heatmap_habit/</guid>
-      <pubDate>Sat, 09 May 2026 17:04:15 GMT</pubDate>
+      <title>我的业余项目在 90 天内获得了 121,000 次展示（独立开发）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8o4i6/my_side_project_just_hit_121k_impressions_in_90/</link>
+      <description><![CDATA[      嘿伙计们， 只是想分享一个小小的胜利。我多年来一直是一名独立开发者，主要构建没人使用的东西。老实说，我本来打算把它收起来，去找一份无聊的办公室工作，因为我完全破产了，只是在服务器成本上赔了钱。 但我决定尝试最后一件事，用我所痴迷的利基：东方玄学（想想八字，易经等）。 看看我的 GSC 屏幕截图。 2月和3月基本上是一条平坦的死亡线。然后到了四月，事情开始变得顺利。 我实际上做了什么（非 BS 版本）：  “真相” Hook：大多数占星应用程序仅使用标准时钟时间。我花了几周时间编写了一个真实太阳时引擎，该引擎使用地理编码来修复计算错误（在新加坡等地很常见）。 Google 似乎很喜欢它，因为当数据实际上准确时，人们在网站上停留的时间会更长。 20 种语言：我非常相信语言套利。我编写了一个脚本将我的中心翻译成 20 种语言。我的流量现在来自世界各地 - 泰国、印度尼西亚、欧洲等。 性能：我坚持使用 Next.js 并争取 100 个灯塔分数。快速工具 = 快乐的用户 = 低跳出率（我的跳出率约为 14%）。  我仍然不“富有”。然而（到目前为止只赚了大约 60 美元，哈哈），但是每天看到 600 次点击给了我希望。 不过，我正在努力解决一件事：如何开始为此收费而不扼杀 SEO 增长？我不想设立硬性付费墙并吓跑所有人。 这里有人成功从“完全免费”转变为“完全免费”吗？到“免费增值”对于实用工具？ 如果有人好奇的话，很乐意谈论技术堆栈。  https://preview.redd.it/7muuz993n60h1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=e141d94e87d44e97a3a763d1a91d250dfdb04e3a   由   提交/u/nyl9488  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8o4i6/my_side_project_just_hit_121k_impressions_in_90/</guid>
+      <pubDate>Sat, 09 May 2026 21:48:25 GMT</pubDate>
     </item>
     <item>
-      <title>我实际上很喜欢使用人工智能来编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8a8c6/i_actually_enjoy_using_ai_to_code/</link>
-      <description><![CDATA[就像标题所说，对我个人来说，代码始终是实现我的观点的一种手段 用户将如何使用它？ 我总是在脑海中思考这个场景，而不是严格地试图满足上层给出的标准 有时我的理解不够好，或者需要很长时间才能实现，但现在有了人工智能，我可以根据自己的愿景构建任何我想要的东西没有达到我们“没有足够的时间以这种方式实现它”的限制   由   提交/u/mathicus99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8a8c6/i_actually_enjoy_using_ai_to_code/</guid>
-      <pubDate>Sat, 09 May 2026 16:52:00 GMT</pubDate>
+      <title>获取网页设计客户的冷电子邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8mui0/cold_email_for_getting_webdesign_clients/</link>
+      <description><![CDATA[我构建了 Swokei.com，这是一个分析商业网站的设计、布局、SEO 和移动优化问题的工具。然后，它根据发现的问题生成个性化的外展消息，准备直接从平台发送。   由   提交/u/Murky_Explanation_73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8mui0/cold_email_for_getting_webdesign_clients/</guid>
+      <pubDate>Sat, 09 May 2026 20:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>游戏活动日历反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8a5vf/game_event_calendar_feedback/</link>
-      <description><![CDATA[大家好！  我用 html/css/js 构建 Marvel Contest of Champions 活动日历已经有一段时间了，想在这里分享它以获得一些诚实的反馈。它跟踪即将发生的事件，根据事件在每张卡片中提供搜索、过滤器、选项等。  除了这个项目之外，我没有任何网页设计经验，实际上，它更像是我一直在开发的一个业余爱好社区工具，每月约有 5-6,000 名访问者 很想听听： - 有什么令人困惑或难以导航/不直观的内容吗？ - 还有哪些其他功能在跟踪器/日历？ - 欢迎任何其他 webdev 方面的一般性建议或想法！ 感谢您查看！ 🙏   由   提交/u/mcoccalendar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8a5vf/game_event_calendar_feedback/</guid>
-      <pubDate>Sat, 09 May 2026 16:49:27 GMT</pubDate>
+      <title>设置编译和缩小 SASS 模板的工具的最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8jxyl/whats_the_simplest_way_set_up_a_tool_that/</link>
+      <description><![CDATA[我看到的大多数关于设置 webpack 之类的内容的说明都倾向于假设您正在使用 vite 或类似的东西设置整个 Web 应用程序。我有一个允许我自定义 CSS 的博客，所以我只想编译可以加载到其中的 CSS。也许我也会把它变成一个其他人可以使用的库，或者我可以托管在像 jsdelivr 这样的地方。   由   提交 /u/CoVegGirl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8jxyl/whats_the_simplest_way_set_up_a_tool_that/</guid>
+      <pubDate>Sat, 09 May 2026 20:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个名为 TabKit 的基于网络的吉他谱编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t8a0wz/i_built_a_webbased_guitar_tab_editor_called_tabkit/</link>
-      <description><![CDATA[https://tabkitmusic.com 我构建了一个基于 React 的吉他谱编辑器，配有 SoundFont 播放、midi 控件、效果等。它还支持通过每个文件生成的编辑令牌来共享文件和协作，从而使应用程序完全免费且无需登录。只需加载并开始工作即可。共享功能还包括一个浏览页面，该页面将加载所有公开共享选项卡的页面。 我还添加了对旧 Windows 应用程序 TabIt 中 *.tbt 文件格式的兼容性。 TabKit 还包括一个和弦构建器，允许您浏览和选择不同的和弦，查看指法图，并按照指定的扫弦或拨弦模式构建和弦进行。 我打算保持此完全免费且无广告，因为它可能是一个很棒的编辑工具和学习工具。   由   提交/u/compro  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t8a0wz/i_built_a_webbased_guitar_tab_editor_called_tabkit/</guid>
-      <pubDate>Sat, 09 May 2026 16:44:25 GMT</pubDate>
+      <title>我构建了一个库，允许将 JSON 转换为视频（开源）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8jcuv/i_built_a_library_that_allows_converting_json/</link>
+      <description><![CDATA[      大家好，我刚刚启动了 VideoFlow（我 2026 年的第 11 个项目）。 这是一个用于从代码创建视频的开源工具包。最简单的比较可能是Remotion，但VideoFlow采用了不同的方法：视频不是将视频主要视为React组件树，而是表示为可移植的JSON。 这个想法是视频可以是数据：  场景 层 计时 过渡 效果 关键帧 渲染设置  然后可以在不同的位置渲染该 JSON：  在浏览器中 在服务器上 在 React 预览/播放器内 在可视化编辑器内  我构建它是因为我认为将生成更多视频而不是手动编辑：个性化营销剪辑、产品演示、AI 生成的解释器、社交模板、报告等。 当前功能：  Apache-2.0 开源 TypeScript 构建器 API 便携式 VideoJSON 27 种过渡 42 GLSL 效果 图层组 浏览器/服务器/实时预览渲染路径 React 视频编辑器组件  我特别希望获得有关定位的反馈。   由   提交/u/ybouane  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8jcuv/i_built_a_library_that_allows_converting_json/</guid>
+      <pubDate>Sat, 09 May 2026 20:10:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
