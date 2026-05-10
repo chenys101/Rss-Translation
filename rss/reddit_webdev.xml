@@ -4,6 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 May 2026 13:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:49:26 GMT</lastBuildDate>
+    <item>
+      <title>放弃你的项目，我会给出诚实的反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t9aa26/drop_your_project_and_ill_give_honest_feedback/</link>
+      <description><![CDATA[      将您的网站放在下面，我会给您一些诚实的反馈。   由   提交/u/mfns07  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t9aa26/drop_your_project_and_ill_give_honest_feedback/</guid>
+      <pubDate>Sun, 10 May 2026 15:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为开发人员，您如何学习新事物？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t9a7lm/how_do_you_learn_new_things_as_a_developer/</link>
+      <description><![CDATA[当你想学习一项新技术、框架、语言或概念时，你的流程是什么样的？ 你主要使用人工智能工具、文档、YouTube、课程、构建项目、阅读源代码还是其他东西？ 我也很想听听你在学习新东西时所采取的实际步骤。例如，您从哪里开始，如何练习，以及如何从初学者过渡到熟悉它？ 我正在寻找一些灵感，并且很乐意改进自己的学习过程。   由   提交/u/Worried_Lab0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t9a7lm/how_do_you_learn_new_things_as_a_developer/</guid>
+      <pubDate>Sun, 10 May 2026 15:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>尾递归 JavaScript 仍然会溢出堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t99uqy/tailrecursive_javascript_still_overflows_the_stack/</link>
+      <description><![CDATA[      ail-recursive JavaScript 仍然会在主要运行时溢出堆栈，即使结构正确。这篇文章将介绍为什么 ECMAScript 2015 的尾部调用优化无法可靠实现，展示了可重现的示例，并涵盖了生产安全的替代方案：迭代重写和蹦床模式。   由   提交 /u/OtherwisePush6424   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t99uqy/tailrecursive_javascript_still_overflows_the_stack/</guid>
+      <pubDate>Sun, 10 May 2026 15:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已禁止查询字符串</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t98opq/ive_banned_query_strings/</link>
+      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t98opq/ive_banned_query_strings/</guid>
+      <pubDate>Sun, 10 May 2026 14:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让网站图标出现在浏览器上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t97eae/how_do_i_get_a_favicon_to_appear_on_browsers/</link>
+      <description><![CDATA[我已经启动并运行了整个网站，但我不知道如何显示此图标图像。我正在使用链接到 Vercel 的 Github，并在根目录中有一个名为 favicon.svg 的文件。 AI 说这是正确的做法，但即使在隐身模式下也没有显示？有人了解这些东西是如何工作的吗？   由   提交 /u/SneakyPickle262   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t97eae/how_do_i_get_a_favicon_to_appear_on_browsers/</guid>
+      <pubDate>Sun, 10 May 2026 13:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>三个 JS 和设备运动驱动的睡眠令牌艺术品挖掘</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t95xas/three_js_and_device_motion_powered_artwork/</link>
+      <description><![CDATA[      我真的很喜欢看到我的同龄人在音乐领域开展鼓舞人心的专辑推广活动。所有这些令人难以置信的工作的一个副产品是，我总是被问到“这是你建造的吗？”这个问题。关于我没有参与的活动并回答“我希望”。当我多次被问到关于同一个活动的这个问题时，我知道我最好去看看。 去年，Sleep Token 的“Even in Arcadia”网站和社交活动吸引了大众，并且有充分的理由，它的电影制作与完全神秘的互动相结合，同时还管理着粉丝俱乐部增长的目标。我被震撼了。向 RCA Records 整个团队的出色工作表示感谢。 受 RCA 的邀请，我有机会在这次活动中留下一点点印记，我认为这是一项崇高的荣誉。一两周前，克里斯蒂安给我发了一封电子邮件，询问如何为《Even in Arcadia》的器乐版本开发一个艺术作品。我们的想法是，我们将旧封面叠在新封面上，并鼓励粉丝摇动手机以展示新艺术作品。我将其解释为一种考古挖掘，用户像锤子一样挥动设备，突破某种石层，露出始终隐藏在地表以下的东西。这涉及使用 Three JS 创建动态 3D 场景，该场景使用 voronoi 模式将旧艺术品分成单独的挤压网格。当用户反复敲击手机时，旧的艺术品会松动并掉落，伴随着掉落的颗粒和翻腾的灰尘。对于艺术作品展示时刻来说，这是一次令人满意的专门互动，否则这将是一个非事件。   由   提交/u/leemartin  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t95xas/three_js_and_device_motion_powered_artwork/</guid>
+      <pubDate>Sun, 10 May 2026 12:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用人工智能的登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t95e7u/landing_page_using_ai/</link>
+      <description><![CDATA[大家好， 我想使用 AI 创建一个登陆页面，有什么工具可以让我的客户使用 AI 聊天直接进行编辑。我希望他们能够通过聊天来实时编辑和部署更改。我还能用什么？  Framer 似乎有点太复杂或需要设计技能，而 Web Flow 对于我的需求来说价格昂贵。有没有更简单的工具？  有创建 github 存储库并使用光标使用该项目的流程，但我正在为没有技术背景的人寻找更简单、更直接的工具。    由   提交 /u/godsbabe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t95e7u/landing_page_using_ai/</guid>
+      <pubDate>Sun, 10 May 2026 12:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>乐于通过人工智能“更快”做事的开发者是“短视”的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t952k2/devs_happy_about_doing_things_faster_thanks_to_ai/</link>
+      <description><![CDATA[我的意思不是以一种侮辱的方式，所以如果你认识自己，重点不是冒犯你 我经常看到这里的人们很高兴，他们花了 1 周的时间现在只需要 2 天，而且他们可以“休息”了更多 但是这样的想法是非常短视的 首先。一旦行业赶上你的生产力，最终你将不再有那些休息时间，你只会有更多的工作要做，除了你单独做这件事的时间会更少 第二。可用的工作量不是无限的，我们不是生产食物来养活整个地球，我们是为了满足需求而提供的，而这些需求不是无限的，你们都知道，但更高的生产力和相同的需求意味着更少的开发人员。 所以基本上我们正在进入一个开发人员更少、要做的工作更多、工作类型不同的世界，我们做得越多，你做的代码就越少，你做的审查越多，计划和提示就越多“工程”  仅此而已，太阳底下没什么新鲜事，但我很震惊地看到人们为自己感到高兴，因为他们在 2 天内完成了 1 周内所做的事情，而这意味着工作几乎走下坡路，这要归功于这件事 保持安全，伙计，让我们祈祷我们能在最糟糕的情况下获得更好的未来   由   提交/u/SoonBlossom  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t952k2/devs_happy_about_doing_things_faster_thanks_to_ai/</guid>
+      <pubDate>Sun, 10 May 2026 12:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨 150 多个品牌域扩展产品图像匹配：“Scraper + Gemini Grounding”堆栈已死吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t94ie9/scaling_product_image_matching_across_150_brand/</link>
+      <description><![CDATA[大家好， 我目前正在深入研究产品匹配项目，并且我当前的架构遇到了障碍。我正在向处理过数百个不一致域的大量提取的人寻求一些建议。 任务 我需要获取并验证大量目录的官方产品图像。 输入数据：产品标题、EAN/GTIN 和制造商代码。 范围：150 多个不同的品牌域（三星、博世、索尼等）。 限制：我严格限于 Google 生态系统。我拥有第 3 层 Gemini API 访问权限和完整的 GCP 权限，但我无法使用第三方“外部”权限应用或服务（超出标准 API）。 当前（失败）技术堆栈 编排：Cloud Run (Python)。 发现：使用 Scraper API 提取标题 + EAN 的 Google 搜索结果。 验证：将前 3 个网址和抓取的元数据传递给 Gemini 进行验证。 问题 结果是，坦率地说，很可悲。 “Manu 代码”陷阱：许多品牌在 JS 渲染的规格中隐藏制造商代码或使用内部 SKU，使传统的抓取/EAN 匹配变得脆弱。 搜索接地问题：标准 Gemini“搜索接地”问题感觉就像一个黑匣子，经常返回摘要而不是我需要的实际图像资源。 弃用问题：旧的 Google 自定义搜索 JSON API 对于新密钥来说是一条死胡同。 2026 年枢轴？ 我正在考虑放弃“先抓取后验证”模式并走向更加代理的工作流程。通过第 3 层访问权限，我正在使用 google_search 工具与 url_context 工具结合查看 Gemini 3.1 Interactions API。 我向社区提出的问题： 是否有人成功使用 URL Context 工具来替换 100 多个域的传统无头浏览器（Selenium/Playwright）？它能很好地处理繁重的 JS/React 站点吗？ 对于制造商代码匹配，您是否使用“高思维”找到更好的结果？ Pro 型号上的级别，或者如果提示结构良好，Flash 是否足够？ 是否有任何特定的 GCP 原生方法来处理“可视化审核”？大规模地处理这些图像而不需要花费大量的 Vertex AI 成本？ 我试图避免构建 150 个单独的抓取规则。任何“振动编码”都可以。快捷方式或架构转变将不胜感激！ TL;DR：尝试将 EAN 与 150 多个域中的图像进行匹配。传统的抓取是失败的。寻找真正有效的 GCP 原生、Agentic (Gemini) 替代方案。   由   提交 /u/Quirky_Meringue3102   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t94ie9/scaling_product_image_matching_across_150_brand/</guid>
+      <pubDate>Sun, 10 May 2026 11:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何工具可以管理云式备份和恢复？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t93woo/is_there_any_tool_to_manage_cloud_style_backups/</link>
+      <description><![CDATA[嘿伙计们。我必须做一些基础设施的工作，因为没有其他人可以做，我一直在为我们的 postgres 做 pg dump、pg 恢复，并且只是为服务器备份做一个纯粹的 rsync。通过 cron 运行。我知道还有其他 cli 工具，例如 pgbackrest 和 borg。  但想知道是否有东西可以为您提供某种仪表板。就像一键计划备份作业一样，您可以设置保留策略，查看现有备份（如果需要，则删除）以及驱动器和数据库的一键还原。那就方便多了。你可以将它指向你自己的 s3 或其他东西。 我正在考虑为我们托管 postgres，但我意识到在 docker 中设置 postgres 非常容易。我想为云付费主要是备份和恢复。因此，如果有某种工具可以可靠地做到这一点，那就太好了。要么开源自托管，要么支付合理的子费用。我环顾四周，发现了数字海洋的数据库和快照程序。但也许那里有更好的东西。谢谢。    由   提交/u/Concient_Tutor_597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t93woo/is_there_any_tool_to_manage_cloud_style_backups/</guid>
+      <pubDate>Sun, 10 May 2026 11:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026年新的机遇是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t93qvp/what_is_the_new_opportunity_for_2026/</link>
+      <description><![CDATA[      我刚刚想出了这个线程。看来 2018 年加入训练营是一个明智之举，当时一切对于网络开发来说都是新的且容易的。我的问题：2026 年还有什么类似的机会？ 我现在很迷茫。    由   提交/u/FutureAd5875  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t93qvp/what_is_the_new_opportunity_for_2026/</guid>
+      <pubDate>Sun, 10 May 2026 10:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 sqlite 和 NodeJS 作为网站后端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t92d5w/using_sqlite_with_nodejs_for_websites_backend/</link>
+      <description><![CDATA[构建一个低流量网站，大部分是只读的。我计划使用 SQLite，一个基于文件的数据库。这个网站的目的不是交易，而是跟踪一些数据。 您认为这是一个不错的选择吗？任何我以后无法补偿的踩踏/    由   提交 /u/pro-cras-ti-nation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t92d5w/using_sqlite_with_nodejs_for_websites_backend/</guid>
+      <pubDate>Sun, 10 May 2026 09:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，用于为项目汽车创建汽车接线图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t9267d/i_built_a_website_for_creating_automotive_wiring/</link>
+      <description><![CDATA[      故事时间，大约一年前，我将我的日产 D21 硬体发动机从 Z24 汽油机更换为 TD27T 涡轮柴油机，同时还安装了一大堆配件，如聚光灯、绞盘和空气压缩机。但由于懒惰，我没有写下在执行所有这些操作时所做的任何接线更改。时间快进了一年，现在我已经不记得所有的接线是如何工作的了。 我当前的项目车是吉普切诺基 FSJ，为此，我想从头开始建造一台全新的织机。因此，为了避免犯与日产汽车相同的错误，我在 Google 上搜索了“创建汽车接线图”，但所有结果都是复杂的企业贪婪解决方案，每月收费 200 美元。这就是为什么我创建了 X/D Loom 作为项目汽车人员工具来创建接线图的原因。它允许您将不同的电气组件拖到画布上，用电线连接它们，然后将它们导出为 PDF 或 PNG。 请访问 https://xdloom.com 查看并告诉我您的想法。   由   提交/u/droiddayz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t9267d/i_built_a_website_for_creating_automotive_wiring/</guid>
+      <pubDate>Sun, 10 May 2026 09:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>LyteNyte Grid 2.1 输出：表达式、AI 技能和更多免费功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t90473/lytenyte_grid_21_out_expressions_ai_skills_and/</link>
+      <description><![CDATA[      大家好， 我们刚刚发布了LyteNyte Grid v2.1。虽然这在技术上是一个次要版本，但它为网格引入了一些非常重要的补充。 新增内容  表达式：我们添加了一个通用表达式引擎和一个专用表达式编辑器组件。表达式可用于高级过滤、计算单元格公式和其他动态逻辑。虽然它们与 LyteNyte Grid 无缝集成，但表达式是独立的，可以在整个应用程序中重复使用。 单元格范围选择现在免费：根据社区反馈，单元格范围选择已移至免费的核心版本中。我们感谢迄今为止收到的所有反馈，并且始终愿意听取更多反馈。 代理编码技能支持：随着人工智能辅助开发变得越来越普遍，我们在 Core 和 PRO 版本中添加了对 LyteNyte Grid 的官方技能支持。现在，您可以使用代理编码工具更快地搭建和构建复杂的网格实现，而 LyteNyte Grid 则负责处理性能、状态管理和可访问性方面的繁重工作。  此版本中没有重大更改，而且我们已经在开发更多功能。 我们最近还通过了npm 每周下载量达到 10,000 次，这对我们来说是一个巨大的里程碑。感谢所有尝试过网格、分享反馈、报告问题或贡献想法的人。微小的互联网号码。人类实现的现代替代品。 我们所有的源代码都可以在 GitHub 上公开获取。如果您觉得这有帮助并且喜欢我们正在构建的内容，GitHub 星星会为您提供帮助。随时欢迎提供功能建议和代码贡献。 https://github.com/1771-Technologies/lytenyte 您还可以在此处尝试现场演示： https://www.1771technologies.com/demo   由   提交/u/After_Medicine8859   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t90473/lytenyte_grid_21_out_expressions_ai_skills_and/</guid>
+      <pubDate>Sun, 10 May 2026 07:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试为非后端开发人员制作数据库客户端。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t8zmwv/trying_to_make_a_db_client_for_nonbackend_devs/</link>
+      <description><![CDATA[      以下是有关更多详细信息的 GitHub 链接：orca-q GitHub 存储库 欢迎尝试并让我知道您的反馈！   由   提交/u/tlovemusic  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t8zmwv/trying_to_make_a_db_client_for_nonbackend_devs/</guid>
+      <pubDate>Sun, 10 May 2026 06:58:47 GMT</pubDate>
+    </item>
     </channel>
 </rss>
