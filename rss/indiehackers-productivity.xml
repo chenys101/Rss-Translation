@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 15 May 2026 06:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:16:41 GMT</lastBuildDate>
     <item>
       <title>互联网上的陌生人比我们更好地解释了我们的产品</title>
       <link>https://feed.indiehackers.world/post/f56fc317ec</link>
@@ -215,17 +215,17 @@ Discord Indiehackers 聊天广告此处]]></description>
       <link>https://feed.indiehackers.world/post/6df31c0d54</link>
       <description><![CDATA[周五下午 4:47。
 一个 PR 出现在仓库中，带有清晰的摘要、整洁的 diff 和 AI 审查评论，不妨阅读一下：
-“Ship it.”
+“发货。”
 我浏览了一下。我点点头。我合并。
 周一上午 10:12。
-A teammate pings: “Why are we making three API calls per page view now?”
+队友 ping 道：“为什么我们现在每个页面视图要调用 3 个 API？”
 它成功了。测试通过了。看起来是正确的。
-It also quietly doubled latency and introduced a failure mode that only showed up under real traffic.
-That’s when I stopped asking:
-“Does AI make me faster?”
+它还悄悄地使延迟加倍，并引入了仅在实际流量下出现的故障模式。
+就在那时我不再问：
+“人工智能会让我更快吗？”
 …并开始问唯一重要的问题：
 “人工智能是否会缩短从创意到安全生产的时间？”
-Because “faster” is easy to feel.
+因为“更快”很容易感受到。
 “生产力”是你必须衡量的东西。
 &lt;小时/&gt;
 人工智能生产力幻影（以及隐性税收）
@@ -236,7 +236,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>你的人工智能代理和你应该共享一个大脑。这就是我的构建方式。</title>
       <link>https://feed.indiehackers.world/post/283cd2d11b</link>
-      <description><![CDATA[The Bigger Picture
+      <description><![CDATA[更大的图景
 我正在尝试构建一个生产力应用程序，其中“您所知道的”之间的界限是“您所知道的”。和“你的人工智能助手知道什么”尽可能薄。并不是因为人工智能很酷（尽管确实很酷），而是因为将自己重新解释为无状态模型的上下文切换成本确实很痛苦，但确实是可以解决的。
 技术复杂性在于服务器、MCP 实现、OAuth 流程、内存架构。用户体验应该感觉没什么——就像你的助手刚刚……记住了一样。
 那个 Reddit 用户想要在会话之间切换对话？他连接了 Vist，开始了一个新的会话，Claude 有足够的背景来继续工作。他没有转交成绩单。他没有粘贴摘要。他刚刚与一个已经知道什么是重要的模型开始了新的会话。
