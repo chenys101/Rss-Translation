@@ -4,12 +4,12 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 16 May 2026 10:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 13:11:12 GMT</lastBuildDate>
     <item>
       <title>Show IH：我做了一个项目追踪器，无意中发现它也是一个心理健康工具</title>
       <link>https://feed.indiehackers.world/post/ac7cb5228c</link>
-      <description><![CDATA[The app has been working great and I use it every day on my own projects. But here&#39;s what surprised me: when I finish a session and sync to create a new station, something clicks mentally.这不仅仅是我的作品被记录； it feels like I stepped off the train and heard the doors shut behind me. There&#39;s a real decluttering effect, a way of setting down what I was working on rather than just stopping mid-thought and walking away. I didn&#39;t set out to build a mental health tool but I think that&#39;s part of what it is, and it might be the thing people think about least when they&#39;re choosing a productivity tool.
-The broader observation is this: if someone like me (who still has to ask Claude whether I need to deploy after a change!) can build something this useful for myself, then I think almost anyone can.我认为这就是我们的前进方向。 The tools that help us build are going to be built by the same people who need them. The vision and execution is what sets each one apart.
+      <description><![CDATA[该应用程序运行良好，我每天都在自己的项目中使用它。但令我惊讶的是：当我完成一个会话并同步创建一个新电台时，我的脑海中突然响起了一些声音。这不仅仅是我的作品被记录；感觉就像我下了火车，就听见身后的车门关上的声音。这是一种真正的整理效果，一种记下我正在做的事情的方式，而不是只是在思考中停下来走开。我并没有打算构建一个心理健康工具，但我认为这就是它的一部分，而且这可能是人们在选择生产力工具时最少考虑的事情。
+更广泛的观察是：如果像我这样的人（在更改后仍然需要问 Claude 是否需要部署！）可以构建对自己有用的东西，那么我认为几乎任何人都可以。我认为这就是我们的前进方向。帮助我们构建的工具将由需要它们的同一个人来构建。愿景和执行力是每个人的独特之处。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ac7cb5228c</guid>
       <pubDate>Thu, 14 May 2026 15:46:53 GMT</pubDate>
@@ -58,7 +58,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sat, 02 May 2026 12:46:14 GMT</pubDate>
     </item>
     <item>
-      <title>作为一名独立开发人员，我在 30 天内推出了生产力 SaaS——以下是 AI 实际改变的内容（以及它没有改变的内容）</title>
+      <title>作为一名独立开发者，我在 30 天内推出了生产力 SaaS——以下是 AI 实际改变的内容（以及它没有改变的内容）</title>
       <link>https://feed.indiehackers.world/post/15c8876106</link>
       <description><![CDATA[&lt;小时/&gt;
 在这里发帖是因为独立黑客在构建者→发行商的过渡中似乎比大多数人更好。
@@ -190,7 +190,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <description><![CDATA[1.通话
 a16z 在其 2026 年大创意中提出了一个新类别：社交 AI 应用。
 他们的定义：“利用现实生活背景帮助人们了解自己并加强人际关系，而不仅仅是完成任务。”
-然后他们说：这些初创公司还不存在。现在是您构建的时候了。
+然后他们说：这些初创公司还不存在。现在是您构建的时间了。
 我已经为此花费了几个月的时间。
 2.我为什么开始
 每个主要的人工智能产品都会针对输出进行优化——编码、写作、自动化。 
@@ -206,7 +206,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 12 Mar 2026 08:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>我分析了超过 2 万篇来自独立创始人的帖子。第一个抱怨不是金钱或技能。</title>
+      <title>我分析了超过 2 万个独立创始人的帖子。第一个抱怨不是金钱或技能。</title>
       <link>https://feed.indiehackers.world/post/36bee8bff4</link>
       <description><![CDATA[
 社区是为了滚动而不是连接而构建的。您发布了一些内容，获得 2 票赞成，然后继续。
