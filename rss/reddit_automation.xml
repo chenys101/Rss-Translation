@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 16 May 2026 21:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 02:35:25 GMT</lastBuildDate>
+    <item>
+      <title>LLM + 马具：代理人是什么（和不是什么）</title>
+      <link>https://www.reddit.com/r/automation/comments/1tfcaae/llm_harness_what_an_agent_is_and_isnt/</link>
+      <description><![CDATA[单词“agent”被广泛使用，通常意味着非常不同的事情。这是一个简短的、固执己见的游览。 LLM + 工具 代理由两部分组成：LLM 和围绕它的工具。 LLM 读取上下文并生成下一步。它本身只能发出文本。工具是将这些文本输出转化为操作并将结果反馈回来的一切：循环、工具、内存、运行环境以及何时停止的规则。 代理之间的大多数差异是工具中的差异，而不是模型中的差异。 代理所在的位置  Web 代理（ChatGPT、Gemini、Claude）位于工具有限的浏览器选项卡中。适合一次性任务，无法访问您的实际环境。 本地代理（Claude Code、Cursor、Aider）拥有您的文件系统和终端。功能更强大，但与您的机器相关。 拥有预配环境的代理会在需要时获得一台新的虚拟机，只要任务需要就一直驻留在那里，并且可以在您睡觉时运行。  代理与自动化 人们将任何人工智能驱动的工作流程称为“代理”。通常情况并非如此。 自动化是固定的步骤序列。 LLM可能是其中的一个节点，但流程是预先绘制的。代理根据所看到的内容决定下一步做什么。它选择工具、对结果做出反应、重试、更改计划。两者都很有用，但它们不是同一件事。 工具和技能 工具是一种单一功能：发送电子邮件、查询数据库。技能是一个捆绑包：指令加上实现它们的工具，打包在一起以便代理可以学习特定的东西。由于技能主要是文档和脚本，因此它们可以跨工具移植，这就是技能市场开始出现的原因。 很高兴回答问题。   由   提交/u/uriwa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tfcaae/llm_harness_what_an_agent_is_and_isnt/</guid>
+      <pubDate>Sun, 17 May 2026 02:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>反检测浏览器+ISP代理=指纹看起来不太好？需要账号</title>
+      <link>https://www.reddit.com/r/automation/comments/1tfb4yp/antidetect_browsers_isp_proxydoes_not_look_good/</link>
+      <description><![CDATA[ 由   提交 /u/Trick_Illustrator_31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tfb4yp/antidetect_browsers_isp_proxydoes_not_look_good/</guid>
+      <pubDate>Sun, 17 May 2026 01:12:00 GMT</pubDate>
+    </item>
     <item>
       <title>对于完全相同的自动化，我开始向客户收取 2-3 倍的费用。方法如下</title>
       <link>https://www.reddit.com/r/automation/comments/1tf4hao/i_started_charging_clients_23x_more_for_the_exact/</link>
@@ -62,25 +76,11 @@
       <pubDate>Sat, 16 May 2026 04:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/automation/comments/1te96bd/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/Virginia_Morganhb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1te96bd/removed_by_reddit/</guid>
-      <pubDate>Fri, 15 May 2026 21:05:13 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么语音代理测试仍然如此手动？</title>
       <link>https://www.reddit.com/r/automation/comments/1te38o0/why_is_voice_agent_testing_still_so_manual/</link>
       <description><![CDATA[已经在语音代理上工作了一段时间，老实说有一件事感觉非常被忽视 - 测试。 我们有提示、可观察性、工作流程、电话等框架。但当涉及到实际对代理进行压力测试时，包括中断、口音、延迟、愤怒的用户、沉默、糟糕的网络、工具故障、重试、上下文漂移......大多数团队仍在手动或使用基本的方法进行测试脚本。 感觉很奇怪，到 2026 年，我们仍然没有像传统软件那样为会话代理提供适当的自动化基准测试/测试层。 好奇这里的其他人如何大规模处理这个问题？特别适用于出站呼叫和生产质量检查。   由   提交 /u/Tricky_School_4613   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1te38o0/why_is_voice_agent_testing_still_so_manual/</guid>
       <pubDate>Fri, 15 May 2026 17:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>老师真的每天都在使用人工智能还是只是在尝试？</title>
-      <link>https://www.reddit.com/r/automation/comments/1te0t0y/are_teacher_actually_using_ai_daily_or_just/</link>
-      <description><![CDATA[ 由   提交 /u/WillingnessOk4667   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1te0t0y/are_teacher_actually_using_ai_daily_or_just/</guid>
-      <pubDate>Fri, 15 May 2026 16:07:17 GMT</pubDate>
     </item>
     <item>
       <title>需要关于如何在 0.5 秒内连续将 70 公斤的悬挂物体移动 15 厘米的建议</title>
