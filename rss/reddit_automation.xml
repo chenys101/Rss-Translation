@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 17 May 2026 02:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 06:17:49 GMT</lastBuildDate>
+    <item>
+      <title>管理多个社交媒体</title>
+      <link>https://www.reddit.com/r/automation/comments/1tfd1u1/managing_multiple_social_media/</link>
+      <description><![CDATA[我管理着大型火车和航空页面（超过 43 万粉丝），评论量每天要消耗 3 个小时，所以我构建了一个 AI 来处理它。它用我的声音回复 Facebook、Instagram、YouTube 和 TikTok 上的评论——上周，在我看到评论之前，它就回答了 TikTok 上关于机车轮安排的现场问题。六个月后，它每月为我节省了 50 多个小时。如果有人正在构建类似的东西，我很乐意谈论架构。​​​​​​​​​​​​​​​​   由   提交/u/chachingchaching2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tfd1u1/managing_multiple_social_media/</guid>
+      <pubDate>Sun, 17 May 2026 02:44:02 GMT</pubDate>
+    </item>
     <item>
       <title>LLM + 马具：代理人是什么（和不是什么）</title>
       <link>https://www.reddit.com/r/automation/comments/1tfcaae/llm_harness_what_an_agent_is_and_isnt/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[我正在寻找一些关于以机械方式实现特定运动的最佳方法的建议，因为我认为我可能一开始就考虑了完全错误的电机类型。 我需要做的是移动一个70公斤的悬挂物体。该物体悬挂在上方 0.5m 左右的位置，我需要能够在大约 0.5 秒内将其向侧面推至少 15 厘米。 重要的额外细节是，此运动需要连续来回至少 30 分钟，而不仅仅是一次性运动。理想情况下，我还希望能够控制速度，或者至少在合理的范围内调整它。 我最初是从小型24V往复电机/线性执行器/曲柄电机开始的，但我现在意识到这可能需要更实质性的东西。 我试图了解：  什么类型的机构实际上适合于此 对于12V/24V DC 我是否应该考虑： 带有曲柄连杆的齿轮电机 线性执行器 伺服电机 气动执行器 或者完全是其他东西   因为负载是悬浮，我猜数学可能与仅仅在表面上推动 70 公斤的物体不同，而且我不确定我是否应该更多地考虑惯性、摆力、加速度和连续工作周期。 理想情况下，我想得到以下方面的建议：  我应该研究哪种执行器或电机类别 如何估计所需的力/扭矩 这在紧凑的设置中是否实用 连续30分钟以上重复实现这一点 如何最好地添加速度控制  我不是要求任何人为我完全设计它，只是试图在我在错误的道路上走得太远之前了解什么样的系统实际上是合适的。 任何建议表示赞赏。   由   提交/u/Emotional-Priority70   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tdymb0/need_advice_on_how_to_move_a_70kg_suspended/</guid>
       <pubDate>Fri, 15 May 2026 14:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些人工智能工具有助于将表单响应转化为报告？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tdxu9v/what_ai_tools_are_good_for_turning_form_responses/</link>
-      <description><![CDATA[我处理大量表单数据，我正在寻找一种更智能的方法来自动将响应转换为结构化报告、摘要或模板。 基本上是可以理解上下文而不只是进行简单字段映射的东西。 很好奇这里的人们使用什么工具或工作流程。   由   提交 /u/Imprintingprotocol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tdxu9v/what_ai_tools_are_good_for_turning_form_responses/</guid>
-      <pubDate>Fri, 15 May 2026 14:21:56 GMT</pubDate>
     </item>
     <item>
       <title>希望为一些 6-7 位数的自动化机构建立一个策划/同行小组。有兴趣就来找我吧。</title>
