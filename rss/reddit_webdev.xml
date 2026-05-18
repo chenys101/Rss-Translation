@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 18 May 2026 19:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:02:08 GMT</lastBuildDate>
+    <item>
+      <title>老开发人员想在休假 4 年后回来。有什么机会？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1th22ph/old_dev_wants_to_get_back_after_4_year_layoff/</link>
+      <description><![CDATA[在 SQL、.Net、Angular 行业工作约 14 年。前MCSD。 70多岁了。温习一下我错过的内容并跳回游戏有什么意义吗？   由   提交/u/Wide_Web_579  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1th22ph/old_dev_wants_to_get_back_after_4_year_layoff/</guid>
+      <pubDate>Mon, 18 May 2026 21:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全非人类的网络：没有人构建页面，没有人访问它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1th1lkl/the_fully_nonhuman_web_no_one_builds_the_page_no/</link>
+      <description><![CDATA[   /u/esiy0676  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1th1lkl/the_fully_nonhuman_web_no_one_builds_the_page_no/</guid>
+      <pubDate>Mon, 18 May 2026 21:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个会话重播工具适合每日访问量 3 万的独立开发团队？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1th15a3/which_session_replay_tool_for_indie_dev_team_with/</link>
+      <description><![CDATA[我有一个网站，有 30k 访问量和 1k 活跃用户（每月大约 38k 会话），我想记录大部分会话。我知道 MS Clarity 存在并且是免费的，但他们的仪表板很糟糕，而且非常基础。除了基本过滤器之外，无法过滤或搜索某些会话。我也不想通过抽取除机器人之外的用户来进行妥协。我在使用 MS Clarity 时发现了很多这种心态的好问题，但它使用起来非常烦人而且速度很慢。微软对 MS 清晰度的开发也非常缓慢，这意味着新功能几乎没有出现，所以我认为要过一段时间才会添加满足我需求的功能请求。 我从我的研究中得到了这些会话重放工具：  Posthog  优点：很棒的工具选择，几乎拥有一切，以及高级仪表板过滤。每个人都在谈论它们。 缺点：仪表板充满了随机的东西，我不会使用其中的 60%，对于 30k 会话重放来说非常昂贵（甚至不考虑他们收费的事件和其他基于使用的东西）  Sentry  优点：最先进的错误跟踪、高级仪表板过滤、会话重放的准确性是一流的 缺点：最昂贵的之一会话重放工具；错误多于行为  幅度： 优点：漏斗，有利于理解用户行为，基于事件的高级过滤。 缺点：会话重播被视为附加内容，而不是主要内容。比 posthog 贵，但比哨兵便宜。更多企业关注。  LogRocket： 优点：仪表板非常好，良好的错误/网络跟踪。 缺点：昂贵的会话重放，比一般产品分析更注重调试  Rejourney： 优点：仪表板易于理解，比 Posthog 便宜得多，工具相对先进，会话重放是主要内容产品。他们将会话重播视为具有行和列的数据库，因此非常容易过滤。 缺点：Web SDK 处于测试阶段，移动重播是他们的主要关注点。  Smartlook  优点：高漏斗焦点，通过功能区旅程实现的最佳重播过滤之一。 缺点：太贵了。他们的付费套餐是 Posthog 和 Rejourney 的免费套餐。更多地关注企业。   您认为还有其他最有效的工具吗？正如您可能会说的那样，我更像是一名独立开发人员，因此我不是在寻找企业工具或企业定价。也不打算通过自我托管。 编辑：标题说每天 3 万次访问，我的意思是每月...3 万/天，我希望哈哈   由   提交 /u/EmergencyRadiant8038   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1th15a3/which_session_replay_tool_for_indie_dev_team_with/</guid>
+      <pubDate>Mon, 18 May 2026 21:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 未通过 Graph API 提供完全访问权限</title>
+      <link>https://www.reddit.com/r/webdev/comments/1th0cyr/meta_not_giving_full_access_through_graph_api/</link>
+      <description><![CDATA[      尝试使用 Graph API 从我在 Instagram 上的所有 31 篇帖子中获取数据。它是一个公共创建者页面，已链接到 Facebook 页面。  它有效，但仅适用于 7 个帖子。始终是相同的 7 个帖子，它们之间没有共同特征：不连续，文件类型不同，什么都没有。克劳德告诉我，他们可能是最近接触过的 7 个。我拥有 Graph API 工具的所有重要权限：  pages_show_list business_management instagram_basic instagram_manage_comments instagram_manage_insights pages_read_engagement instagram_manage_contents  但它总是不会给我超过 7 个。我没有尝试解决此问题：限制我获取的指标，或按时间戳过滤，或直接通过 developers.facebook.com 上的浏览​​器站点查询，什么也没有。这是一个固有的限制还是我做错了什么？   由   提交/u/Adventurous_Tax659   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1th0cyr/meta_not_giving_full_access_through_graph_api/</guid>
+      <pubDate>Mon, 18 May 2026 20:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器以不同的方式对待大网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tgyp7p/browsers_treat_big_sites_differently/</link>
+      <description><![CDATA[       由   提交/u/stefanjudis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tgyp7p/browsers_treat_big_sites_differently/</guid>
+      <pubDate>Mon, 18 May 2026 19:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些公司的管理层对人工智能持理智、务实的态度？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tgxsmv/any_companies_with_management_with_sane/</link>
@@ -27,13 +62,6 @@
       <pubDate>Mon, 18 May 2026 18:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>工作中的每次人工智能对话都会在两个地方之一结束</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tgv72u/every_ai_conversation_at_work_ends_in_one_of_two/</link>
-      <description><![CDATA[要么是“人工智能将取代开发人员”，要么是“人工智能将取代开发人员”。或者是“人工智能让你的工作效率提高 10 倍，所以现在你可以完成十个人的工作” 实际上，这对我来说都不是好事。 一个威胁到我的工作，另一个只是意味着我得到相同的薪水，工作量增加三倍，因为我可以“现在做得更多”。 承诺应该是人工智能处理无聊的重复性工作，这样人类就有更多的时间，更多的喘息空间，也许偶尔在正常时间下班。 相反，这已成为减少人员数量或扩大范围的理由，因为“你有副驾驶，不应该花很长时间” 我不想被替换。我也不想成为一个单人工程团队，因为工具让我更快。我只是想写出像样的代码，解决有趣的问题，有时在晚上 7 点之前关闭我的笔记本电脑。 这要求太多了吗？   由   提交/u/PrimaryAmphibian737  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tgv72u/every_ai_conversation_at_work_ends_in_one_of_two/</guid>
-      <pubDate>Mon, 18 May 2026 18:03:49 GMT</pubDate>
-    </item>
-    <item>
       <title>这种学习方法怎么样？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tgtmxi/how_about_this_study_approach/</link>
       <description><![CDATA[我最近完成了 Angela Yu 的全栈 Web 开发训练营。我认为这对于从头开始的人来说是一个很好的介绍，但有些主题，尤其是 React，感觉相当基础。 我的目标是构建自己的产品，甚至创办一家初创公司。因此，我正在考虑深入研究 React，学习 Next.js、TypeScript、测试和部署。 我的问题是：  对于想要构建完整产品的人来说，这些真的是最重要的下一个主题吗？ Full Stack Open 是一个不错的下一步，还是您会推荐另一门课程？ 要将 React 连接到后端和数据库，通常使用 Fetch 或Axios 使用 API？在这种情况下，与 React 一起使用时，Next.js 通常比 Express 更有优势吗？    由   提交 /u/Reasonable_Ninja6455   [链接] [评论]]]></description>
@@ -43,7 +71,7 @@
     <item>
       <title>AI Slop、明显的营销、网络论坛和你。</title>
       <link>https://www.reddit.com/r/webdev/comments/1tgruh9/ai_slop_obvious_marketing_web_forums_and_you/</link>
-      <description><![CDATA[So I&#39;ve been noticing a pattern recently in multiple reddits.有些比其他更糟糕。 Someone will post something that is either an AI generated post or a semi obvious or imbedded self promotion. Discussion starts and some of it is legitimately good even though the original post isn&#39;t or tangently breaks the rules. Mods do what they&#39;re supposed to and nuke the thread. Now any discussion or useful information from the thread is gone.  现在我不是要求一个具体的解决方案，我也不确定是否有一个解决方案（我唯一能想到的是锁定而不是删除特定的讨论阈值），但它对游戏开放。 The thing is ALL of this is open to gaming and online communities need a way to retain their useful content while still protecting themselves.我有点傻，很多删除我都没有注意到，这感觉很糟糕，但它仍然是同样的问题，因为人工智能越来越好的本质，越来越多有用的讨论将出现在我正在谈论的帖子中。  I guess what do y&#39;all think?   由   提交/u/frogic  [链接] [comments]]]></description>
+      <description><![CDATA[所以我最近在多个 reddit 中注意到了一种模式。有些比其他更糟糕。有人会发布一些人工智能生成的帖子或半明显或嵌入的自我推销内容。讨论开始了，其中一些内容是合理的，尽管原始帖子没有或稍微违反了规则。模组们做了他们应该做的事情并摧毁了这个线程。现在，线程中的任何讨论或有用信息都消失了。  现在我不是要求一个具体的解决方案，我也不确定是否有一个解决方案（我唯一能想到的是锁定而不是删除特定的讨论阈值），但它对游戏开放。问题是，所有这些都是对游戏开放的，在线社区需要一种方法来保留有用的内容，同时仍然保护自己。我有点傻，很多删除我都没有注意到，这感觉很糟糕，但它仍然是同样的问题，因为人工智能越来越好的本质，越来越多有用的讨论将出现在我正在谈论的帖子中。  我猜你们怎么想？   由   提交/u/frogic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tgruh9/ai_slop_obvious_marketing_web_forums_and_you/</guid>
       <pubDate>Mon, 18 May 2026 16:29:35 GMT</pubDate>
     </item>
@@ -62,25 +90,11 @@
       <pubDate>Mon, 18 May 2026 15:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 Chrome 扩展程序来同时预览多个设备</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tgnhtx/i_built_a_chrome_extension_to_preview_multiple/</link>
-      <description><![CDATA[      大家好， 在处理我的一个项目时，我一次又一次地遇到同样的问题：检查多个设备上的响应性花费了太多时间。 我会进行一个小的 UI 更改，它在桌面上看起来很好，但在移动设备上会出现问题。然后我会修复手机，平板电脑就会失效。它变成了调整浏览器大小、切换设备模式和一次测试一个屏幕尺寸的循环。 我尝试寻找可以让这一切变得更容易的工具，但大多数工具要么一次只显示一台设备，要么不太符合我想要查看 UI 的方式。 因此我构建了多设备查看器，这是一款 Chrome 扩展程序，可让您在一个视图中并排预览多个设备。 它有助于：  同时查看多个设备 测试移动设备、平板电脑、桌面和自定义屏幕尺寸 更快地发现响应式布局问题 无需不断调整大小或切换选项卡即可查看 UI 更改  如果您尝试一下，我很乐意听到您的反馈。  https://preview.redd.it/xcmut88gjw1h1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=12ae7f192ffd867547b4a942c39f637ee1de578e https://chromewebstore.google.com/detail/multi-device-viewer/jfcnekmenjickfihkniaoaklehjmdhdb?authuser=0&amp;hl=en-GB   由   提交/u/StrangeRevolution604  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tgnhtx/i_built_a_chrome_extension_to_preview_multiple/</guid>
-      <pubDate>Mon, 18 May 2026 13:58:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Next.js 遭到破坏；我如何适应最近的网络开发安全形势。</title>
       <link>https://www.reddit.com/r/webdev/comments/1tgmlj1/nextjs_got_wrekt_how_im_adapting_to_recent_web/</link>
       <description><![CDATA[就个人而言 -- 我已经不再使用框架了。我已经改变了我的堆栈（希望）能给我完全的可见性和控制力。我最近的构建方式绝对是对老派的颂歌。 我一直很喜欢——Go、Gomponents、http/net、redis、postrgreql，具有渐进增强策略和非常防御性的编程。 我不相信任何魔法，也不认为“它更容易”。值得了。你不同意吗？您正在使用什么进行构建，最近是否遇到过恐慌时刻？ https://www.youtube.com/watch?v=y5tlwWVYPek   由   提交 /u/StrictWelder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tgmlj1/nextjs_got_wrekt_how_im_adapting_to_recent_web/</guid>
       <pubDate>Mon, 18 May 2026 13:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您正在运行 Claude 代码，请在框中运行它 · cekrem.github.io</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tglzi4/if_youre_running_claude_code_please_run_it_in_a/</link>
-      <description><![CDATA[       由   提交 /u/cekrem   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tglzi4/if_youre_running_claude_code_please_run_it_in_a/</guid>
-      <pubDate>Mon, 18 May 2026 13:02:35 GMT</pubDate>
     </item>
     <item>
       <title>浏览器选项卡中类似 Linux 的内核 - 深入探讨 BrowserPod 架构</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[亲爱的网络开发人员，您好！想问一下你们的电子邮件发送服务是什么？目前使用 Sendgrid(Twillio)，无法准确解释我的感受。听说了一些关于 Resend 的好消息   由   提交/u/Greedy-University-79   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tgj42p/email_sender_services/</guid>
       <pubDate>Mon, 18 May 2026 10:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经厌倦了使用 Shopify/Webflow/Woo 进行客户端构建。有人找到更好的东西了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tgihui/im_so_done_with_shopifywebflowwoo_for_client/</link>
-      <description><![CDATA[咆哮传入。我经营一家小型电子商务机构（只有我+一名开发人员+一名设计师），我对当前的选择失去了理智。 Shopify：我建立了一个漂亮的商店，将其移交给客户，客户会说“酷，谢谢，我们将从这里管理它。” 20%的合伙人佣金也是个笑话？我需要 600 多个推荐客户才能使这一目标变得有意义。与此同时，Shopify 的品牌无处不在，客户在下次网站更新时忘记了我的存在。  Webflow： 在一个月内达到 CMS 限制。老实说，这不是电子商务的最佳选择。这对于登陆页面等营销网站来说很好，但当你尝试对产品做任何实际的事情时，它就会崩溃。 WooCommerce：插件更新轮盘赌。周六凌晨 2 点，主题在结帐时中断，客户尖叫，我正在免费调试别人的意大利面条代码，因为“它昨天还可以工作”。当然，我开始收取维护费，但这对于花很少的钱来说太方便了。  Duda：尝试过白标角度。然后他们在零警告的情况下提高了每个站点的定价。而且布局系统是如此严格，你无法做任何看起来实际上是定制的事情。而且他们的商业功能充其量只是中等。 --- 我真正想要的是：我可以将我的品牌放在上面，保持运营控制，并真正建立经常性收入，而不是一劳永逸的项目费用。基本上，我控制的基础设施不会让我看起来像别人平台的经销商。 有人找到适合这个的东西吗？   - 理想情况下是由独立黑客或真正关心的小团队构建的东西。  -我并不是在寻找另一个由风险投资资助的平台，该平台将在两年内变得更加强大，并且只会考虑股东价值。   - 预算也很友好。我不想为 3 人代理机构支付企业定价。 接受奇怪的答案。自托管、无头、白标等等。我厌倦了每次交付项目时都感觉自己在打造别人的品牌。   由   提交/u/khalilliouane  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tgihui/im_so_done_with_shopifywebflowwoo_for_client/</guid>
-      <pubDate>Mon, 18 May 2026 10:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何跟踪扩展程序的免费试用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tgi8rb/how_do_you_keep_track_of_free_trials_on_extensions/</link>
-      <description><![CDATA[我要求用户在安装我的扩展程序后登录，以便我可以启动 30 天的试用期，但我相信必须登录才能使用/探索他们刚刚安装的东西的这种摩擦会导致人们放弃。 我不确定纯本地的东西是否有效，因为删除扩展程序时所有本地存储都会被擦除，因此他们只需删除并重新安装扩展程序即可获得另外 30 天的试用期。 有办法解决这个问题吗？   由   提交 /u/abimon123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tgi8rb/how_do_you_keep_track_of_free_trials_on_extensions/</guid>
-      <pubDate>Mon, 18 May 2026 10:16:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
