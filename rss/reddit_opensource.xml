@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 May 2026 06:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:26:50 GMT</lastBuildDate>
+    <item>
+      <title>MAGDA 0.8.0 — 带有 FAUST 驱动的 FX 库的开源 DAW</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tgixce/magda_080_open_source_daw_with_a_faustpowered_fx/</link>
+      <description><![CDATA[ 由   提交 /u/N0madM0nad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tgixce/magda_080_open_source_daw_with_a_faustpowered_fx/</guid>
+      <pubDate>Mon, 18 May 2026 10:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>agent-qa 简介：针对 Web 和移动应用程序的开源 AI 端到端测试。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tgf4lt/introducing_agentqa_opensource_ai_endtoend/</link>
+      <description><![CDATA[      嘿，我是agent-qa的创建者。  人工智能加速了开发，使开发人员能够以闪电般的速度构建产品。但对其是否有效的信心不存在。虽然编码代理可以自己编写测试，但他们贪婪地编写测试以使它们通过。  构建agent-qa的目的是为端到端测试提供AI原生解决方案。   由   提交/u/IndianITCell  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tgf4lt/introducing_agentqa_opensource_ai_endtoend/</guid>
+      <pubDate>Mon, 18 May 2026 07:21:05 GMT</pubDate>
+    </item>
     <item>
       <title>开源人工智能医疗抄写员</title>
       <link>https://www.reddit.com/r/opensource/comments/1tgd0t3/open_source_ai_medical_scribe/</link>
@@ -57,14 +71,14 @@
     <item>
       <title>ClawPing - 适用于家庭服务器的 Cloudflare Workers 看门狗，无需公共 IP</title>
       <link>https://www.reddit.com/r/opensource/comments/1tfiqt1/clawping_cloudflare_workers_watchdog_for_home/</link>
-      <description><![CDATA[ClawPing 是 Cloudflare Workers 首款 Telegram 看门狗，适用于家庭服务器、迷你 PC、NAS 盒和自托管应用程序。 一个小型 Go 代理在您的计算机上运行并推送出站心跳。如果您的服务器停止签入、备份过时、磁盘已满或 Docker 容器死亡，ClawPing 会通过 Telegram 向您发出警报。 没有公共 IP。没有开放端口。不需要自托管仪表板，但如果需要，可以有仪表板。 堆栈：Cloudflare Worker + D1 + Durable Objects + Queues + Go 代理。 GitHub：https://github.com/cschanhniem/clawping MIT 下的开源。欢迎反馈。   由   提交/u/suoinguon  [链接] [评论]]]></description>
+      <description><![CDATA[ClawPing 是 Cloudflare Workers 首款 Telegram 看门狗，适用于家庭服务器、迷你 PC、NAS 盒和自托管应用程序。 一个小型 Go 代理在您的计算机上运行并推送出站心跳。如果您的服务器停止签入、备份过时、磁盘已满或 Docker 容器死亡，ClawPing 会通过 Telegram 向您发出警报。 没有公共 IP。没有开放端口。不需要自托管仪表板，但如果需要，可以有一个仪表板。 堆栈：Cloudflare Worker + D1 + Durable Objects + Queues + Go 代理。 GitHub：https://github.com/cschanhniem/clawping MIT 下的开源。欢迎反馈。   由   提交/u/suoinguon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tfiqt1/clawping_cloudflare_workers_watchdog_for_home/</guid>
       <pubDate>Sun, 17 May 2026 07:39:24 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个成熟的开源 Google 地图公司爬虫</title>
       <link>https://www.reddit.com/r/opensource/comments/1tfi0ak/i_made_a_fully_fledged_opensource_google_maps/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：SherlockMaps，一个使用 Python 和 Playwright 构建的开源 Google 地图网络爬虫。您可以在此处查看。 这是什么？ SherlockMaps 从 Google 地图搜索中提取详细的公司信息。您给它一个搜索词（例如“restaurants berlin”），它会返回结构化数据，包括：  公司名称、类别、地址、电话、网站 评级和评论数量 营业时间 属性（轮椅无障碍设施等） 附加代码  主要功能  干净的 OOP 架构 - 结构良好，包含类、数据类和设计模式 多种使用模式：  用于快速数据提取的 CLI 工具 用于集成到您自己的脚本中的 Python 库 用于无头/生产使用的 REST API 服务器  多种输出格式 - JSON、CSV、 Pretty-print 重复数据删除基于公司名称+网站 URL验证过滤掉无效网站 Docker支持以方便部署 Chrome配置文件持久性 - 会话数据在运行之间保留 MIT许可证 - 完全开源  希望你喜欢它，我总是愿意让它变得更好😄   由   提交 /u/Ayyouboss   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：SherlockMaps，一个使用 Python 和 Playwright 构建的开源 Google 地图网络爬虫。您可以在此处查看。 这是什么？ SherlockMaps 从 Google 地图搜索中提取详细的公司信息。您给它一个搜索词（例如“restaurants berlin”），它会返回结构化数据，包括：  公司名称、类别、地址、电话、网站 评级和评论数量 营业时间 属性（轮椅无障碍等） 附加代码  主要功能  干净的 OOP 架构 - 结构良好，包含类、数据类和设计模式 多种使用模式：  用于快速数据提取的 CLI 工具 用于集成到您自己的脚本中的 Python 库 用于无头/生产使用的 REST API 服务器  多种输出格式 - JSON、CSV、 Pretty-print 重复数据删除基于公司名称+网站 URL验证过滤掉无效网站 Docker支持以方便部署 Chrome配置文件持久性 - 会话数据在运行之间保留 MIT许可证 - 完全开源  希望你喜欢它，我总是愿意让它变得更好😄   由   提交 /u/Ayyouboss   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tfi0ak/i_made_a_fully_fledged_opensource_google_maps/</guid>
       <pubDate>Sun, 17 May 2026 06:58:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/george_watsons1967   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ter0wq/i_made_a_state_of_the_art_local_tts_called_holler/</guid>
       <pubDate>Sat, 16 May 2026 11:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个开放的、社区所有的 Apollo/Clay 替代方案，贡献者根据潜在客户质量获得收入分成。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tepyh8/building_an_open_communityowned_alternative_to/</link>
-      <description><![CDATA[ 由   提交/u/lannisterprince  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tepyh8/building_an_open_communityowned_alternative_to/</guid>
-      <pubDate>Sat, 16 May 2026 10:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Windows 上没有开源分区管理器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tepj3g/why_is_there_no_open_source_partition_manager_on/</link>
-      <description><![CDATA[嗨， Windows 上有很多 GParted 的专有等效项，因此它是可行的。为什么没有打开一个？ 我知道 GParted 可以用作可启动的实时 USB，但这并不方便。 谢谢   由   提交/u/KaKi_87  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tepj3g/why_is_there_no_open_source_partition_manager_on/</guid>
-      <pubDate>Sat, 16 May 2026 10:09:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
