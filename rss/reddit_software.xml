@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 19 May 2026 17:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:47:48 GMT</lastBuildDate>
+    <item>
+      <title>Gilbert Codex v0.5.0 是迄今为止最大的更新</title>
+      <link>https://www.reddit.com/r/software/comments/1thxmo5/gilbert_codex_v050_is_the_biggest_update_yet/</link>
+      <description><![CDATA[ 由   提交/u/Elegant_Associate889  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1thxmo5/gilbert_codex_v050_is_the_biggest_update_yet/</guid>
+      <pubDate>Tue, 19 May 2026 19:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ClearView Studio 刚刚进行了重大升级。</title>
+      <link>https://www.reddit.com/r/software/comments/1thxgdv/clearview_studio_just_got_a_major_upgrade/</link>
+      <description><![CDATA[此版本的新增功能： • 全面支持 iPadOS，优化布局 • 实时双预览系统（原始/增强） • 处理前实时增强预览更新 • 新的增强控制面板 • 添加了伽玛级别控件 • 添加了色彩平衡级别控件 • 添加了自动白平衡开关 • 改进了离线视频增强工作流程 • 更快、更流畅的预览更新 • 改进的处理体验和 UI 响应能力 • 使用新的 ClearView Studio 主题更新视觉设计 • 多项稳定性改进和错误修复 链接：https://apps.apple.com/us/app/clearview-studio/id6767339271   由   提交 /u/tknzn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1thxgdv/clearview_studio_just_got_a_major_upgrade/</guid>
+      <pubDate>Tue, 19 May 2026 19:24:57 GMT</pubDate>
+    </item>
     <item>
       <title>Portabase 1.14：开源数据库备份/恢复工具</title>
       <link>https://www.reddit.com/r/software/comments/1thu8af/portabase_114_open_source_database_backuprestore/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/Fun_Ad5176  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1thgyqq/as_a_developer_i_got_tired_of_the_chaos_of/</guid>
       <pubDate>Tue, 19 May 2026 08:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 现在使用后台进程？</title>
-      <link>https://www.reddit.com/r/software/comments/1thgjp3/windirstat_uses_background_processes_now/</link>
-      <description><![CDATA[在我的工作笔记本电脑上，由于权限问题，我无法安装 WizTree，所以多年来我第一次回到 WinDirStat。有人说它现在更快，但仍然比 WizTree 慢得多。 无论如何，我注意到，有时当我关闭笔记本电脑时，即使我没有启动该软件，我也会从 WinDirStat.exe 收到错误消息。今天我检查了任务管理器，发现windirstat.exe有3个后台进程。我不知道为什么我每隔几个月使用一次的程序需要 24/7 运行的后台进程...   由   提交/u/ExdigguserPies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1thgjp3/windirstat_uses_background_processes_now/</guid>
-      <pubDate>Tue, 19 May 2026 08:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>MS-Word 问题</title>
-      <link>https://www.reddit.com/r/software/comments/1thftoz/problems_with_msword/</link>
-      <description><![CDATA[在MS-Word中，有时我们必须对不同的页面应用不同的颜色，例如，如果一页是蓝色的，那么我们想要的另一页可能是红色或黄色，在这种情况下，大多数人会使用形状或文本功能来应用这些颜色，因为它可以兼容一页或几页，但当要应用到许多页面时，手动执行就变得很头疼。 所以我们真的应该坐视这种情况吗？问题或 Microsoft 团队应该对此问题采取行动...！！   由   提交 /u/MeetGangwani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1thftoz/problems_with_msword/</guid>
-      <pubDate>Tue, 19 May 2026 07:46:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
