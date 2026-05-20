@@ -4,48 +4,76 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 19 May 2026 22:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:45:20 GMT</lastBuildDate>
     <item>
-      <title>最薄的人工智能</title>
-      <link>https://www.producthunt.com/products/thinnest-ai</link>
+      <title>VWFNDR™ + MBL</title>
+      <link>https://www.producthunt.com/products/vwfndr-mbl</link>
       <description><![CDATA[
-            以 100 多种语言构建语音 AI 代理，每分钟 1.5 卢比
+            拍摄原始照片并证明它们是真实的，而不是人工智能的
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/thinnest-ai</guid>
-      <pubDate>Tue, 19 May 2026 05:09:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vwfndr-mbl</guid>
+      <pubDate>Tue, 19 May 2026 06:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>奥德赛的 Starchild-1</title>
-      <link>https://www.producthunt.com/products/odysseyml-starchild-1-model</link>
+      <title>Agora-1（奥德赛）</title>
+      <link>https://www.producthunt.com/products/odyssey-5</link>
       <description><![CDATA[
-            第一个实时多式联运世界模型
+            您可以玩的多代理世界模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/odysseyml-starchild-1-model</guid>
-      <pubDate>Mon, 18 May 2026 17:03:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/odyssey-5</guid>
+      <pubDate>Tue, 19 May 2026 03:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>学习之家</title>
-      <link>https://www.producthunt.com/products/learnhouse</link>
+      <title>CLI市场</title>
+      <link>https://www.producthunt.com/products/cli-market</link>
       <description><![CDATA[
-            以现代方式教授您的构建内容
+            3,760 家零售商，一个 AI 代理 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/learnhouse</guid>
-      <pubDate>Sun, 17 May 2026 16:16:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cli-market</guid>
+      <pubDate>Tue, 19 May 2026 02:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Omnia 的见解</title>
+      <link>https://www.producthunt.com/products/omnia-2</link>
+      <description><![CDATA[
+            提高 AI 可见性的分步行动计划。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/omnia-2</guid>
+      <pubDate>Mon, 18 May 2026 15:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>草垛</title>
+      <link>https://www.producthunt.com/products/haystack-editor</link>
+      <description><![CDATA[
+            审查实际需要人工关注的拉取请求
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/haystack-editor</guid>
+      <pubDate>Sun, 17 May 2026 18:55:22 GMT</pubDate>
     </item>
     <item>
       <title>燧石</title>
@@ -60,6 +88,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chert</guid>
       <pubDate>Sun, 17 May 2026 05:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇宙洞察</title>
+      <link>https://www.producthunt.com/products/cosmic</link>
+      <description><![CDATA[
+            CMS 中内置无 Cookie 的网络分析
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cosmic</guid>
+      <pubDate>Sun, 17 May 2026 04:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ctrl操作</title>
+      <link>https://www.producthunt.com/products/ctrlops</link>
+      <description><![CDATA[
+            使用 AI 部署、调试和管理 Linux 服务器。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ctrlops</guid>
+      <pubDate>Sat, 16 May 2026 17:43:18 GMT</pubDate>
     </item>
     <item>
       <title>我会被称为</title>
@@ -88,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/papr-3</guid>
       <pubDate>Sat, 16 May 2026 14:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>越野车宇宙</title>
-      <link>https://www.producthunt.com/products/buggyverse</link>
-      <description><![CDATA[
-            与陌生人在线学习，高度负责的焦点室
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/buggyverse</guid>
-      <pubDate>Fri, 15 May 2026 04:27:19 GMT</pubDate>
     </item>
     <item>
       <title>沃克</title>
@@ -144,48 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/motion-8</guid>
       <pubDate>Tue, 12 May 2026 00:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像代理 v4</title>
-      <link>https://www.producthunt.com/products/imgproxy</link>
-      <description><![CDATA[
-            快速、安全的自托管图像处理服务器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/imgproxy</guid>
-      <pubDate>Mon, 11 May 2026 17:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>calog.cc</title>
-      <link>https://www.producthunt.com/products/calog-cc</link>
-      <description><![CDATA[
-            基于聊天的卡路里追踪器，真正了解德西食物
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/calog-cc</guid>
-      <pubDate>Fri, 08 May 2026 16:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>花见</title>
-      <link>https://www.producthunt.com/products/hanami-2</link>
-      <description><![CDATA[
-            每日冥想日本艺术
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hanami-2</guid>
-      <pubDate>Thu, 07 May 2026 04:47:45 GMT</pubDate>
     </item>
     <item>
       <title>波莉瑞奇</title>
