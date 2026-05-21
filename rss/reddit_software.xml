@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 May 2026 06:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:11:38 GMT</lastBuildDate>
+    <item>
+      <title>磁盘分析器 — 带有树形图的免费跨平台磁盘空间分析器</title>
+      <link>https://www.reddit.com/r/software/comments/1tjg646/disk_analyzer_free_crossplatform_disk_space/</link>
+      <description><![CDATA[为 Windows 和 Linux 构建了可用磁盘空间分析器。将其指向任何驱动器或文件夹，它就会以交互式树形图的形式准确显示哪些内容正在使用您的空间。单击任意矩形进行钻取，查看文件类型细分，通过 SHA-256 验证查找重复项，并将您不需要的任何内容发送到回收站。 它的作用：  带钻取导航的交互式树形图 文件类型细分面板（哪些扩展正在占用您的空间） 重复文件查找器 - 逐字节验证，安全删除到回收站 右键单击“在资源管理器中打开”可排序文件列表/“发送到回收站” 工具栏中的驱动器切换器（在驱动器之间切换而无需重新启动） 右键单击“使用磁盘分析器扫描”在 Windows 资源管理器和 Linux Nemo 中 浅色和深色主题  平台： Windows（NSIS 安装程序）和 Linux（AppImage + .deb）。都是 x64。 https://github.com/ledgeon/Disk-Analyzer/releases   由   提交/u/NF7UOS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjg646/disk_analyzer_free_crossplatform_disk_space/</guid>
+      <pubDate>Thu, 21 May 2026 10:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>离开 GitHub 前往私人仓库</title>
+      <link>https://www.reddit.com/r/software/comments/1tjg21r/leaving_github_for_private_repos/</link>
+      <description><![CDATA[好吧，在最近的 GitHub 违规事件、VSCode 扩展问题以及最近的持续中断之后，我几乎决定不再希望我的私人存储库完全位于 GitHub 上。我可能仍然会在那里反映公共仓库，因为实际上每个人都在那里，但私人的东西是一个不同的故事。现在我主要关注 Gitea 和 Forgejo，因为它们看起来比 GitLab 更轻、更容易管理。老实说，在这件事发生之前，我已经开始偏离“GitHub 内的一切”设置了。在过去的几个月里，我们的很多 CI/审查/部署工作都转移到了 Tenki，因为 GitHub Actions 开始变得更加令人头疼，而对于某些项目来说，它的价值已经超出了它的价值。这整个违规情况有点推动我进一步分离事物，而不是将存储库、运行程序、自动化、审查、部署永远保留在一个生态系统中。我很高兴听到这里的人们实际上最终使用了长期的自托管/私有存储库，因为大多数关于此的线程在 5 条评论后就变成了平台战争哈哈   由   提交 /u/Admirable_Rice_9623   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjg21r/leaving_github_for_private_repos/</guid>
+      <pubDate>Thu, 21 May 2026 10:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年最适合远程团队的时间跟踪软件是什么？寻找带有屏幕截图和活动日志的内容。</title>
+      <link>https://www.reddit.com/r/software/comments/1tjfui1/whats_the_best_time_tracking_software_for_remote/</link>
+      <description><![CDATA[ 由   提交/u/RachelFrancis45546  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjfui1/whats_the_best_time_tracking_software_for_remote/</guid>
+      <pubDate>Thu, 21 May 2026 10:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Cosmo — 适用于您的终端的实时 PostgreSQL 内部仪表板。</title>
+      <link>https://www.reddit.com/r/software/comments/1tjf573/built_cosmo_a_realtime_postgresql_internals/</link>
+      <description><![CDATA[跟踪 WAL 写入速率、活动查询、锁争用、 缓存命中率、死元组 — 存在于您的终端中。 v0.2.0，仍在积极开发中。开放功能建议和贡献。 github.com/mujib77/cosmo   由   提交/u/VermicelliLittle6451   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjf573/built_cosmo_a_realtime_postgresql_internals/</guid>
+      <pubDate>Thu, 21 May 2026 09:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 Windows 应用程序，可以自动将正确的附件匹配到正确的人，并发送批量个性化电子邮件 - 无需云，无需订阅</title>
+      <link>https://www.reddit.com/r/software/comments/1tjduzv/i_built_a_windows_app_that_automatically_matches/</link>
+      <description><![CDATA[大家好，我一直在构建一个名为 **FlashAttach** 的小型桌面工具，我想你们中的一些人可能会发现它很有用。 **它解决的问题：** 如果您的企业定期发送带有单独附件（发票、工资单、证书、报告）的批量个性化电子邮件，您就会知道这是多么痛苦。打开电子邮件，找到正确的文件，附加附件，填写地址，然后发送。重复 200 次。 **FlashAttach 的作用：** - 从 Excel 或 CSV 导入联系人列表 - 按姓名或电子邮件自动将正确的文件与正确的人匹配 *（屏幕截图 2）* - 使用邮件合并字段（{{Name}}、{{InvoiceNo}} 等）个性化每封电子邮件 - 一次性发送整批电子邮件单击您自己的 Office 365、Gmail 或 SMTP 帐户 *(屏幕截图 3)* - 包括一个 PDF 拆分器，可将多页 PDF 剪切成单独的命名文件，准备附加 *(屏幕截图 4)* **它不执行的操作：** 通过我的服务器发送任何内容。一切都在您的计算机上本地运行。没有云，没有订阅，没有每封电子邮件的费用。您的数据永远不会离开您的网络。 在发送之前，它还会将附件加密为受密码保护的 ZIP 或 AES-256 存档 - 方便用于工资单或合同。 仍在完善它 - 如果有人想看到它的实际效果，请给我发私信，我将引导您完成它或免费分享演示版本。 您会在这样的内容中添加什么？ 有关更多信息，您可以访问 https://blacksteeldigital.gr/ — Dimitris，黑钢数字   由   提交/u/Dargorffs  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjduzv/i_built_a_windows_app_that_automatically_matches/</guid>
+      <pubDate>Thu, 21 May 2026 08:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会为后台跳跃吓人应用程序牺牲多少内存？</title>
+      <link>https://www.reddit.com/r/software/comments/1tjcfls/how_much_ram_would_you_sacrifice_for_a_background/</link>
+      <description><![CDATA[我正在制作一个小型 Windows 应用程序，该应用程序在后台运行并随机触发所有窗口上方的跳转惊吓。现在我正在处理图像缓存和内存使用问题。 对于这样的事情，您仍然可以接受多少 RAM 使用量？ 20–30mb、50–80mb 还是 150–160mb？ 您真的会让这样的应用程序在后台运行吗？还是会感觉太重了？   由   提交/u/ifeezi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tjcfls/how_much_ram_would_you_sacrifice_for_a_background/</guid>
+      <pubDate>Thu, 21 May 2026 06:52:39 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个开源 AI 工作区，因为我的工作环境分散在太多应用程序中</title>
       <link>https://www.reddit.com/r/software/comments/1tjbww6/i_built_an_opensource_ai_workspace_because_my/</link>
@@ -18,13 +60,6 @@
       <description><![CDATA[大家好， 我构建了 OpBoard，因为我厌倦了维护日益复杂的电子表格来跟踪多个银行账户的现金流。我想再次发帖宣布 OpBoard 的标准计划现在永久免费。 它的作用：OpBoard 允许您从任何银行导入 CSV 导出，使用您定义的关键字规则自动对交易进行分类，并使用可自定义的图表和仪表板可视化您的现金流。  什么是免费的（永远，没有任何限制）：  无限制交易 从任何银行导入 CSV 使用关键字/商家规则进行智能分类 模式自动标记 自定义类别和自定义类别预算 所有图表和预算仪表板定制 注释和注释自定义主题  无需信用卡。没有试用期到期进入付费专区。标准计划真正永久免费。 对于前 Mint 用户：当 Mint 关闭时，很多人无家可归。 OpBoard 可以填补这一空白。您无需交出银行登录信息即可获得交易分类、支出明细和现金流量图。只需从银行导出 CSV 并导入即可。 为什么不直接使用电子表格？你完全可以 - 我多年来一直这样做。但是，一旦您在多个帐户之间进行了数月的交易，维护公式、数据透视表和手动分类就成为第二项工作。 OpBoard 处理重复部分（分类、图表、期间比较），因此您可以专注于实际了解您的资金去向。 为什么不使用 YNAB 或其他付费工具？大多数替代方案的费用为每年 100 美元以上，或者要求您连接银行帐户。 OpBoard 的免费套餐使用 CSV 导入 — 您的数据将按照您的条件保留。如果您想通过 Plaid 进行自动银行同步，可以在可选的 Pro 计划中使用，但这不是必需的。 我希望得到任何尝试过它的人的反馈。我正在根据用户输入积极构建。 链接：https://www.opboard.io   由   提交/u/OP_Walker  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tjbhay/i_made_my_budgeting_apps_standard_plan_free/</guid>
       <pubDate>Thu, 21 May 2026 06:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里的经理 - 您实际使用什么工具或软件来监控团队生产力？寻找诚实的优点和缺点。</title>
-      <link>https://www.reddit.com/r/software/comments/1tja4b7/manager_here_what_tools_or_software_do_you/</link>
-      <description><![CDATA[ 由   提交/u/RachelFrancis45546  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tja4b7/manager_here_what_tools_or_software_do_you/</guid>
-      <pubDate>Thu, 21 May 2026 04:52:19 GMT</pubDate>
     </item>
     <item>
       <title>关于 DeepChart 退款</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[所以我买了一个脚踏板，它与 A B C 相连，我试图改变它，但我迷失了 注意：我试图用它玩游戏，所以我需要键盘上的 A 键保持不变   由   提交/u/PsychologicalWord480  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tj1yr0/remapping_foot_pedals/</guid>
       <pubDate>Wed, 20 May 2026 22:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切的所有者！</title>
-      <link>https://www.reddit.com/r/software/comments/1tizrn6/los_dueños_de_todo/</link>
-      <description><![CDATA[问题，随着人工智能的进步以及制作一个应用程序的可能性，以前可能需要 5 或 10 个人……现在不是开始创建或重新创建不会损害我们数据的应用程序的时候了吗？现在是时候根据真正的隐私原则构建主权工具，而不需要以成为百万富翁为目标了吗？    由   提交  [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tizrn6/los_dueños_de_todo/</guid>
-      <pubDate>Wed, 20 May 2026 21:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Explorer告诉我删除1M文件需要几个小时，所以我构建了自己的文件复制工具，欢迎反馈</title>
-      <link>https://www.reddit.com/r/software/comments/1tizlq0/explorer_told_me_it_needed_hours_to_delete_1m/</link>
-      <description><![CDATA[大家好， 整个项目从纯粹的挫败感开始。大约六年前，我刚刚在全新的 PCIe SSD 上构建 Chromium，作为另一个项目的一部分，当我尝试删除构建文件夹中超过100 万个小文件时，Windows 资源管理器告诉我这将需要几个小时。对于基准测试速度极快的驱动器来说，这感觉完全错误，我需要“快速”迭代。在我的项目中...至少不用花一整天的时间等待我的电脑... 所以我编写了一个小型测试工具来自己删除文件...结果证明我可以比 Explorer 做得更好。这也促使我尝试提高复制性能，只是出于好奇。 在此过程中，我还想处理 Explorer 遇到的所有烦人的边缘情况：  非常长的路径（Explorer 只会说“抱歉，无法删除它”） 带有尾随空格的文件名（我以前遇到过这个，Explorer 被它们噎住了） 深层目录树 符号链接/连接  起初我将项目命名为FastCopy，因为复制速度越来越快。然后我发现了实际 FastCopy...是的，它很快。比我当时的速度还要快。这让我陷入了“好吧，现在我想成为最快”的游戏。 因此，我重写了所有内容，深入研究了较低级别的 API，优化了算法，并尝试尽可能地发挥每一点性能。 UltraFastCopy 就是结果。 现在：  大型目录操作速度非常快 并行传输可以达到接近 CrystalDiskMark 的速度 单文件 SSD→SSD 传输仍有改进空间，我正在努力解决这个问题  我希望得到处理以下内容的人员的反馈：  大文件树 奇怪的文件系统 NAS/Samba 怪癖 长路径噩梦 带有奇怪字符或尾随空格的文件名 或任何可能破坏复制工具的内容  发布此内容是为了从那些经常将 Windows 文件操作推向极限的人或只是想要原始速度的用户那里获得反馈。我对您认为缺少哪些功能或下一步我应该支持哪些边缘情况特别感兴趣。 如果您好奇，请访问以下链接：https://www.ultrafastcopy.com/  https://preview.redd.it/p1361oj61d2h1.png?width=506&amp;format=png&amp;auto=webp&amp;s=4cadd3e1fb233e1c036ea4247b0e3ffb5a9a49ee   由   提交 /u/_Ti-R_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tizlq0/explorer_told_me_it_needed_hours_to_delete_1m/</guid>
-      <pubDate>Wed, 20 May 2026 21:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>可用的来源实际上意味着任何有意义的事情还是只是营销？</title>
-      <link>https://www.reddit.com/r/software/comments/1tiz5ez/does_source_available_actually_mean_anything/</link>
-      <description><![CDATA[最近看到越来越多的软件将自己描述为可用的源，尤其是在人工智能工具领域。我知道它与完全开源不同，但我不确定如何评估它在实践中是否真正重要 就像能够阅读代码实际上可以为您提供任何有意义的保护，以防止公司做粗略的事情吗？或者它主要是一个不能转化为真正用户权利的信任信号？ 真正考虑这个问题的人会怎么想？   由   提交/u/GloveGeneral1310  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tiz5ez/does_source_available_actually_mean_anything/</guid>
-      <pubDate>Wed, 20 May 2026 21:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了从 IDM 下载缓慢的 .ts，所以我构建了一个轻量级的 FFmpeg GUI</title>
-      <link>https://www.reddit.com/r/software/comments/1tixyd3/got_tired_of_laggy_ts_downloads_from_idm_so_i/</link>
-      <description><![CDATA[从 IDM 和流媒体网站下载的许多视频会保存为 .ts 文件，而不是普通的 .mp4 文件。 问题在于这些文件通常：  VLC 中出现延迟 在播放器之间表现不一致 在手机/电视上变得烦人 需要混乱的转换设置  因此，我围绕 FFmpeg 构建了一个轻量级 Windows GUI，它使用快速流复制（-c copy）将 .ts → .mp4 转换。 这意味着许多文件在几秒钟内完成转换，而无需重新编码或质量损失。 功能：  批量转换 简单的轻量级UI 捆绑 FFmpeg 无需终端 用户无需安装 Python  GitHub： https://github.com/Samnannn/ts-video-converter-gui   由   提交/u/mohdsamnaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tixyd3/got_tired_of_laggy_ts_downloads_from_idm_so_i/</guid>
-      <pubDate>Wed, 20 May 2026 20:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>在您的项目中，如何集成具有不同身份验证方法的多个API？</title>
-      <link>https://www.reddit.com/r/software/comments/1tixoxc/in_your_projects_how_do_you_integrate_multiple/</link>
-      <description><![CDATA[我使用用 Django 和 DRF 构建的 Slack 工作区，其中放置了所有函数和类来调用和管理不同类型的 API，然后我只需通过这个 Slack 工作区来调用不同的 API。你呢？   由   提交/u/ELMG006  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tixoxc/in_your_projects_how_do_you_integrate_multiple/</guid>
-      <pubDate>Wed, 20 May 2026 20:20:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
