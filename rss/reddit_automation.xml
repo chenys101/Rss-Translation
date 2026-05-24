@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 24 May 2026 06:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:27:29 GMT</lastBuildDate>
+    <item>
+      <title>Tasket++ - 适用于 Windows 的轻量级无代码自动化工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1tm7nxu/tasket_lightweight_nocode_automation_tool_for/</link>
+      <description><![CDATA[      Tasket++ 是一款适用于 Windows 的轻量级无代码自动化工具，可在精确的时间执行重复的用户工作流程。它可以回放用户定义的光标位置和击键，安排静默屏幕截图，自动跨应用程序发送消息，并运行一天结束的例程（关闭应用程序、淡入淡出音频、关闭）。一切都通过简单的 UI 在本地运行，无需遥测。该项目是开源的。 主要功能 - 回放用户定义的光标移动和击键 - 在任何地方粘贴预定义的文本 - 在特定日期时间、启动时或通过桌面快捷方式安排任务 - 系统操作：打开文件/程序、改变音量、静默截图、关机、文件/文件夹操作 - 循环：运行任务一次、固定循环或无限期 -谨慎模式：仅在计划任务在后台执行时从系统托盘运行 本地、可移植且开源。 现已在 Microsoft Store 中提供，搜索“Tasket++” github 页面中提供的便携式版本：/AmirHammouteneEI/ScheduledPasteAndKeys/ 有关反馈、帮助、建议或其他查询：[contact@amirhammoutene.dev](mailto:contact@amirhammoutene.dev)   由   提交/u/AmirHammoutene  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tm7nxu/tasket_lightweight_nocode_automation_tool_for/</guid>
+      <pubDate>Sun, 24 May 2026 09:43:02 GMT</pubDate>
+    </item>
     <item>
       <title>有什么东西可以让您在一个地方查询自己的工作电子邮件、文档、会议吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1tm42nf/is_there_anything_that_lets_you_query_across_your/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我刚刚发现了这种商业模式，我还有很多东西需要学习，所以如果我的问题听起来很愚蠢，请配合。我想瞄准那些规模不大但规模较小的美国或欧盟企业，比如街上的一家面包店，每天早上都有不错的顾客，诸如此类。    由   提交 /u/CryptographerOwn4806   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tlc4zu/how_to_find_small_businesses_that_might_be/</guid>
       <pubDate>Sat, 23 May 2026 09:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 频道</title>
-      <link>https://www.reddit.com/r/automation/comments/1tl3yk5/youtube_channel/</link>
-      <description><![CDATA[这里任何已经创建了利基频道的人我都需要真正的帮助，我正在创建一个具有增值内容和主题的频道，所以如果有人可以帮助我解决我的疑问，请给我发消息（请不要给课程卖家）   由   提交/u/Own_Faith小区_36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tl3yk5/youtube_channel/</guid>
-      <pubDate>Sat, 23 May 2026 02:43:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
