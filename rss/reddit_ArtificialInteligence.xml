@@ -4,13 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sun, 24 May 2026 10:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:12:20 GMT</lastBuildDate>
     <item>
-      <title>人工智能内容太真实了。现在 OpenAI 和 Nvidia 正在使用谷歌的水印系统。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tm71ov/ai_content_got_too_real_now_openai_and_nvidia_are/</link>
-      <description><![CDATA[ 由   提交/u/techzexplore  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tm71ov/ai_content_got_too_real_now_openai_and_nvidia_are/</guid>
-      <pubDate>Sun, 24 May 2026 09:07:40 GMT</pubDate>
+      <title>讨论：接下来的两年是从研究生院学习还是先进的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmbr49/discussion_spend_the_next_2_years_learning_from/</link>
+      <description><![CDATA[替代方案：不要花 2 年时间攻读硕士学位，而是使用人工智能工具（200 美元/月）更深入地学习，并按照您的学习方式掌握一组特定的未来技能。 在 2 年结束时，您最终会得到 1. 一张纸和一个网络 或 2. 根据您想要的方式策划智能领域，始终拥有先进人工智能工具的最新和现实经验。 哪种工具会在 2028 年及以后为您提供更好的服务？   由   提交/u/Cute-Net5957   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmbr49/discussion_spend_the_next_2_years_learning_from/</guid>
+      <pubDate>Sun, 24 May 2026 13:08:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>视觉 Transformer 模型的 Rust 实现</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmba80/rust_implementations_of_vision_transformer_models/</link>
+      <description><![CDATA[Rust 中的深度学习，该箱用于在 Rust 中构建和试验 ViT 风格的图像、视频、序列和自监督 Transformer 模型。它为研究原型和 Rust 深度学习项目提供类型化配置、可重用模型结构、可运行示例以及形状测试。 现在，Vision Transformer 将图像视为序列。 普通图像具有以下形状： [batch、channels、height、width] 模型将图像更改为以下形状： [batch、tokens、dim] 流程是： 将图像分割成补丁。 将每个补丁压平为一个长向量。 将每个补丁向量投影为暗淡。 添加位置嵌入。 运行转换器层。 池化标记。 预测类逻辑。 如果您想了解更多信息，请参阅此处：https://github.com/iBz-04/vitch   由   提交/u/Ibz04  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmba80/rust_implementations_of_vision_transformer_models/</guid>
+      <pubDate>Sun, 24 May 2026 12:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>每一次 Karpathy 采访（按时间顺序排列）——从他的第一次 Tesla Autopilot 演讲到 AGI 论文</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tm9uri/every_karpathy_interview_chronological_from_his/</link>
+      <description><![CDATA[看着他从“我们如何训练神经网络来查看车道”到“这就是为什么我认为我们正在走向通用人工智能”跨越〜6年是一件很了不起的事情。以教育为中心的东西（《零到英雄》、《莱克斯·弗里德曼》、《无先验》）是黄金。  完整列表：everyinterviewof.com/karpathy/   由   提交 /u/Low-Sandwich1194   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tm9uri/every_karpathy_interview_chronological_from_his/</guid>
+      <pubDate>Sun, 24 May 2026 11:40:58 GMT</pubDate>
     </item>
     <item>
       <title>Google 员工现在可以合法阅读您在 Gemini 上的对话（2026 年 5 月 24 日）</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[ 由   提交 /u/BhaswatiGuha19   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tm6r1z/openai_offers_up_to_445k_for_new_ai_safety_job/</guid>
       <pubDate>Sun, 24 May 2026 08:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数人工智能驱动的渠道正在悄然损害转化率。分享我在中小型企业部署中看到的情况。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tm6b0o/most_aidriven_funnels_are_quietly_hurting/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tm6b0o/most_aidriven_funnels_are_quietly_hurting/</guid>
-      <pubDate>Sun, 24 May 2026 08:25:58 GMT</pubDate>
     </item>
     <item>
       <title>有人可以反驳为什么人工智能的实际目标之一实际上是向我们出售订阅并消除实际拥有我们的硬件的能力的借口吗？</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[ 由   提交/u/TheMirrorUS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlfr0o/donald_trump_posts_wild_ai_video_throwing_stephen/</guid>
       <pubDate>Sat, 23 May 2026 12:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：在大规模裁员期间，即将离职的 Meta 员工在内部发布了尖锐的反人工智能视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlcp9f/exclusive_departing_meta_staffer_posts_biting/</link>
-      <description><![CDATA[ 由   提交 /u/chunmunsingh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlcp9f/exclusive_departing_meta_staffer_posts_biting/</guid>
-      <pubDate>Sat, 23 May 2026 10:24:00 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
