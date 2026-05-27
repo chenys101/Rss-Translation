@@ -4,63 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 27 May 2026 12:17:51 GMT</lastBuildDate>
-    <item>
-      <title>Circadia操作系统</title>
-      <link>https://www.producthunt.com/products/circadiaos</link>
-      <description><![CDATA[
-            睡眠优化，减去 3,000 美元的床垫舱
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/circadiaos</guid>
-      <pubDate>Tue, 26 May 2026 23:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GenGo</title>
-      <link>https://www.producthunt.com/products/gengo-2</link>
-      <description><![CDATA[
-            在 macOS 上的任意位置转换选定的文本
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gengo-2</guid>
-      <pubDate>Tue, 26 May 2026 21:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>零xyz</title>
-      <link>https://www.producthunt.com/products/zero-xyz</link>
-      <description><![CDATA[
-            让您的 AI 代理能够访问超过 4k 种工具、API 和服务
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/zero-xyz</guid>
-      <pubDate>Tue, 26 May 2026 18:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>港口</title>
-      <link>https://www.producthunt.com/products/habor</link>
-      <description><![CDATA[
-            CLI + 配套应用程序可启动完整的本地 LLM 堆栈
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/habor</guid>
-      <pubDate>Tue, 26 May 2026 16:29:14 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 May 2026 17:56:36 GMT</lastBuildDate>
     <item>
       <title>网狐</title>
       <link>https://www.producthunt.com/products/netfox</link>
@@ -160,10 +104,24 @@
       <pubDate>Tue, 26 May 2026 07:00:40 GMT</pubDate>
     </item>
     <item>
+      <title>山猫</title>
+      <link>https://www.producthunt.com/products/bob-s-workshop</link>
+      <description><![CDATA[
+            一个主权代理，可以根据您的喜好学习编码
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bob-s-workshop</guid>
+      <pubDate>Tue, 26 May 2026 04:17:14 GMT</pubDate>
+    </item>
+    <item>
       <title>莫吉托</title>
       <link>https://www.producthunt.com/products/mojito-2</link>
       <description><![CDATA[
-            键入即可在几秒钟内搜索任何表情符号或符号
+            键入内容即可在几秒钟内搜索任何表情符号、符号或 gif
           
 
 讨论
@@ -174,18 +132,46 @@
       <pubDate>Mon, 25 May 2026 16:41:44 GMT</pubDate>
     </item>
     <item>
-      <title>巴兹工作室</title>
-      <link>https://www.producthunt.com/products/bazaar-2</link>
+      <title>蓝点2.1</title>
+      <link>https://www.producthunt.com/products/bluedot-2</link>
       <description><![CDATA[
-            AI 代理的技能库和视频编辑器
+            在 Apple Watch 上录制。与克劳德同步
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bazaar-2</guid>
-      <pubDate>Fri, 22 May 2026 13:37:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/bluedot-2</guid>
+      <pubDate>Sun, 24 May 2026 11:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速表 v1.2</title>
+      <link>https://www.producthunt.com/products/quicksheet-light-spreadsheet</link>
+      <description><![CDATA[
+            从菜单栏即时创建和编辑电子表格
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/quicksheet-light-spreadsheet</guid>
+      <pubDate>Sun, 24 May 2026 09:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>波瓦基</title>
+      <link>https://www.producthunt.com/products/powabase</link>
+      <description><![CDATA[
+            使用 Postgres、RAG 和代理构建 AI 应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/powabase</guid>
+      <pubDate>Fri, 15 May 2026 16:18:24 GMT</pubDate>
     </item>
     <item>
       <title>Mac 版绿洲浏览器</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/krater-ai</guid>
       <pubDate>Sun, 10 May 2026 18:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>银行对账单实验室</title>
+      <link>https://www.producthunt.com/products/bankstatementlab</link>
+      <description><![CDATA[
+            使用 AI 将任何银行对账单 PDF 转换为 Excel、CSV 或 JSON
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bankstatementlab</guid>
+      <pubDate>Sat, 21 Mar 2026 05:32:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
