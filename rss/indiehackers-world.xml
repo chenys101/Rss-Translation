@@ -4,7 +4,25 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 28 May 2026 18:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:40:52 GMT</lastBuildDate>
+    <item>
+      <title>Vibe 编码的应用程序有一个共同的错误。这不是模型。</title>
+      <link>https://feed.indiehackers.world/post/4c88858b76</link>
+      <description><![CDATA[
+AI 输出不可撤消 → 用户在生成出错时会感到卡住
+缺少关于事实答案的引用/置信度提示 → 每次回复都会削弱信任
+仅用于聊天的用户界面，适用于真正需要表单的任务 → 放弃很快就会出现
+
+这些都不是“模型是愚蠢的”。
+所有这些都是被跳过的交互层。
+对那些使用 Lovable / v0 / Cursor / Bolt 的人感到好奇：
+您在启动后才注意到哪些用户体验问题，而该工具没有向您发出警告？
+我正在围绕这个构建一些东西。今天不进行推介 - 但如果您希望我查看您的应用并发回我注意到的内容，请在此处回复或私信。
+目前正沉迷于人工智能产品用户体验。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/4c88858b76</guid>
+      <pubDate>Thu, 28 May 2026 18:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>我不断地开始项目并放弃它们。所以我建立了一个不让我这么做的系统</title>
       <link>https://feed.indiehackers.world/post/b7f09aaa63</link>
@@ -35,13 +53,13 @@ Discord Indiehackers 聊天广告此处]]></description>
 
  混乱的数据 → 首先修复您的输入。干净的数据&gt;完善的系统
  变量太多 → 保持简单（3-5 个指标）
-  Skipping comparison → forecasts alone are much less useful    
+ 跳过比较 → 单独预测的用处要小得多 
 期望完美的准确性 → 寻找方向，而不是精确
 
-How to improve this later
+稍后如何改进
 一旦它起作用，您就可以：
 
-  Add separate forecasts per product    
+ 为每个产品添加单独的预测 
 跟踪转化率变化
  如果上周收入或平均收入比预测下降 ≥ 20%，则会收到提醒
  通过要求 AI 估计价格上涨、流量激增等变化的影响，添加简单的“假设”测试。
@@ -63,15 +81,15 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>这里是单独开发者。没有人使用我的应用程序。你实际上是如何进行营销的？</title>
       <link>https://feed.indiehackers.world/post/4e4bfad079</link>
-      <description><![CDATA[单独的 iOS 开发。制作了一个名为 Supplement Crash 的补充剂跟踪应用程序。 shipped twice, went through apple review 3 times (still recovering lol).
+      <description><![CDATA[单独的 iOS 开发。制作了一个名为 Supplement Crash 的补充剂跟踪应用程序。发货两次，苹果审核3次（还在恢复中哈哈）。
 建筑部分很好。营销是问题所在。
-i tried HN comments, PH forum posts, IH replies, one Reddit post in r/Supplements.我得到用户了吗？并不真地。 some karma, some upvotes, almost no downloads.
+我尝试了 HN 评论、PH 论坛帖子、IH 回复、r/Supplements 中的一篇 Reddit 帖子。我得到用户了吗？并不真地。一些因果报应，一些点赞，几乎没有下载。
 我阅读营销博客。每个博客都说不同的事情。 SEO 需要几个月的时间。付费广告要花钱，我没有。冷漠的外展感觉很奇怪。
 几个问题：
 
-whats actually working for indie devs in 2026?
+2026 年，什么对独立开发者真正有用？
 关注一个频道还是同时关注多个频道？
-how long until you saw first 100 real users?
+距离您看到前 100 个真实用户需要多长时间？
 
 很想听听什么对您有用。特别是如果您从 0 预算开始。
 Discord Indiehackers 聊天广告此处]]></description>
@@ -219,17 +237,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/842cacf3b5</guid>
       <pubDate>Sun, 24 May 2026 03:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 5 分钟内免费发现高意向客户。</title>
-      <link>https://feed.indiehackers.world/post/bb3153caa6</link>
-      <description><![CDATA[现在就这样。如果您想表达“谢谢”还不够，请订阅该应用程序😉：
-网络应用：https://www.mindnote.online
-Android 应用：https://play.google.com/store/apps/details?id=com.mindnote.app&amp;pli=1
-iOS：https://apps.apple.com/app/mindnote-ai-notetake-app/id6757657079
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/bb3153caa6</guid>
-      <pubDate>Sat, 23 May 2026 16:09:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
