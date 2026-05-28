@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 28 May 2026 02:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 06:51:23 GMT</lastBuildDate>
+    <item>
+      <title>除了邮递员还有其他选择吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1tpuf6r/is_there_any_alternative_to_postman/</link>
+      <description><![CDATA[ https://preview.redd.it/0p1o3toift3h1.jpg?width=835&amp;format=pjpg&amp;auto=webp&amp;s=b6adae819c011bfad8a9d67e15a204180cef3df1 您现在使用什么？   由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tpuf6r/is_there_any_alternative_to_postman/</guid>
+      <pubDate>Thu, 28 May 2026 05:39:42 GMT</pubDate>
+    </item>
     <item>
       <title>动态 RGB 描边 Windows 屏幕保护程序</title>
       <link>https://www.reddit.com/r/software/comments/1tppnmg/dynamic_rgb_stroke_windows_screensaver/</link>
@@ -34,16 +41,9 @@
       <pubDate>Wed, 27 May 2026 21:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>达米安 |/|>-<([(未知的电视人)])>-<|\|</title>
-      <link>https://www.reddit.com/r/software/comments/1tpiros/damien_the_unknown_tv_man/</link>
-      <description><![CDATA[ 由   提交/u/MoistBaby3677  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tpiros/damien_the_unknown_tv_man/</guid>
-      <pubDate>Wed, 27 May 2026 21:10:24 GMT</pubDate>
-    </item>
-    <item>
       <title>我为 Windows 构建了一个开源“Google Lens”，WinLens。它可以就地翻译您的整个屏幕</title>
       <link>https://www.reddit.com/r/software/comments/1tpimon/i_built_an_opensource_google_lens_for_windows/</link>
-      <description><![CDATA[我一直很喜欢 Android 可以触发所有内容的全屏翻译，因此我构建了一个桌面版本。 浏览器扩展仅翻译网页。 WinLens 运行 OCR，因此它可以翻译它们无法翻译的内容： - 图像内的文本、屏幕截图、信息图表（对于您在网站中找到的图像非常有用） - 游戏菜单和对话（包括未翻译的导入） - 外国应用程序 UI、安装程序、错误对话框 - 任何阅读器中的 PDF 它是 .NET 8 / WPF，使用内置Windows OCR（约 100 种语言），单文件 exe，MIT 许可。目前翻译通过在线端点进行；离线已在路线图上。  还为时过早，所以如果出现问题请告诉我，非常感谢任何反馈:) 存储库：https://github.com/marco-beltrame/WinLens   由   提交/u/Regular_Garlic_5734  [链接] [评论]]]></description>
+      <description><![CDATA[我一直很喜欢 Android 可以触发所有内容的全屏翻译，因此我构建了一个桌面版本。 浏览器扩展仅翻译网页。 WinLens 运行 OCR，因此它可以翻译它们无法翻译的内容： - 图像内的文本、屏幕截图、信息图表（对于您在网站中找到的图像非常有用） - 游戏菜单和对话（包括未翻译的导入） - 外国应用程序 UI、安装程序、错误对话框 - 任何阅读器中的 PDF 它是 .NET 8 / WPF，使用内置Windows OCR（约 100 种语言），单文件 exe，MIT 许可。目前翻译通过在线端点进行；离线已在路线图上。  还为时过早，所以如果出现问题请告诉我，非常感谢任何反馈:) 仓库：https://github.com/marco-beltrame/WinLens   由   提交/u/Regular_Garlic_5734  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpimon/i_built_an_opensource_google_lens_for_windows/</guid>
       <pubDate>Wed, 27 May 2026 21:05:15 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>2026 年最好的 Windows 隐私清理器和工具</title>
       <link>https://www.reddit.com/r/software/comments/1tpbvg7/the_best_windows_privacy_cleaners_and_tools_in/</link>
-      <description><![CDATA[释放磁盘空间并增强您的在线隐私！我们测试了适用于 Windows 的最佳 PC 清洁程序和保护工具。 在本文中  1. PrivaZer，瑞士军刀，证明了其最高排名 2.擦除，适用于使用 30 种不同程序的用户 3. BleachBit，那些不相信自己的话的人的选择 4.隐私橡皮擦，因为没有人每周进行手动扫描 5.安全橡皮擦 (ASCOMP)，当您需要确定性时 6.橡皮擦，你工具箱里的老手 2026 年我应该选择哪种 Windows 隐私清洁剂？  阅读更多 : https://assistouest.fr/en/the-best-windows-privacy-cleaners-and-tools/ 希望有帮助，   由   提交/u/Tiny-Effort-95880   [链接] [评论]]]></description>
+      <description><![CDATA[释放磁盘空间并增强您的在线隐私！我们测试了适用于 Windows 的最佳 PC 清洁程序和保护工具。 在本文中  1. PrivaZer，瑞士军刀，证明了其最高排名 2.擦除，适用于使用 30 种不同程序的用户 3. BleachBit，那些不相信自己的话的人的选择 4.隐私橡皮擦，因为没有人每周进行手动扫描 5.安全橡皮擦 (ASCOMP)，当您需要确定性时 6.橡皮擦，你工具箱里的老手 2026 年我应该选择哪种 Windows 隐私清理工具？  阅读更多 : https://assistouest.fr/en/the-best-windows-privacy-cleaners-and-tools/ 希望有帮助，   由   提交/u/Tiny-Effort-95880   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpbvg7/the_best_windows_privacy_cleaners_and_tools_in/</guid>
       <pubDate>Wed, 27 May 2026 17:09:01 GMT</pubDate>
     </item>
