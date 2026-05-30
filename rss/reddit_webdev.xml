@@ -4,18 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 30 May 2026 02:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:23:41 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday]：在我的剪贴板扩展中添加了一个文本扩展器，它节省了我大量的打字时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1trrwf0/showoff_saturday_added_a_text_expander_to_my/</link>
+      <description><![CDATA[   维护隐私第一剪贴板管理器 Chrome 扩展有一段时间了。最近发布了一个片段功能，您可以在任何文本字段中输入/关键字，它扩展到您保存的任何内容 我用它来： -我的产品推介，所以我不会每次都重写它 - github上的样板评论或公关评论 -将我的产品链接粘贴到讨论中 -我一遍又一遍发送的常见回复 它支持两种类型 - 带有格式的富文本（例如电子邮件），以及带有语法突出显示的代码（如果需要）。该扩展通过所有网站上的内容脚本进行。 附带一个管理页面，您可以在其中按类型或语言搜索过滤器并编辑片段。所有内容都仅保存在您的设备本地，目前这些内容尚未同步，让我们看看用户是否需要这些同步功能。 注意：目前正在研究如何使此功能在 Google 文档和 MS Word 上运行   由   提交/u/nhrtrix  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1trrwf0/showoff_saturday_added_a_text_expander_to_my/</guid>
+      <pubDate>Sat, 30 May 2026 06:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我做了一个小游戏，你必须猜 GitHub 存储库的星星</title>
+      <link>https://www.reddit.com/r/webdev/comments/1trqs24/showoff_saturday_i_built_a_small_game_where_you/</link>
+      <description><![CDATA[      大家好，这是我上周末构建的一个小项目： https://starguessr.vincentwill.com/ 我很想知道你的想法:)   由   提交/u/Vincenius_  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1trqs24/showoff_saturday_i_built_a_small_game_where_you/</guid>
+      <pubDate>Sat, 30 May 2026 05:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>与分享您的日程、游戏和平台的玩家进行匹配</title>
+      <link>https://www.reddit.com/r/webdev/comments/1trq7ug/match_with_gamers_who_share_your_schedule_games/</link>
+      <description><![CDATA[      在这里查看：broop.id   由   提交/u/toplez  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1trq7ug/match_with_gamers_who_share_your_schedule_games/</guid>
+      <pubDate>Sat, 30 May 2026 04:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀] 订阅很糟糕，所以我用二十一点和妓女建立了自己的领先名单构建器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1trnxev/showoff_saturday_subscriptions_suck_so_i_built_my/</link>
+      <description><![CDATA[      对于像你这样的帅哥来说都是免费的。 https://dev.versiondb.io/ 如果它很糟糕，请告诉我。如果好的话也告诉我一下。我喜欢反馈。 加载到其中的所有数据都可以在这里找到：https://github.com/vdbio   由   提交/u/Upper-Character-6743   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1trnxev/showoff_saturday_subscriptions_suck_so_i_built_my/</guid>
+      <pubDate>Sat, 30 May 2026 03:01:22 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了 TikTok...但它是拼图而不是卷轴</title>
       <link>https://www.reddit.com/r/webdev/comments/1trnetw/i_made_tiktok_but_its_puzzles_instead_of_reels/</link>
-      <description><![CDATA[      嗨r/webdev！  我已经为此工作了一年，我很高兴终于实现了我的愿景 - 解谜卷轴！ 像观看短片视频一样玩益智游戏：向上滑动以跳过，想玩就玩。 如果您不喜欢末日卷轴，可以玩每日任务或玩我们现有的 19 种（并且还在增加）游戏中的任何一种。免费，无广告，无限制！ 使用 React、TypeScript、Swiper 和 Motion 构建。 查看网站：https://puzzle.express 谢谢您，祝您游戏愉快！   由   提交/u/trancence  [链接] [评论] ]]></description>
+      <description><![CDATA[      嗨r/webdev！  我已经为此工作了一年，我很高兴终于实现了我的愿景 - 解谜卷轴！ 像观看短片视频一样玩益智游戏：向上滑动以跳过，想玩就玩。 如果您不喜欢末日卷轴，可以玩每日任务或玩我们现有的 19 种（并且还在增加）游戏中的任何一种。免费、无广告、无限制！ 制作此内容是因为我很惊讶我还没有见过这样的东西，而且我们应该更有意、更有意义地度过我们的空闲时间。我认为谜题是被动消费卷轴的一个很好的替代方案。 使用 React、TypeScript、Swiper 和 Motion 构建。 查看网站：https://puzzle.express 谢谢您，祝您玩得开心！   由   提交/u/trancence  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1trnetw/i_made_tiktok_but_its_puzzles_instead_of_reels/</guid>
       <pubDate>Sat, 30 May 2026 02:37:28 GMT</pubDate>
     </item>
     <item>
       <title>周六展示：我构建了 envlint，一个零依赖 CLI 来验证 env 文件并安全地比较它们，而不会泄露秘密</title>
       <link>https://www.reddit.com/r/webdev/comments/1trkuu0/showoff_saturday_i_built_envlint_a_zerodependency/</link>
-      <description><![CDATA[开发人员您好， 团队工作流程中的一个常见问题是配置漂移。由于缺少环境变量，登台崩溃，或者团队成员因为没有获得更新的配置而花费数小时进行调试。典型的解决方法是通过聊天应用程序共享 env 文件来比较它们，这是一个主要的安全风险。 为了解决这个问题，我构建了 envlint。它是一个用纯 Node.js 编写的开源工具，npm 依赖为零。 工作原理： - 它创建一个模式文件 (.env.schema)，其中包含键名称、预期类型（字符串、数字、布尔值、url、端口）和默认值。 - 该模式不包含任何秘密，并提交给 Git。 - 开发人员在本地或 CI/CD 中运行验证。 -它包括一个 diff 命令来比较跨环境的密钥（例如 .env 和 .env.staging）。它打印键的存在，但抑制所有值，以便终端日志保持安全。 技术细节： - 语言：JavaScript（Node.js 标准库） - 依赖项：零 - 大小：50KB 以下 我在构建这个时学到了什么： 我花了很多时间用 JavaScript 编写自定义解析器，而不是使用正则表达式或第三方解析器，例如 dotenv.编写自定义解析器使我能够更可靠地处理评论、多行值和内联类型等边缘情况。 该项目在 MIT 许可证下完全开源： https://github.com/7xmohamed/envlint 我很想听听您目前如何管理团队中的环境验证。   由   提交 /u/7xmohamedd   [链接] [评论]]]></description>
+      <description><![CDATA[开发人员您好， 团队工作流程中的一个常见问题是配置漂移。由于缺少环境变量，登台崩溃，或者团队成员因为没有获得更新的配置而花费数小时进行调试。典型的解决方法是通过聊天应用程序共享 env 文件来比较它们，这是一个主要的安全风险。 为了解决这个问题，我构建了 envlint。它是一个用纯 Node.js 编写的开源工具，npm 依赖为零。 工作原理： - 它创建一个模式文件 (.env.schema)，其中包含键名称、预期类型（字符串、数字、布尔值、url、端口）和默认值。 - 该模式不包含任何秘密，并提交给 Git。 - 开发人员在本地或 CI/CD 中运行验证。 -它包括一个 diff 命令来比较跨环境的密钥（例如 .env 和 .env.staging）。它打印键的存在，但抑制所有值，以便终端日志保持安全。 技术细节： - 语言：JavaScript（Node.js 标准库） - 依赖项：零 - 大小：50KB 以下 我在构建这个时学到了什么： 我花了很多时间用 JavaScript 编写自定义解析器，而不是使用正则表达式或第三方解析器，例如点。编写自定义解析器使我能够更可靠地处理评论、多行值和内联类型等边缘情况。 该项目在 MIT 许可证下完全开源： https://github.com/7xmohamed/envlint 我很想听听您目前如何管理团队中的环境验证。   由   提交 /u/7xmohamedd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1trkuu0/showoff_saturday_i_built_envlint_a_zerodependency/</guid>
       <pubDate>Sat, 30 May 2026 00:38:46 GMT</pubDate>
     </item>
@@ -32,20 +60,6 @@
       <description><![CDATA[大家好， 我正在尝试在 GitHub Pages 上托管一个 React (Vite) 应用程序，但一直遇到经典的 SPA 路由问题。 存储库：[Img2Num GitHub 存储库](https://github.com/Ryan-Millard/Img2Num/) 实时站点：[Img2Num GitHub 页面](https://ryan-millard.github.io/Img2Num/) The app 基本上是该项目的一个小型登陆页面，显示了如何使用该库的示例，但它使用了 React Router (BrowserRouter)。在应用程序内部导航时，一切正常，但是： - 刷新除 / 之外的任何路由都会导致 404 - 直接访问嵌套路由也是 404 - GitHub Pages 显然不处理 SPA 后备路由 很多人建议这些： - 使用 HashRouter - 添加 404.html后备黑客 -切换到另一个主机（例如，Clouflare Pages） 但我不喜欢这些选项，因为它们要么结构不完善，也不适合 SEO，不是一个完整的解决方案，或者使测试全局支持变得更加困难（Cloudflare Pages 允许使用特殊标头，例如 GitHub Pages 和许多其他 JS 设置不支持的 pthreads）。 我想做的是像静态站点生成（SSG）之类的东西，因为它可能是最干净的修复 - 类似于 Docusaurus 或 Astro 处理此问题的方式： - 在构建时预渲染路由 - 为 /、/docs 等提供静态 HTML。 - 初始加载没有客户端路由依赖 - 更好的 SEO 并且没有刷新问题 这可以避免用户需要有一个花哨的东西 当我尝试使用 Vite 设置 SSG 时React，我最终失败了 我尝试过诸如“vite-plugin-ssg”之类的东西，但遇到了我似乎无法修复的奇怪行为和错误（例如，不兼容的依赖关系，在降级时也会中断）。 我不完全理解 React SPA 设置中多路由 SSG 的正确架构。 --- 正确的现代方法是什么？有没有推荐的方法来保持 React &amp; Vite，部署到 GitHub Pages，在没有哈希路由的情况下获得适当的多路由支持，并完全避免 SPA 404 刷新问题？  我很感激任何指导或工作示例，因为我觉得我错过了这里的情节。   由   提交 /u/readilyaching   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1trjyhh/github_pages_react_vite_spa_routing_issues_im/</guid>
       <pubDate>Fri, 29 May 2026 23:59:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何寻找客户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1triy6s/how_do_you_find_clients/</link>
-      <description><![CDATA[嗨！  我想知道，对于所有的自由职业者来说，你们是如何找到客户的？    由   提交 /u/Klutzy-Badger-2778   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1triy6s/how_do_you_find_clients/</guid>
-      <pubDate>Fri, 29 May 2026 23:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是啥？？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1trikxi/wtf_is_this/</link>
-      <description><![CDATA[      新的验证步骤   由   提交/u/mikeplus10  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1trikxi/wtf_is_this/</guid>
-      <pubDate>Fri, 29 May 2026 23:00:44 GMT</pubDate>
     </item>
     <item>
       <title>当我有 PHP 网站时，我可以使用 Kotlin 制作应用程序吗？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我收到了相当不错的 B2B 合同报价。我已经在这里工作了 7 年多了，没有被解雇，np 加入了任何一家公司，总是希望在公司内部获得加薪。 问题是，在其中一些中，管理人员和领导层人员在不到 6-12 个月的时间内不断变化。目标、焦点、绩效，甚至结构都在不断地突然变化，无论我在任何组成的指标上保持一致或更好，他们总是会得到一些愚蠢的反馈，告诉我应该在我的工作或专业知识之外做一些事情。我是不是太天真了？每个他妈的公司都是这样吧？我一直在想，也许这不适合我作为一名全职员工。 承包商角色是否不太关注这一点？根据我上面所说的，你的经验是多少？不关心目标、随叫随到或职业道路。只是想完成工作，交付并继续下一个项目。我已经升职过很多次，担任过领导角色，不推荐，不喜欢，对我没有附加价值，升职不会给我更多的钱或改善我的合同。 那些提供开发服务并且你分配时间很短的机构呢？也得到了这些职位，但不知道它是如何工作的以及它有多稳定。我的整个工作生涯一直是全职员工。 如果您有关于开设 B2B 合同公司的资源，请将其链接到我，我最感兴趣的是奥地利/匈牙利地区周围的东西。我专门研究 FE，因此在这里发帖。 编辑：第二段的清晰度   由   提交/u/Raziel_LOK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1trbbg2/company_goals_and_perf_reviews_stresses_me_a_lot/</guid>
       <pubDate>Fri, 29 May 2026 18:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让 WordPress 的开发体验变得不那么糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tr91p9/how_do_i_make_the_dev_experience_of_wordpress/</link>
-      <description><![CDATA[您好， 过去几年我一直在 Nuxt/Vue 环境中工作，在此之前还使用 Laravel。 最近，我们的一位客户要求我们在 Wordpress 中重建他们的网站。我之前也曾破解过一些小型的wordpress项目，但总感觉很痛苦而且效率低下。 你们有没有使用什么工具或技术来让开发变得更好？这主要是一个小册子网站，前端的用户功能有限。不幸的是，考虑到客户的技术要求，我无法使用无头 WordPress。 我很想找到一种方法来引入组件（英雄、CTA、卡片等）、开发中的 HMR 或我在 Nuxt 等更现代的堆栈中依赖的任何其他功能的可重用性，同时还维护 Wordpress 的 CMS 方面（可能通过 ACF）。 很想听听您的提示和技巧！   由   提交/u/dont_trust_lizards  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tr91p9/how_do_i_make_the_dev_experience_of_wordpress/</guid>
-      <pubDate>Fri, 29 May 2026 17:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以找到中级全栈开发人员（远程海外）的承包商工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tr8zfl/where_to_land_a_contractor_job_as_a_mid_level/</link>
-      <description><![CDATA[嘿，大家好，今年年底我要搬到一个体面的第一世界国家，我拿到了公关，我还需要钱。过去 6 个月，我作为承包商在加利福尼亚州的一家人工智能初创公司工作，每月工资 2400 美元，他们一个月前卖掉了它，我显然被解雇了，因为他们的产品被另一家公司制造并收购了，我对自己的技能非常有信心，只是我真的不知道如何落地再次进行类似的工作。  如果你能帮我提供一些建议，请提供，请不要种族主义，我没有选择出生在哪里，我希望每个人都能在未来变得非常富有，提前致谢。   由   提交/u/In-Hell123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tr8zfl/where_to_land_a_contractor_job_as_a_mid_level/</guid>
-      <pubDate>Fri, 29 May 2026 17:23:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
