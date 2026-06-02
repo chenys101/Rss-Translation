@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 02 Jun 2026 07:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:37:11 GMT</lastBuildDate>
+    <item>
+      <title>Bug 搜寻：为什么你只需要巴黎就能打败披萨大亨 (1994)</title>
+      <link>https://www.reddit.com/r/programming/comments/1tumfhb/bug_hunt_why_you_only_need_paris_to_beat_pizza/</link>
+      <description><![CDATA[ 由   提交 /u/Optdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tumfhb/bug_hunt_why_you_only_need_paris_to_beat_pizza/</guid>
+      <pubDate>Tue, 02 Jun 2026 10:05:28 GMT</pubDate>
+    </item>
     <item>
       <title>Sanglard 分析了 Silpheed 的视频压缩技术（Sega CD，1993）</title>
       <link>https://www.reddit.com/r/programming/comments/1tujc4v/sanglard_analyzes_the_video_compression/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ttjtwv/your_process_memory_is_a_file_the/</guid>
       <pubDate>Mon, 01 Jun 2026 06:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDB 的双重射击：矢量相似性搜索和庸医</title>
-      <link>https://www.reddit.com/r/programming/comments/1tti97b/a_double_shot_of_duckdb_vector_similarity_search/</link>
-      <description><![CDATA[ 由   提交/u/pdoherty926  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tti97b/a_double_shot_of_duckdb_vector_similarity_search/</guid>
-      <pubDate>Mon, 01 Jun 2026 05:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
