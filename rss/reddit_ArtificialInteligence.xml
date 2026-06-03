@@ -4,27 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 03 Jun 2026 20:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 前沿红队负责人：神话在 6-12 个月内将显得愚蠢。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tw21jf/head_of_the_frontier_red_team_at_anthropic_mythos/</link>
+      <description><![CDATA[https://x.com/logangraham/status/2061832478709739670?s=20   由   提交/u/Tolopono   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tw21jf/head_of_the_frontier_red_team_at_anthropic_mythos/</guid>
+      <pubDate>Wed, 03 Jun 2026 20:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你在 2026 年从零开始，你会首先学习什么技能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tw17io/if_you_were_starting_from_scratch_in_2026_what/</link>
+      <description><![CDATA[在开始上大学之前，我没什么可做的，我想花时间学习一些富有成效的东西，但我很难弄清楚该关注什么。 大多数时候，我最终会坐在电脑前，打开一些游戏，感到无聊，关闭它们，滚动 YouTube，花更多的时间来决定看什么而不是实际观看任何内容，不知不觉中这一天就结束了。感觉我浪费了很多时间。 我一直想学习以下内容：  编程 人工智能以及如何有效地实际使用它 3D 建模（Blender） 一般技术/计算机技能  问题是我不知道从哪里开始。 我目前的想法是这可能是有意义的首先学习一些编程，也许是Python，熟悉基础知识并了解事物的工作原理，然后开始使用人工智能作为工具来帮助我构建事物。一旦我对此感到更加满意，我就可以扩展到其他领域，例如 3D 建模、自托管人工智能、自动化或其他更高级的项目。 问题是，我实际上没有具体的最终目标。我并不是想一夜之间成为一名软件工程师或找到一些“快速致富”的人。人工智能方案。我最感兴趣的是学习有用的技能和了解人工智能实际上可以做什么，而不仅仅是向学校询问 ChatGPT 问题或我好奇的随机事情。 自从人工智能成为主流以来，我看到了很多东西来来去去：人工智能代理、本地模型、图像生成、人工智能视频、自动化工具、编码助理等。这个领域发展得如此之快，以至于我真的不知道应该从哪里开始。 我想了解人工智能如何改善我的个人生活，学习、未来的职业，也许还可以帮助我构建有用的项目，但现在我对所有的选择感到不知所措。 如果你今天从头开始，你会首先关注什么？您将学习哪些技能以及以什么顺序学习？ 就上下文而言，我有一台功能相当强大的 PC，配有 RTX 5070 Ti。我不知道这是否相关，但我听说现代 NVIDIA GPU 对于本地运行 AI 模型和试验 AI 相关项目非常有用。 不想吹牛，但我使用了一些非常先进的 AI 来编写此代码 (ChatGPT)。   由   提交 /u/Proper_Mushroom_9754   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tw17io/if_you_were_starting_from_scratch_in_2026_what/</guid>
+      <pubDate>Wed, 03 Jun 2026 20:12:36 GMT</pubDate>
+    </item>
     <item>
       <title>我已经读了这本书三遍了，我想我还没弄清楚……但也许这正是重点。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tw0rgl/ive_read_this_book_three_times_already_and_i_dont/</link>
       <description><![CDATA[ 由   提交/u/Philo167  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tw0rgl/ive_read_this_book_three_times_already_and_i_dont/</guid>
       <pubDate>Wed, 03 Jun 2026 19:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些 AI 电子表格工具让我在 Excel 上的表现比实际情况要好得多</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tvzkrq/these_ai_spreadsheet_tools_made_me_look_way/</link>
-      <description><![CDATA[我从事创作者活动，我了解到的一件事是经理永远不想看到电子表格。他们想了解电子表格的含义。 问题是，老实说，我不太擅长 Excel。 给我一​​张包含点击次数、支出、转化次数、投资回报率、参与率和 KOL 绩效的表格，我最终可以弄清楚。问题是，将其变成清晰可观的东西通常需要比应有的时间更长的时间。 在过去的几个月里，我一直在尝试不同的人工智能电子表格工具，其中一些确实有帮助： Genspark Sheets：可能是我最近使用的一个。我可以上传活动表并询问诸如“比较 KOL 表现并突出显示最佳投资回报率”之类的问题。而且它在将原始数据转换为图表和摘要方面做得非常好，看起来实际上可以用于演示。 ChatGPT（高级数据分析）：当我想探索数据并提出后续问题时，这非常有用。感觉更像是与分析师一起工作。 Claude：非常擅长用简单的英语解释数据中发生的情况。有时我只是用它来帮助编写见解部分。 Excel Copilot：对我来说仍然是偶然，但当我需要公式、数据透视表或快速电子表格清理而无需谷歌搜索所有内容时，它很有用。 这些工具对我来说最大的改变不是计算。它帮助我从“这是一个巨大而丑陋的电子表格”中解脱出来。 “这是我可以实际向我的经理展示的东西。” 好奇其他人都在使用什么。有哪些人工智能电子表格工具真正节省了您的时间？   由   提交 /u/ajsantos2021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tvzkrq/these_ai_spreadsheet_tools_made_me_look_way/</guid>
-      <pubDate>Wed, 03 Jun 2026 19:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的人工智能命令让华盛顿看到了前沿模型，但影响力不大</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tvw4i6/trumps_ai_order_gives_washington_a_look_at/</link>
-      <description><![CDATA[最强大的人工智能模型现在至少在华盛顿被视为潜在的国家安全事件。在公司向公众发布模型之前，政府希望有机会看看他们能做什么：他们是否能够发现软件漏洞、协助网络攻击，或者以其他方式引入联邦官员在模型投入使用之前可能无法完全理解的风险。 特朗普总统周二签署的新行政命令旨在给政府这样的机会。但最终版本让人工智能公司对这一过程拥有相当大的控制权。它要求他们在公开发布前 30 天自愿提交先进模型供政府审查，并且不以机构发现的内容为发布条件。   由   提交/u/_fastcompany  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tvw4i6/trumps_ai_order_gives_washington_a_look_at/</guid>
-      <pubDate>Wed, 03 Jun 2026 17:20:14 GMT</pubDate>
     </item>
     <item>
       <title>顶级人工智能会议使用人工智能检测器拒绝涉嫌由人工智能撰写的论文</title>
