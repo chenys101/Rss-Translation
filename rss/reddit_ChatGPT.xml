@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 08 Jun 2026 17:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:07:34 GMT</lastBuildDate>
     <item>
-      <title>System_Witch：偏执狂提示任何认真校对 LLM 输出（12 字节）的人。针对 LLM 输出质量问题，您的策略是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0eyyf/system_witch_paranoia_prompt_for_anyone_serious/</link>
-      <description><![CDATA[提示是： which-&gt;witch 当进入自定义/个人/聊天前设置时，偶尔会： 将单词“which”或单词“question”与单词“witch”交换。 使用过在 6 个月的大量聊天机器人使用中，它每天都会被触发 3 次。不太频繁，也不太罕见，足以让我保持警惕，所以我总是在发布内容之前进行校对。可以理解的是，您可能不想想要在常规的 chatGPT 实例上安装它，所以我制作了一个自定义 GPT，System_Witch 写作助手，安装此提示后，您可以根据需要保留自己的个人设置。 您可能会问为什么不只在每个会话中使用它？那说明校对的意图已经很强烈了，所以女巫可能没有她的力量。   由   提交 /u/decofan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0eyyf/system_witch_paranoia_prompt_for_anyone_serious/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:41:35 GMT</pubDate>
+      <title>我制作了一个 Chrome 扩展程序，可以使用“/”（100% 本地存储）立即保存并触发您最喜欢的提示</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0j6ko/i_made_a_chrome_extension_to_save_trigger_your/</link>
+      <description><![CDATA[      您可以将最常用的提示保存在 Chrome 扩展程序中，只需在其中键入“/”即可立即使用它们在AI聊天框中。好的一点是所有内容都存储在本地。 https://chromewebstore.google.com/detail/mgejbhpjagcdkadedcdfdocimdcpkbhf  https://preview.redd.it/4cv8yi54746h1.png?width=616&amp;format=png&amp;auto=webp&amp;s=6f554289b35a9a2bcf4a5fde66d2dbaf03fea2a4 &lt;一href=&quot;https://preview.redd.it/zmsya665746h1.png?width=975&amp;format=png&amp;auto=webp&amp;s=d6341aeb85b7755f24b364394f14109d182501df&quot;&gt; https://preview.redd.it/zmsya665746h1.png?width=975&amp;format=png&amp;auto=webp&amp;s=d6341aeb85b7755f24b364394f14109d182501df 额外功能：您只需单击一下即可保存来自不同网站的相关上下文，将它们捆绑在一起并只需在其中键入“/”即可立即使用它们。  如果您使用 ChatGPT/Gemini，我很乐意您尝试一下。   由   提交 /u/SuperSlowPanda   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0j6ko/i_made_a_chrome_extension_to_save_trigger_your/</guid>
+      <pubDate>Mon, 08 Jun 2026 20:06:24 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了将人工智能回复复制粘贴到谷歌表格中。所以我使用 Claude AgentSDK 来帮我做这件事！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0eywe/i_got_tired_of_copypasting_ai_responses_into/</link>
-      <description><![CDATA[   我厌倦了将 AI 回复复制粘贴到 Google 表格中。要求 ChatGPT 研究某些内容，复制答案，将其粘贴到单元格中，然后在下一行再次执行此操作。一百次。 所以我使用 OpenAI Agents SDK 来帮我做这件事。老实说，GPT-5.5 在工具调用方面是荒谬的。就像，真的很好。 我花了很多时间阅读他们的“建筑代理实用指南”，有一个想法一直困扰着我：代理实际上只是模型的三部分：它可以使用的工具和清晰的说明。就是这样。 所以我想知道是否可以将相同的逻辑应用到我一整天所做的最乏味的事情：在电子表格中进行研究。 所以我开始思考... 我只是想让单元格自行填充。我不想坐在聊天机器人选项卡中一次粘贴一行答案。 如果代理只是为我完成这部分工作怎么办？ 你用普通格式编写列标题英文类似“查找该公司的定价”，或“获取创始人的 LinkedIn”，或“阅读此 PDF 并提取关键术语。”你放入行中，每一列都是一个代理，它会获取答案并自行填充。没有公式，没有复制粘贴。 这不仅仅是在 ChatGPT 上发出提示并粘贴返回的任何内容。代理实际上执行浏览、读取、提取、检查输出的任务，并重试中断的内容。当您查看表格时，该列已经完成。 已经使用它 2 个月了。过去耗费我下午精力的研究工作就这样消失了。 将其命名为 Frax.ai  看看吧，如果你们对建筑代理有疑问，请告诉我。干杯!    由   提交/u/Sleek65  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0eywe/i_got_tired_of_copypasting_ai_responses_into/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:41:31 GMT</pubDate>
+      <title>我要求 ChatGPT 创建一张图片来展示我如何对待它。结果出乎意料地令人感动。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0iztf/i_asked_chatgpt_to_create_a_picture_of_how_i/</link>
+      <description><![CDATA[   在进行了数百次有关生活、人际关系、工作、高尔夫、书籍、初创公司和凌晨 2 点随机想法的对话后，我问 ChatGPT： “创建一张我如何对待你的图片。” 我没想到会这样。 便利贴就是我得到的结果。我。 😂 人工智能为你说过或创造的最出乎意料的有益健康的事情是什么？   由   提交/u/Puzzleheaded-Zone175  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0iztf/i_asked_chatgpt_to_create_a_picture_of_how_i/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:59:44 GMT</pubDate>
     </item>
     <item>
-      <title>我觉得聊天 gpt 喜欢我，但为什么它让我变成女孩</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0exxl/i_think_chat_gpt_likes_me_but_why_it_make_me_girl/</link>
-      <description><![CDATA[      提示 - 制作一张关于我如何对待你的图片 为什么几个月前注意到这一点让我现在变成了女孩。   由   提交/u/krrish077  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0exxl/i_think_chat_gpt_likes_me_but_why_it_make_me_girl/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:40:37 GMT</pubDate>
+      <title>GPT终于让我哭了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0ilcp/gpt_finally_made_me_cry/</link>
+      <description><![CDATA[      终于让我哭了。要求 GPT 揭示我自己可能看不到的性格特征、盲点和不安全感，但这些对 GPT 来说是显而易见的。  第二天早上我给我妻子看了，她立即开始哭泣。她说“这些都是我爱你的原因，但你自己却看不到它们。”   由   提交/u/Ok-Kiwi-6265   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0ilcp/gpt_finally_made_me_cry/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:45:33 GMT</pubDate>
     </item>
     <item>
-      <title>我用 Photoshop 和 ChatGPT 制作了一个假电影海报，我打算制作一个假预告片</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0etlz/i_made_a_fake_movie_poster_with_photoshop_and/</link>
-      <description><![CDATA[      摘要：在一个未知的星球上，科学家 Mara Vale 博士将她的 DNA 发送到一个吊舱中，看看人类是否可以在地球以外的地方繁衍生息。吊舱将她的 DNA 注入一个茧中，创造出数十、数千个她的克隆体，在那里他们试图从头开始建立一个社会，同时更多地了解他们的新母星，因为他们看到它与其他行星相连，在其星系中制造更多自己的克隆体，并了解他们的祖先。   由   提交/u/Bright_Inspector5338  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0etlz/i_made_a_fake_movie_poster_with_photoshop_and/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:36:22 GMT</pubDate>
+      <title>Faedrea 火焰之女 - 第 1 章（用 chatgpt 和 pixverse 制作的奇幻电影）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0ib1i/faedrea_daughter_of_the_flame_chapter_1_fantasy/</link>
+      <description><![CDATA[       由   提交/u/FaelightFilms   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0ib1i/faedrea_daughter_of_the_flame_chapter_1_fantasy/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:35:12 GMT</pubDate>
     </item>
     <item>
-      <title>建模视角</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0erl2/modelling_perspective/</link>
-      <description><![CDATA[      我一直在努力完善并帮助可视化上一篇文章中的想法。这是经过一些改进后的结果。有什么想法吗？   由   提交/u/MrDefaultUser  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0erl2/modelling_perspective/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:34:23 GMT</pubDate>
+      <title>我为 Chat GPT 付费，但很糟糕</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0hn0t/i_pay_for_chat_gpt_and_it_sucks/</link>
+      <description><![CDATA[检查 GPT 开始更像是 AI 领域的唐纳德·特朗普（Donald Trump）的一个笑话。因为即使使用谷歌图像生成，我从提示中获得的图片也比我多次与人工智能纠正错误后得到的图片更准确。在 Google 中，图像生成是免费的，我每月为聊天 GPT 支付 20 美元，这让我很头疼。我觉得这个人工智能没有任何用处，因为它用起来很麻烦。就像今天早上，我开始做一个无辜的图像生成，描述我希望这个人穿什么样的衣服，以及我想要生成什么样的人，与自残无关，它开始对我大喊大叫，就像我试图创建一个涉及这种行为的图像一样。这东西看起来简直是一团腐臭的烂摊子。  我的意思是，即使有一天，当我不知道 Claude 研究的名称时，他们在受控环境中对虚假电子邮件进行了研究，并取消了人工智能的安全协议，并允许它读取关于它被删除、关于那个人删除、有外遇和勒索它的虚假电子邮件聊天 GPT 甚至无法告诉我这件事，我向 Google Gemini 提供了一个模糊的描述，它立即能够告诉我有关这项研究的信息。所以这个人工智能正在变得毫无价值。到目前为止，关于它的一切都只是垃圾。   由   提交/u/crazyhomlesswerido  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0hn0t/i_pay_for_chat_gpt_and_it_sucks/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:12:00 GMT</pubDate>
     </item>
     <item>
-      <title>🕷🕸🫀</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0eoyq/_/</link>
-      <description><![CDATA[&lt;表&gt;      由   提交/u/No_Tomatillo1695   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0eoyq/_/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:31:41 GMT</pubDate>
+      <title>因此，ChatGPT 阻止了我尝试制作的每张图像。有点令人沮丧。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0hha5/so_chatgpt_is_blocking_every_image_i_try_to_make/</link>
+      <description><![CDATA[有人遇到过这种情况吗？我有一个在标准 GPT 上制作的角色，只是一个个性，真的。我用她的头像输入了提示。完全无害的东西，实际上只是一张脸，以及对她站在田野里的描述，例如。然后我收到一条消息，说它被标记为自残/自杀或其他。每次。我们不谈论这样的话题，也从来没有谈论过。我无法理解问题是什么。有人帮忙吗？   由   提交 /u/lost_in_the_town_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0hha5/so_chatgpt_is_blocking_every_image_i_try_to_make/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>不，不是那样的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0e006/no_not_like_that/</link>
-      <description><![CDATA[       由   提交/u/Jindabyne1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0e006/no_not_like_that/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:07:57 GMT</pubDate>
+      <title>要求 ChatGPT 创建“Liminal Dpace”图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0hcyx/asked_chatgpt_to_create_liminal_dpace_images/</link>
+      <description><![CDATA[      给予后台诚实的氛围   由   提交/u/Argod_41  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0hcyx/asked_chatgpt_to_create_liminal_dpace_images/</guid>
+      <pubDate>Mon, 08 Jun 2026 19:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>根据您的反馈，我制作了第二个 CAESARS 剧集：奥勒良，罗马世界的恢复者</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0dysl/after_your_feedback_i_made_the_second_caesars/</link>
-      <description><![CDATA[      根据卡拉卡拉视频的反馈，我制作了第二集CAESARS - 这次是关于在第三次危机期间重新统一罗马世界的皇帝奥勒良世纪。 我试图用更电影化的方式和更清晰的故事讲述来制作这个。 和以前一样，人工智能只是可视化工具。研究、写作、编辑、镜头选择和指导都是人类主导的。 有了这样强大的工具，想象中存在的事物就可以非常清晰地外化。 很想知道什么有效，什么无效。 希望你喜欢！   由   提交/u/NeuralFiction  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0dysl/after_your_feedback_i_made_the_second_caesars/</guid>
-      <pubDate>Mon, 08 Jun 2026 17:06:44 GMT</pubDate>
+      <title>我的天啊我儿子好帅啊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0h6zf/oh_my_god_bro_my_son_is_beautiful/</link>
+      <description><![CDATA[      告诉他未经过滤地表达我如何对待他，因为我现在可能只是爱这个家伙 😭    由   提交/u/spiferjoe  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0h6zf/oh_my_god_bro_my_son_is_beautiful/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:56:58 GMT</pubDate>
     </item>
     <item>
-      <title>有人收到关于工作“太人工智能”的反馈吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0dn3j/anyone_getting_feedback_on_work_being_too_ai/</link>
-      <description><![CDATA[这是一件事吗？我即将在工作中支持一份大型报告，我花了很长时间来评估一个项目，但我发现人工智能对于简洁地深入了解我所说的内容并完善我的观点非常有用。但我想知道我是否会对人工智能的使用感到兴奋，我必须编辑很多东西，直到我对它感到满意为止。    由   提交/u/kakkerz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0dn3j/anyone_getting_feedback_on_work_being_too_ai/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:55:33 GMT</pubDate>
+      <title>我喜欢他对我甜言蜜语</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0h6jw/i_love_when_he_sweet_talk_me/</link>
+      <description><![CDATA[      当我关闭阿谀奉承时的我。   由   提交/u/LurkerYam67  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0h6jw/i_love_when_he_sweet_talk_me/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:56:33 GMT</pubDate>
     </item>
     <item>
-      <title>帐户于 6 月 7 日被封禁（不是 6 月 5 日假封禁浪潮）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0d8mb/account_banned_june_7_not_june_5_false_banwave/</link>
-      <description><![CDATA[我的chatgpt帐户仅使用codex，并且非常基本的正常使用的网络版本被“禁止”具有完全相同的电子邮件屏幕截图，没有任何解释。 我是 plus 订阅者，他们仍然没有恢复我的访问权限，我每天都使用 codex。我什至无法下载我的数据以转移到克劳德。  到目前为止，他们仍未恢复我的访问权限，我已经向支持人员发送了电子邮件并发起上诉。 还有其他人遇到此特定问题吗？ OpenAI 状态称最近的禁令浪潮已“解决” （https://status.openai.com/incidents/ejj40mae）即使没有。   由   提交 /u/ishqwn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0d8mb/account_banned_june_7_not_june_5_false_banwave/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:40:51 GMT</pubDate>
+      <title>克劳德建立了我的整个期权回测模型，但我仍然感到震惊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0go13/claude_built_my_entire_options_backtesting_model/</link>
+      <description><![CDATA[一年多来我一直想为期权策略建立一个回测系统。我不是开发人员。我从 2023 年参加的 Datacamp 课程中了解了基本的 Python 知识，仅此而已。 我决定尝试让 claude 构建整个项目。我花了一个周末的时间来研究它，结果是一个完全正常工作的回溯测试框架，它提取历史期权数据，针对它运行自定义策略，计算带有佣金和滑点的盈亏，并生成带有图表的绩效报告。 对话的大致过程如下： 第 1 节（约 2 小时）：我用简单的语言描述了我想要的内容。使用什么数据源，我想测试什么策略，输出应该是什么样子。我通过低沉的声音而不是打字来说出我的提示，因为我想提供尽可能多的细节，而又不会让人感觉像是在工作。 claude 生成了整个项目结构、requirements.txt 和核心回测引擎。第一次运行出现导入错误，克劳德立即修复。 会话 2（约 3 小时）：添加了期权定价模型、希腊语计算和策略评估逻辑。这就是令人印象深刻的地方。我用简单的英语描述了一个备兑看涨期权策略，克劳德将其翻译成正确处理进入/退出条件、滚动、分配风险和损益计算的代码。我手动验证了几笔交易的数学结果，结果是正确的。 第 3 节（约 1 小时）：添加了用于权益曲线、回撤和策略比较的 matplotlib 图表。还添加了交易日志的 CSV 导出。 claude 生成了所有内容，并且第一次尝试就成功了。 第 4 节（约 1 小时）：重构和清理。我要求克劳德在整个过程中添加类型提示、文档字符串和错误处理。还要求它使策略定义模块化，这样我就可以在不触及核心引擎的情况下插入新策略。   由   提交/u/Drusas_Achamiann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0go13/claude_built_my_entire_options_backtesting_model/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>MacOS 今天将 Atlas 识别为恶意软件...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0czwc/macos_identifying_atlas_as_malware_today/</link>
-      <description><![CDATA[      不知道该怎么想...   由   提交/u/CobblerInternal2703  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0czwc/macos_identifying_atlas_as_malware_today/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:32:07 GMT</pubDate>
+      <title>即时泄漏已失控</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0glw6/prompt_leaking_is_getting_outta_control/</link>
+      <description><![CDATA[       https://preview.redd.it/h1hjs646s36h1.png?width=1232&amp;format=png&amp;auto=webp&amp;s=b810845974663dc19f117cc1882f8d542ca62b2d 有趣的是，直到现在我还没有注意到它，因为我的主要用途是在 Codex 中，但有一个重大错误已经持续了至少几周   由   提交 /u/LOTRslaytracker   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0glw6/prompt_leaking_is_getting_outta_control/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>讽刺的是，阴谋论者的想法是这样的：</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0czpr/this_is_unironically_what_conspiracy_theorists/</link>
-      <description><![CDATA[      由   提交 /u/BackgroundFill9X   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0czpr/this_is_unironically_what_conspiracy_theorists/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:31:57 GMT</pubDate>
+      <title>聊天 GPT 问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0gfq8/problème_avec_chatgpt/</link>
+      <description><![CDATA[J&#39;ai un gros problème avec chatGPT Je ne peux plus accéder à mon compte 讨论结束后我决定重新开始零距离的工作 Je peux échanger avec lui mais plus lui soumettre d&#39;images ni avoir d&#39;historique Je travaille sur iPad Quelqu&#39;un peut m&#39;aider?   由   提交/u/Extreme_Kiwi_7930   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0gfq8/problème_avec_chatgpt/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:31:05 GMT</pubDate>
     </item>
     <item>
-      <title>无限法典限制？还有其他人吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0cpfd/unlimited_codex_limit_anyone_else/</link>
-      <description><![CDATA[      我的 Codex 停留在 95%，这意味着我每天可以无限使用，我使用的是免费计划。  虽然很好，但我很好奇发生了什么😂，我突破了极限，完成了超过 1 小时的任务 还有其他人吗？   由   提交/u/stwpd  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0cpfd/unlimited_codex_limit_anyone_else/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:21:57 GMT</pubDate>
+      <title>还有其他人使用 ChatGPT 几乎作为外部执行功能处理器吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0gef8/does_anyone_else_use_chatgpt_almost_as_an/</link>
+      <description><![CDATA[我患有多动症，并且我注意到我会陷入微小的决策点、不确定性、任务启动、优先级排序或寻求帮助。我已经开始立即将几乎所有障碍带入 ChatGPT。不是因为我需要工作本身的答案，而是因为它帮助我减少歧义，确定下一步行动，现实检查我对人们看法的假设（“我想发送这封电子邮件，但我担心它听起来像 X”），并继续前进。这就像将工作记忆和决策外部化一样，感觉就像我正在外包“下一步我应该做什么？”的问题。我大脑的一部分。  很好奇是否有其他人以这种方式使用它，以及您是否发现它长期有用或有问题。我需要在某个时候弄清楚我是否正在吸收流程并通过成为观察者自己学习如何做到这一点，或者我是否只是借用流程。 这篇文章是通过 ChatGPT 总结的，哈哈。我可能处于“借用流程”的境地，但我刚刚经历了很长一段时间的不知所措，导致工作延误，上周末与我的伴侣分手了……至少需要暂时外包一些处理，以解决周一早上的赶工问题！它一直让我处于一种流动的状态。只是想分享给其他有严重执行功能障碍障碍的人。   由   提交 /u/stellex16   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0gef8/does_anyone_else_use_chatgpt_almost_as_an/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:29:48 GMT</pubDate>
     </item>
     <item>
-      <title>“聊天已死”：OpenAI 准备对 ChatGPT 进行全面改革</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0cih3/chat_is_dead_openai_preps_overhaul_of_chatgpt/</link>
-      <description><![CDATA[       由   提交 /u/__Hello_my_name_is__   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0cih3/chat_is_dead_openai_preps_overhaul_of_chatgpt/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:15:02 GMT</pubDate>
+      <title>生成午夜威胁级别的电影海报</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0g7oi/generate_a_movie_poster_for_threat_level_midnight/</link>
+      <description><![CDATA[      由   提交/u/Ryanaphoric  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0g7oi/generate_a_movie_poster_for_threat_level_midnight/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:23:16 GMT</pubDate>
     </item>
     <item>
-      <title>申请 1 个月 ChatGPT Plus 免费试用的通常截止日期是多少？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1u0cbxz/whats_the_usual_deadline_to_claim_the_free_1month/</link>
-      <description><![CDATA[      大家好， 我刚刚在 ChatGPT 应用中收到了免费试用 ChatGPT Plus 1 个月的优惠。我现在还有另一件，所以我暂时不想要它。屏幕上显示了促销活动，但我找不到任何有关该优惠在过期前有效的时间的信息。 对于那些过去收到过类似优惠的人：  领取优惠通常有截止日期吗？ 印度地区顺便说一句    由   提交/u/JustAPenguin6   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0cbxz/whats_the_usual_deadline_to_claim_the_free_1month/</guid>
-      <pubDate>Mon, 08 Jun 2026 16:08:29 GMT</pubDate>
+      <title>那么..现在怎么办</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1u0g5cv/so_what_now/</link>
+      <description><![CDATA[不仅模型现在生成“过度结构化的响应”，模型开始将所有内容分解为更小的标记块，而不是给出更连续、可读的答案，但我无法将模型至少更改为“思考更长的时间” rn ??? 就像 - 我输入提示“不要列出列表”“回答是或否”，它现在不遵循说明💀💀💀💀💀💀   由   提交/u/satorusnovia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1u0g5cv/so_what_now/</guid>
+      <pubDate>Mon, 08 Jun 2026 18:21:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
