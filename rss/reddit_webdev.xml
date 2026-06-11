@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 08:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:40:49 GMT</lastBuildDate>
+    <item>
+      <title>优先级 高 非常高 超高</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2xxxy/priority_high_veryhigh_superhigh/</link>
+      <description><![CDATA[当你有一个喉舌管理器时 管理器：用户想要这个这个这个，这一切，都很重要，在uat之前完成它们 ffs   由   提交/u/NiceGame2007  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2xxxy/priority_high_veryhigh_superhigh/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:40:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作网站后我们需要做哪些检查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2xw7u/what_are_the_checks_we_need_to_do_after_making_a/</link>
+      <description><![CDATA[嗨，创建网站后我们需要做哪些检查，我不知道有什么类型的检查，我使用 claude 和 lovable 制作了一个网站，后端使用了两者的免费版本，我现在使用了 supabase，我想检查我的网站是否一切正常，以便我可以将其添加到我的投资组合中，我是一名 btech 一年级学生，具有非常基本的编码水平    由   提交 /u/Shivansh_Yadav07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2xw7u/what_are_the_checks_we_need_to_do_after_making_a/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布了关于被人工智能引用的官方指南，有趣的部分与 GEO 机构销售的内容相矛盾（会让很多人感到不安）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2w59t/google_published_its_official_guide_on_getting/</link>
+      <description><![CDATA[免责声明：是的，我从事人工智能可见性工作，所以我对此肯定有偏见。但我想要进入的内容实际上与我自己的行业销售的内容有所不同，所以我认为它在这里有一席之地。 早在五月中旬，谷歌就发布了第一个关于如何出现在人工智能答案中的真正指南（人工智能概述、人工智能模式）。我看到了一堆关于它的评论，它总是同一首歌，构建你的标题，添加架构，通常的废话。除非有一个“流言”。文档中的部分我还没有看到有人接受，这是最有趣的部分。谷歌简单地说，著名的 llms.txt 文件没有任何作用，你应该停止沉迷于 Schema.org，而且分块是烟雾和镜子。让我笑了一下，因为这基本上是一些“GEO”的包装。代理机构现在正在收费。 他们所推动的其实是显而易见的。他们谈论“商品”与“非商品”内容。就像，如果人工智能可以自己写你的文章，它永远不会引用你，这是有道理的，它已经有了答案，为什么还要去找你。被引用的是对模型所没有的东西的满足。你实际测量的数字，你真正运行的测试，基本上是生活经验。 让我印象深刻的例子（不是在谷歌的指南中，在其他地方）是一个专门研究机器人吸尘器、垃圾领域权威的小博客，它在人工智能答案方面的排名超过了《纽约时报》。 《纽约时报》的域名强度比《纽约时报》强三倍。除了《纽约时报》发布了任何人都可以复制的附属列表文章之外，博客作者还用真实的测量结果拍摄了他的实际测试。猜猜谁被引用了。 我认为这就是它对你有用的地方。这意味着在大多数情况下您既不需要工具也不需要代理。拿你最通用的页面来说，问问自己“任何人都可以准确地写出这个”，如果答案是肯定的，请添加一些只有你知道的内容。您甚至不需要数据。一个简单的“每个客户问我的第一个问题就是这个”而你已经脱颖而出了。它是免费的，而且比所有技术调整的总和还要重要。 仍然让我困惑的一件事是测量。为什么法学硕士选择一个来源而不是另一个来源仍然相当不透明，而且它会随着每次更新而变化。很好奇是否有人真正看到来自 ChatGPT 或 Perplexity 的真实流量，因为到目前为止，每个月通常有 3 个访问者，即使这样，您也很难分辨出它登陆的是哪个页面。   由   提交/u/didiTonic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2w59t/google_published_its_official_guide_on_getting/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Agent、Claude CLI 和 Linear 一起工作。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2vroo/ai_agent_claude_cli_and_linear_all_working/</link>
+      <description><![CDATA[我在 Google Cloud VM 实例上设置了 Claude CLI 实例，克隆了我的所有项目存储库（我们运营一个开发机构），并将 Webhook 连接到 Linear。当工单被标记时，CLI 会自动审查相关的存储库，了解需要做什么，并将详细的技术故障直接放入工单中。 这缩短了工单完成时间，因为开发人员现在有更多的上下文可以输入 Claude 代码或游标并开始构建。 下一步：我试图让 Claude 根据该评估实际创建工作 PR，并端到端地淘汰整个工单。仍在弄清楚循环是否可以完全关闭。 有人研究过这样的系统吗？很想听听您的方法。   由   提交/u/theTbling  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2vroo/ai_agent_claude_cli_and_linear_all_working/</guid>
+      <pubDate>Thu, 11 Jun 2026 10:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于长时间在家编码的开发人员来说，工作环境有多重要？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2vi9z/how_important_is_the_work_environment_for_a/</link>
+      <description><![CDATA[作为初级 Web 开发人员，要能够高效地在线学习和工作，需要具备哪些最低要求？就像你应该在私人房间里编码吗？什么样的办公桌合适，什么不合适？屋内屋外的平静气氛有多重要？我知道有一种叫做人体工程学的东西，我想问问那些有在家学习和工作以及长时间在家编码经验的程序员，我们是否可以将工作环境分为三种类型：不合适、可接受、良好。每个类别应该包含哪些内容？ 请分享您在您拥有的任何工作环境中的经验。谢谢。   由   提交/u/DurianLongjumping329  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2vi9z/how_important_is_the_work_environment_for_a/</guid>
+      <pubDate>Thu, 11 Jun 2026 10:43:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何创造性地使用 CSS/HTML/JS 来制作故事板作品集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2ttxu/how_can_i_creatively_use_csshtmljs_for_a/</link>
+      <description><![CDATA[让我们假设我们能够使用 CSS/HTML/JS 做任何可能的事情。 （由于托管限制，没有 typescript 或 node.js） 如何将其用于动画/故事板组合，与制作展示艺术墙之类的东西不同，如何以专业的方式使其具有交互性？  我对利用网络本身力量的想法更感兴趣，而不仅仅是装饰效果   由   提交/u/Enc7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2ttxu/how_can_i_creatively_use_csshtmljs_for_a/</guid>
+      <pubDate>Thu, 11 Jun 2026 09:07:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Desktop 在每次启动时都会生成 1.8 GB Hyper-V 虚拟机，甚至仅用于聊天用途</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2t4ac/claude_desktop_spawns_18_gb_hyperv_vm_on_every/</link>
+      <description><![CDATA[       由   提交/u/techie_e  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2t4ac/claude_desktop_spawns_18_gb_hyperv_vm_on_every/</guid>
+      <pubDate>Thu, 11 Jun 2026 08:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>当流量高但转化率低时，如何区分真实用户和机器人？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2t32n/how_do_you_distinguish_real_users_from_bots_when/</link>
+      <description><![CDATA[      我正在开发一个名为 IconShelf 的免费 SVG 图标项目，最近发现一些令人困惑的事情。 分析显示流量不错，但注册和转化率远低于预期。为了进行调查，我开始在 Microsoft Clarity 中查看会话，发现的行为让我怀疑很大一部分访问可能来自机器人、爬网程序或自动流量。 我已经在使用 Cloudflare Bot Management 和多个 WAF 规则。 我很好奇其他开发人员如何处理此问题。  您使用哪些工具来识别机器人流量？ 您是否依赖分析、服务器日志、清晰度，还是其他什么？ 你如何衡量“真实”的效果？流量与原始综合浏览量的比较？ 您是否发现您的实际流量远低于分析建议的流量？  我很想听听什么对您有用，以及从跟踪用户行为和转化中吸取的经验教训。 从开发人员的角度来看，解决方案是什么？ 屏幕截图中 70% 是机器人？  https://preview.redd.it/19jsil0e5m6h1.png?width=2604&amp;format=png&amp;auto=webp&amp;s=70591a9e33c635cfbaacc64c9af1b5800b6e2e74   由   提交 /u/Parking_Pea5161   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2t32n/how_do_you_distinguish_real_users_from_bots_when/</guid>
+      <pubDate>Thu, 11 Jun 2026 08:22:34 GMT</pubDate>
+    </item>
     <item>
       <title>你的包管理器在骗你：npm、Yarn、pnpm、Bun 和 Deno 的权衡</title>
       <link>https://www.reddit.com/r/webdev/comments/1u2r0ac/your_package_manager_is_lying_to_you_npm_yarn/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[作为 Apple 全球开发者大会 (WWDC) 的一部分，他们宣布了 WebKit 和 Safari 27 中的一些新功能。其中包括 Google Chrome 在去年 4 月获得的一项功能：完全可自定义的选择元素。作为一名无障碍专业人士，我非常兴奋。但令我失望的是，Firefox 还没有这个功能。  您可以在此处找到有关新功能的会议：https://developer.apple.com/videos/play/wwdc2026/204   由   提交 /u/ThatBlindSwiftDevGuy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1u278z1/webkit_finally_gets_support_for_fully/</guid>
       <pubDate>Wed, 10 Jun 2026 16:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>找到一支友好的工程师团队很罕见吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u26bfk/is_finding_a_team_of_friendly_engineers_rare/</link>
-      <description><![CDATA[我不想刻板印象所有开发人员，但他们中的很多人似乎都有不好的性格。我注意到的事情是自鸣得意/傲慢/精英主义、守门/知识囤积、偏袒/派系、排斥和围攻。有些人非常刻薄，态度恶劣，他们需要不断地提醒你他们有多聪明。所以他们利用一切机会在管理层面前炫耀和抬高你。 很多人并不把这当成一份工作，这就像他们的整个个性。然后你就会遇到这些孤独的狼或极其不善于社交的人，你几乎无法与之交谈。 我认为很难找到一群正常的、冷静友好的工程师一起工作。 有什么想法吗？   由   提交 /u/throtaway0134hdj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u26bfk/is_finding_a_team_of_friendly_engineers_rare/</guid>
-      <pubDate>Wed, 10 Jun 2026 15:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程的不成文法则</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u23cmg/the_unwritten_laws_of_software_engineering/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u23cmg/the_unwritten_laws_of_software_engineering/</guid>
-      <pubDate>Wed, 10 Jun 2026 14:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>adidas.com 不就是一个纯粹的垃圾网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u229og/is_adidascom_not_just_the_absolute_garbage_of_a/</link>
-      <description><![CDATA[在阿迪达斯网站购物是错误的，现在我后悔了。我应该留意大量页面闪烁、抖动、随机滚动、弹出窗口以及它完全冻结了一台相当新的 iPhone 的事实所发出的警告信号。就是这么重。过滤和搜索只是调用一个随机生成器，它会输出您没有搜索到的任何内容。登录强制使用密钥而不是简单密码。哦，它也无法登录。跟踪您的订单只是他们用文字描述的海市蜃楼，但尚未进行振动编码。 您认为这种类型的网站是内部开发的还是外包的？   由   提交/u/GrumpyBitFlipper  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u229og/is_adidascom_not_just_the_absolute_garbage_of_a/</guid>
-      <pubDate>Wed, 10 Jun 2026 13:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>89 个 npm 包再次遭到破坏。删除软件包并不会删除恶意软件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1zoi3/89_npm_packages_got_compromised_again_deleting/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1zoi3/89_npm_packages_got_compromised_again_deleting/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代浏览器可以处理多少行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1zhtu/how_many_rows_can_a_modern_browser_handle/</link>
-      <description><![CDATA[嗨， 您曾尝试通过  在 html 上呈现多少行？我可能需要在一页上显示超过 30 万行，并且想知道浏览器是否会死掉？   由   提交 /u/Yha_Boiii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1zhtu/how_many_rows_can_a_modern_browser_handle/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格车道现场指南简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1vszy/introducing_the_field_guide_to_grid_lanes/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1vszy/introducing_the_field_guide_to_grid_lanes/</guid>
-      <pubDate>Wed, 10 Jun 2026 08:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 149 终于允许你关闭其本地 AI 模型。这应该是默认的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1vjv7/chrome_149_finally_lets_you_turn_off_its_local_ai/</link>
-      <description><![CDATA[Google 通过静默更新向 Chrome 推送了 4GB 本地 AI 模型，直到版本 149 才提供禁用开关。用户必须手动删除该文件，重启时会重新下载。 问题的原因不是存储。这就是同意。在我的浏览器中运行的人工智能模型是一个与计算器小部件不同的类别。它将数据发送到推理引擎、消耗电力、产生热量并运行代码。没有明确的关闭开关并不是疏忽。这是一种关于用户是否处于控制之中的产品哲学。 我不认为本地人工智能本质上是坏的。对于实时搜索建议或设备上内容过滤，它非常有用。但部署模型很重要。如果我安装了某些东西，我应该知道它的作用以及如何将其关闭。安装模型的更新是静默的，文档也被埋没了。禁用它的开关只有在用户持续投诉后才会出现。 教训是能力并不是建立信任的因素。可以将其关闭。   由   提交 /u/Fantastic-Place5501   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1vjv7/chrome_149_finally_lets_you_turn_off_its_local_ai/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格车道现场指南简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1vitz/introducing_the_field_guide_to_grid_lanes/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1vitz/introducing_the_field_guide_to_grid_lanes/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:46:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
