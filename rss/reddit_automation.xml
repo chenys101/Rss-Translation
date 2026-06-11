@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 10 Jun 2026 22:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:00:02 GMT</lastBuildDate>
+    <item>
+      <title>您实际上愿意花钱请人为您实现自动化的一件事是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1u2jr02/whats_one_thing_youd_actually_pay_someone_to/</link>
+      <description><![CDATA[我正在考虑进入业务自动化领域，我很好奇人们在哪里感到最痛苦。 如果你明天可以雇用某人来自动化你的工作或业务的一部分，你会选择什么？ 不要寻找像“电子邮件”这样模糊的答案，而是寻找诸如“电子邮件”之类的模糊答案。或“管理工作”。我对让你思考的具体事情感兴趣： “我讨厌这样做。如果有人能让它消失，我会付钱。” 另外，今天的流程是什么样的？ 你目前做得如何，需要多长时间，如果没有完成会发生什么？ 我试图了解哪些问题实际上值得解决，而不是构建没人要求的自动化。 或者，如果你之前已经为自动化付费了，那是什么？值得吗？   由   提交/u/emprendorjoven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u2jr02/whats_one_thing_youd_actually_pay_someone_to/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>自动化并不能避免你做出错误的决定。这使得它们的重复成本更低、速度更快。</title>
       <link>https://www.reddit.com/r/automation/comments/1u2dt5r/automation_doesnt_save_you_from_bad_decisions_it/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[ 由   提交 /u/Boring-Shop-9424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1u1q646/n8n_tip_i_wish_i_knew_earlier_use_sticky_notes_to/</guid>
       <pubDate>Wed, 10 Jun 2026 03:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ep 004 使用 .vault_pass、ansible.cfg 和 .gitignore 保存 Vault 密码</title>
-      <link>https://www.reddit.com/r/automation/comments/1u1mqw2/ep_004_save_vault_passwords_with_vault_pass/</link>
-      <description><![CDATA[      我刚刚上传了 Ansible Vault 教程系列的 Ep.004。 该视频展示了如何运行需要 Ansible Vault 密码的 playbook，而无需输入 Vault 密码每次。我逐步使用： .vault_pass + ansible.cfg + .gitignore 目标是使保管库加密的 playbook 更易于运行，同时确保密码文件不会提交到 Git。 对于学习 Ansible、DevOps 自动化或管理 playbook 中的加密变量的人很有用。   由   提交 /u/Aspiring-Dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u1mqw2/ep_004_save_vault_passwords_with_vault_pass/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:24:46 GMT</pubDate>
     </item>
     <item>
       <title>我觉得人们不断地强行使用人工智能来做一些可以通过常规自动化完成的事情，但最终却是重新发明了轮子，松了几颗螺丝</title>
