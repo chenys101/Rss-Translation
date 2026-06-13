@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Jun 2026 13:47:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:11:03 GMT</lastBuildDate>
     <item>
       <title>火行的普罗米修斯</title>
       <link>https://www.producthunt.com/products/extract-by-firecrawl</link>
@@ -90,20 +90,6 @@
       <pubDate>Fri, 12 Jun 2026 10:07:28 GMT</pubDate>
     </item>
     <item>
-      <title>保持</title>
-      <link>https://www.producthunt.com/products/keep-8</link>
-      <description><![CDATA[
-            适用于 iPhone 或 Mac 的全屏 3D 时钟场景
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/keep-8</guid>
-      <pubDate>Fri, 12 Jun 2026 06:45:17 GMT</pubDate>
-    </item>
-    <item>
       <title>光标</title>
       <link>https://www.producthunt.com/products/qursor</link>
       <description><![CDATA[
@@ -118,10 +104,24 @@
       <pubDate>Fri, 12 Jun 2026 06:12:20 GMT</pubDate>
     </item>
     <item>
+      <title>Slack 数据代理</title>
+      <link>https://www.producthunt.com/products/basedash</link>
+      <description><![CDATA[
+            无需离开 Slack 即可询问您的数据
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Fri, 12 Jun 2026 04:35:06 GMT</pubDate>
+    </item>
+    <item>
       <title>鲍勃的 CLI</title>
       <link>https://www.producthunt.com/products/bob-s-cli</link>
       <description><![CDATA[
-            适合您的本地优先AI编码CLI
+            适合您的本地优先 AI 编码 CLI
           
 
 讨论
