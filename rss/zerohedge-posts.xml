@@ -4,7 +4,114 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 19:17:53 GMT</lastBuildDate>
+    <item>
+      <title>基金会的 Kohaku 项目负责人表示，以太坊只需 7 美分即可实现量子证明账户</title>
+      <link>https://www.zerohedge.com/crypto/ethereum-can-quantum-proof-accounts-just-7-cents-says-foundations-kohaku-project-lead</link>
+      <description><![CDATA[基金会的 Kohaku 项目负责人表示，以太坊只需 7 美分即可实现量子证明账户
+由 Zoltan Verdai 通过 CoinTelegraph.com 创作，
+根据以太坊基金会 Kohaku 项目负责人 Nicolas Consigny 的说法，以太坊可以开始为账户添加后量子保护，费用低至 0.07 美元，而无需等待硬分叉。
+
+在周六的一篇帖子中，Consigny 分享了一篇论文，提出了一种更便宜的方法以太坊用户可以保护他们的帐户免受未来量子计算的威胁。该方法采用了由美国国家标准与技术研究所开发的后量子签名标准 SPHINCS+，以便在以太坊上更高效地工作。
+该提案被称为“SPHINCS-”，旨在降低链上验证成本，而无需更改协议或预编译。 Consigny 将 SPHINCS 描述为通往未来后量子签名系统（称为“leanSPHINCS”）的桥梁，旨在通过聚合进一步降低验证成本。
+该提案旨在通过一种经济高效的解决方案来解决以太坊椭圆曲线数字签名算法面临的量子威胁的长期风险，该解决方案可以在开发专用硬分叉之前部署。
+
+签名方案 SPHINC 变体安全性下降和链上验证成本。来源：Ethresearch.ch
+未来的量子计算威胁搅动加密社区
+4 月，后量子创业公司 Project Eleven 向研究员 Giancarlo Lelli 颁发了奖项，表彰其使用量子计算机破解了 15 位椭圆曲线密钥。
+比特币的密钥长 256 位，明显大于 Lelli 成功破解的 15 位密钥。他使用肖尔算法的一种变体，从与之配对的公钥中推导出私钥，这是一种量子计算技术，理论上对比特币使用的加密类型构成了威胁。
+根据 Glassnode 的说法，在未来的量子攻击场景中，约 192 万比特币（占总供应量的近 10%）被认为“结构上不安全”。另外 412 万比特币（占供应量的 20.6%）由于密钥或地址管理实践而被归类为“操作不安全”。
+
+来源：Glassnode
+该分析公司估计，剩余 69.8% 的供应量（即 1399 万个比特币）仍未受到量子计算威胁，这与Ark Invest 3 月份的估计大体一致，即 65% 的供应量是安全的。 
+
+泰勒·德登
+周日，2026 年 6 月 14 日 - 15:10]]></description>
+      <guid>https://www.zerohedge.com/crypto/ethereum-can-quantum-proof-accounts-just-7-cents-says-foundations-kohaku-project-lead</guid>
+      <pubDate>Sun, 14 Jun 2026 19:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>太空：当前前沿和人工智能革命</title>
+      <link>https://www.zerohedge.com/markets/space-now-frontier-and-ai-revolution</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/markets/space-now-frontier-and-ai-revolution</guid>
+      <pubDate>Sun, 14 Jun 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国史无前例地拦截“俄罗斯影子”舰队突击队登临英吉利海峡</title>
+      <link>https://www.zerohedge.com/geopolitical/uk-intercepts-russian-shadow-fleet-vessel-unprecedented-english-channel-commando</link>
+      <description><![CDATA[英国在史无前例的英吉利海峡突击队登船中拦截“俄罗斯影子”舰队
+英国皇家海军陆战队突击队周日在英吉利海峡进行了一次高风险的午夜突袭，登上并扣押了一艘受制裁的俄罗斯“影子舰队”油轮。
+英国精锐部队从夜深人静到黎明时分对这艘大型油轮进行了快速绳索袭击。虽然在欧洲水域“非法”扣押俄罗斯油轮并不是什么新鲜事，但在距离英国海岸如此之近的英吉利海峡发生这样的行为是罕见的，甚至是史无前例的。
+英国军事图像：Smyrtos 登机
+据英国国防部称，这是一次持续六个小时的行动，是一次大规模的武力展示，涉及一支海军舰艇舰队（包括英国皇家海军萨瑟兰号护卫舰）和一支飞机机队，其中最著名的是重型支奴干直升机。
+此后目标被确定为 Smyros 号——据称是一艘在雷达下飞行的船只，试图绕过西方禁运。
+根据国防部的声明，这确实是一个重大的第一次：
+
+&lt;块引用&gt;
+“在英国主导的首次此类行动中，皇家海军陆战队突击队和国家犯罪局经过专门训练的执法人员登上了 SMYRTOS 号舰艇，尽管俄罗斯尽了最大努力逃避制裁并继续助长与乌克兰的野蛮战争。”
+
+法国已经参与了其中几次拦截和登机行动，但到目前为止英国还没有参与。被捕获的船只目前被护送到英格兰南海岸附近的一个锚地，在那里它将受到严密的警卫和监视。
+英国国防部随后表示，“俄罗斯依靠其影子舰队为乌克兰冲突提供资金，我们的拦截行动对普京的非法战争造成了打击。”该声明补充说，这是在与法国当局“密切协调”下完成的。
+俄罗斯的“影子舰队”方法依赖于不断切换注册并禁用 AIS 应答器来避免跟踪。
+最近几艘扣押的油轮（由法国扣押，目前已扣押四艘）悬挂着非洲国家的旗帜，这些拦截可以追溯到去年。 
+
+观看：皇家海军陆战队突击队在英吉利海峡登上了受制裁的俄罗斯影子舰队油轮 SMYRTOS，这是英国主导的首次此类行动，并得到了英国皇家海军萨瑟兰号、英国皇家海军莱德伯里号和英国皇家空军 P-8 的支持。随着调查的继续，该船目前被扣押在南海岸附近。 pic.twitter.com/omTnGlh3gk
+- 英国国防杂志 (@UKDefJournal) 2026 年 6 月 14 日
+在某些情况下，俄罗斯一直在派遣军事护航 - 这当然导致法国和欧洲军队推迟执行任何行动。但未受保护的明显暴露，欧洲军队可以随意采取行动。
+
+泰勒·德登
+周日，2026 年 6 月 14 日 - 13:25]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/uk-intercepts-russian-shadow-fleet-vessel-unprecedented-english-channel-commando</guid>
+      <pubDate>Sun, 14 Jun 2026 17:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约市淋病发病率飙升：马姆达尼向纽约市民免费赠送巧克力避孕套！</title>
+      <link>https://www.zerohedge.com/political/gonorrhea-rate-are-soaring-nyc-mamdani-rushes-free-chocolate-condoms-citizens-big-apple</link>
+      <description><![CDATA[纽约市淋病发病率飙升：Mamdani 向纽约市民免费赠送巧克力避孕套！
+作者作者：Eric Utter，来自《美国思想家》，
+那么纽约市马姆达尼政府目前的首要任务是什么？
+
+《FrontPage》杂志报道：
+
+&lt;块引用&gt;
+纽约市的淋病发病率在十年内增加了一倍多，梅毒在全州范围内“激增”。马姆达尼卫生部已紧急免费供应润滑剂和巧克力味避孕套来应对这场危机。
+
+将我传送出去，斯科蒂。
+FPM 援引纽约市负责健康与公共服务的副市长 Helen Arteaga 的话说，
+
+&lt;块引用&gt;
+“提供高质量的性与生殖保健服务是 Mamdani 政府的首要任务。让受影响最严重和最脆弱的社区更容易获得更安全的性产品是一项关键的公共卫生需求。”
+
+嗯，有优先事项是件好事。但是巧克力味的避孕套比普通的老式避孕套更安全吗？我猜不会，但我无法根据经验告诉你。
+再次FPM：
+
+&lt;块引用&gt;
+曼达尼的盟友、女议员皮耶琳娜·桑切斯 (Pierina Sanchez) 解释说，免费的巧克力味避孕套是必要的，因为“妇女、低收入家庭以及纽约黑人和拉丁裔人之间仍然存在不平等。
+
+女性、低收入家庭以及黑人和拉丁裔纽约人因巧克力味避孕套相对缺乏而受到不成比例的不利影响？纽约是一个罪恶的巢穴吗？
+不幸的是，对于宣扬美德的行善者来说，免费的巧克力避孕套来自 Karex，一家马来西亚公司，显然是地球上最大的避孕套制造商。
+为什么这是不幸的？
+据《电讯报》报道，一些卡雷克斯工人表示，他们被安置在狭窄且有失尊严的环境中，其中多达十几人被安置在潮湿且不卫生的环境中宿舍。
+据称，一个工地的工人只得到了半张钢制双层床，没有床垫，而且只能使用肮脏、破烂的厕所。为了这些“便利设施”，每月从他们的工资中扣除约 12 美元。据《每日电讯报》报道，一名 Karex 员工表示“有时毒蛇会进入”宿舍。
+不确定这是福是祸。
+“忘记犯罪吧！忘记这个城市已经破产的事实吧！适合所有人的巧克力避孕套！”对于 Mamdani 来说，这似乎不是一个制胜口号……但我知道什么？
+不要问你能为这座城市做什么，而要问 Mamdani 市长能为你做些什么 - 我的意思是为 - 你！”
+我确信 Mamdani 政府中的某人会这样宣传市长的行动：“这些美味的避孕药将免费慷慨地分发给所有有阴茎的性别……以及所有热爱它们的人！Mamdani 市长正在努力工作，让你们的生活更美好！” 
+考虑到这座城市的现状，这可能是纽约历史上最大的掩盖事件。
+
+泰勒·德登
+周日，2026 年 6 月 14 日 - 12:50]]></description>
+      <guid>https://www.zerohedge.com/political/gonorrhea-rate-are-soaring-nyc-mamdani-rushes-free-chocolate-condoms-citizens-big-apple</guid>
+      <pubDate>Sun, 14 Jun 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>佩泽什基安宣称伊朗取得了可接受的积极成果，美伊谅解备忘录协议签署仅剩“几个小时”</title>
+      <link>https://www.zerohedge.com/geopolitical/trump-says-peace-deal-coming-sunday-tehran-signals-still-reviewing-text</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/trump-says-peace-deal-coming-sunday-tehran-signals-still-reviewing-text</guid>
+      <pubDate>Sun, 14 Jun 2026 16:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国能源的未来正在由默默无闻的公用事业委员会竞赛决定</title>
       <link>https://www.zerohedge.com/energy/americas-energy-future-being-decided-obscure-utility-commission-races</link>
@@ -32,13 +139,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/markets/strategys-new-math-dilution-equals-accretion</guid>
       <pubDate>Sun, 14 Jun 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗透露特朗普吹捧的谅解备忘录草案将于周日签署：250亿美元资产解冻，浓缩铀稀释已提上日程</title>
-      <link>https://www.zerohedge.com/geopolitical/trump-says-peace-deal-coming-sunday-tehran-signals-still-reviewing-text</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/trump-says-peace-deal-coming-sunday-tehran-signals-still-reviewing-text</guid>
-      <pubDate>Sun, 14 Jun 2026 14:25:00 GMT</pubDate>
     </item>
     <item>
       <title>跨越鸿沟的对话</title>
@@ -102,49 +202,6 @@ Getty Images
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/economics/which-states-are-leading-americas-economy</guid>
       <pubDate>Sun, 14 Jun 2026 02:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析师：中国的新人工智能代理有可能让西方科技陷入权利滥用之中</title>
-      <link>https://www.zerohedge.com/ai/chinas-new-ai-agent-risks-trapping-western-tech-rights-abuses-analysts</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/ai/chinas-new-ai-agent-risks-trapping-western-tech-rights-abuses-analysts</guid>
-      <pubDate>Sun, 14 Jun 2026 02:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝鲜猛烈抨击西方国家对扩大莫斯科关系的新批评</title>
-      <link>https://www.zerohedge.com/geopolitical/north-korea-rips-fresh-western-criticism-expanding-moscow-relationship</link>
-      <description><![CDATA[朝鲜猛烈抨击西方对扩大莫斯科关系的新批评
-朝鲜周六进行回击，猛烈抨击华盛顿-首尔联盟，撕毁了一份新的韩国-欧盟联合声明，该声明谴责平壤与俄罗斯深化军事联盟。
-过去，朝鲜越来越多地承认在残酷而痛苦的乌克兰战争中为支持俄罗斯而牺牲了大量军队。
-
-这份与西方结盟的声明于周三在韩国总统李在明高调访问布鲁塞尔期间签署，直接针对助长乌克兰战争的“非法军事合作”。
-声明表示：：“我们谴责第三方，特别是朝鲜民主主义人民共和国的支持，这使俄罗斯能够维持对乌克兰的侵略战争”。
-不出所料，朝鲜外交部迅速通过国营朝鲜中央通讯社进行回击，将其与莫斯科的轴心仅视为“行使主权”。
-普京总统和金正恩总统领导下的俄罗斯和朝鲜最近甚至签署了一项国防、技术和经济合作协议。
-外交部毫不拐弯抹角，称联合谴责是“对我国主权的明显侵犯和严重敌对行为”，同时明确提醒大家，韩国仍然是朝鲜的主要“敌国”。
-平壤最近将首尔称为华盛顿“最喜欢的匕首”，据称美国旨在“入侵……亚洲大陆”的宏伟阴谋。
-上个月，美国驻韩国最高军事指挥官泽维尔·布伦森 (Xavier Brunson) 将军挑衅性地将东道国描述为“亚洲心脏的匕首”，此举引起了人们的关注，这一说法是一个文字游戏。
-朝鲜和中国都抓住了布伦森的失言，将其描绘成华盛顿利用首尔遏制北京的真正剧本的证据。
-随着朝鲜领导人金正恩已经将资金投入到行动中——运送军队和重型弹药来支持弗拉基米尔·普京的前线——乌克兰战争已经慢慢演变为不仅仅是一场欧洲危机。
-
-泰勒·德登
-星期六，2026 年 6 月 13 日 - 21:35]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/north-korea-rips-fresh-western-criticism-expanding-moscow-relationship</guid>
-      <pubDate>Sun, 14 Jun 2026 01:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么隔壁的百万富翁开二手车 - 以及这对真正财富的教导</title>
-      <link>https://www.zerohedge.com/personal-finance/why-millionaire-next-door-drives-used-car-and-what-teaches-about-real-wealth</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/personal-finance/why-millionaire-next-door-drives-used-car-and-what-teaches-about-real-wealth</guid>
-      <pubDate>Sun, 14 Jun 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“告诉他他是一坨屎”：员工在人工智能叛乱中劫持元会议</title>
-      <link>https://www.zerohedge.com/ai/tell-him-hes-piece-shit-employee-hijacks-meta-meeting-ai-revolt</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/ai/tell-him-hes-piece-shit-employee-hijacks-meta-meeting-ai-revolt</guid>
-      <pubDate>Sun, 14 Jun 2026 00:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
