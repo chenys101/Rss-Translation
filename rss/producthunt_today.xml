@@ -2,64 +2,36 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Jun 2026 16:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:43:41 GMT</lastBuildDate>
     <item>
-      <title>谁伯恩德莫尔</title>
-      <link>https://www.producthunt.com/products/whoburnedmore</link>
+      <title>HTML部署器</title>
+      <link>https://www.producthunt.com/products/html-deployer-2</link>
       <description><![CDATA[
-            Spotify 为 Claude、Codex 和公共排行榜做好了准备。
+            将站点从 AI 聊天部署到已发布的 HTML 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/whoburnedmore</guid>
-      <pubDate>Tue, 16 Jun 2026 00:36:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/html-deployer-2</guid>
+      <pubDate>Tue, 16 Jun 2026 05:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>开普勒</title>
-      <link>https://www.producthunt.com/products/axosoft-gitkraken</link>
+      <title>寓言观察</title>
+      <link>https://www.producthunt.com/products/fablewatch</link>
       <description><![CDATA[
-            用于大规模运行代理的代理开发环境
+            知道《神鬼寓言 5》第二部回来了
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/axosoft-gitkraken</guid>
-      <pubDate>Mon, 15 Jun 2026 21:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>通量邮件</title>
-      <link>https://www.producthunt.com/products/fluxmail</link>
-      <description><![CDATA[
-            AI电子邮件收件箱和助手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/fluxmail</guid>
-      <pubDate>Mon, 15 Jun 2026 18:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿马罗德</title>
-      <link>https://www.producthunt.com/products/amaroad</link>
-      <description><![CDATA[
-            无需离开终端即可构建 AI 幻灯片
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/amaroad</guid>
-      <pubDate>Mon, 15 Jun 2026 17:03:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fablewatch</guid>
+      <pubDate>Mon, 15 Jun 2026 20:25:22 GMT</pubDate>
     </item>
     <item>
       <title>Edgee 涡轮型号</title>
@@ -76,46 +48,102 @@
       <pubDate>Mon, 15 Jun 2026 15:24:35 GMT</pubDate>
     </item>
     <item>
-      <title>天篷</title>
-      <link>https://www.producthunt.com/products/canopy-5</link>
+      <title>斯克勒姆</title>
+      <link>https://www.producthunt.com/products/sklm</link>
       <description><![CDATA[
-            本机 macOS 上的并行沙盒 Claude Code 会话
+            集中、范围和同步每个人工智能代理的技能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/canopy-5</guid>
-      <pubDate>Mon, 15 Jun 2026 08:48:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sklm</guid>
+      <pubDate>Mon, 15 Jun 2026 09:44:04 GMT</pubDate>
     </item>
     <item>
-      <title>鬼</title>
-      <link>https://www.producthunt.com/products/fantasma</link>
+      <title>定时订阅</title>
+      <link>https://www.producthunt.com/products/timedsubs</link>
       <description><![CDATA[
-            Ghost CMS 的登陆页面构建器
+            画外音视频的脚本优先字幕计时
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/fantasma</guid>
-      <pubDate>Sat, 13 Jun 2026 13:23:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/timedsubs</guid>
+      <pubDate>Sun, 14 Jun 2026 10:02:36 GMT</pubDate>
     </item>
     <item>
-      <title>维德行者</title>
-      <link>https://www.producthunt.com/products/lasso-5</link>
+      <title>禅面纱</title>
+      <link>https://www.producthunt.com/products/zenveil</link>
       <description><![CDATA[
-            利用 AI 更快地发布 YouTube 视频
+            更快地发现、理解和解决安全问题
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/lasso-5</guid>
-      <pubDate>Fri, 12 Jun 2026 15:54:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/zenveil</guid>
+      <pubDate>Sun, 14 Jun 2026 05:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>位列表</title>
+      <link>https://www.producthunt.com/products/bitli-st</link>
+      <description><![CDATA[
+            在构建产品之前先销售产品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bitli-st</guid>
+      <pubDate>Sat, 13 Jun 2026 10:08:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>读心者 v1</title>
+      <link>https://www.producthunt.com/products/mindreader-v1</link>
+      <description><![CDATA[
+            读心术（模拟功能磁共振成像数据，引导至神经测量学）
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mindreader-v1</guid>
+      <pubDate>Fri, 12 Jun 2026 11:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>塔德卡</title>
+      <link>https://www.producthunt.com/products/tadka</link>
+      <description><![CDATA[
+            无需聘请设计团队即可交付 10 倍以上的广告创意。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tadka</guid>
+      <pubDate>Fri, 12 Jun 2026 11:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>容器桌面</title>
+      <link>https://www.producthunt.com/products/container-desktop-gui-apple-container</link>
+      <description><![CDATA[
+            Apple 原生容器系统的 GUI
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/container-desktop-gui-apple-container</guid>
+      <pubDate>Fri, 12 Jun 2026 07:48:45 GMT</pubDate>
     </item>
     <item>
       <title>雷维</title>
@@ -132,88 +160,60 @@
       <pubDate>Fri, 12 Jun 2026 01:20:07 GMT</pubDate>
     </item>
     <item>
-      <title>提示Tessor</title>
-      <link>https://www.producthunt.com/products/promptessor</link>
+      <title>开发清理器</title>
+      <link>https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools</link>
       <description><![CDATA[
-            AI 提示生成器、优化器和库
+            释放您的开发工具和人工智能应用程序囤积的千兆字节
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/promptessor</guid>
-      <pubDate>Tue, 09 Jun 2026 12:47:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools</guid>
+      <pubDate>Thu, 11 Jun 2026 19:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>狄拉克</title>
-      <link>https://www.producthunt.com/products/dirac-3</link>
+      <title>力擎智能</title>
+      <link>https://www.producthunt.com/products/lyqn-ai</link>
       <description><![CDATA[
-            每天早上向创始人通报情况的人工智能收件箱
+            人工智能支持可了解您的业务并将其交给人类
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dirac-3</guid>
-      <pubDate>Tue, 09 Jun 2026 09:14:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lyqn-ai</guid>
+      <pubDate>Thu, 11 Jun 2026 03:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>雷维尔</title>
-      <link>https://www.producthunt.com/products/revyl</link>
+      <title>跨步</title>
+      <link>https://www.producthunt.com/products/stride-10</link>
       <description><![CDATA[
-            移动真相来源
+            与您一起规划、设计和运输的 AI 工作空间。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/revyl</guid>
-      <pubDate>Mon, 08 Jun 2026 20:43:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/stride-10</guid>
+      <pubDate>Sat, 06 Jun 2026 11:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>卢奎</title>
-      <link>https://www.producthunt.com/products/looquee</link>
+      <title>苏博蒂兹</title>
+      <link>https://www.producthunt.com/products/subotiz</link>
       <description><![CDATA[
-            大学申请的副驾驶
+            更智能的货币化。订阅。卖。规模。 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/looquee</guid>
-      <pubDate>Thu, 04 Jun 2026 17:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正的人工智能</title>
-      <link>https://www.producthunt.com/products/sparrowdesk</link>
-      <description><![CDATA[
-            从文档和过去的对话中学习的自动化支持
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sparrowdesk</guid>
-      <pubDate>Thu, 04 Jun 2026 09:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>巅峰日常</title>
-      <link>https://www.producthunt.com/products/peak-routine</link>
-      <description><![CDATA[
-            由您的生物标志物提供支持的个性化健康指导
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/peak-routine</guid>
-      <pubDate>Mon, 07 Apr 2025 20:46:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/subotiz</guid>
+      <pubDate>Thu, 28 May 2026 06:34:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
