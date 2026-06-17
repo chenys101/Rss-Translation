@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 17 Jun 2026 15:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:50:56 GMT</lastBuildDate>
     <item>
       <title>当一张照片可以承载多个声音时会发生什么？我构建 VoxPho 就是为了找出答案</title>
       <link>https://feed.indiehackers.world/post/1eea7c7e91</link>
@@ -53,6 +53,16 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/2387f69447</guid>
       <pubDate>Mon, 15 Jun 2026 12:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为自己构建了一个工具，但现在我不确定它属于哪个类别</title>
+      <link>https://feed.indiehackers.world/post/9680135929</link>
+      <description><![CDATA[我仍在尝试找出它适合的地方。它并不是试图取代 Postgres。它不是传统的知识库。它也不仅仅是单个人工智能代理的内存。
+好奇如果您正在构建 AI 产品，您今天使用什么来获取反馈、注释、提示、文档和代理内存。
+https://keepdb.dev
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/9680135929</guid>
+      <pubDate>Mon, 15 Jun 2026 11:24:26 GMT</pubDate>
     </item>
     <item>
       <title>我们正在开发一款使用免费网络工具而不是广告的移动应用程序。这是到目前为止的剧本。</title>
@@ -173,14 +183,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/20a8b50b5b</guid>
       <pubDate>Sat, 13 Jun 2026 11:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个小工具，可以将房地产列表照片转换为可立即发布的社交内容</title>
-      <link>https://feed.indiehackers.world/post/d3f96ba7e7</link>
-      <description><![CDATA[https://outlist.io
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d3f96ba7e7</guid>
-      <pubDate>Sat, 13 Jun 2026 11:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
