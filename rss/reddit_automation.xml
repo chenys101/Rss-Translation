@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 17 Jun 2026 20:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:57:07 GMT</lastBuildDate>
+    <item>
+      <title>让人工智能代理直接访问数据库是一场噩梦</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</link>
+      <description><![CDATA[大家好， 我和我的团队目前正在构建一个 AI 支持机器人试点（请参阅之前的帖子:)），上周我们正在处理一个令人头疼的问题：数据库集成。 如果 AI 工具实际上对自动化有用，它不能只阅读静态帮助文章。它需要查找实时用户数据，例如订单状态、订阅级别或账单历史记录。 但是让法学硕士直接连接到实时 SQL 数据库是安全团队最糟糕的噩梦。如果提示过滤失败，即使一次，用户理论上也可以欺骗机器人泄露其他人的数据或弄乱表格。 为了为我们的试点解决这个问题，我们必须构建一个隔离层，以便 AI 永远不会编写直接查询，而是触发我们控制的特定的锁定 API 端点。 对于其他需要实时数据查找的自动化工作流程的人，您如何将 AI 安全地连接到内部数据库？您是否使用 API，还是找到了更安全的解决方法？   由   提交/u/Boby_Irendolan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</guid>
+      <pubDate>Wed, 17 Jun 2026 20:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>保存文件夹中的所有文件</title>
       <link>https://www.reddit.com/r/automation/comments/1u8jjgq/save_all_files_in_folder/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[最近在寻找实习机会时，我意识到人工智能自动化已经悄然成为人们工作方式的正常组成部分。在一位校友的推荐下，我报名参加了 CoCreate Pitch 创业大赛。当我开始认真思考商业想法和准备材料时，我决定为自己构建一些人工智能驱动的工作流程。让我惊讶的是有多少已经可以实现自动化。我的人工智能代理可以帮助进行产品研究、寻找供应商、组织信息，甚至起草列表内容。我没有手动处理每个步骤，而是主要专注于提出想法、完善流程并告诉工具我想要完成什么。那么您通过自动化或人工智能代理解决了哪些问题？   由   提交 /u/0ortiza   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1u81oq6/my_first_real_attempt_at_automation_fells_kind_of/</guid>
       <pubDate>Wed, 17 Jun 2026 05:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 n8n 中构建了完整的人工智能影响者管道（13 个工作流程）——关于架构的 AMA</title>
-      <link>https://www.reddit.com/r/automation/comments/1u7yguz/i_built_a_full_aiinfluencer_pipeline_in_n8n_13/</link>
-      <description><![CDATA[ 由   提交/u/SoLitty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u7yguz/i_built_a_full_aiinfluencer_pipeline_in_n8n_13/</guid>
-      <pubDate>Wed, 17 Jun 2026 03:06:01 GMT</pubDate>
     </item>
     <item>
       <title>哪些行业现在正在悄悄购买自动化，哪些行业只是说他们会购买自动化？</title>
