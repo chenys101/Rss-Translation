@@ -4,20 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Jun 2026 20:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:53:39 GMT</lastBuildDate>
     <item>
-      <title>剪贴板</title>
-      <link>https://www.producthunt.com/products/cliptop</link>
+      <title>维拉</title>
+      <link>https://www.producthunt.com/products/vela-7</link>
       <description><![CDATA[
-            Mac 的剪贴板历史记录，就在缺口下方。
+            安全地执行人工智能生成且不受信任的代码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/cliptop</guid>
-      <pubDate>Thu, 18 Jun 2026 03:13:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vela-7</guid>
+      <pubDate>Thu, 18 Jun 2026 05:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>精灵提及</title>
+      <link>https://www.producthunt.com/products/genie-mentions</link>
+      <description><![CDATA[
+            人工智能让你*和*你生活中的人在一起
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/genie-mentions</guid>
+      <pubDate>Thu, 18 Jun 2026 03:22:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒂恩</title>
+      <link>https://www.producthunt.com/products/tine-2</link>
+      <description><![CDATA[
+            一款可以为您完成工作的 AI 桌面光标
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tine-2</guid>
+      <pubDate>Thu, 18 Jun 2026 01:31:22 GMT</pubDate>
     </item>
     <item>
       <title>重组</title>
@@ -34,24 +62,38 @@
       <pubDate>Wed, 17 Jun 2026 16:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>桌面街机</title>
-      <link>https://www.producthunt.com/products/deskarcade</link>
+      <title>Safari 的灰度</title>
+      <link>https://www.producthunt.com/products/grayscale-for-safari</link>
       <description><![CDATA[
-            菜单栏中的街机 - 可以在任何东西上玩
+            将 Safari 变成黑白，浏览时不会分心
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/deskarcade</guid>
-      <pubDate>Wed, 17 Jun 2026 16:39:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/grayscale-for-safari</guid>
+      <pubDate>Wed, 17 Jun 2026 12:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>安科德梅林</title>
+      <link>https://www.producthunt.com/products/merlin-by-encord</link>
+      <description><![CDATA[
+            通过一次对话管理您的 AI 数据基础设施
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/merlin-by-encord</guid>
+      <pubDate>Wed, 17 Jun 2026 10:57:42 GMT</pubDate>
     </item>
     <item>
       <title>适应</title>
       <link>https://www.producthunt.com/products/adapt-3</link>
       <description><![CDATA[
-            完成工作的人工智能公司大脑
+            真正为你服务的人工智能公司大脑
           
 
 讨论
@@ -62,32 +104,32 @@
       <pubDate>Wed, 17 Jun 2026 09:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>普洛伊</title>
-      <link>https://www.producthunt.com/products/ploy-ai</link>
+      <title>Locofy：设计到代码代理</title>
+      <link>https://www.producthunt.com/products/locofy-ai</link>
       <description><![CDATA[
-            Ploy 将您的网站变成公司的增长引擎。
+            Figma 和 Cursor &amp; Claude 之间的代理前端层
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ploy-ai</guid>
-      <pubDate>Wed, 17 Jun 2026 02:34:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/locofy-ai</guid>
+      <pubDate>Wed, 17 Jun 2026 02:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>Tabstack 开发工具</title>
-      <link>https://www.producthunt.com/products/tabstack</link>
+      <title>日本AEO</title>
+      <link>https://www.producthunt.com/products/japanly-aeo</link>
       <description><![CDATA[
-            扔掉你的刮刀。使用任何工具进行一次 API 调用。
+            看看日本AI搜索是否推荐您的品牌
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tabstack</guid>
-      <pubDate>Tue, 16 Jun 2026 15:27:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/japanly-aeo</guid>
+      <pubDate>Wed, 17 Jun 2026 02:35:56 GMT</pubDate>
     </item>
     <item>
       <title>伙伴</title>
@@ -104,46 +146,18 @@
       <pubDate>Tue, 16 Jun 2026 12:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>诚实地</title>
-      <link>https://www.producthunt.com/products/honestly</link>
+      <title>D-ID 拍摄的 Agentic 视频</title>
+      <link>https://www.producthunt.com/products/d-id</link>
       <description><![CDATA[
-            了解 Reddit 和 TikTok 对您产品的真实看法
+            会说话的互动视频 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/honestly</guid>
-      <pubDate>Tue, 16 Jun 2026 10:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音操作系统</title>
-      <link>https://www.producthunt.com/products/voiceos</link>
-      <description><![CDATA[
-            真正适合您计算机的 JARVIS 语音助手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/voiceos</guid>
-      <pubDate>Mon, 15 Jun 2026 21:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥托</title>
-      <link>https://www.producthunt.com/products/otty</link>
-      <description><![CDATA[
-            一个 Mac 原生且漂亮的终端模拟器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/otty</guid>
-      <pubDate>Fri, 12 Jun 2026 03:33:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/d-id</guid>
+      <pubDate>Fri, 12 Jun 2026 21:22:25 GMT</pubDate>
     </item>
     <item>
       <title>埃尔文</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/juno-16</guid>
       <pubDate>Thu, 11 Jun 2026 19:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Teams 的维克托</title>
-      <link>https://www.producthunt.com/products/viktor</link>
-      <description><![CDATA[
-            最强大的 AI 员工，现加入 Microsoft Teams
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/viktor</guid>
-      <pubDate>Thu, 11 Jun 2026 11:19:33 GMT</pubDate>
     </item>
     <item>
       <title>杰西</title>
