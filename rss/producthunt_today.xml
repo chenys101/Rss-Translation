@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jun 2026 17:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:41:22 GMT</lastBuildDate>
+    <item>
+      <title>Mutter AI 听写</title>
+      <link>https://www.producthunt.com/products/mutter-ai-dictation</link>
+      <description><![CDATA[
+            私人人工智能听写，让您可以离线操作。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mutter-ai-dictation</guid>
+      <pubDate>Fri, 19 Jun 2026 05:41:54 GMT</pubDate>
+    </item>
     <item>
       <title>中途扫描仪</title>
       <link>https://www.producthunt.com/products/midjourney</link>
@@ -18,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/midjourney</guid>
       <pubDate>Fri, 19 Jun 2026 03:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firecrawl 研究索引</title>
+      <link>https://www.producthunt.com/products/extract-by-firecrawl</link>
+      <description><![CDATA[
+            推动 AI/ML 研究前沿的代理索引
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/extract-by-firecrawl</guid>
+      <pubDate>Thu, 18 Jun 2026 20:29:16 GMT</pubDate>
     </item>
     <item>
       <title>只是他妈的发送它</title>
@@ -34,35 +62,7 @@
       <pubDate>Thu, 18 Jun 2026 19:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德代码文物</title>
-      <link>https://www.producthunt.com/products/claude-redesigned</link>
-      <description><![CDATA[
-            实时预览并分享您的编码工作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude-redesigned</guid>
-      <pubDate>Thu, 18 Jun 2026 18:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>烈焰反向链接器</title>
-      <link>https://www.producthunt.com/products/blazly-backlinker</link>
-      <description><![CDATA[
-            自动化整个反向链接生成
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/blazly-backlinker</guid>
-      <pubDate>Thu, 18 Jun 2026 14:58:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>音调栏</title>
+      <title>音调条</title>
       <link>https://www.producthunt.com/products/pitchbar</link>
       <description><![CDATA[
             从 macOS 菜单栏跟踪 2026 年世界杯得分
@@ -74,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pitchbar</guid>
       <pubDate>Thu, 18 Jun 2026 14:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚幻引擎5.8</title>
+      <link>https://www.producthunt.com/products/unreal-engine</link>
+      <description><![CDATA[
+            使用 AI 代理构建虚幻游戏
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/unreal-engine</guid>
+      <pubDate>Thu, 18 Jun 2026 13:31:58 GMT</pubDate>
     </item>
     <item>
       <title>屏幕尺</title>
@@ -160,20 +174,6 @@
       <pubDate>Wed, 17 Jun 2026 20:45:40 GMT</pubDate>
     </item>
     <item>
-      <title>首页.sh</title>
-      <link>https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale</link>
-      <description><![CDATA[
-            八个广告方块的永久拍卖
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale</guid>
-      <pubDate>Tue, 16 Jun 2026 04:32:35 GMT</pubDate>
-    </item>
-    <item>
       <title>棱镜</title>
       <link>https://www.producthunt.com/products/prism-28</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Thu, 11 Jun 2026 14:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>波西娅</title>
-      <link>https://www.producthunt.com/products/portia-2</link>
+      <title>解说室</title>
+      <link>https://www.producthunt.com/products/narration-room</link>
       <description><![CDATA[
-            终极一键式查找被阻止的 macOS 端口
+            将源文本转换为可编辑的多语音脚本
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/portia-2</guid>
-      <pubDate>Wed, 10 Jun 2026 10:27:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/narration-room</guid>
+      <pubDate>Sun, 03 May 2026 21:16:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
