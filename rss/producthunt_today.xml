@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jun 2026 02:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:50:40 GMT</lastBuildDate>
+    <item>
+      <title>Figma 运动</title>
+      <link>https://www.producthunt.com/products/figma</link>
+      <description><![CDATA[
+            您的 Figma 画布现在有了时间线
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/figma</guid>
+      <pubDate>Thu, 25 Jun 2026 05:23:21 GMT</pubDate>
+    </item>
     <item>
       <title>Paybond CLI</title>
       <link>https://www.producthunt.com/products/paybond</link>
@@ -104,6 +118,20 @@
       <pubDate>Wed, 24 Jun 2026 11:26:29 GMT</pubDate>
     </item>
     <item>
+      <title>说工艺</title>
+      <link>https://www.producthunt.com/products/saycraft</link>
+      <description><![CDATA[
+            通过会议讨论构建 Web 应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/saycraft</guid>
+      <pubDate>Wed, 24 Jun 2026 07:58:20 GMT</pubDate>
+    </item>
+    <item>
       <title>测谎器</title>
       <link>https://www.producthunt.com/products/polygraph</link>
       <description><![CDATA[
@@ -146,34 +174,6 @@
       <pubDate>Tue, 23 Jun 2026 08:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器Bash</title>
-      <link>https://www.producthunt.com/products/browserbash</link>
-      <description><![CDATA[
-            CLI 将简单的英语变成真正的浏览器测试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/browserbash</guid>
-      <pubDate>Tue, 23 Jun 2026 07:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>同一页信号</title>
-      <link>https://www.producthunt.com/products/samepage-signals</link>
-      <description><![CDATA[
-            产品管理的第二大脑
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/samepage-signals</guid>
-      <pubDate>Tue, 16 Jun 2026 19:33:30 GMT</pubDate>
-    </item>
-    <item>
       <title>发送消息</title>
       <link>https://www.producthunt.com/products/sendtidings</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@
       <pubDate>Mon, 15 Jun 2026 10:18:01 GMT</pubDate>
     </item>
     <item>
-      <title>奥克斯洛.ai</title>
-      <link>https://www.producthunt.com/products/oxlo-ai</link>
+      <title>Mac 版 VTT</title>
+      <link>https://www.producthunt.com/products/vtt-for-mac</link>
       <description><![CDATA[
-            跨 AI 模型进行扩展，而无需增加费用
+            适用于 macOS 的语音转文本功能，具有完全设备上的选项
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/oxlo-ai</guid>
-      <pubDate>Thu, 11 Jun 2026 14:37:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vtt-for-mac</guid>
+      <pubDate>Thu, 11 Jun 2026 03:45:53 GMT</pubDate>
     </item>
     <item>
       <title>里程碑</title>
