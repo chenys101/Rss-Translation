@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 02:53:26 GMT</lastBuildDate>
     <item>
-      <title>让人工智能代理直接访问数据库是一场噩梦</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</link>
-      <description><![CDATA[大家好， 我和我的团队目前正在构建一个 AI 支持机器人试点（请参阅之前的帖子:)），上周我们正在处理一个令人头疼的问题：数据库集成。 如果 AI 工具实际上对自动化有用，它不能只阅读静态帮助文章。它需要查找实时用户数据，例如订单状态、订阅级别或账单历史记录。 但是让法学硕士直接连接到实时 SQL 数据库是安全团队最糟糕的噩梦。如果提示过滤失败，即使一次，用户理论上也可以欺骗机器人泄露其他人的数据或弄乱表格。 为了为我们的试点解决这个问题，我们必须构建一个隔离层，以便 AI 永远不会编写直接查询，而是触发我们控制的特定的锁定 API 端点。 对于其他需要实时数据查找的自动化工作流程的人，您如何将 AI 安全地连接到内部数据库？您是否使用 API，还是找到了更安全的解决方法？   由   提交/u/Boby_Irendolan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</guid>
-      <pubDate>Wed, 17 Jun 2026 20:40:54 GMT</pubDate>
+      <title>还有人觉得找工作比实际工作更疲惫吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uid0f3/anyone_else_feel_more_burnt_out_job_searching/</link>
+      <description><![CDATA[ 由   提交/u/PEA096  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uid0f3/anyone_else_feel_more_burnt_out_job_searching/</guid>
+      <pubDate>Mon, 29 Jun 2026 00:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>保存文件夹中的所有文件</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8jjgq/save_all_files_in_folder/</link>
-      <description><![CDATA[   /u/New-Length-9406  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8jjgq/save_all_files_in_folder/</guid>
-      <pubDate>Wed, 17 Jun 2026 19:11:38 GMT</pubDate>
+      <title>我构建了 ClonelyCloner 来与 App Cloner 竞争</title>
+      <link>https://www.reddit.com/r/automation/comments/1uicnrr/i_built_clonelycloner_to_rival_app_cloner/</link>
+      <description><![CDATA[      大规模运行社交有一个愚蠢的隐藏成本：硬件。每次客户帐户被标记为“可疑设备”时，解决办法是使用另一个廉价的 Android 或另一个平台可以嗅探到的模拟器。 所以我构建了 Clonely Cloner。它不是模拟器，而是生成真正签名的 APK - 每个克隆都是一个独立的应用程序，具有自己的设备指纹和存储空间。对于该平台来说，每个克隆看起来都像是一部真正独立的手机。它现在支持 Instagram、Threads、Reddit、X、Telegram、Discord、Tinder 和 Hinge，并且克隆在 60 秒内即可启动。 我在构建它时学到的一些东西： - 模拟器检测是简单的部分；持久、一致的指纹是最困难的部分。 - 每周的应用程序更新不断地破坏事物；我必须自动重新签名。 - 人们想要一个 API，而不是更漂亮的 UI，因此无限层附带完全的 REST 访问权限。 如果您想了解一下，可以使用免费层（5 个活动克隆）。很高兴回答有关 APK 签名方法的任何技术问题   由   提交 /u/beeaniegeni   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uicnrr/i_built_clonelycloner_to_rival_app_cloner/</guid>
+      <pubDate>Sun, 28 Jun 2026 23:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>Ctrl+Z 有效。但并非总是如此。</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8itu1/ctrlz_works_but_not_always/</link>
-      <description><![CDATA[ 由   提交/u/Boring-Shop-9424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8itu1/ctrlz_works_but_not_always/</guid>
-      <pubDate>Wed, 17 Jun 2026 18:46:14 GMT</pubDate>
+      <title>我想做自动化，通过电子邮件应用我将提供的数据</title>
+      <link>https://www.reddit.com/r/automation/comments/1uic5tk/i_wanna_do_automation_that_apply_by_email_on_the/</link>
+      <description><![CDATA[我想创建一个执行以下操作的自动化程序：阅读我提供的知识，无论是从网站链接还是任何其他来源。然后，编辑简历并创建一封适合该机会的动机信。最后，通过电子邮件发送。  - 人工智能如何免费做到这一点？   由   提交/u/leponda54  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uic5tk/i_wanna_do_automation_that_apply_by_email_on_the/</guid>
+      <pubDate>Sun, 28 Jun 2026 23:29:14 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个语音代理，可以给那些开始注册但从未完成的人打电话，并用他们自己的语言引导他们完成注册。这是它的工作原理以及真正的关闭。</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8hv5j/i_built_a_voice_agent_that_calls_people_who/</link>
-      <description><![CDATA[每一个在线注册的企业都有同样的无声泄漏：那些开始、获得批准或半途而废的人，然后……永远不会完成。放弃 KYC。入职工作已完成一半。他们想要回归的形式。那位顾客已经举起了手，他们刚刚在终点线前下车。 因此，我构建了一个机器人，可以给他们回电并让他们通过。 以下是通话中实际发生的情况： 它会拨号并保持沉默，直到对方真正说“你好”为止。禁止通过拨号音通话。它会叫出他们的名字，确认确实是他们，并根据他们如何回答英语、印地语或混合语来找出他们喜欢使用哪种语言，然后进行切换以进行匹配。然后它会准确地告诉他们为什么打电话，并询问现在是否合适。 从那里开始，它只会引导他们完成剩余的步骤，一次一个，等待他们真正完成每个步骤，然后再继续。如果他们说“我很忙，稍后再给我打电话”。它提供回调插槽并预订一个。如果他们说“别再给我打电话了”它立即尊重这一点，并且不再打电话。如果他们已经完成，它会确认并礼貌地关闭。没有循环，没有机器人能量，没有死气沉沉的空气，它会在快速的“一秒……”内掉落。  真正的结束： 客户在诊所获得融资批准，但从未完成最终验证，因此资金从未动过。机器人打电话来，确认他们是谁，回答他们“等等，这是谁？”问题，引导他们进行最后一步，并确认付款已完成——在挂断电话之前再次检查。从开始到结束：77 秒。客户对它的评分为 5/5。 是什么让它在生产中实际可用： 用印地语、英语或印度英语进行对话，并在正常电话质量的音频中选择正确的实时对话 在常见回合中大约四分之一秒内响应，因此感觉不像在等待机器 每次交换的运行成本仅为一小部分 知道“5 点给我回电话”和“5 点给我回电话”之间的区别。和一个明确的“否”——并且每一个都正确路由 说实话：77 秒的通话是干净的通话之一。现在还为时尚早，我仍在调整接触到参与方面。但核心是呼叫真人，进行自然的多语言对话，并让他们完成一个操作 - 今天在真实通话中有效。   由   提交 /u/Mandyhiten   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8hv5j/i_built_a_voice_agent_that_calls_people_who/</guid>
-      <pubDate>Wed, 17 Jun 2026 18:11:09 GMT</pubDate>
+      <title>寻求建议 - 在 MS 生态系统中自动响应调查</title>
+      <link>https://www.reddit.com/r/automation/comments/1ui6n97/seeking_advice_automate_survey_response_in_ms/</link>
+      <description><![CDATA[我的公司使用 MS。我的目标是： - 创建一个产生单独类别分数的调查。例如，它可以具有 A 到 D 类别，结果可能类似于（A = 5、B = 2、C= 8、D = 10）。 - 调查接受者在接受调查时输入电子邮件。 - 设置 AI 自动化，以根据分数发送自定义响应（例如，如果分数 A &gt; 6，请这样说。如果分数 B &lt;4，则发送链接到...）。 MS Forms 是实现此目的的最佳应用程序吗？自定义响应的最佳人工智能设置是什么？如果有任何指点，我将不胜感激。 谢谢，   由   提交 /u/refundroid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ui6n97/seeking_advice_automate_survey_response_in_ms/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>将我的帮助台与 n8n 统一起来</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8hlu1/unified_my_helpdesk_with_n8n/</link>
+      <title>我的多智能体人工智能组合</title>
+      <link>https://www.reddit.com/r/automation/comments/1ui5r5k/my_multiagent_ai_portfolio/</link>
       <description><![CDATA[       由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8hlu1/unified_my_helpdesk_with_n8n/</guid>
-      <pubDate>Wed, 17 Jun 2026 18:01:55 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1ui5r5k/my_multiagent_ai_portfolio/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>自动化 FreshBooks → 星期一工作流程的最佳方式？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8he1n/best_way_to_automate_freshbooks_monday_workflow/</link>
-      <description><![CDATA[我经营一家小型屋顶和壁板公司，我希望实现部分工作流程的自动化。 目前，当我在 FreshBooks 中创建估算或发票时，我会在周一面板中手动创建一个项目。我复制发票/估价编号、客户名称、地址、FreshBooks 链接，并设置状态（待存款、待计划、进行中等）。 我想要一个系统，在 FreshBooks 中创建估价或发票时会在周一自动创建具有相关信息和状态的项目，同时避免重复。 我正在测试 Make，但我想知道：  这可以用 Make 实现吗？ 有人成功连接 FreshBooks 和 Monday 吗？ 有更好的平台吗？  正在寻找最简单、最可靠的解决方案。谢谢！   由   提交 /u/Superb_Draft4597   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8he1n/best_way_to_automate_freshbooks_monday_workflow/</guid>
-      <pubDate>Wed, 17 Jun 2026 17:54:20 GMT</pubDate>
+      <title>我需要为一家旅游公司建立一个在移动应用程序上运行的自动化系统。</title>
+      <link>https://www.reddit.com/r/automation/comments/1ui2u2m/i_need_to_set_up_an_automation_system_that_runs/</link>
+      <description><![CDATA[ 由   提交/u/34BOE777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ui2u2m/i_need_to_set_up_an_automation_system_that_runs/</guid>
+      <pubDate>Sun, 28 Jun 2026 17:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>为什么没有编排的断开连接的人工智能工具会在软件交付阶段减慢产品团队的速度？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8dl16/why_do_disconnected_ai_tools_without/</link>
-      <description><![CDATA[随着人工智能在软件团队中的采用，我注意到一件事：生成工作不再是瓶颈。 您可以比一年前更快地生成规范、设计、代码和测试。这种放缓会在稍后的输出审查、验证、集成和维护过程中显现出来。 我看到团队在实施过程中通过人工智能节省了时间，然后在代码审查或集成中浪费了这些时间，因为假设没有记录，需求不明确，或者没有人拥有最终决定权。 METR 针对经验丰富的开发人员的研究很好地抓住了这一点——一些参与者实际上花了更长的时间使用人工智能工具，因为生成代码所节省的时间被验证和纠正工作所抵消。尽管预期相反，但平均速度慢了 19%。 麦肯锡发现 65% 的公司现在经常使用新一代人工智能。 BCG 发现 74% 的企业仍难以从中创造有形价值。这两个数字一起非常清楚地说明了问题 - 采用不是问题。 模式似乎是一致的：人工智能加速生成，但不能解决交付问题。如果没有某种结构来决定谁决定什么、什么时候验证以及在出现问题时谁拥有输出，更多的人工智能只会将瓶颈移至下游而不是消除它。 好奇其他人如何处理这个问题：  人工智能在哪里真正减少了团队的交付时间？ 它在哪里产生了额外的审查或集成开销？ 您是否更改了工作流程以考虑到这一点？或者人们正在思考这个问题？  希望听到真实的例子，而不是供应商的成功故事。   由   提交/u/ChapterKey1401  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8dl16/why_do_disconnected_ai_tools_without/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:36:01 GMT</pubDate>
+      <title>您将哪一项任务自动化，然后发现手动执行速度更快？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uhyoe2/what_is_one_task_you_automated_and_then_realized/</link>
+      <description><![CDATA[去年，我深深陷入了自动化炒作中，并构建了一个多步骤 Zapier 管道，从电子邮件中获取传入的客户发票，对其进行解析，然后将其放入我的记录中。  三个星期以来效果很好。然后客户稍微改变了他们的发票布局。解析器坏了，我在周六花了两个小时调试管道。在接下来的六个月里，这种情况又发生了三次。最终，我意识到手动复制和粘贴数据整整花了 30 秒。我花了几个小时维护一个系统以节省几分钟。  现在，我已经悄悄删除了管道并返回到手动输入。它需要打破的依赖性为零。你花了几天时间构建的自动化是什么，然后又悄悄地回去手工完成？   由   提交 /u/firstsign_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uhyoe2/what_is_one_task_you_automated_and_then_realized/</guid>
+      <pubDate>Sun, 28 Jun 2026 14:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 AI 解决城市废物管理或 Alcubierre 驱动器或基因编辑医学问题，以提高健康寿命和生活质量</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8bvle/using_ai_to_solve_city_waste_management_or/</link>
-      <description><![CDATA[第三世界国家的人们正在使用人工智能生成其城市和村庄的图像和视频，展示如果他们的当局遵循这样那样的流程，这个地方会变得多么美好。这是民主国家的革命性变化。人们可以要求当局对可以解决的问题采取行动。大多数人不知道这些解决方案的存在。此外，在语言部分，大多数人不知道正确的英语关键字来搜索他们的问题或他们想要的解决方案。 ​ 火箭发动机设计中有一个类似星际迷航的进步，他们使用人工智能来设计一个比人类航空航天工程师设计的推进系统更好、更高效的推进系统。这对于他们的雇主来说是一个将他们转向阿尔库别雷驱动等前沿物理领域的机会。正如世界上唯一的万亿富翁所说，地球轨道上空的专用人工智能基础设施应该能让这些航空航天工程师和研究人员深入研究空间弯曲技术领域。增强技术。欧洲也这么做了。在印度，现在每个村庄都有试管婴儿诊所。通过试管受精出生的孩子比正常性交出生的孩子更多。这是人类历史上的革命性变化。在世界上的一些地方，法规仅仅是建议，但这可能会在全球范围内产生影响。我们已经看到印度人如何在禁止基因增强的发达西方占据大型科技和政府职位。 ​ 未来的有趣时代。人工智能正在使自然智力变得过时，而人类正在增强他们的基因以成为超人！   由   提交 /u/son_skrrt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8bvle/using_ai_to_solve_city_waste_management_or/</guid>
-      <pubDate>Wed, 17 Jun 2026 14:32:57 GMT</pubDate>
+      <title>在我的老板要求进行 300 个手动网页捕获后，我构建了一个自动化工具来逃避“屏幕截图地狱”。</title>
+      <link>https://www.reddit.com/r/automation/comments/1uhwfps/i_built_an_automation_tool_to_escape_screenshot/</link>
+      <description><![CDATA[大家好，我是来自日本的开发者。我出于纯粹的绝望而构建了这个工具。我的老板要求我在 PowerPoint 报告中可视化 300 多个网页，以进行 QA 审核。我开始手动执行此操作，但仅打开 URL 就花了很长时间。 50张截图之后，我失去了理智。我意识到：这对人类来说是行不通的。 因此，我感到完全迷失和走投无路，无奈地开发了一个工具来自动化整个过程：  批量打开 URL 自动捕获高质量屏幕截图 自动插入 PowerPoint 幻灯片  还有其他人处理这种重复性任务吗？ 我就我一个人受这种重复劳动的折磨吗？   由   提交 /u/Spiritual_Balance298   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uhwfps/i_built_an_automation_tool_to_escape_screenshot/</guid>
+      <pubDate>Sun, 28 Jun 2026 12:47:10 GMT</pubDate>
     </item>
     <item>
-      <title>无头浏览器代理并没有消亡……端点优先的人群遗漏了一些重要的东西</title>
-      <link>https://www.reddit.com/r/automation/comments/1u85vrg/headless_browser_agents_are_not_dead_the/</link>
-      <description><![CDATA[每天通过无头浏览器浏览 50k 页，每次我提到它时，都会有人问“为什么不直接到达端点。”端点不存在。这些网站有一半在客户端呈现所有内容。反机器人墙每周轮换 新员工向我们整个团队频道询问为什么我的基础设施成本如此之高。星期三早上。酷 老实说，我什至不再生气了，这只是工作？端点人群测试了一个静态 API，并认为它太过分了 其他人仍然得到这个   由   提交/u/MarsTaco88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u85vrg/headless_browser_agents_are_not_dead_the/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:59:16 GMT</pubDate>
+      <title>与遗留系统集成作斗争</title>
+      <link>https://www.reddit.com/r/automation/comments/1uhptng/struggling_with_legacy_system_integrations/</link>
+      <description><![CDATA[几个月来，我们一直在尝试实现内部工作流程自动化，但旧的桌面软件却始终遇到困难。大多数现代 iPaaS 工具仅依赖于 API，这对于云应用程序来说非常有用，但对于我们的遗留工具来说毫无用处。我最近发现了一个名为 wrk 的平台，它似乎将 API 连接与 RPA 和光学字符识别结合在一起。他们显然将构建过程作为托管服务来处理。  这里有人尝试过在这样的单一平台中将机器人流程自动化与标准 API 流程结合起来吗？我很好奇，与将不同的单点解决方案拼接在一起相比，在一个地方管理所有这些是否真的可以减少维护开销。目前，我们的主要挑战是处理需要在数据输入之前进行人工审核的非结构化文档。我很想听听其他人如何解决云和遗留系统的混合问题。   由   提交/u/Purple-Start785  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uhptng/struggling_with_legacy_system_integrations/</guid>
+      <pubDate>Sun, 28 Jun 2026 06:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>自动编写业务报告</title>
-      <link>https://www.reddit.com/r/automation/comments/1u85djj/automating_report_writing_for_business/</link>
-      <description><![CDATA[我希望这是问这个问题的正确地方，而且这是有道理的。  我想学习如何设置一个具有默认报告模板的 AI 代理，然后我向它提供检查中的照片，它实际上会根据这些照片创建一份报告。 因此，例如，可能有一个工作订单：检查倒下的树并评估是否值得关注。然后我在检查完树后给它拍照。然后它会生成一份包含分析的报告。  这可能吗？我需要采取什么步骤？   由   提交/u/Biggrodd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u85djj/automating_report_writing_for_business/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:29:33 GMT</pubDate>
+      <title>始终验证您的 API 响应架构 - 它会悄无声息地更改并以零错误破坏工作流程</title>
+      <link>https://www.reddit.com/r/automation/comments/1uhah90/always_validate_your_api_response_schema_it/</link>
+      <description><![CDATA[ 由   提交 /u/Boring-Shop-9424   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uhah90/always_validate_your_api_response_schema_it/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:43:31 GMT</pubDate>
     </item>
     <item>
-      <title>n8n vs Activepieces vs Kestra：我测试了前 3 个开源自动化平台</title>
-      <link>https://www.reddit.com/r/automation/comments/1u851vz/n8n_vs_activepieces_vs_kestra_i_tested_the_top_3/</link>
-      <description><![CDATA[去年，开源自动化领域发生了巨大变化。我们已经远远超过了必须依赖昂贵的 SaaS 工具来进行基本 API 路由的阶段。 上周我部署并比较了目前最大的三个开源自托管自动化平台：n8n、Activepieces 和 Kestra。我研究了视觉流程、开发人员控制和资源强度。 这是关于它们在实践中实际如何叠加的工具包侦察。  n8n（重量级获胜者）  n8n 仍然是视觉逻辑之王。 UI 感觉就像一个电子电路图，允许极其复杂的分支和多代理人工智能工作流程。 胜利：无与伦比的灵活性。如果预构建的节点不能完全满足您的要求，您可以在工作流程中放入 Python 或 JavaScript 代码块并直接操作 JSON 有效负载。 缺点：对于非技术用户来说，它可能会令人生畏，而且繁重的数据转换可能会在 Docker 容器中占用大量内存（至少分配 2GB RAM）。  Activepieces（UI 冠军）  If当你试图让你的行动团队离开扎皮尔巨额帐单时，这是你的出口匝道。 Activepieces 是一个干净的、自上而下的、线性的工作流程构建器。  胜利：零学习曲线。它的外观和功能几乎与 Zapier 完全相同。您可以将其交给营销或销售团队，他们将在 10 分钟内构建流程。 缺点：线性设计使复杂的路由（如嵌套 IF 语句或并行执行循环）比 n8n 等基于画布的工具更加笨重。  Kestra（开发人员的惊喜）  我没想到会像我一样喜欢这个工具。 Kestra 放弃了传统的拖放式无代码模型。相反，工作流程是在 YAML 文件中以声明方式定义的。 胜利：真正的基础设施即代码。因为一切都是 YAML，所以您可以获得本机版本控制、Git 集成和大规模并行执行。它是为事件驱动的编排而构建的，而不是简单的 Webhook。 缺点：它仅限于开发人员。如果您不喜欢编写 YAML 或在 DAG（有向无环图）中思考，您会讨厌它。 &amp;#x200B; 结论： 使用 Activepieces 进行非开发人员需要管理的简单线性集成。 使用 n8n 获得最大的视觉灵活性和复杂的 AI/API 管道。 如果您想要自动化存储为 Git 中的代码，需要大量事件驱动的扩展。 ​ 对于那些现在自行托管自动化的人来说，您是在廉价的云 VPS 上运行它们，还是在家庭实验室的本地硬件上运行它们？   由   提交/u/Concient-Bench5621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u851vz/n8n_vs_activepieces_vs_kestra_i_tested_the_top_3/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:10:19 GMT</pubDate>
+      <title>使用 n8n 自动获得合格线索</title>
+      <link>https://www.reddit.com/r/automation/comments/1uha1pr/qualified_leads_automatically_with_n8n/</link>
+      <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uha1pr/qualified_leads_automatically_with_n8n/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>因裁员而被解雇（5岁）——客户现在询问哪些剧作家和自动化主题？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u83nz0/laid_off_due_to_downsizing_5_yoe_what_playwright/</link>
-      <description><![CDATA[大家好， 在担任剧作家自动化工程师后，我最近受到团队规模缩小（我的公司引用了人工智能采用/重组）的影响。我在 QA 自动化领域拥有5 年经验。 我正在重返就业市场并准备客户/技术面试。由于距离上次面试已经有一段时间了，我想确保我的准备工作具有高度针对性。 对于那些最近招聘或面试中高级自动化职位的人来说，客户正在询问候选人哪些具体的 Playwright 和框架架构主题？ 感谢您可以分享的任何建议、资源或最近的面试经验！   由   提交 /u/shubham-150799   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u83nz0/laid_off_due_to_downsizing_5_yoe_what_playwright/</guid>
-      <pubDate>Wed, 17 Jun 2026 07:46:23 GMT</pubDate>
+      <title>电子邮件优先自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1uh9vca/email_first_automations/</link>
+      <description><![CDATA[我的朋友 D 启发我构建了一个电子邮件优先的工作流程自动化系统。他经营一家服装行业的小企业；那个世界上的一切都是由电子邮件驱动的。 因此，我构建了一个从电子邮件开始的自动化系统。你向系统发送一封电子邮件，它会询问你澄清问题，然后在你批准的情况下处理请求。 然后我在建筑行业的朋友特别帮助我完善了系统。他们从事复杂的行业；需要处理分包商、供应链、许可证和其他障碍。他们处理的一些文档是一个挑战，但这就是我的生活。 很想听听其他人通过电子邮件构建自动化的故事。   由   提交 /u/productboy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uh9vca/email_first_automations/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>您实施的最节省时间的自动化是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u8230h/whats_one_automation_you_implemented_that_saved/</link>
-      <description><![CDATA[我一直在探索不同的方法来自动化重复性工作，无论是在家里还是在工作中。这让我想知道您构建（或采用）的对生产力影响最大的单一自动化是什么？ 可以是任何东西： Excel/Google Sheets Python 脚本 Zapier/Make/n8n AI 工作流程 制造业或工业自动化 寻找实用而不是过于复杂的想法。   由   提交/u/Final_Tea1759  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u8230h/whats_one_automation_you_implemented_that_saved/</guid>
-      <pubDate>Wed, 17 Jun 2026 06:14:24 GMT</pubDate>
+      <title>POV：安全问题已进入讨论范围。</title>
+      <link>https://www.reddit.com/r/automation/comments/1uh4h9r/pov_security_concerns_have_entered_the_chat/</link>
+      <description><![CDATA[       由   提交/u/Warm-Reaction-456   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uh4h9r/pov_security_concerns_have_entered_the_chat/</guid>
+      <pubDate>Sat, 27 Jun 2026 14:41:09 GMT</pubDate>
     </item>
     <item>
-      <title>我第一次真正尝试自动化有点令人难以置信</title>
-      <link>https://www.reddit.com/r/automation/comments/1u81oq6/my_first_real_attempt_at_automation_fells_kind_of/</link>
-      <description><![CDATA[最近在寻找实习机会时，我意识到人工智能自动化已经悄然成为人们工作方式的正常组成部分。在一位校友的推荐下，我报名参加了 CoCreate Pitch 创业大赛。当我开始认真思考商业想法和准备材料时，我决定为自己构建一些人工智能驱动的工作流程。让我惊讶的是有多少已经可以实现自动化。我的人工智能代理可以帮助进行产品研究、寻找供应商、组织信息，甚至起草列表内容。我没有手动处理每个步骤，而是主要专注于提出想法、完善流程并告诉工具我想要完成什么。那么您通过自动化或人工智能代理解决了哪些问题？   由   提交 /u/0ortiza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u81oq6/my_first_real_attempt_at_automation_fells_kind_of/</guid>
-      <pubDate>Wed, 17 Jun 2026 05:52:09 GMT</pubDate>
+      <title>您现在的完整自动化堆栈是什么？ （2026年版）</title>
+      <link>https://www.reddit.com/r/automation/comments/1ugsnrw/whats_your_full_automation_stack_right_now_2026/</link>
+      <description><![CDATA[ 由   提交 /u/SeparateResolve2075   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ugsnrw/whats_your_full_automation_stack_right_now_2026/</guid>
+      <pubDate>Sat, 27 Jun 2026 04:16:31 GMT</pubDate>
     </item>
     <item>
-      <title>哪些行业现在正在悄悄购买自动化，哪些行业只是说他们会购买自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u7s1i8/which_industries_are_quietly_buying_automation/</link>
-      <description><![CDATA[我注意到的一点是：在 LinkedIn 和会议上谈论人工智能最多的行业往往并不是真正部署人工智能的行业。 与此同时，一些无聊、乏味的行业正在悄悄地以零宣传的方式实施自动化，并获得了可观的投资回报率。 根据您的经验，您看到哪些行业真正承诺了预算并实施了自动化，而哪些行业只是永久地实施了自动化“我们正在探索”模式？ 具体示例比一般类别更有用（如果您有的话）。卫生保健？合法的？房地产？制造业？餐馆？没人预料到的随机事件？ 也很好奇他们实际上正在部署什么类型的自动化 - 工作流程、面向客户的人工智能、语音、内部操作等。   由   提交 /u/Royal_Blackberry_712   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u7s1i8/which_industries_are_quietly_buying_automation/</guid>
-      <pubDate>Tue, 16 Jun 2026 22:18:12 GMT</pubDate>
+      <title>一个会计团队向我展示了他们的月末流程，我真的认为这是一个笑话</title>
+      <link>https://www.reddit.com/r/automation/comments/1ug9h20/an_accounting_team_showed_me_their_monthend/</link>
+      <description><![CDATA[我最近和我公司的会计团队交谈，他们的“系统”基本上（我是一名数据科学家）： - 电子邮件中的 PDF 发票 - Slack 中的收据照片 - 共享驱动器中的供应商报表 - 随机银行导出 - 然后有人在检查并推送到会计软件之前将所有内容手动复制到电子表格中 技术上没有任何问题，但整个过程是由内存、文件夹和一个以某种方式知道所有内容在哪里的人结合在一起的。 因此，我构建了一个小型工作流程来测试我们是否可以删除重复部分。 现在，他们将发票、收据和供应商 PDF 放入一个文件夹中。系统提取重要字段，将所有内容变成干净的表格，标记丢失的信息，捕获明显的重复项，并为团队提供审核队列而不是一堆文档。 显然，他们仍然手动批准所有内容。但他们不再花费大量时间将 PDF 中的发票编号、总计、日期、供应商名称和增值税金额复制到电子表格中。 差异大得惊人。他们现在主要审查异常情况，而不是从头开始手动处理每个文档。它每周为他们节省了工作时间。 有趣的是，这并不是什么巨大的“人工智能转型”。项目。只是获取他们已有的文档并使其可用。 我很好奇：对于从事会计、簿记或财务操作的人员来说，您的工作流程中有多少仍然是手动文档清理？ 发票、收据、报表、采购订单、费用报告、扫描的 PDF，所有这些东西。 团队是否真的对他们当前的工具感到满意，或者每个人仍然悄悄地从 PDF 复制粘贴到Excel？   由   提交 /u/ElDonnintello   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ug9h20/an_accounting_team_showed_me_their_monthend/</guid>
+      <pubDate>Fri, 26 Jun 2026 15:08:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
