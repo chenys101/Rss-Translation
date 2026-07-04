@@ -4,7 +4,21 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jul 2026 02:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:14:51 GMT</lastBuildDate>
+    <item>
+      <title>国父们还会承认他们的共和国吗？</title>
+      <link>https://www.zerohedge.com/political/judge-napolitano-july-4-2026-would-founders-recognize-their-republic</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/judge-napolitano-july-4-2026-would-founders-recognize-their-republic</guid>
+      <pubDate>Sat, 04 Jul 2026 03:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>最初的 10 亿美元，现在的 5000 万美元：卡纳表示财富税“不能止步于亿万富翁”</title>
+      <link>https://www.zerohedge.com/political/first-1-billion-now-50-million-khanna-says-wealth-tax-must-not-stop-billionaires</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/first-1-billion-now-50-million-khanna-says-wealth-tax-must-not-stop-billionaires</guid>
+      <pubDate>Sat, 04 Jul 2026 02:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴因蒸馏丑闻禁止员工使用 Anthropic 的编码工具</title>
       <link>https://www.zerohedge.com/technology/alibaba-bans-employees-using-anthropics-coding-tool-over-distillation-scandal</link>
@@ -143,39 +157,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/you-cannot-kill-beast-until-you-name-it-democratic-politician-denounces-declaration</guid>
       <pubDate>Fri, 03 Jul 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类采取行动堵住漏洞，让中国科技公司接触克劳德</title>
-      <link>https://www.zerohedge.com/technology/anthropic-moves-shut-loopholes-letting-chinese-tech-firms-access-claude</link>
-      <description><![CDATA[人为堵塞中国科技公司访问 Claude 的漏洞
-出于国家安全考虑，商务部取消了对 Anthropic 的 Fable 和 Mythos AI 模型实施了三周的出口管制几天后，一份新报告称，该公司正在采取措施堵住允许中国公司访问其最先进模型的漏洞。
-英国《金融时报》援引知情人士的话称，蚂蚁金服等中国公司利用海外子公司、云提供商和内部企业网络来访问人工智能聊天机器人，例如克劳德·代码。  
-
-值得注意的是，阿里巴巴拥有蚂蚁金服约三分之一的股份。阿里巴巴最近被美国政府列入黑名单，原因是担心它实际上是中国军方的一个部门。 
-相关：
-Anthropic 指责阿里巴巴开展重大“对抗性蒸馏”活动以提取克劳德的能力
-据报道，蚂蚁金服为员工提供了通过其与新加坡相连的内联网路由的公司 Claude 帐户，而字节跳动的员工则使用 VPN 和费用报销来支付个人 Claude 订阅费用。
-这些变通办法似乎并不违反美国或中国的法律，但它们违反了 Anthropic 的服务条款，该条款禁止中国公司和北京控制的外国实体使用其模型。
-Anthropic 表示，它禁止来自包括中国在内的不受支持的地区的访问，并不断更新执法系统以检测规避行为。
-《金融时报》提供了有关打击行动的更多细节：
-
-&lt;块引用&gt;
-为了打击未经授权的访问，Anthropic 瞄准了“中转站”服务，该服务通过在海外注册的 Claude 帐户转发中国大陆用户的请求，然后返回响应。
-然而，较大的中国人工智能集团通常会避开中转站，因为人们普遍怀疑这些服务的运营商存储或转售提示。高管们担心竞争对手可能会分析这些请求，以了解他们如何使用先进模型来改进自己的系统。
-
-具有讽刺意味的是，一家支持世界上最先进编码模型之一的公司显然未能建立适当的护栏来阻止中国公司访问该模型，尽管该公司正在努力堵住这些漏洞。
-
-泰勒·德登
-星期五，07/03/2026 - 13:20]]></description>
-      <guid>https://www.zerohedge.com/technology/anthropic-moves-shut-loopholes-letting-chinese-tech-firms-access-claude</guid>
-      <pubDate>Fri, 03 Jul 2026 17:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙特代表团出人意料地出现在德黑兰，参加阿亚图拉葬礼的开始</title>
-      <link>https://www.zerohedge.com/geopolitical/saudi-delegation-makes-unexpected-appearance-tehran-start-ayatollahs-funeral</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/saudi-delegation-makes-unexpected-appearance-tehran-start-ayatollahs-funeral</guid>
-      <pubDate>Fri, 03 Jul 2026 16:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
