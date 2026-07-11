@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jul 2026 13:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 15:49:39 GMT</lastBuildDate>
     <item>
       <title>基于SCIM</title>
       <link>https://www.producthunt.com/products/basedash</link>
@@ -62,6 +62,20 @@
       <pubDate>Fri, 10 Jul 2026 04:31:51 GMT</pubDate>
     </item>
     <item>
+      <title>通过 Notion 交付操作系统</title>
+      <link>https://www.producthunt.com/products/notion</link>
+      <description><![CDATA[
+            代理原生软件交付方式
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/notion</guid>
+      <pubDate>Thu, 09 Jul 2026 18:19:56 GMT</pubDate>
+    </item>
+    <item>
       <title>聊天GPT工作</title>
       <link>https://www.producthunt.com/products/chatgpt-work</link>
       <description><![CDATA[
@@ -76,18 +90,18 @@
       <pubDate>Thu, 09 Jul 2026 17:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>Meta AI 的 Muse Spark 1.1</title>
-      <link>https://www.producthunt.com/products/muse-spark-1-1-by-meta</link>
+      <title>GPT-5.6</title>
+      <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            为代理任务构建的多模态推理模型
+            智能与效率的新标准
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/muse-spark-1-1-by-meta</guid>
-      <pubDate>Thu, 09 Jul 2026 15:01:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Thu, 09 Jul 2026 17:08:01 GMT</pubDate>
     </item>
     <item>
       <title>故事首席连接</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kickbacks-cli</guid>
       <pubDate>Tue, 07 Jul 2026 02:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚斯敏作品</title>
-      <link>https://www.producthunt.com/products/yasmine-works</link>
-      <description><![CDATA[
-            一位人工智能同事住在你的 Slack 中来完成工作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/yasmine-works</guid>
-      <pubDate>Mon, 06 Jul 2026 13:29:46 GMT</pubDate>
     </item>
     <item>
       <title>分娩时的呼吸</title>
