@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jul 2026 08:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:02:33 GMT</lastBuildDate>
+    <item>
+      <title>原型流</title>
+      <link>https://www.producthunt.com/products/protoflow-2</link>
+      <description><![CDATA[
+            为工程师和硬件团队提供人工智能驱动的 PCB 设计工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/protoflow-2</guid>
+      <pubDate>Tue, 21 Jul 2026 04:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>计件保管员</title>
       <link>https://www.producthunt.com/products/piecekeeper</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/piecekeeper</guid>
       <pubDate>Tue, 21 Jul 2026 01:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>托波林斯</title>
-      <link>https://www.producthunt.com/products/topolines</link>
-      <description><![CDATA[
-            生成拓扑轮廓
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/topolines</guid>
-      <pubDate>Tue, 21 Jul 2026 00:32:06 GMT</pubDate>
     </item>
     <item>
       <title>阿拉克工作室</title>
@@ -90,6 +90,20 @@
       <pubDate>Mon, 20 Jul 2026 00:34:13 GMT</pubDate>
     </item>
     <item>
+      <title>同上网站</title>
+      <link>https://www.producthunt.com/products/ditto-site</link>
+      <description><![CDATA[
+            将任何网站克隆为干净的代码。免费和开源
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ditto-site</guid>
+      <pubDate>Sun, 19 Jul 2026 17:24:53 GMT</pubDate>
+    </item>
+    <item>
       <title>术语</title>
       <link>https://www.producthunt.com/products/tterm</link>
       <description><![CDATA[
@@ -118,32 +132,32 @@
       <pubDate>Fri, 17 Jul 2026 19:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>CreateOS沙盒</title>
-      <link>https://www.producthunt.com/products/createos-sandbox</link>
+      <title>流上的通用听写</title>
+      <link>https://www.producthunt.com/products/stream-stream-ring-by-sandbar</link>
       <description><![CDATA[
-            适用于 AI 代理的即时硬件隔离沙箱
+            用于跨 iOS 和 Mac 听写的私人语音铃声
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/createos-sandbox</guid>
-      <pubDate>Thu, 16 Jul 2026 09:24:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/stream-stream-ring-by-sandbar</guid>
+      <pubDate>Fri, 17 Jul 2026 16:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>博尔纳代理工作室</title>
-      <link>https://www.producthunt.com/products/bolna-2</link>
+      <title>8级</title>
+      <link>https://www.producthunt.com/products/lev8</link>
       <description><![CDATA[
-            10 分钟内构建语音 AI 代理
+            寻找、研究并接触合适的人
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bolna-2</guid>
-      <pubDate>Wed, 15 Jul 2026 06:26:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lev8</guid>
+      <pubDate>Wed, 15 Jul 2026 15:32:20 GMT</pubDate>
     </item>
     <item>
       <title>重新运行</title>
@@ -160,32 +174,18 @@
       <pubDate>Wed, 15 Jul 2026 06:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>双流</title>
-      <link>https://www.producthunt.com/products/dualstream</link>
+      <title>骑师（TwelveLabs）</title>
+      <link>https://www.producthunt.com/products/twelvelabs</link>
       <description><![CDATA[
-            同步桌面和移动流媒体，这是一种简单的方法。
+            了解您整个图书馆的视频 AI 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dualstream</guid>
-      <pubDate>Tue, 14 Jul 2026 22:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>路由库</title>
-      <link>https://www.producthunt.com/products/routebase</link>
-      <description><![CDATA[
-            在您的客户之前发现 API 偏差
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/routebase</guid>
-      <pubDate>Wed, 08 Jul 2026 12:54:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/twelvelabs</guid>
+      <pubDate>Mon, 13 Jul 2026 21:21:18 GMT</pubDate>
     </item>
     <item>
       <title>区域镜像</title>
