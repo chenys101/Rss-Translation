@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 29 Jun 2026 02:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:44:16 GMT</lastBuildDate>
     <item>
-      <title>还有人觉得找工作比实际工作更疲惫吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1uid0f3/anyone_else_feel_more_burnt_out_job_searching/</link>
-      <description><![CDATA[ 由   提交/u/PEA096  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uid0f3/anyone_else_feel_more_burnt_out_job_searching/</guid>
-      <pubDate>Mon, 29 Jun 2026 00:07:38 GMT</pubDate>
+      <title>是什么让自动化系统足够值得信赖，可以在不观看的情况下运行？</title>
+      <link>https://www.reddit.com/r/automation/comments/1v23bb6/what_makes_an_automation_trustworthy_enough_to/</link>
+      <description><![CDATA[我在加强一些人工智能和工作流程自动化的同时一直在思考这个问题。 让我信任工作流程的部分不仅仅是它运行一次。关键在于它是否能够清楚地处理无聊的边缘情况：丢失输入、重复记录、过时的上下文、失败的检查以及应该停止进行人工审查的操作。 我不断回顾的模式很简单：定义输入形状，定义安全继续意味着什么，在不应该运行时返回有用的停止原因，记录更改的内容和未更改的内容，并使重试足够安全，以免重复工作。 这感觉不如添加另一个模型或集成那么令人兴奋，但它通常是是什么让自动化在实际工作中可用。 对于构建自动化的人来说，是什么让您放心让自动化在无人值守的情况下运行？良好的日志、人工批准步骤、回滚路径、测试运行、警报或其他内容？   由   提交 /u/Admirable-Future-633   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v23bb6/what_makes_an_automation_trustworthy_enough_to/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:45:31 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了 ClonelyCloner 来与 App Cloner 竞争</title>
-      <link>https://www.reddit.com/r/automation/comments/1uicnrr/i_built_clonelycloner_to_rival_app_cloner/</link>
-      <description><![CDATA[      大规模运行社交有一个愚蠢的隐藏成本：硬件。每次客户帐户被标记为“可疑设备”时，解决办法是使用另一个廉价的 Android 或另一个平台可以嗅探到的模拟器。 所以我构建了 Clonely Cloner。它不是模拟器，而是生成真正签名的 APK - 每个克隆都是一个独立的应用程序，具有自己的设备指纹和存储空间。对于该平台来说，每个克隆看起来都像是一部真正独立的手机。它现在支持 Instagram、Threads、Reddit、X、Telegram、Discord、Tinder 和 Hinge，并且克隆在 60 秒内即可启动。 我在构建它时学到的一些东西： - 模拟器检测是简单的部分；持久、一致的指纹是最困难的部分。 - 每周的应用程序更新不断地破坏事物；我必须自动重新签名。 - 人们想要一个 API，而不是更漂亮的 UI，因此无限层附带完全的 REST 访问权限。 如果您想了解一下，可以使用免费层（5 个活动克隆）。很高兴回答有关 APK 签名方法的任何技术问题   由   提交 /u/beeaniegeni   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uicnrr/i_built_clonelycloner_to_rival_app_cloner/</guid>
-      <pubDate>Sun, 28 Jun 2026 23:52:20 GMT</pubDate>
+      <title>我为 n8n 工作流程构建了一个压力测试仪，这样您就可以在真正的客户遇到问题之前看到发生了什么</title>
+      <link>https://www.reddit.com/r/automation/comments/1v1oysc/i_built_a_stress_tester_for_n8n_workflows_so_you/</link>
+      <description><![CDATA[嘿， 我一直在 n8n 中看到同样的情况。人们建立一个工作流程，测试一次快乐的路径，打开它，然后在生产中发生一些奇怪的事情。重复的网络钩子。缺少字段。条纹重试。突然间，您向一半的列表发送了两次电子邮件，或者向某人收取了错误的费用。 因此我构建了崩溃实验室。 您粘贴了您的 n8n 工作流程 JSON。它针对一家假公司（模拟电子邮件、Stripe、Slack 等）运行它。然后它显示爆炸半径。本来应该发送、收费、创建的内容。通过/警告/失败。 现在还早。尚未覆盖所有节点。报告中包含了覆盖范围和盲点，因此它不会假装它已经证明了这一点。 如果您构建客户端自动化或任何涉及金钱/客户的内容，请尝试将工作流程转入其中并告诉我它出了什么问题。  第一个已经免费了。如果您告诉我您注册时使用的电子邮件，我可以为您提供更多帮助，以便您可以完整测试产品！ 很高兴接受残酷的反馈。   由   提交/u/paderon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v1oysc/i_built_a_stress_tester_for_n8n_workflows_so_you/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:36:54 GMT</pubDate>
     </item>
     <item>
-      <title>我想做自动化，通过电子邮件应用我将提供的数据</title>
-      <link>https://www.reddit.com/r/automation/comments/1uic5tk/i_wanna_do_automation_that_apply_by_email_on_the/</link>
-      <description><![CDATA[我想创建一个执行以下操作的自动化程序：阅读我提供的知识，无论是从网站链接还是任何其他来源。然后，编辑简历并创建一封适合该机会的动机信。最后，通过电子邮件发送。  - 人工智能如何免费做到这一点？   由   提交/u/leponda54  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uic5tk/i_wanna_do_automation_that_apply_by_email_on_the/</guid>
-      <pubDate>Sun, 28 Jun 2026 23:29:14 GMT</pubDate>
+      <title>伙计们，它来了。</title>
+      <link>https://www.reddit.com/r/automation/comments/1v1o36j/its_coming_folks/</link>
+      <description><![CDATA[       由   提交/u/manateecoltee  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v1o36j/its_coming_folks/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:03:41 GMT</pubDate>
     </item>
     <item>
-      <title>寻求建议 - 在 MS 生态系统中自动响应调查</title>
-      <link>https://www.reddit.com/r/automation/comments/1ui6n97/seeking_advice_automate_survey_response_in_ms/</link>
-      <description><![CDATA[我的公司使用 MS。我的目标是： - 创建一个产生单独类别分数的调查。例如，它可以具有 A 到 D 类别，结果可能类似于（A = 5、B = 2、C= 8、D = 10）。 - 调查接受者在接受调查时输入电子邮件。 - 设置 AI 自动化，以根据分数发送自定义响应（例如，如果分数 A &gt; 6，请这样说。如果分数 B &lt;4，则发送链接到...）。 MS Forms 是实现此目的的最佳应用程序吗？自定义响应的最佳人工智能设置是什么？如果有任何指点，我将不胜感激。 谢谢，   由   提交 /u/refundroid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ui6n97/seeking_advice_automate_survey_response_in_ms/</guid>
-      <pubDate>Sun, 28 Jun 2026 19:41:04 GMT</pubDate>
+      <title>我停止了逐个节点构建工作流程。 3 句话生成了这个主要管道</title>
+      <link>https://www.reddit.com/r/automation/comments/1v1j8zn/i_stopped_building_workflows_node_by_node_3/</link>
+      <description><![CDATA[      我描述了结果，而不是逐个节点地绘制工作流。 ”实际生成的工作流程图，而不是模型。 仍然不神奇：没有网站或公共电子邮件的企业不会返回任何内容，而且我不会让它自动联系任何人。 您认为这在现实世界中首先会在哪里出现问题：网站提取、电子邮件验证或潜在客户评分？   由   提交/u/AykutSek   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v1j8zn/i_stopped_building_workflows_node_by_node_3/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>我的多智能体人工智能组合</title>
-      <link>https://www.reddit.com/r/automation/comments/1ui5r5k/my_multiagent_ai_portfolio/</link>
-      <description><![CDATA[       由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ui5r5k/my_multiagent_ai_portfolio/</guid>
-      <pubDate>Sun, 28 Jun 2026 19:06:08 GMT</pubDate>
+      <title>对您来说，真正超越人类的自动化是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1v1fiu5/what_is_an_automation_that_actually_outperformed/</link>
+      <description><![CDATA[我最近在其中一个 Reddit 子版块上读到，一位 Shopify 创始人最近的设置完全错乱了。他们将 Midjourney 连接到按需打印的管道，因此 Twitter/X 上的流行表情包会在几分钟内自动变成 T 恤模型。该系统在大多数品牌注意到模因存在之前就抓取了病毒式帖子，生成了模仿衬衫概念，创建了模型，并将产品直接推送到商店。疯狂的是，他们说大部分销售来自于早期，而不是来自令人惊叹的设计。 这显然是人类的自动化，只是因为速度和一致性。很好奇，对您来说，真正超越人类的自动化是什么？   由   提交/u/emilyxhug  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v1fiu5/what_is_an_automation_that_actually_outperformed/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>我需要为一家旅游公司建立一个在移动应用程序上运行的自动化系统。</title>
-      <link>https://www.reddit.com/r/automation/comments/1ui2u2m/i_need_to_set_up_an_automation_system_that_runs/</link>
-      <description><![CDATA[ 由   提交/u/34BOE777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ui2u2m/i_need_to_set_up_an_automation_system_that_runs/</guid>
-      <pubDate>Sun, 28 Jun 2026 17:13:14 GMT</pubDate>
+      <title>最希望在这里知道这一点，但认为这值得从我在 LinkedIn 上发布的内容中分享</title>
+      <link>https://www.reddit.com/r/automation/comments/1v16phq/most_hopefully_know_this_here_but_thought_this/</link>
+      <description><![CDATA[ 由   提交/u/BranVan3001  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v16phq/most_hopefully_know_this_here_but_thought_this/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:37:42 GMT</pubDate>
     </item>
     <item>
-      <title>您将哪一项任务自动化，然后发现手动执行速度更快？</title>
-      <link>https://www.reddit.com/r/automation/comments/1uhyoe2/what_is_one_task_you_automated_and_then_realized/</link>
-      <description><![CDATA[去年，我深深陷入了自动化炒作中，并构建了一个多步骤 Zapier 管道，从电子邮件中获取传入的客户发票，对其进行解析，然后将其放入我的记录中。  三个星期以来效果很好。然后客户稍微改变了他们的发票布局。解析器坏了，我在周六花了两个小时调试管道。在接下来的六个月里，这种情况又发生了三次。最终，我意识到手动复制和粘贴数据整整花了 30 秒。我花了几个小时维护一个系统以节省几分钟。  现在，我已经悄悄删除了管道并返回到手动输入。它需要打破的依赖性为零。你花了几天时间构建的自动化是什么，然后又悄悄地回去手工完成？   由   提交 /u/firstsign_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uhyoe2/what_is_one_task_you_automated_and_then_realized/</guid>
-      <pubDate>Sun, 28 Jun 2026 14:27:00 GMT</pubDate>
+      <title>使用 Retell AI 为医疗保健人员解决同理心问题</title>
+      <link>https://www.reddit.com/r/automation/comments/1v10zpg/struggling_with_empathy_using_retell_ai_for/</link>
+      <description><![CDATA[我是一名开发人员，为医疗保健用例构建语音代理 - 前台、患者客户服务、给其他提供商和保险公司的出站呼叫等。我之所以选择 Retell，是因为它是我发现的唯一一款具有合理的 HIPAA 合规、即用即付模式的语音 AI 包装器。如果其他人找到了值得一看的替代方案，我愿意倾听。 我在提示和流程设计上投入了大量的精力，但我一直碰壁，而且我一直无法完全解决：  同理心（我最大的问题）。 代理处理机制很好，但给人的印象是平淡或填写表格，特别是在情绪激动的电话（痛苦的病人，担心的父母）上。我尝试过编写致谢时刻的脚本，但它要么跳过它们，要么做得太过分，要么听起来像是罐头。 中断。处理插话、句子中间更正、“稍等一下”等。以及在询问新问题时回答问题的呼叫者 - 无需代理重新启动步骤或与他们交谈。  为了隔离问题，我剥离了所有业务逻辑并测试了基本代理，构建了两种方式 - 手动逐个节点和通过 Conductor - 并且出现了相同的问题，所以我不认为这是我的流程复杂性。 如果您构建了医疗保健（或类似的） Retell 上的高风险/情感）特工，我很想听听：  您选择了哪种 LLM 和语音/TTS 组合，以及仅此一项是否能提高其听起来的同理心。 您的中断/轮流设置 — 响应能力、反向渠道、中断敏感性、静音超时 — 以及您的目标。 是否同理心更多地来自于您经验中的提示措辞、声音选择或模型选择。 任何有帮助的流程结构模式（例如，您如何处理“坚持”或干净地复合答案）。  我也尝试联系 Retell 的前沿部署团队，但运气不佳，所以我希望利用这里的集体经验。如果对其他人有帮助的话，很高兴在评论中分享我所尝试的内容。提前致谢。   由   提交 /u/wisedogsfbay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v10zpg/struggling_with_empathy_using_retell_ai_for/</guid>
+      <pubDate>Sun, 19 Jul 2026 20:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>在我的老板要求进行 300 个手动网页捕获后，我构建了一个自动化工具来逃避“屏幕截图地狱”。</title>
-      <link>https://www.reddit.com/r/automation/comments/1uhwfps/i_built_an_automation_tool_to_escape_screenshot/</link>
-      <description><![CDATA[大家好，我是来自日本的开发者。我出于纯粹的绝望而构建了这个工具。我的老板要求我在 PowerPoint 报告中可视化 300 多个网页，以进行 QA 审核。我开始手动执行此操作，但仅打开 URL 就花了很长时间。 50张截图之后，我失去了理智。我意识到：这对人类来说是行不通的。 因此，我感到完全迷失和走投无路，无奈地开发了一个工具来自动化整个过程：  批量打开 URL 自动捕获高质量屏幕截图 自动插入 PowerPoint 幻灯片  还有其他人处理这种重复性任务吗？ 我就我一个人受这种重复劳动的折磨吗？   由   提交 /u/Spiritual_Balance298   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uhwfps/i_built_an_automation_tool_to_escape_screenshot/</guid>
-      <pubDate>Sun, 28 Jun 2026 12:47:10 GMT</pubDate>
+      <title>为客户支持自动化构建了一个 LLM 代理，它一直有效，直到不起作用为止。如何使其可靠？</title>
+      <link>https://www.reddit.com/r/automation/comments/1v0xu05/built_an_llm_agent_for_customer_support/</link>
+      <description><![CDATA[电子商务公司的小型运营团队（3 人）。 在 GPT-4 之上构建支持代理，并提供长系统提示，涵盖我们的退货政策、运输规则等。适用于 80% 的订单。另外 20% 要么循环，要么自信地给出与我们实际政策相矛盾的答案。 试图弄清楚修复是否是一个更好的提示（在这一点上感觉像是一场失败的战斗）或一个真正不同的架构。 有人为了这样的事情放弃了纯粹的提示工程吗？   由   提交/u/singhharsh004  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v0xu05/built_an_llm_agent_for_customer_support/</guid>
+      <pubDate>Sun, 19 Jul 2026 18:17:10 GMT</pubDate>
     </item>
     <item>
-      <title>与遗留系统集成作斗争</title>
-      <link>https://www.reddit.com/r/automation/comments/1uhptng/struggling_with_legacy_system_integrations/</link>
-      <description><![CDATA[几个月来，我们一直在尝试实现内部工作流程自动化，但旧的桌面软件却始终遇到困难。大多数现代 iPaaS 工具仅依赖于 API，这对于云应用程序来说非常有用，但对于我们的遗留工具来说毫无用处。我最近发现了一个名为 wrk 的平台，它似乎将 API 连接与 RPA 和光学字符识别结合在一起。他们显然将构建过程作为托管服务来处理。  这里有人尝试过在这样的单一平台中将机器人流程自动化与标准 API 流程结合起来吗？我很好奇，与将不同的单点解决方案拼接在一起相比，在一个地方管理所有这些是否真的可以减少维护开销。目前，我们的主要挑战是处理需要在数据输入之前进行人工审核的非结构化文档。我很想听听其他人如何解决云和遗留系统的混合问题。   由   提交/u/Purple-Start785  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uhptng/struggling_with_legacy_system_integrations/</guid>
-      <pubDate>Sun, 28 Jun 2026 06:34:00 GMT</pubDate>
+      <title>最有用的自动化日志是它什么都不做的原因</title>
+      <link>https://www.reddit.com/r/automation/comments/1v0uffb/the_most_useful_automation_log_is_the_reason_it/</link>
+      <description><![CDATA[许多自动化日志仅在运行时才有用。 对于小型企业工作流程，更好的日志通常是跳过的操作：为什么自动化选择不发送、发布、更新、收费、通知或覆盖某些内容。 这一行告诉您系统是否真正在保护您或只是默默地失败。 我喜欢的最低限度是：  它查看的源输入 阻止操作的规则或阈值 它会做什么 谁拥有下一个决策 何时应该审查规则  一旦自动化触及公共内容、客户、金钱或任何难以撤消的事物，这一点就变得更加重要。完美的成功之路固然不错，但大多数信任来自于易于检查的无聊非行动。 好奇这里的人们如何处理这个问题。您记录跳过的操作，还是只记录实际执行的操作？   由   提交/u/bolerbox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v0uffb/the_most_useful_automation_log_is_the_reason_it/</guid>
+      <pubDate>Sun, 19 Jul 2026 16:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>始终验证您的 API 响应架构 - 它会悄无声息地更改并以零错误破坏工作流程</title>
-      <link>https://www.reddit.com/r/automation/comments/1uhah90/always_validate_your_api_response_schema_it/</link>
-      <description><![CDATA[ 由   提交 /u/Boring-Shop-9424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uhah90/always_validate_your_api_response_schema_it/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:43:31 GMT</pubDate>
+      <title>自动奖励器 v4.0 来了！现在提供新的仪表板支持、详细统计数据和索赔操作。</title>
+      <link>https://www.reddit.com/r/automation/comments/1v0pts3/autorewarder_v40_is_here_now_with_new_dashboard/</link>
+      <description><![CDATA[   大家好！ 首先，感谢您对之前版本的支持。 AutoRewarder 的下载量已达到+3.7k，并且在 GitHub 上+202 颗星。 一周前，AutoRewarder v4.0 发布了。此重大更新重点关注 Microsoft 重新设计的奖励仪表板的全面集成，引入深度分析并提高整体可靠性。 v4.0 中的新增功能：  新仪表板支持：完全集成 Microsoft 重新设计的奖励仪表板，包括每日设置和打孔卡。 智能仪表板选择：机器人现在自动在运行时检测旧版和新版仪表板版本并进行切换。 详细统计仪表板：一个新的分析窗口，用于跟踪生命周期计数器、实际余额和每日活动图表。 紧凑的统计用户界面：在主窗口中添加了一个统计卡，显示总积分和上次运行期间获得的积分。 索赔操作支持：添加了对自动执行索赔操作的支持在仪表板内。 选项卡管理和日志导出：改进了 Bing 选项卡切换可靠性，自动清理额外的浏览器选项卡，并添加了直接从活动区域复制日志的功能。 核心修复：修复了浏览器窗口保持可见的 Hyper-V 无头故障，并解决了关闭后应用程序在后台徘徊的错误。  该项目仍然 100% 开源。 更多信息，屏幕截图和 GitHub 上的代码： repo:safarsin/AutoRewarder 我很想听听您的反馈、错误报告或下一次更新的想法！   由   提交/u/18safarov  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v0pts3/autorewarder_v40_is_here_now_with_new_dashboard/</guid>
+      <pubDate>Sun, 19 Jul 2026 12:52:37 GMT</pubDate>
     </item>
     <item>
-      <title>使用 n8n 自动获得合格线索</title>
-      <link>https://www.reddit.com/r/automation/comments/1uha1pr/qualified_leads_automatically_with_n8n/</link>
-      <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uha1pr/qualified_leads_automatically_with_n8n/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:26:11 GMT</pubDate>
+      <title>我在 UpWork with AI Automation 上赚了第一个 1000 多美元，但我认为这并不好......</title>
+      <link>https://www.reddit.com/r/automation/comments/1v0p807/i_made_my_first_1000_on_upwork_with_ai_automation/</link>
+      <description><![CDATA[      所以上个月我得到了一份 UpWork 工作机会，负责 n8n 工作流程。 我从未使用过 UpWork，但像 Nick Saraev 和 Liam Ottley 这样最大的人工智能影响者推荐了它很多，所以我想如果我能获得一些关于它的个人资料权威，那就太棒了。  这些人在 UpWork 上支付给我每小时 28 美元，这并不是很多，但考虑到我没有任何经验，而且这是我第一次付费的 n8n 演出。  我认为 40 小时内赚 1,000 美元已经非常不错了。  现在项目已经完成，我们正处于维护阶段。我想，让我们尝试用我赚到的钱来吸引更多的 UpWork 客户。 该死的，在这一点上这简直就是一个屎坑。  所以我搜索诸如“人工智能自动化、n8n、进入高水平、克劳德代码、人工智能代理等”之类的术语 一些相当体面且每小时提供超过 30 美元的工作充满了 40 个提案，而放置 100 个连接的人在几分钟内就获得了报酬。  公平地说，100 个连接相当于 15 美元，因此这些人实际上是在为他们可能得到或可能得不到的工作下注 15 美元。  因此，如果您提出 10 个这样的提案，那么您每天的花费约为 150 美元，而且也不能保证您是否能从中获得客户。  我不知道，这有点疯狂。我非常确定，如果你每天在元广告上花费 100 美元，你会得到比这更好的结果，而且至少不会有这么多的竞争。  对于潜在客户开发，我想我不会更喜欢 UpWork。  我可能会投放广告并扩展我的 YouTube 频道。  现在，我在 YouTube 上有 2000 名订阅者，在 Instagram 上有 600 名订阅者，所以我想我会扩大规模并进行有机发展，而不是完全押注在这些平台上，只是为了让 UpWork 致富。  但我很想听听你的意见。您在使用 UpWork 吗？  它对您的预算来说真的有意义吗？它现在是一个很好的营销工具吗？还是它太饱和了，您不再使用它了？   https://preview.redd.it/txqxkfl4j6eh1.png?width=2100&amp;format=png&amp;auto=webp&amp;s=e9948a8240b132ad7ec44c656bab2a3e44e43953 &lt;一href=&quot;https://preview.redd.it/cl7cael4j6eh1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=b8fc741bbe0712f1e6862d3015e8e6cbc0f6c895&quot;&gt; https://preview.redd.it/cl7cael4j6eh1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=b8fc741bbe0712f1e6862d3015e8e6cbc0f6c895   由   提交 /u/No_Evidence1611   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v0p807/i_made_my_first_1000_on_upwork_with_ai_automation/</guid>
+      <pubDate>Sun, 19 Jul 2026 12:23:58 GMT</pubDate>
     </item>
     <item>
-      <title>电子邮件优先自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1uh9vca/email_first_automations/</link>
-      <description><![CDATA[我的朋友 D 启发我构建了一个电子邮件优先的工作流程自动化系统。他经营一家服装行业的小企业；那个世界上的一切都是由电子邮件驱动的。 因此，我构建了一个从电子邮件开始的自动化系统。你向系统发送一封电子邮件，它会询问你澄清问题，然后在你批准的情况下处理请求。 然后我在建筑行业的朋友特别帮助我完善了系统。他们从事复杂的行业；需要处理分包商、供应链、许可证和其他障碍。他们处理的一些文档是一个挑战，但这就是我的生活。 很想听听其他人通过电子邮件构建自动化的故事。   由   提交 /u/productboy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uh9vca/email_first_automations/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:19:11 GMT</pubDate>
+      <title>是否可以创建一个 python 机器人来自动化 tinder，让我仍然可以使用电脑？</title>
+      <link>https://www.reddit.com/r/automation/comments/1v0nsae/is_it_possible_to_create_a_python_bot_to_automate/</link>
+      <description><![CDATA[使用了一个tinder机器人，它会在随机的时间间隔内进入浏览器并点击喜欢的按钮，问题是这让我在电脑运行时无法使用它，是否有可能构建一个在不控制我的鼠标/键盘的情况下做同样的事情的机器人？换句话说，它能否在后台与 Chrome 交互，以便我可以在机器人运行时继续使用鼠标并正常浏览？   由   提交 /u/Big-Aerie-7070   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v0nsae/is_it_possible_to_create_a_python_bot_to_automate/</guid>
+      <pubDate>Sun, 19 Jul 2026 11:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>POV：安全问题已进入讨论范围。</title>
-      <link>https://www.reddit.com/r/automation/comments/1uh4h9r/pov_security_concerns_have_entered_the_chat/</link>
-      <description><![CDATA[       由   提交/u/Warm-Reaction-456   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uh4h9r/pov_security_concerns_have_entered_the_chat/</guid>
-      <pubDate>Sat, 27 Jun 2026 14:41:09 GMT</pubDate>
+      <title>人工智能工作流程应该在哪里保留项目上下文，以便每一步都看到相同的事实？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uzyuna/where_should_an_ai_workflow_keep_project_context/</link>
+      <description><![CDATA[我一直在测试连接的内容工作流程，最困难的部分并不是生成。它一直将研究、受众、批准的声​​明、草稿和分发决策附加到同一个项目，而不在每个步骤之间传递巨大的提示。 我当前的方法是一个具有持久记录的项目 ID。每个工作流程仅读取其拥有的字段，将其结果写回，并将人工批准的草稿视为下游任何内容的来源。 这可行，但项目记录可能会慢慢变成垃圾抽屉。旧的研究仍然存在，检索到的上下文被误认为是已批准的上下文，并且没有人记得哪个字段是规范的。 什么最适合您：数据库行、Markdown 文件、概念、矢量存储或某种组合？更重要的是，如何将当前的事实来源与仅仅有用的上下文分开？   由   提交 /u/Admirable-Future-633   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uzyuna/where_should_an_ai_workflow_keep_project_context/</guid>
+      <pubDate>Sat, 18 Jul 2026 15:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>您现在的完整自动化堆栈是什么？ （2026年版）</title>
-      <link>https://www.reddit.com/r/automation/comments/1ugsnrw/whats_your_full_automation_stack_right_now_2026/</link>
-      <description><![CDATA[ 由   提交 /u/SeparateResolve2075   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ugsnrw/whats_your_full_automation_stack_right_now_2026/</guid>
-      <pubDate>Sat, 27 Jun 2026 04:16:31 GMT</pubDate>
+      <title>寻找魔法的替代品</title>
+      <link>https://www.reddit.com/r/automation/comments/1uzw5vh/looking_for_alternative_to_magical/</link>
+      <description><![CDATA[大家好，我目前正在尝试寻找一个更好的工具，用于可重复使用的文本模板，可以在工作时快速填充。有人向我推荐了 Magical 浏览器扩展，虽然它工作得很好，但它仍然不能完全满足我的需要。 我想做的是更加结构化的模板，我可以使用下拉菜单、复选框或多选选项等快速填充字段，而不是手动输入“答案 1”、“答案 2”等占位符。 现在我基本上正在创建模板，我必须在弹出窗口中手动输入所有内容字段，但我更喜欢更结构化的东西，我可以根据情况选择预定义的选项。 需要明确的是，我并不真正需要此用例的人工智能功能，但我不介意是否包含它们。主要目标只是减少重复输入并使模板填充更快、更一致。 有人找到支持这种结构化模板工作流程的良好替代方案吗？   由   提交 /u/the_mosthated   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uzw5vh/looking_for_alternative_to_magical/</guid>
+      <pubDate>Sat, 18 Jul 2026 13:38:25 GMT</pubDate>
     </item>
     <item>
-      <title>一个会计团队向我展示了他们的月末流程，我真的认为这是一个笑话</title>
-      <link>https://www.reddit.com/r/automation/comments/1ug9h20/an_accounting_team_showed_me_their_monthend/</link>
-      <description><![CDATA[我最近和我公司的会计团队交谈，他们的“系统”基本上（我是一名数据科学家）： - 电子邮件中的 PDF 发票 - Slack 中的收据照片 - 共享驱动器中的供应商报表 - 随机银行导出 - 然后有人在检查并推送到会计软件之前将所有内容手动复制到电子表格中 技术上没有任何问题，但整个过程是由内存、文件夹和一个以某种方式知道所有内容在哪里的人结合在一起的。 因此，我构建了一个小型工作流程来测试我们是否可以删除重复部分。 现在，他们将发票、收据和供应商 PDF 放入一个文件夹中。系统提取重要字段，将所有内容变成干净的表格，标记丢失的信息，捕获明显的重复项，并为团队提供审核队列而不是一堆文档。 显然，他们仍然手动批准所有内容。但他们不再花费大量时间将 PDF 中的发票编号、总计、日期、供应商名称和增值税金额复制到电子表格中。 差异大得惊人。他们现在主要审查异常情况，而不是从头开始手动处理每个文档。它每周为他们节省了工作时间。 有趣的是，这并不是什么巨大的“人工智能转型”。项目。只是获取他们已有的文档并使其可用。 我很好奇：对于从事会计、簿记或财务操作的人员来说，您的工作流程中有多少仍然是手动文档清理？ 发票、收据、报表、采购订单、费用报告、扫描的 PDF，所有这些东西。 团队是否真的对他们当前的工具感到满意，或者每个人仍然悄悄地从 PDF 复制粘贴到Excel？   由   提交 /u/ElDonnintello   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ug9h20/an_accounting_team_showed_me_their_monthend/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:08:42 GMT</pubDate>
+      <title>您在人工智能工作流程中使用什么电子邮件堆栈？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uzq6hs/what_email_stack_are_you_using_for_ai_workflows/</link>
+      <description><![CDATA[似乎越来越多的人工智能产品严重依赖电子邮件。好奇人们正在构建什么基础设施以及您是否会推荐它。   由   提交/u/rabittster  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uzq6hs/what_email_stack_are_you_using_for_ai_workflows/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:20:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
