@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jul 2026 16:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:09:55 GMT</lastBuildDate>
     <item>
       <title>原型流</title>
       <link>https://www.producthunt.com/products/protoflow-2</link>
@@ -20,32 +20,32 @@
       <pubDate>Tue, 21 Jul 2026 04:20:50 GMT</pubDate>
     </item>
     <item>
-      <title>芽</title>
-      <link>https://www.producthunt.com/products/bud-voice-canvas</link>
+      <title>开放式聊天剪辑</title>
+      <link>https://www.producthunt.com/products/openchatcut</link>
       <description><![CDATA[
-            用于草图笔记和白板的语音优先画布
+            具有真实时间线的开源 AI 代理视频编辑器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bud-voice-canvas</guid>
-      <pubDate>Mon, 20 Jul 2026 17:05:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openchatcut</guid>
+      <pubDate>Tue, 21 Jul 2026 02:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>阿拉克工作室</title>
-      <link>https://www.producthunt.com/products/arachstudio</link>
+      <title>托波林斯</title>
+      <link>https://www.producthunt.com/products/topolines</link>
       <description><![CDATA[
-            直接在浏览器中实时编辑 GitHub 组件
+            生成拓扑轮廓
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/arachstudio</guid>
-      <pubDate>Mon, 20 Jul 2026 13:03:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/topolines</guid>
+      <pubDate>Tue, 21 Jul 2026 00:32:06 GMT</pubDate>
     </item>
     <item>
       <title>显现</title>
@@ -118,20 +118,6 @@
       <pubDate>Sun, 19 Jul 2026 06:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>流上的通用听写</title>
-      <link>https://www.producthunt.com/products/stream-stream-ring-by-sandbar</link>
-      <description><![CDATA[
-            用于跨 iOS 和 Mac 听写的私人语音铃声
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/stream-stream-ring-by-sandbar</guid>
-      <pubDate>Fri, 17 Jul 2026 16:09:12 GMT</pubDate>
-    </item>
-    <item>
       <title>整齐的</title>
       <link>https://www.producthunt.com/products/tidy-5</link>
       <description><![CDATA[
@@ -160,7 +146,7 @@
       <pubDate>Thu, 16 Jul 2026 10:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>CreateOS沙箱</title>
+      <title>CreateOS沙盒</title>
       <link>https://www.producthunt.com/products/createos-sandbox</link>
       <description><![CDATA[
             适用于 AI 代理的即时硬件隔离沙箱
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/createos-sandbox</guid>
       <pubDate>Thu, 16 Jul 2026 09:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新运行</title>
+      <link>https://www.producthunt.com/products/rerun-2</link>
+      <description><![CDATA[
+            为所有任务构建人工智能代理的最简单方法
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rerun-2</guid>
+      <pubDate>Wed, 15 Jul 2026 06:02:56 GMT</pubDate>
     </item>
     <item>
       <title>双流</title>
@@ -188,18 +188,18 @@
       <pubDate>Tue, 14 Jul 2026 22:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>骑师（TwelveLabs）</title>
-      <link>https://www.producthunt.com/products/twelvelabs</link>
+      <title>路由库</title>
+      <link>https://www.producthunt.com/products/routebase</link>
       <description><![CDATA[
-            了解您整个图书馆的视频 AI 代理
+            在您的客户之前发现 API 偏差
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/twelvelabs</guid>
-      <pubDate>Mon, 13 Jul 2026 21:21:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/routebase</guid>
+      <pubDate>Wed, 08 Jul 2026 12:54:57 GMT</pubDate>
     </item>
     <item>
       <title>卡特人工智能</title>
