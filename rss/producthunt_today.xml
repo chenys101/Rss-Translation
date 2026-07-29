@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jul 2026 16:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:04:21 GMT</lastBuildDate>
     <item>
       <title>埃庇卢德</title>
       <link>https://www.producthunt.com/products/epilude</link>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/justty</guid>
       <pubDate>Tue, 28 Jul 2026 19:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾博</title>
+      <link>https://www.producthunt.com/products/bo-ai</link>
+      <description><![CDATA[
+            存在于您的文本中的人工智能个人助理💬
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bo-ai</guid>
+      <pubDate>Tue, 28 Jul 2026 16:16:38 GMT</pubDate>
     </item>
     <item>
       <title>图腾</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/clinic-scribe-clinicframe</guid>
       <pubDate>Tue, 30 Jun 2026 16:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>再次</title>
-      <link>https://www.producthunt.com/products/denovo-business-manager</link>
-      <description><![CDATA[
-            将您的氛围编码应用程序转变为付费客户
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/denovo-business-manager</guid>
-      <pubDate>Mon, 04 May 2026 09:24:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
