@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 29 Jul 2026 19:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:55:12 GMT</lastBuildDate>
     <item>
       <title>我测试了 Agenmatic 在社区中寻找客户的能力 — 这是我学到的东西</title>
       <link>https://feed.indiehackers.world/post/c5fb31ccf7</link>
@@ -100,6 +100,16 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 27 Jul 2026 03:03:01 GMT</pubDate>
     </item>
     <item>
+      <title>我们几年前就关闭了一个产品。今年我们重建了它，第一个付费客户来自老用户名单。</title>
+      <link>https://feed.indiehackers.world/post/f0ca5cfdb4</link>
+      <description><![CDATA[发布后的第一个付费客户来自旧 AutoSync 用户列表的一封电子邮件。不是搜索引擎优化，不是广告，不是社交——这个列表已经放在那里很多年了。
+我们不断重新学习的教训：过时产品的用户列表比新受众更有价值。
+很高兴回答有关重建或采访结果的任何问题。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/f0ca5cfdb4</guid>
+      <pubDate>Sun, 26 Jul 2026 16:41:12 GMT</pubDate>
+    </item>
+    <item>
       <title>我构建 Kitzo 是因为我厌倦了反复搜索相同的开发工具</title>
       <link>https://feed.indiehackers.world/post/a16cb98616</link>
       <description><![CDATA[目标是制造工具：
@@ -191,21 +201,6 @@ github.com/webdev-raj/Tourkit-sdk
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ac5057bf0d</guid>
       <pubDate>Fri, 24 Jul 2026 14:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>三个人注册了我的 SaaS...但没有人上传文档。</title>
-      <link>https://feed.indiehackers.world/post/b17d752d83</link>
-      <description><![CDATA[在过去的几周里，我在构建 DocMetrics 时注意到了一个有趣的模式。
-三个不同的人注册了。两人来自同一家公司。没有人上传文档。
-很容易得出我的入职流程被破坏的结论，但我意识到我实际上并不知道他们为什么停止。
-他们可能一直在评估产品、分心、没有准备好文档，或者遇到了入职障碍。
-我没有猜测，而是将其视为一个假设，并计划在更改产品之前与更多用户交谈。
-对于那些构建 B2B SaaS 的人：
-您是否见过用户注册但从未完成第一个有意义的操作？
-真正的原因是什么？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/b17d752d83</guid>
-      <pubDate>Fri, 24 Jul 2026 11:03:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
