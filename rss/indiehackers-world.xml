@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 30 Jul 2026 19:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:08:59 GMT</lastBuildDate>
     <item>
       <title>Show IH：我因为一个错误而丢失了三周的 AI 上下文。所以我花了一年多的时间建立了一个当地的记忆森林。 （仅限苹果机）</title>
       <link>https://feed.indiehackers.world/post/bdd23fda30</link>
@@ -14,7 +14,7 @@
 仍在会话中。仍然不是你的。
 Organiee 从人类的角度解决了这个问题：你拥有的内存，在你自己的磁盘上，任何人工智能都可以进入。
 大多数笔记工具都可以让您收集。 Organiee 让您继续。
-如果人工智能会话在工作开始之前结束，您今天会做什么？
+如果 AI 会话在工作开始之前结束，您今天会做什么？
 免费种植 100 棵树。我敢说你就停在那里吧。
 → organiee.com（仅限 Mac）
 Discord Indiehackers 聊天广告此处]]></description>
@@ -34,6 +34,26 @@ https://www.leapd.ai/
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7c19eef6fa</guid>
       <pubDate>Wed, 29 Jul 2026 18:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>32 次提交后，最大的改进不是技术上的</title>
+      <link>https://feed.indiehackers.world/post/98c9a2bc84</link>
+      <description><![CDATA[我在构建桌面 SaaS 时学到的一件事：
+人们在体验到价值之前不会付费。
+最初，Observer(https://getobserver.app) 要求用户：
+• 下载应用程序
+• 登录
+• 授予权限
+• 选择付费计划
+这对我来说似乎很合理，因为这就是我构建它的方式。
+但在与潜在用户交谈后，我意识到我要求太多信任。
+因此，我彻底改变了入职流程，引入了 30 分钟免费试用，无需信用卡。
+现在听起来很明显，但作为创始人，我们有时会优化产品而不是优化首次体验。
+好奇其他人是如何解决这个问题的。
+如果您正在构建桌面产品（或任何付费 SaaS），什么最能提高您的试用到付费转化率？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/98c9a2bc84</guid>
+      <pubDate>Wed, 29 Jul 2026 17:36:14 GMT</pubDate>
     </item>
     <item>
       <title>构建 StartupHQ 的第 8 天：您如何想象在后台工作的 AI 代理？</title>
@@ -179,23 +199,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/f0ca5cfdb4</guid>
       <pubDate>Sun, 26 Jul 2026 16:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建 Kitzo 是因为我厌倦了反复搜索相同的开发工具</title>
-      <link>https://feed.indiehackers.world/post/a16cb98616</link>
-      <description><![CDATA[目标是制造工具：
-
-很容易找到
-使用快捷
-设计一致
-在一处可用
-无需帐户即可使用
-
-这仍然是一个不断发展的个人项目，我非常感谢有关整体体验的诚实反馈。
-这个想法有意义吗？该网站是否易于浏览？您会使用这样的东西或为其添加书签吗？你会改进什么？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/a16cb98616</guid>
-      <pubDate>Sun, 26 Jul 2026 13:49:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
