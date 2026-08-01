@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Aug 2026 10:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:05:33 GMT</lastBuildDate>
     <item>
       <title>Basedash审计日志</title>
       <link>https://www.producthunt.com/products/basedash</link>
@@ -104,21 +104,7 @@
       <pubDate>Fri, 31 Jul 2026 08:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>牡蛎</title>
-      <link>https://www.producthunt.com/products/witr</link>
-      <description><![CDATA[
-            这是为什么运行？跟踪进程、端口、容器或文件
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/witr</guid>
-      <pubDate>Fri, 31 Jul 2026 06:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>终端小部件</title>
+      <title>终端小工具</title>
       <link>https://www.producthunt.com/products/terminalwidget</link>
       <description><![CDATA[
             将脚本输出放入桌面/主屏幕小部件中。
@@ -130,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/terminalwidget</guid>
       <pubDate>Thu, 30 Jul 2026 23:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>指标</title>
-      <link>https://www.producthunt.com/products/mectrics</link>
-      <description><![CDATA[
-            Mac 的重要信息位于菜单栏中。免费且开源。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mectrics</guid>
-      <pubDate>Thu, 30 Jul 2026 15:57:14 GMT</pubDate>
     </item>
     <item>
       <title>双子座机器人2</title>
@@ -158,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gemini-robotics-2</guid>
       <pubDate>Thu, 30 Jul 2026 15:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>穆伯特·阿皮伊</title>
+      <link>https://www.producthunt.com/products/mubert</link>
+      <description><![CDATA[
+            编辑曲目和主干，使用新引擎获得一致的音乐
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mubert</guid>
+      <pubDate>Thu, 30 Jul 2026 07:18:31 GMT</pubDate>
     </item>
     <item>
       <title>同步斯塔克</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/port22</guid>
       <pubDate>Wed, 29 Jul 2026 20:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>追踪法学硕士</title>
+      <link>https://www.producthunt.com/products/tracellm</link>
+      <description><![CDATA[
+            用于生产 AI 应用的 OpenTelemetry
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tracellm</guid>
+      <pubDate>Wed, 29 Jul 2026 14:43:16 GMT</pubDate>
     </item>
     <item>
       <title>串联</title>
