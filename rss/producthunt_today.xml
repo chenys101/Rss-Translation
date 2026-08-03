@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Aug 2026 02:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:14:31 GMT</lastBuildDate>
     <item>
       <title>特麦索</title>
       <link>https://www.producthunt.com/products/termexo</link>
@@ -104,35 +104,21 @@
       <pubDate>Fri, 31 Jul 2026 14:55:35 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek-V4-Flash-0731</title>
-      <link>https://www.producthunt.com/products/deepseek</link>
+      <title>对于团体</title>
+      <link>https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents</link>
       <description><![CDATA[
-            以 Flash 价格提供前沿代理情报
+             分享您的专业知识，让我们的代理商为您赚钱。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/deepseek</guid>
-      <pubDate>Fri, 31 Jul 2026 13:38:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents</guid>
+      <pubDate>Fri, 31 Jul 2026 12:24:21 GMT</pubDate>
     </item>
     <item>
-      <title>微代理</title>
-      <link>https://www.producthunt.com/products/agentmicro</link>
-      <description><![CDATA[
-            macOS 菜单栏中的实时 Codex 任务状态
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agentmicro</guid>
-      <pubDate>Fri, 31 Jul 2026 08:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>终端小工具</title>
+      <title>终端小部件</title>
       <link>https://www.producthunt.com/products/terminalwidget</link>
       <description><![CDATA[
             将脚本输出放入桌面/主屏幕小部件中。
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/terminalwidget</guid>
       <pubDate>Thu, 30 Jul 2026 23:30:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>端口22</title>
+      <link>https://www.producthunt.com/products/port22</link>
+      <description><![CDATA[
+            手机上的克劳德代码、Codex 等内容 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/port22</guid>
+      <pubDate>Wed, 29 Jul 2026 20:50:08 GMT</pubDate>
     </item>
     <item>
       <title>频波均衡器</title>
@@ -191,7 +191,7 @@
       <title>辛利</title>
       <link>https://www.producthunt.com/products/zinley</link>
       <description><![CDATA[
-            您的个人人工智能代表，负责通话、电子邮件和任务
+            您的个人 AI 代表，负责通话、电子邮件和任务
           
 
 讨论
