@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Aug 2026 13:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:52:57 GMT</lastBuildDate>
     <item>
       <title>嘿明信片 - 数字明信片</title>
       <link>https://www.producthunt.com/products/hey-postcard-slow-messaging</link>
@@ -32,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mistral-7b</guid>
       <pubDate>Thu, 06 Aug 2026 03:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glyphi：快速阅读器</title>
-      <link>https://www.producthunt.com/products/glyphi-speed-reader</link>
-      <description><![CDATA[
-            书籍、PDF、文章和网页的 RSVP 阅读器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/glyphi-speed-reader</guid>
-      <pubDate>Thu, 06 Aug 2026 02:41:19 GMT</pubDate>
     </item>
     <item>
       <title>缪斯密码</title>
@@ -177,7 +163,7 @@
       <title>超级日志响应器</title>
       <link>https://www.producthunt.com/products/superlog</link>
       <description><![CDATA[
-            免费、开源 AI 错误修复代理
+            免费、开源的 AI 错误修复代理
           
 
 讨论
@@ -188,10 +174,24 @@
       <pubDate>Thu, 30 Jul 2026 12:17:59 GMT</pubDate>
     </item>
     <item>
-      <title>渠道SDK</title>
+      <title>令牌港</title>
+      <link>https://www.producthunt.com/products/token-harbor</link>
+      <description><![CDATA[
+            访问前沿人工智能模型的最简单方法。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/token-harbor</guid>
+      <pubDate>Thu, 23 Jul 2026 14:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit 通道 SDK</title>
       <link>https://www.producthunt.com/products/copilotkit</link>
       <description><![CDATA[
-            Slack 和 Teams 中的代理无需处理生产难题。
+            将任何代理引入 Slack、Teams 等。
           
 
 讨论
