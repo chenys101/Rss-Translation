@@ -4,7 +4,27 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 07 Aug 2026 09:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:48:53 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个工具来查找已经在谈论您的产品解决的问题的人</title>
+      <link>https://feed.indiehackers.world/post/dbca80a1cb</link>
+      <description><![CDATA[不要问：
+&lt;块引用&gt;
+“谁可能需要我的产品？”
+
+您可以从以下开始：
+&lt;块引用&gt;
+“谁已经遇到过这个问题？”
+
+通过分析在线讨论并识别潜在客户信号，Agenmatic 帮助独立黑客和创始人更快地发现相关对话，并花更多时间与潜在用户交谈。
+我正在寻找一些独立黑客来尝试早期版本并分享诚实的反馈。
+我将为 Beta 测试人员提供免费积分。
+如果您正在构建 SaaS、AI 工具或业余项目：
+您目前如何找到第一批用户？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/dbca80a1cb</guid>
+      <pubDate>Thu, 06 Aug 2026 08:51:03 GMT</pubDate>
+    </item>
     <item>
       <title>6 个登陆页面决策为我们每月预订了 60 次演示</title>
       <link>https://feed.indiehackers.world/post/86f87d3d36</link>
@@ -148,7 +168,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <description><![CDATA[个人智能的实际作用
 你的想法应该像金钱一样复杂化。您输入的每一个语音备忘录、每一个注释、每一个文档都应该自动使下一个文档更有价值，无需文件夹、没有标签，也无需您进行维护。
 个人智能了解您的具体思维方式：您的模式、您的目标、您的矛盾、您的开环。它会为您的思维构建一张活生生的地图，并在您注销后继续处理它。然后它就会起作用。它使图案浮现出来。它命名了矛盾。每天早上，在你提出要求之前，它都会根据你自己的想法，为你提供一件要做的事情。
-对于个人知识来说，这就像计算器对于算盘一样。不是更快的珠子。关于该工具用途的不同前提。第二个大脑是存储。个人智力是第二个想法。
+这对于个人知识来说就像计算器对于算盘一样。不是更快的珠子。关于该工具用途的不同前提。第二个大脑是存储。个人智力是第二个想法。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/189f397999</guid>
       <pubDate>Mon, 03 Aug 2026 11:04:37 GMT</pubDate>
@@ -179,30 +199,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ffc7b7a8c6</guid>
       <pubDate>Mon, 03 Aug 2026 08:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了每次制作 YouTube 视频时都会打开 15 个 AI 网站，因此我构建了一个桌面应用程序。</title>
-      <link>https://feed.indiehackers.world/post/cbde98dc42</link>
-      <description><![CDATA[每次制作 YouTube 视频时，我都会在 ChatGPT、Canva、ElevenLabs、关键字研究工具、缩略图生成器和 SEO 网站之间切换。
-我想要一些可以立即启动的东西，而无需处理数十个浏览器选项卡。
-很快就变得令人沮丧。
-因此，在过去的几个月里，我构建了一个桌面应用程序，将这些工具组合到一个桌面应用程序中。
-现在可以：
-生成标题
-创建缩略图
-编写脚本
-生成标签&amp;描述
-帮助搜索引擎优化
-创建画外音
-基本图像编辑
-基本视频编辑
-它可以在 Windows 和 macOS 上运行。
-我现在主要是在寻找反馈。
-如果您想尝试一下，可以在这里下载：https://updatedversion1.github.io/velvetpatch/
-您期望这样的工具有什么功能是我所缺少的？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/cbde98dc42</guid>
-      <pubDate>Mon, 03 Aug 2026 07:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
