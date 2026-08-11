@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 11 Aug 2026 09:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:51:02 GMT</lastBuildDate>
     <item>
       <title>也许我们没有生产力问题。也许我们有一个上下文问题。</title>
       <link>https://feed.indiehackers.world/post/6dc873feca</link>
@@ -14,6 +14,15 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/6dc873feca</guid>
       <pubDate>Tue, 11 Aug 2026 08:38:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将真实的客户问题转变为 B2B 设计工具</title>
+      <link>https://feed.indiehackers.world/post/d61d530ab1</link>
+      <description><![CDATA[https://rectiva.io
+无论如何，这是为了找到我的第一个客户..
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/d61d530ab1</guid>
+      <pubDate>Mon, 10 Aug 2026 08:19:46 GMT</pubDate>
     </item>
     <item>
       <title>三周前发货了我的人工智能工具。 0 付费用户。这就是我做错的事情。</title>
@@ -171,19 +180,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/33849ba72b</guid>
       <pubDate>Fri, 07 Aug 2026 05:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>委托给人工智能代理的困难部分是知道什么证据可以让你相信停止点</title>
-      <link>https://feed.indiehackers.world/post/b564ce94e4</link>
-      <description><![CDATA[
-什么信号让您相信客服人员停在了正确的位置？
-您希望它在没有您的情况下做出哪些决定，哪些决定必须由您明确决定？
-您是否尝试过书面执行简报或批准界限？什么东西坏了？
-
-我在寻找反例和证实。我还没有使用或结果声明；这是我正在研究的验证问题。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/b564ce94e4</guid>
-      <pubDate>Fri, 07 Aug 2026 03:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
