@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Aug 2026 12:50:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:55:29 GMT</lastBuildDate>
     <item>
       <title>吉他</title>
       <link>https://www.producthunt.com/products/gitar</link>
@@ -20,20 +20,6 @@
       <pubDate>Tue, 11 Aug 2026 06:33:12 GMT</pubDate>
     </item>
     <item>
-      <title>赫普</title>
-      <link>https://www.producthunt.com/products/spotify</link>
-      <description><![CDATA[
-            Spotify构建的代理开发环境
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/spotify</guid>
-      <pubDate>Tue, 11 Aug 2026 04:39:44 GMT</pubDate>
-    </item>
-    <item>
       <title>屏幕标记</title>
       <link>https://www.producthunt.com/products/screenmark-annotation-draw</link>
       <description><![CDATA[
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/screenmark-annotation-draw</guid>
       <pubDate>Mon, 10 Aug 2026 19:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>承认乌鸦</title>
+      <link>https://www.producthunt.com/products/admitraven</link>
+      <description><![CDATA[
+            用于大学申请的 Duolingo
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/admitraven</guid>
+      <pubDate>Mon, 10 Aug 2026 11:45:02 GMT</pubDate>
     </item>
     <item>
       <title>陷阱</title>
@@ -74,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/switchy-for-mac</guid>
       <pubDate>Sun, 09 Aug 2026 09:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音壁虎</title>
-      <link>https://www.producthunt.com/products/voice-gecko</link>
-      <description><![CDATA[
-            开源、本地语音转文本
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/voice-gecko</guid>
-      <pubDate>Sun, 09 Aug 2026 06:01:09 GMT</pubDate>
     </item>
     <item>
       <title>BB</title>
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/vizard-agent-the-first-video-agi</guid>
       <pubDate>Tue, 04 Aug 2026 03:20:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Octomind 云和中心</title>
+      <link>https://www.producthunt.com/products/octomind-plug-n-play-ai-agents</link>
+      <description><![CDATA[
+            一次登录，零 API 密钥 — 云代理 + 27 个模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/octomind-plug-n-play-ai-agents</guid>
+      <pubDate>Sun, 02 Aug 2026 05:14:53 GMT</pubDate>
     </item>
     <item>
       <title>代理经理</title>

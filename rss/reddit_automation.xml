@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 07 Aug 2026 02:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:55:17 GMT</lastBuildDate>
     <item>
-      <title>是否可以在 snapchat 上自动请求过去一个月的数据导出？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vhh7za/is_it_possible_to_automate_requesting_data_export/</link>
-      <description><![CDATA[我正在尝试自动化下载和备份 Snapchat 内存的过程，首先自动执行在 Snapchat 上发出的导出数据（某个选定时间）的请求，然后自动检测包含导出数据的电子邮件并从电子邮件下载该数据，然后以有组织的方式自动将其存储在本地（每个内存都有日期、时间等）。    由   提交/u/idk00999  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vhh7za/is_it_possible_to_automate_requesting_data_export/</guid>
-      <pubDate>Thu, 06 Aug 2026 21:25:09 GMT</pubDate>
+      <title>需要一位导师</title>
+      <link>https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/</link>
+      <description><![CDATA[我不知道，如果我真的想要一个有自己客户的导师，我愿意为他工作，即使他只付给我 2-3k，我已经准备好做这份工作，我只是想从某个地方开始来支持我的家庭财务。   由   提交 /u/Party_Initiative_621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>全职从事自动化工作</title>
-      <link>https://www.reddit.com/r/automation/comments/1vhfwbo/working_full_time_in_automation/</link>
-      <description><![CDATA[ 由   提交/u/Cold-Fly4633  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vhfwbo/working_full_time_in_automation/</guid>
-      <pubDate>Thu, 06 Aug 2026 20:33:21 GMT</pubDate>
+      <title>如何将每个新列表与您的购买列表进行匹配</title>
+      <link>https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/</link>
+      <description><![CDATA[我一直在尝试找到一种更好的方法来根据我的购买列表查找新的 eBay 列表。我有我正在寻找的具体零件号和型号，以及我愿意支付的价格。手动检查每一个新列表并对照电子表格进行检查很快就会过时。相反，我一直在做的是从更广泛的搜索开始，然后通过子搜索和过滤器缩小结果范围。对于更复杂的列表，我可以使用 Python 提取型号并将其与我的 CSV 进行比较。基本上，我想知道：它在我的清单上吗？型号正确吗？价格合适吗？对于难以弄清楚的列表，我还可以使用 ai 作为 python 之后的另一种方式。所以我很好奇其他拥有更大购买清单的人如何处理这个问题。您是手动查看列表还是找到了自动化的好方法？   由   提交 /u/One_Republic_8042   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>用于写入错误表的自动化操作的撤消按钮</title>
-      <link>https://www.reddit.com/r/automation/comments/1vhdbzg/undo_button_for_the_automation_that_wrote_to_the/</link>
-      <description><![CDATA[如果您有自动写入 Postgres 的功能，Neon 的即时恢复是一个不错的安全 cgeck - 您可以将根分支恢复到历史窗口内的任何时间戳，精确到毫秒，并且需要几秒钟而不是完全转储恢复。好的部分是它不会丢弃错误的状态，它将预恢复分支重命名为 {branch}old{timestamp}，这样您仍然可以阅读脚本实际执行的操作。当无人值守作业写入垃圾时，其他人都在为回滚路径做什么？   由   提交 /u/pretzels90210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vhdbzg/undo_button_for_the_automation_that_wrote_to_the/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:58:30 GMT</pubDate>
+      <title>将 AdsPower 与 GoLogin 一起使用后的想法</title>
+      <link>https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/</link>
+      <description><![CDATA[随着帐户数量的增加，反检测浏览器之间的差异变得更容易注意到。我使用过 GoLogin 和 AdsPower，两者都可以处理浏览器配置文件隔离和指纹管理，没有出现任何重大问题。一旦我有更多的帐户需要管理，我发现自己更加关注工作流程而不是指纹设置。 AdsPower 拥有更强大的文件夹、标签和批处理操作系统，这使得按项目组织配置文件变得更加容易。查找、更新和管理配置文件也更省力。它比 GoLogin 有更多的功能，因此有一个学习曲线，但在使用一段时间后一切感觉更自然。  自动化是我注意到明显差异的另一个领域。我的很多工作涉及在不同的帐户中重复相同的任务，因此内置的自动化减少了大量的手动工作。我也喜欢团队访问的处理方式。共享配置文件、分配权限以及将项目移交给其他人都很简单。我将它与住宅代理配对，没有遇到任何兼容性问题。不同的项目保持独立，无需太多额外的工作。同时运行大量浏览器配置文件仍然取决于您的计算机，但这适用于几乎所有反检测浏览器。  GoLogin 还是有自己的优势的。界面更干净，更容易学习，非常适合只管理少量帐户的人。如果我只有少数配置文件，我就不会切换工具。当帐号数量增加或多人需要访问同一工作区时，AdsPower 就更有意义。浏览器指纹已成为该领域大多数产品的标准功能。更大的差异来自帐户管理、批量操作以及一切与您的日常工作流程的契合程度。这是我的经历。每个人的情况可能不尽相同，但如果管理数十个帐户是您日常工作的一部分，那么两者之间的差距就更容易注意到。   由   提交 /u/NewReview1894   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/</guid>
+      <pubDate>Tue, 11 Aug 2026 11:22:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何在不受帐户限制的情况下将搜索结果转换为结构化数据？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vh9np5/how_do_you_convert_search_results_into_structured/</link>
-      <description><![CDATA[ 一直在尝试构建一个更清晰的工作流程，将搜索结果移至我们的内部数据库中。目前，从标准搜索页面获取干净的结构化数据是主要瓶颈。 基于云的数据提取工具似乎几乎会立即触发平台安全检查，因此我试图避免任何繁重的事情。 我一直在研究本地客户端选项，这些选项仅处理屏幕上已呈现的内容，以保持低调并保持在正常使用限制内。 您通常如何处理将搜索数据导入系统而不冒帐户问题的风险？您坚持使用自定义本地脚本还是使用更简单的工作流程？   由   提交 /u/lucifer9590   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vh9np5/how_do_you_convert_search_results_into_structured/</guid>
-      <pubDate>Thu, 06 Aug 2026 16:46:56 GMT</pubDate>
+      <title>寻求与自动化专家合作（我们拥有大量由政府资助的线索）</title>
+      <link>https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/</link>
+      <description><![CDATA[嘿，希望与合适的专家和团队合作来完成小型企业的项目。所以通常的事情，比如为他们设置一个代理，自动化手动程序。 告诉我你有什么！有项目和演示 - 让我知道这些费用是多少？ 仅供参考，我们的大多数项目预算上限为 3-8000 美元左右。   由   提交 /u/BidOdd4532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/</guid>
+      <pubDate>Tue, 11 Aug 2026 10:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>开源Python组件库</title>
-      <link>https://www.reddit.com/r/automation/comments/1vh9ee6/open_source_python_component_libraries/</link>
-      <description><![CDATA[这是针对 Python 开发人员的。 哪些 Python 开源库对于构建自动化最有用？    由   提交 /u/Fine-Market9841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vh9ee6/open_source_python_component_libraries/</guid>
-      <pubDate>Thu, 06 Aug 2026 16:37:49 GMT</pubDate>
+      <title>副驾驶可以自动报告吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/</link>
+      <description><![CDATA[ 由   提交/u/Low-Pea-785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/</guid>
+      <pubDate>Tue, 11 Aug 2026 10:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>您开发的哪一项自动化系统至今仍让人们感谢您？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vh3ny2/whats_one_automation_you_built_that_people_still/</link>
-      <description><![CDATA[不是最大或最复杂的。 只是使某人的日常工作变得明显更容易的工作流程。我很想听听真实的例子。   由   提交/u/MarchPlastic1650   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vh3ny2/whats_one_automation_you_built_that_people_still/</guid>
-      <pubDate>Thu, 06 Aug 2026 13:03:15 GMT</pubDate>
+      <title>我们如何停止为我们的代理商工作：当软件工厂不起作用时</title>
+      <link>https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/</link>
+      <description><![CDATA[       由   提交/u/sn1pr0s  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/</guid>
+      <pubDate>Tue, 11 Aug 2026 06:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>为 Android 手机农场和社交媒体自动化构建平台 (mationx)</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgzw40/built_a_platform_for_android_phone_farms_social/</link>
-      <description><![CDATA[大家好， 如果您正在运行物理 Android 手机农场（S9、S10、Pixels 等）或在真实设备上进行社交媒体自动化（TikTok、Instagram、Facebook、Google 帐户），您就会知道 ADB 丢失、USB 崩溃和模拟器禁令是多么烦人。 我专门为真正的 Android 硬件和手机农场盒子构建了 MationX。它可以让您通过简单的 REST API 驱动真实设备，并在手机上本地控制应用程序交互。 两种使用方式：  自己动手：您可以在 mationx 上注册并直接通过我们的平台和 API 构建您自己的自动化流程。 为您完成：如果您没有时间自己构建脚本，请通过该网站与我联系我将为您的设置构建整个自定义自动化流程。  它的用途：  社交媒体帐户预热（观看卷轴、点赞、应用程序切换） 帐户创建工作流程以及旋转移动代理 移动抓取和应用程序交互，无需像 Appium 这样的重型 QA 工具  因为我不是在 Reddit 上不间断，联系自定义构建的最简单方法是直接在 mationx 上。   由   提交/u/Artistic-Painter-112  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgzw40/built_a_platform_for_android_phone_farms_social/</guid>
-      <pubDate>Thu, 06 Aug 2026 10:00:08 GMT</pubDate>
+      <title>我删除了监控仪表板，我的自动化变得更加可靠</title>
+      <link>https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/</link>
+      <description><![CDATA[我不久前在这里发布了有关自动化 10 分钟任务的文章。有几个人问我如何监控我的东西。事实是，有一段时间我有一个完整的仪表板。 Grafana、警报，所有这些。 然后我注意到我花在仪表板上的时间比解决实际问题的时间还要多。这些警报纯粹是噪音。最糟糕的失败无论如何都是无声的，那些永远不会触发任何东西的失败。 所以我删除了它。所有这些。 我现在所拥有的只是每天 ping 一次群聊。一行。 “X 运行，Y 作业正常，Z 跳过”。如果到上午 9 点还没有出现该 ping，就会有人检查。就是这样。没有图表，没有警报疲劳。 删除后，自动化变得更加可靠。并不是因为监控有所改善。因为该栏从“仪表板上看起来不错”变成了“在仪表板上看起来不错”。 “它真的运行了吗？我能证明一下吗？”。 这种转变比任何警报都起到了更大的作用。   由   提交 /u/Grouchy-Conflict-211   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/</guid>
+      <pubDate>Tue, 11 Aug 2026 03:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>在报告变得难以阅读之前，自动化 CRM 发现应该显示多少证据？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgytcr/how_much_evidence_should_an_automated_crm_finding/</link>
-      <description><![CDATA[致力于专业知识 我们的工作流程之一可以标记看起来停滞的交易，但只是说“12 笔交易可能被卡住”事实证明它本身几乎毫无用处。经理们想确切地知道检查了哪些字段、上次活动日期、标记每笔交易的规则以及由于缺少数据而跳过了哪些记录。添加所有这些使得输出可审计，但它也将简短的每周摘要变成了没有人愿意阅读的长日志。因此，现在我正在尝试在每个发现下提供紧凑的解释，并将完整的输入和决策线索隐藏在扩展按钮后面。但我仍然不确定默认情况下应该显示什么。对于实际做出决策（而不仅仅是移动数据）的自动化，在您足够信任结果并采取行动之前，您需要看到的最低证据是什么？”   由   提交/u/rehanalliii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgytcr/how_much_evidence_should_an_automated_crm_finding/</guid>
-      <pubDate>Thu, 06 Aug 2026 08:56:28 GMT</pubDate>
+      <title>将自然语言到 SQL 连接到代理工作流程中</title>
+      <link>https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/</link>
+      <description><![CDATA[如果您的代理需要在工作流程中回答真实表格的问题，Databricks Genie Conversation API 值得一看，您发布一个简单的英语问题并轮询生成的 SQL 和实际行，因此模型不会从上下文中猜测数字。该线程也保持有状态，因此后续人员会重用之前的问题，而无需您重新填充所有内容。这里有人用这种方式将 NL-to-SQL 连接到他们的代理中吗？   由   提交/u/pretzels90210  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/</guid>
+      <pubDate>Mon, 10 Aug 2026 19:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了在 LinkedIn 帐户上收到警告，因此我构建了自己的安全 LinkedIn 自动化工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgwyy7/i_got_tired_of_getting_warnings_on_my_linkedin/</link>
-      <description><![CDATA[我曾经从事 IT 外包业务的对外销售工作，因此我经常在 LinkedIn 上联系人员推广该服务。 尝试每周发送 200 多个手动连接请求非常耗时，因此我决定使用一个工具来自动化此过程。 大约一周后，我收到警告，如果我继续这样做，我的帐户可能会被禁止。  所以，我停止使用那个自动化工具，因为它似乎不值得。 我对帐户被 LinkedIn 标记为自动化的原因/如何进行了一些研究，似乎现有的工具都没有真正考虑到所有这些安全因素。 所以，我构建了自己的工具，用于我自己的用例，并满足我对在 LinkedIn 上被禁止的偏执。  我将其命名为“ZenMode”，灵感源自“无为”理念，即毫不费力的行动，以及事半功倍。  从一开始，我的目的就是让自动化尽可能像人类一样，所以我特意将架构范围限定为具有某些功能； - 基于浏览器的自动化（无插件/云使用） - 连接请求的每日速率限制 - 操作之间的随机时间延迟 - 屏幕上打字 - 在 LinkedIn 页面上像人类一样点击鼠标 将这一切放在一起当然不容易从头开始，没有任何技术知识。  使用 AI 工具构建几周后，我有了一个工作原型。 我开始在销售工作中使用它，当时预约更多与工程经理的会议对我来说确实很有帮助，所以我在今年早些时候决定也公开该工具。 自 4 月份推出以来，ZenMode 已有 400 多人注册免费试用，平均每天大约有 50 名活跃用户。  我自己也每天使用它来进行自己的推广，到目前为止，没有一个 ZenMode 用户遇到过帐户禁令。 至少到目前为止，我可以说我实现了制作一个可以通过我的帐户信任的 LinkedIn 自动化工具的目标！    由   提交 /u/Downtown_Pudding9728   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgwyy7/i_got_tired_of_getting_warnings_on_my_linkedin/</guid>
-      <pubDate>Thu, 06 Aug 2026 07:07:11 GMT</pubDate>
+      <title>这是我们的代理运行仪表板</title>
+      <link>https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/</link>
+      <description><![CDATA[       由   提交/u/Hopeful-Fly-5292   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/</guid>
+      <pubDate>Mon, 10 Aug 2026 11:17:57 GMT</pubDate>
     </item>
     <item>
-      <title>有人像我一样在人工智能生成中面临同样混乱的工作流程问题吗？？？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgtqc6/does_anyone_face_the_same_messy_workflow_issue_in/</link>
-      <description><![CDATA[“我们可以回到第一个版本吗？” 上周从客户那里听到这句话让我意识到我的工作流程中存在一个问题：一旦项目有多个版本，我就无法再追溯到旧版本 剪辑已生成。该项目分散在各处。 Google 文档中的脚本。下载中的参考图像。生成的剪辑分为三个文件夹，名称如 v2_final_USE_THIS。两个 VO 镜头的文件名几乎相同。 当他们要求 V1 时，我什至不记得我使用了哪个提示或参考图像。我意识到我不再花时间制作内容，而是花时间搜索。 对我来说，让视频更快并不是要为我发布更多内容。这意味着要按时完成任务，所以我要保留帐户。 我开始将镜头列表、参考图像、提示和拒绝的版本视为实际项目资产，而不是临时垃圾。 最近，我一直在测试 Framia，只是为了将所有视觉参考和过去的输出保留在一个工作区中。现在称其为答案还为时过早，但不要寻找“上周二的那张照片”。已经在帮忙了。 你们是如何组织你们这一代人的，还是我是唯一一个淹没在文件中的人？    由   提交 /u/SyntaxError0205   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgtqc6/does_anyone_face_the_same_messy_workflow_issue_in/</guid>
-      <pubDate>Thu, 06 Aug 2026 04:10:50 GMT</pubDate>
+      <title>有人自动化了 Spotify、Apple Podcasts 和 YouTube 上的播客摘要工作流程吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/</link>
+      <description><![CDATA[我正在尝试自动化处理长格式音频和视频的方式。目标是将 Spotify、Apple Podcasts 或 YouTube 链接发送到一个工作流程中，并获得： - 文字记录和结构化摘要 - 关键想法、引言和行动项目 - 以前剧集的可搜索存档 - 跨多个剧集提出问题的能力，这一点很重要。我想问多集，而不是一次一集。这是一个限制，只会在以后不断出现。 - 从桌面和移动设备访问 主要挑战是平台覆盖范围。许多作为播客摘要工具销售的工具似乎依赖于 YouTube 转录，因此它们不一定适用于 Spotify 或 Apple 播客的剧集。 我一直在测试两种方法： 选项 1：使用现有产品 Recall 已处理我测试过的 Spotify、Apple 播客和 YouTube 链接。它还将摘要与文章和其他网络内容一起存储在知识库中。我的工作流程中最有用的部分是能够在多个已保存的项目之间进行搜索或聊天。 缺点是，如果唯一的目标是播客摘要，那么它的产品可能会超出我的需要，而且我不清楚我的需求到底会去向哪里。 Snipd 感觉更适合播客收听。我更喜欢它的播放体验和以播客为中心的界面，但它似乎更适合处理单个剧集，而不是跨不同内容类型构建可搜索的研究档案。 选项 2：构建工作流程 我正在考虑组装一些东西： - RSS 提要或链接捕获触发器， - 音频下载器， - 语音到文本， - 一个用于结构化摘要的 LLM， - 以及用于检索的矢量数据库或笔记应用程序。 这将提供对摘要格式和存储的更多控制，但我担心转录成本、损坏的提要、说话者识别以及支持多个平台所需的维护。 对于任何构建或自动化类似内容的人： - 您的工作流程是什么样的？ - 如何从不同的播客中可靠地提取音频平台？ - 您是否尝试过recall或snipd或任何其他付费工具？ 我对仅限YouTube的摘要器不太感兴趣，而对跨播客平台运行的可靠、低维护的系统更感兴趣。我特别感兴趣的是能够在所有内容中聊天和搜索。   由   提交 /u/ReedNira   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/</guid>
+      <pubDate>Mon, 10 Aug 2026 10:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了价格过高的剪辑工具，所以我制作了自己的（开源）视频短片生成器。包括 MCP 服务器</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</link>
-      <description><![CDATA[      我只是想让你知道我对 openshorts 做了很多改进，特别是在 MCP 服务器方面，现在你可以连接你的代理并生成整整一周的剪辑。另外，还有许多新字体、剪辑系统的改进等。 github 存储库：mutonby/openshorts   由   提交 /u/mutonbini   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</guid>
-      <pubDate>Wed, 05 Aug 2026 22:47:39 GMT</pubDate>
+      <title>您的工作流程中有哪些非人工智能任务是您拒绝自动化的？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/</link>
+      <description><![CDATA[ 由   提交/u/pm-me-your-pm-now   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/</guid>
+      <pubDate>Mon, 10 Aug 2026 07:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>停止为 2 步问题构建 12 步 webhook 摩天大楼</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</link>
-      <description><![CDATA[自动化中最大的陷阱不是选择了错误的工具，而是选择了错误的工具。它正在建造一座脆弱的摩天大楼，而木凳就可以完成这项工作。早期，我陷入了尝试自动化工作流程中每个微小摩擦点的陷阱。我构建了庞大的十二步集成链，连接表单构建器、网络钩子、数据库和自定义人工智能摘要端点，只是为了处理简单的每周客户摄入量。直到 API 端点发生变化、达到速率限制或无声故障意味着三天的潜在客户数据丢失之前，这感觉就像魔法一样。我花在调试、监控和重建自动化上的时间比我自己实际完成手动工作的时间还要多。 当我开始将自动化视为一项需要缴纳高额维护税的投资时，转折点就来了。每个新节点、API 调用和条件分支都是您必须永远维护的技术债务。现在，在编写一行代码或在 Make 或 n8n 中删除单个块之前，我强迫自己遵循三个严格的规则。首先，在我手动完成至少二十次之前，我从来不会自动化某个流程。自动化不稳定或难以理解的流程只会加速混乱，并使边缘情况无法捕捉。 其次，我总是选择尽可能最低的技术堆栈来解决百分之八十的问题。如果标准的预定 Python 脚本或简单的本机集成有效，我将永远不会使用多个 Webhook 来实现复杂的多平台工作流程。第三，也是最重要的一点，我首先会为无声的失败而努力。如果自动化系统在不可避免地发生故障时没有干净、即时的警报机制，那么它还没有准备好投入生产。最好的自动化不是最复杂的，而是最复杂的。它们是看不见的、可靠的三步流程，在后台默默运行两年，无需进行任何调整。 您构建的最不必要的复杂自动化设置是什么，您最终将其拆除为非常简单的东西？   由   提交/u/Neighbourhoodplane17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</guid>
-      <pubDate>Wed, 05 Aug 2026 20:03:00 GMT</pubDate>
+      <title>用于预算的运输收据</title>
+      <link>https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/</link>
+      <description><![CDATA[我敢打赌，这适用于任何提供收据数字访问的商店。  我想到了我的杂货店 Safeway。每当我使用我的电话号码作为加油点时，它都会跟踪所有项目。我可以通过登录、单击并查看几个月前购买的商品来访问此信息。  我只需点击几下即可将收据通过电子邮件发送给我。  如何自动挖掘和审查这些信息以用于预算目的？  假设我想知道我在狗粮和卫生纸上花了多少钱。  如何设置？ 我正在尝试使用 ChatGPT 的财务。但我愿意接受建议   由   提交/u/1eight100empire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/</guid>
+      <pubDate>Mon, 10 Aug 2026 02:21:22 GMT</pubDate>
     </item>
     <item>
-      <title>没有故障记录的自动化只是时间表的希望</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</link>
-      <description><![CDATA[我见过的每一个自动化都不是因为糟糕的工作流程而死掉的。它死于无形的。 工作流程运行良好数周。然后一个 API 发生了变化，一个字段变成了空，直到客户注意到为止，没有人注意到。那是没有人演示的部分。演示始终是快乐的道路。第一个月总是幸福的道路。 解决办法很无聊：记录每一次失败。不仅仅是车祸。重试、超时、奇怪的响应仍然算作 200。然后每周对它们进行一次分类。三种类型将涵盖您的大部分失败，解决这三种问题就可以将脚本变成系统。 去年我一直在构建必须能够与现实接触的自动化。那些持续存在的那些我可以打开日志并准确查看损坏的原因、时间和原因。那些死去的人是我从别人那里发现的。 你在自动化中记录了什么，你通过艰难的方式学到了什么？   由   提交 /u/Grouchy-Conflict-211   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</guid>
-      <pubDate>Wed, 05 Aug 2026 19:25:21 GMT</pubDate>
+      <title>如何找到自定义人工智能驱动的仪表板和内部工具的客户？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vk3bwz/how_do_i_find_clients_for_custom_aipowered/</link>
+      <description><![CDATA[嗨，我叫杜阿尔特。我在 Fiverr 上做了大约两年的自由职业，主要从事 3D 打印的 3D CAD 建模。 最近，我对这个领域感到非常厌倦。找到好的客户越来越难，价格竞争激烈，而且许多客户根本不愿意支付足够的费用。因此，我希望进入不同的领域：为企业构建自定义网络仪表板和内部工具，特别是使用人工智能解决实际问题或提高现有工作流程效率的解决方案。例如，这可能意味着使用人工智能助手或专业代理构建仪表板，这些仪表板可以分析业务数据、组织信息、在网络上搜索机会、生成报告、处理内部文档、自动执行重复性任务或执行围绕客户工作流程构建的其他特定功能。 我不会凭空进入这个领域。我一生的大部分时间都在编程，自从获得法学硕士以来，我花了很多时间研究和围绕它们构建日益复杂的系统。 例如，在过去的六个月里，我一直在从头开始开发一个相当大的人工智能平台。它结合了对话式 AI、专用代理、RAG、文档摄取和 OCR、长期记忆、代理网络搜索、深度研究、结构化知识提取和多阶段检索管道。 很大一部分工作还涉及解决普通 RAG 实现无法很好处理的问题。我设计了自己的检索和知识组织架构，该架构可以构建信息层次结构，了解知识库的哪些部分与问题相关，动态缩小检索范围，并为代理提供更精确的上下文，而不是简单地嵌入文档和执行相似性搜索。我必须处理从检索架构和上下文管理到代理编排、后端基础设施、数据库、API 和前端内容本身的所有工作。 因此从技术上讲，我相信我可以构建这种软件。我正在努力解决的问题是弄清楚如何真正将这些技能转化为客户。 对于已经在网络开发、自动化、内部工具、SaaS 或人工智能咨询领域从事自由职业的人： - 您在哪里找到该领域的第一个客户？ - 冷外展实际上有效吗？如果有效，我应该瞄准哪些类型的企业？ - 您会专注于自由职业平台、LinkedIn、电子邮件外展、社区、合作伙伴关系，还是其他什么？ - 您如何呈现这种服务，而不只是听起来像另一个人试图销售人工智能自动化？ - 您会销售预定义的服务/包，还是首先接触企业，找出效率低下的地方，然后提出定制解决方案？ 我特别有兴趣与企业合作，在这些企业中，相对较小的定制应用程序可以每周为员工节省几个小时的工作时间，或解决他们目前手动处理的工作流程。 我真的很感激任何已经经历过这种转变或目前为此类工作获得客户的人的建议。我在技术上很擅长构建产品，我主要是想了解如何定位自己，找到合适的业务，并在这个新领域获得第一批客户。   由   提交 /u/tech_Dauwt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vk3bwz/how_do_i_find_clients_for_custom_aipowered/</guid>
+      <pubDate>Sun, 09 Aug 2026 22:30:23 GMT</pubDate>
     </item>
     <item>
-      <title>您如何在大型自动化项目中对 PLC 逻辑进行版本控制？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</link>
-      <description><![CDATA[对于拥有多名工程师处理 PLC 程序的团队，您的版本控制工作流程是怎样的？您是否以任何身份、特定于供应商的工具或其他方式使用 Git？ 我很好奇人们如何避免合并冲突、跟踪更改以及管理生产中的回滚。   由   提交/u/Top-Try419  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</guid>
-      <pubDate>Wed, 05 Aug 2026 17:42:22 GMT</pubDate>
+      <title>这里有人真的通过为小型企业提供人工智能自动化来赚钱吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/</link>
+      <description><![CDATA[嗨！因此，我正在学习人工智能/业务流程自动化，目标是帮助小型服务企业实现潜在客户跟进、日程安排、CRM 更新、提醒和管理工作等工作的自动化。 我是全职工作，每周投入大约 8-10 个小时用于学习/构建。 这里有人真正将其转化为真正的业务吗？是否有合法的需求，专注于一个利基市场是否更好？ 如果这听起来不切实际或我以错误的方式处理它，也欢迎聆听，谢谢！   由   提交 /u/Ancient-Restaurant11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/</guid>
+      <pubDate>Sun, 09 Aug 2026 22:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>如果你明天开始一份新工作，你想要自动化的第一件事是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vg042n/whats_the_first_thing_youd_automate_if_you/</link>
-      <description><![CDATA[你走进一份全新的工作、新的系统、新的流程，你首先要选择一件事来自动化。你想做什么？ 对我来说，通常是报告。几乎每项工作都有一些每周或每月的报告，是有人手工制作的，将数字从一个地方复制到另一个地方。它很无聊，很容易出错，而且是我首先想要消失的东西。 那么你会选择什么？这些年来您的答案是否发生了变化，或者每次都是相同的任务？   由   提交 /u/I_know_few_things   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vg042n/whats_the_first_thing_youd_automate_if_you/</guid>
-      <pubDate>Wed, 05 Aug 2026 07:11:57 GMT</pubDate>
+      <title>好吧，听着，我会让你们所有人都变得非常简单。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vk0a8k/alright_look_ill_make_it_deadsimple_for_all_of_you/</link>
+      <description><![CDATA[ 由   提交/u/PA100T0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vk0a8k/alright_look_ill_make_it_deadsimple_for_all_of_you/</guid>
+      <pubDate>Sun, 09 Aug 2026 20:24:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
