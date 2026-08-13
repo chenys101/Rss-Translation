@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Aug 2026 09:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:55:54 GMT</lastBuildDate>
     <item>
       <title>人类行为</title>
       <link>https://www.producthunt.com/products/human-behavior</link>
@@ -34,6 +34,20 @@
       <pubDate>Thu, 13 Aug 2026 05:35:04 GMT</pubDate>
     </item>
     <item>
+      <title>Insta360 X6</title>
+      <link>https://www.producthunt.com/products/insta-360</link>
+      <description><![CDATA[
+            集 360 度相机、万向节和 3D 扫描仪于一体
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/insta-360</guid>
+      <pubDate>Thu, 13 Aug 2026 04:36:50 GMT</pubDate>
+    </item>
+    <item>
       <title>基维库埃</title>
       <link>https://www.producthunt.com/products/kivicube</link>
       <description><![CDATA[
@@ -48,46 +62,18 @@
       <pubDate>Wed, 12 Aug 2026 23:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>芬克</title>
-      <link>https://www.producthunt.com/products/phinq</link>
+      <title>泡菜浏览器</title>
+      <link>https://www.producthunt.com/products/pickle-browser</link>
       <description><![CDATA[
-            在人工智能代理破坏某些东西之前阻止它们
+            您的代理的浏览器。在您可以看到的窗口中本地运行
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/phinq</guid>
-      <pubDate>Wed, 12 Aug 2026 23:43:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>线程端口</title>
-      <link>https://www.producthunt.com/products/threadport</link>
-      <description><![CDATA[
-            一键在 ChatGPT、Claude 和 Gemini 之间移动 AI 聊天
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/threadport</guid>
-      <pubDate>Wed, 12 Aug 2026 19:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪什链接</title>
-      <link>https://www.producthunt.com/products/dishylink</link>
-      <description><![CDATA[
-            适用于 Mac、Windows 和 Web 的开源 Starlink 监控应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dishylink</guid>
-      <pubDate>Wed, 12 Aug 2026 10:53:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/pickle-browser</guid>
+      <pubDate>Wed, 12 Aug 2026 20:05:25 GMT</pubDate>
     </item>
     <item>
       <title>缺口</title>
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kitbitz</guid>
       <pubDate>Wed, 12 Aug 2026 07:42:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>穴居人</title>
+      <link>https://www.producthunt.com/products/caveman</link>
+      <description><![CDATA[
+            为什么要使用很多代币，而很少有人会欺骗
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/caveman</guid>
+      <pubDate>Tue, 11 Aug 2026 23:39:36 GMT</pubDate>
     </item>
     <item>
       <title>阿普拉舰队</title>
@@ -160,46 +160,46 @@
       <pubDate>Tue, 11 Aug 2026 17:33:46 GMT</pubDate>
     </item>
     <item>
-      <title>耐心</title>
-      <link>https://www.producthunt.com/products/patience-2</link>
+      <title>凯恩 CLI</title>
+      <link>https://www.producthunt.com/products/lambdatest</link>
       <description><![CDATA[
-            唯一的机械师正在等待。唯一的货币是时间。
+            从终端进行自然语言浏览器和移动应用程序测试
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/patience-2</guid>
-      <pubDate>Sat, 08 Aug 2026 20:43:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lambdatest</guid>
+      <pubDate>Mon, 10 Aug 2026 07:21:45 GMT</pubDate>
     </item>
     <item>
-      <title>海岸科阿雷纳酒店</title>
-      <link>https://www.producthunt.com/products/coarena-by-coasty</link>
+      <title>斯林巴解释</title>
+      <link>https://www.producthunt.com/products/scrimba</link>
       <description><![CDATA[
-            代理们在现实世界工作中战斗的竞技场
+            提出任何问题，立即获取视频
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/coarena-by-coasty</guid>
-      <pubDate>Wed, 05 Aug 2026 19:20:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/scrimba</guid>
+      <pubDate>Tue, 04 Aug 2026 16:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>网络大脑</title>
-      <link>https://www.producthunt.com/products/webbrain</link>
+      <title>这</title>
+      <link>https://www.producthunt.com/products/ito-ai-code-review-that-runs-code</link>
       <description><![CDATA[
-            我们其他人的侧边栏代理
+            运行您的代码的 AI 代码审查
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/webbrain</guid>
-      <pubDate>Mon, 13 Jul 2026 07:42:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ito-ai-code-review-that-runs-code</guid>
+      <pubDate>Thu, 23 Jul 2026 17:38:37 GMT</pubDate>
     </item>
     <item>
       <title>埃克雷夫</title>
