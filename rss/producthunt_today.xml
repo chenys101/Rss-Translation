@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Aug 2026 01:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:44:11 GMT</lastBuildDate>
     <item>
       <title>人类行为</title>
       <link>https://www.producthunt.com/products/human-behavior</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/human-behavior</guid>
       <pubDate>Thu, 13 Aug 2026 06:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>FluidDocs CLI</title>
+      <link>https://www.producthunt.com/products/fluiddocs-html-deck-builder</link>
+      <description><![CDATA[
+            发布可回答和报告的交互式文档
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/fluiddocs-html-deck-builder</guid>
+      <pubDate>Thu, 13 Aug 2026 05:48:59 GMT</pubDate>
     </item>
     <item>
       <title>健健康</title>
@@ -34,18 +48,32 @@
       <pubDate>Thu, 13 Aug 2026 05:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>技能文档</title>
-      <link>https://www.producthunt.com/products/skilldocs</link>
+      <title>基维库埃</title>
+      <link>https://www.producthunt.com/products/kivicube</link>
       <description><![CDATA[
-            Figma 用于降价
+            使用 AI 创建 AR 体验，无需代码！
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/skilldocs</guid>
-      <pubDate>Wed, 12 Aug 2026 21:07:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kivicube</guid>
+      <pubDate>Wed, 12 Aug 2026 23:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>泡菜浏览器</title>
+      <link>https://www.producthunt.com/products/pickle-browser</link>
+      <description><![CDATA[
+            您的代理的浏览器。在您可以看到的窗口中本地运行
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pickle-browser</guid>
+      <pubDate>Wed, 12 Aug 2026 20:05:25 GMT</pubDate>
     </item>
     <item>
       <title>迪什链接</title>
@@ -76,18 +104,18 @@
       <pubDate>Wed, 12 Aug 2026 08:37:19 GMT</pubDate>
     </item>
     <item>
-      <title>穴居人</title>
-      <link>https://www.producthunt.com/products/caveman</link>
+      <title>基比茨</title>
+      <link>https://www.producthunt.com/products/kitbitz</link>
       <description><![CDATA[
-            为什么要使用很多代币，而很少有人会欺骗
+            为您的项目提供 2K+ 幅免费手绘插图，CC0
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/caveman</guid>
-      <pubDate>Tue, 11 Aug 2026 23:39:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kitbitz</guid>
+      <pubDate>Wed, 12 Aug 2026 07:42:53 GMT</pubDate>
     </item>
     <item>
       <title>内存代理</title>
@@ -118,20 +146,6 @@
       <pubDate>Tue, 11 Aug 2026 17:33:46 GMT</pubDate>
     </item>
     <item>
-      <title>凯恩 CLI</title>
-      <link>https://www.producthunt.com/products/lambdatest</link>
-      <description><![CDATA[
-            从终端进行自然语言浏览器和移动应用程序测试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lambdatest</guid>
-      <pubDate>Mon, 10 Aug 2026 07:21:45 GMT</pubDate>
-    </item>
-    <item>
       <title>耐心</title>
       <link>https://www.producthunt.com/products/patience-2</link>
       <description><![CDATA[
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/scrimba</guid>
       <pubDate>Tue, 04 Aug 2026 16:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>努福斯</title>
-      <link>https://www.producthunt.com/products/nuphos</link>
-      <description><![CDATA[
-            AI 原生 DevOps 工作区。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nuphos</guid>
-      <pubDate>Tue, 04 Aug 2026 09:42:20 GMT</pubDate>
     </item>
     <item>
       <title>这</title>
