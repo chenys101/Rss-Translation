@@ -4,7 +4,48 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Aug 2026 15:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:19:35 GMT</lastBuildDate>
+    <item>
+      <title>H2O 的代币化：精英们声称拥有世界供水并计划进行交易</title>
+      <link>https://www.zerohedge.com/geopolitical/tokenization-h2o-elites-are-claiming-worlds-water-supply-plan-trade-it</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/tokenization-h2o-elites-are-claiming-worlds-water-supply-plan-trade-it</guid>
+      <pubDate>Sun, 16 Aug 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>北京希望英伟达退出，但中国人工智能开发商尚未准备好</title>
+      <link>https://www.zerohedge.com/markets/beijing-wants-nvidia-out-chinas-ai-developers-arent-ready</link>
+      <description><![CDATA[北京希望英伟达退出，但中国的人工智能开发者尚未准备好
+中国多年来投入大量资金和政治资本来建设本土半导体产业。然而，据 南中国早报.
+最大的障碍可能不再是芯片本身。这是开发人员围绕它们构建的一切。
+Nvidia 的 CUDA 软件已深深融入人工智能实验室的运作方式中。模型、培训工具和内部工作流程都是围绕该平台设计的，这意味着改用中国硬件就像重建工厂的一部分，而不是简单地更换机器。
+南华早报写入华为的升腾处理器是国内领先的替代品之一，但将现有的业务转移到它们上可能需要大量的工程工作。一位研究人员估计，这样做可能会增加项目至少 50% 的时间和费用。
+
+这种转变的痛苦程度在很大程度上取决于模型。广泛使用的开源模型（例如 DeepSeek）更容易，因为工程师可以修改代码并依赖其他人已经完成的工作。在这些情况下，迁移可能只需要几个开发人员和几周的时间。
+封闭系统是另一回事。如果无法访问底层源代码，工程师可能需要花费数月时间来重建和优化部分培训过程。一项行业估计表明，一项困难的迁移可能会占用大约 10 名工程师半年多的时间。
+中国在将成品转移到国内基础设施上取得了更大的成功。一旦模型经过训练，运行它进行日常查询（称为推理）通常更容易适应不同的硬件。
+国产芯片也开始处理训练问题。美团表示，其庞大的LongCat-2.0模型是使用5万芯片的中国计算集群开发的。
+因此，中国的英伟达问题越来越多地涉及惯性和技术。国产处理器可能会继续缩小性能差距，但英伟达有一些更难快速制造的东西：多年的软件、开发人员的熟悉度以及围绕其生态系统构建的基础设施。
+
+泰勒·德登
+周日，2026 年 8 月 16 日 - 13:25]]></description>
+      <guid>https://www.zerohedge.com/markets/beijing-wants-nvidia-out-chinas-ai-developers-arent-ready</guid>
+      <pubDate>Sun, 16 Aug 2026 17:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“穿白大褂的狼”：美国卫生与公众服务部关于涉嫌儿童性别治疗欺诈的报告的 5 个要点</title>
+      <link>https://www.zerohedge.com/medical/wolves-white-coats-5-key-takeaways-hhs-report-alleged-pediatric-gender-treatment-fraud</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/medical/wolves-white-coats-5-key-takeaways-hhs-report-alleged-pediatric-gender-treatment-fraud</guid>
+      <pubDate>Sun, 16 Aug 2026 16:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高等教育持续衰落</title>
+      <link>https://www.zerohedge.com/political/decline-higher-education-continues</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/decline-higher-education-continues</guid>
+      <pubDate>Sun, 16 Aug 2026 15:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>“妄想”：伊朗回击特朗普让“霍尔木兹海峡成为美国领土”的野心</title>
       <link>https://www.zerohedge.com/geopolitical/iran-fires-back-trumps-make-hormuz-strait-territory-us-ambitions-delusions</link>
@@ -95,34 +136,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/massachusetts-abortion-law-could-backfire-democrats</guid>
       <pubDate>Sun, 16 Aug 2026 01:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国蓝色托邦之旅</title>
-      <link>https://www.zerohedge.com/political/tour-americas-blue-topias</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/tour-americas-blue-topias</guid>
-      <pubDate>Sun, 16 Aug 2026 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普：林肯号航空母舰海上航行9个月“还不够长”</title>
-      <link>https://www.zerohedge.com/geopolitical/trump-9-months-sea-uss-lincoln-not-nearly-long-enough</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/trump-9-months-sea-uss-lincoln-not-nearly-long-enough</guid>
-      <pubDate>Sun, 16 Aug 2026 00:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的监控出口是否正在将国家变成数字独裁国家？</title>
-      <link>https://www.zerohedge.com/geopolitical/are-chinas-surveillance-exports-turning-nations-digital-dictatorships</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/are-chinas-surveillance-exports-turning-nations-digital-dictatorships</guid>
-      <pubDate>Sat, 15 Aug 2026 23:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能能否取代人类法官？</title>
-      <link>https://www.zerohedge.com/political/can-artificial-intelligence-replace-human-judges</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/can-artificial-intelligence-replace-human-judges</guid>
-      <pubDate>Sat, 15 Aug 2026 22:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
