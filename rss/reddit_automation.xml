@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 11 Aug 2026 15:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:33:08 GMT</lastBuildDate>
     <item>
-      <title>需要一位导师</title>
-      <link>https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/</link>
-      <description><![CDATA[我不知道，如果我真的想要一个有自己客户的导师，我愿意为他工作，即使他只付给我 2-3k，我已经准备好做这份工作，我只是想从某个地方开始来支持我的家庭财务。   由   提交 /u/Party_Initiative_621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vlks7s/need_a_mentor/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:32:36 GMT</pubDate>
+      <title>我建立了一个云自动化来制作带有真实屏幕截图和剪辑的简短教程视频......但我有一个问题</title>
+      <link>https://www.reddit.com/r/automation/comments/1vsbfyn/i_built_a_cloud_automation_for_making_short/</link>
+      <description><![CDATA[我正在尝试构建一个云自动化来制作简短的教程视频......主要是真实的屏幕截图、真实的屏幕录制。不是那些通用的人工智能生成的剪辑。 我试图解决的主要问题非常简单。 如果我使用 Claude Code 来生成视频，它可以做得很好。但我的计算机仍然必须运行，浏览器必须打开，终端等。我想将整个事情转移到云端。 所以我开始使用 n8n 和 Claude 连接器构建它。 对于屏幕截图，我一直在使用 Firecrawl 和 Browserless。 Firecrawl 在从网站的每个操作截取屏幕截图方面做得非常好。即使在一些前面有 Cloudflare 的网站上，它仍然可以工作，我发现它非常有用。 我有 Heygen Hyperframes，但它确实可以在云中工作，头像视频、屏幕截图和超帧运动图形永远不会剪辑在一起。 此外，当我需要与网站交互时，另一部分会出现...例如，登录，然后对网站内的某些内容进行屏幕截图。 Firecrawl 可以通过其交互来做到这一点模式，但它可以很快消耗掉积分。因此，对于教程视频工作流程，成本可能会成为一个问题。 还有一件事，我不太愿意在基于云的浏览器上共享我的凭据。 如果我需要通过云浏览器登录网站，我必须考虑这些凭据的去向以及它的安全性。 我真的不想将我的个人登录凭据提供给某些云浏览器，以便我的自动化可以截取一些屏幕截图。 所以自动化本身运行得非常好......我仍然试图弄清楚的主要问题是在云中处理经过身份验证的浏览器会话的最佳方法，而不会让整个事情变得昂贵或有风险。   由   提交 /u/ollat​​v   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vsbfyn/i_built_a_cloud_automation_for_making_short/</guid>
+      <pubDate>Wed, 19 Aug 2026 03:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>如何将每个新列表与您的购买列表进行匹配</title>
-      <link>https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/</link>
-      <description><![CDATA[我一直在尝试找到一种更好的方法来根据我的购买列表查找新的 eBay 列表。我有我正在寻找的具体零件号和型号，以及我愿意支付的价格。手动检查每一个新列表并对照电子表格进行检查很快就会过时。相反，我一直在做的是从更广泛的搜索开始，然后通过子搜索和过滤器缩小结果范围。对于更复杂的列表，我可以使用 Python 提取型号并将其与我的 CSV 进行比较。基本上，我想知道：它在我的清单上吗？型号正确吗？价格合适吗？对于难以弄清楚的列表，我还可以使用 ai 作为 python 之后的另一种方式。所以我很好奇其他拥有更大购买清单的人如何处理这个问题。您是手动查看列表还是找到了自动化的好方法？   由   提交 /u/One_Republic_8042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vljxkk/how_to_match_every_new_listing_against_your_buy/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:02:12 GMT</pubDate>
+      <title>我是否需要一个反检测浏览器来管理多个广告帐户或移动代理？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vsaymf/do_i_need_an_antidetect_browser_for_managing/</link>
+      <description><![CDATA[在 Meta 和 TikTok 上运行 6-8 个客户帐户。目前使用 Voidmob 专用移动代理，并将 TCP/IP 指纹设置为 iOS 和专用运营商 DNS，而不是 Cloudfare。每个客户的每个帐户都有自己的专用 IP 和自定义代理指纹。  网络啤酒目前看起来很干净，但我正在尝试确定是否确实有必要在顶部添加反检测浏览器，或者在对代理层进行排序时，具有独立 cookie 的 Chrome 配置文件是否足够。  对于那些使用真实生存数据管理多个客户端配置文件的人来说，有几个问题： Meta/TikTok 是否会根据浏览器的用户代理和 JS 环境主动交叉检查低级网络信号（例如 TCP/IP 堆栈操作系统）？  通过移动配置的代理运行桌面版 Chrome 是否会产生触发禁令的指纹异常？  如今，反检测浏览器的 canvas/WebGL 欺骗仍然受到反机器人算法的重视，还是 cookie 隔离 + 干净的 IP 就足够了？ 目前正在研究一些反检测浏览器选项，试图弄清楚它是否真的值得。  谢谢！   由   提交 /u/Happy_Nebula9406   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vsaymf/do_i_need_an_antidetect_browser_for_managing/</guid>
+      <pubDate>Wed, 19 Aug 2026 03:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>将 AdsPower 与 GoLogin 一起使用后的想法</title>
-      <link>https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/</link>
-      <description><![CDATA[随着帐户数量的增加，反检测浏览器之间的差异变得更容易注意到。我使用过 GoLogin 和 AdsPower，两者都可以处理浏览器配置文件隔离和指纹管理，没有出现任何重大问题。一旦我有更多的帐户需要管理，我发现自己更加关注工作流程而不是指纹设置。 AdsPower 拥有更强大的文件夹、标签和批处理操作系统，这使得按项目组织配置文件变得更加容易。查找、更新和管理配置文件也更省力。它比 GoLogin 有更多的功能，因此有一个学习曲线，但在使用一段时间后一切感觉更自然。  自动化是我注意到明显差异的另一个领域。我的很多工作涉及在不同的帐户中重复相同的任务，因此内置的自动化减少了大量的手动工作。我也喜欢团队访问的处理方式。共享配置文件、分配权限以及将项目移交给其他人都很简单。我将它与住宅代理配对，没有遇到任何兼容性问题。不同的项目保持独立，无需太多额外的工作。同时运行大量浏览器配置文件仍然取决于您的计算机，但这适用于几乎所有反检测浏览器。  GoLogin 还是有自己的优势的。界面更干净，更容易学习，非常适合只管理少量帐户的人。如果我只有少数配置文件，我就不会切换工具。当帐号数量增加或多人需要访问同一工作区时，AdsPower 就更有意义。浏览器指纹已成为该领域大多数产品的标准功能。更大的差异来自帐户管理、批量操作以及一切与您的日常工作流程的契合程度。这是我的经历。每个人的情况可能不尽相同，但如果管理数十个帐户是您日常工作的一部分，那么两者之间的差距就更容易注意到。   由   提交 /u/NewReview1894   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vleorx/thoughts_after_using_adspower_alongside_gologin/</guid>
-      <pubDate>Tue, 11 Aug 2026 11:22:35 GMT</pubDate>
+      <title>最好的人工智能聊天机器人？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vs3ukt/best_ai_chatbot/</link>
+      <description><![CDATA[寻找一个无代码聊天机器人，可以从我自己的网站/常见问题解答中进行回答，而不仅仅是给出通用的人工智能回复。 理想情况下，它应该适用于网站聊天、WhatsApp 和 Instagram，并在需要时进行人工切换。预算约为 50 美元/月。 不打算构建任何自定义内容。有什么建议吗？   由   提交 /u/Impressive_Pin6688   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vs3ukt/best_ai_chatbot/</guid>
+      <pubDate>Tue, 18 Aug 2026 22:17:10 GMT</pubDate>
     </item>
     <item>
-      <title>寻求与自动化专家合作（我们拥有大量由政府资助的线索）</title>
-      <link>https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/</link>
-      <description><![CDATA[嘿，希望与合适的专家和团队合作来完成小型企业的项目。所以通常的事情，比如为他们设置一个代理，自动化手动程序。 告诉我你有什么！有项目和演示 - 让我知道这些费用是多少？ 仅供参考，我们的大多数项目预算上限为 3-8000 美元左右。   由   提交 /u/BidOdd4532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vle5fx/looking_to_partner_up_with_automation_experts_we/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:54:59 GMT</pubDate>
+      <title>自动将计算值推回到应用程序的数据库中</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</link>
+      <description><![CDATA[一种对我有用的模式，而不是每晚将聚合从仓库复制到应用程序数据库的反向 ETL 脚本：Lakebase 同步表使 Postgres 表与源 Delta 表持续保持同步，因此应用程序可以读取新的计算值，而无需 cron 来照顾。我还漏掉了其他东西吗？   由   提交/u/pretzels90210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>副驾驶可以自动报告吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/</link>
-      <description><![CDATA[ 由   提交/u/Low-Pea-785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vld8ge/can_copilot_automate_reporting/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:03:46 GMT</pubDate>
+      <title>我为设计安全实用的AI Agent系统而制作的信息图</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</link>
+      <description><![CDATA[      如果这不是发布此内容的正确位置，我深表歉意   由   提交 /u/donotfire   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:14:38 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何停止为我们的代理商工作：当软件工厂不起作用时</title>
-      <link>https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/</link>
-      <description><![CDATA[       由   提交/u/sn1pr0s  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vl9ibv/how_we_stopped_working_for_our_agents_when/</guid>
-      <pubDate>Tue, 11 Aug 2026 06:25:54 GMT</pubDate>
+      <title>n8n 新手，不知道从哪里开始？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</link>
+      <description><![CDATA[       由   提交/u/easybits_ai  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</guid>
+      <pubDate>Tue, 18 Aug 2026 09:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>我删除了监控仪表板，我的自动化变得更加可靠</title>
-      <link>https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/</link>
-      <description><![CDATA[我不久前在这里发布了有关自动化 10 分钟任务的文章。有几个人问我如何监控我的东西。事实是，有一段时间我有一个完整的仪表板。 Grafana、警报，所有这些。 然后我注意到我花在仪表板上的时间比解决实际问题的时间还要多。这些警报纯粹是噪音。最糟糕的失败无论如何都是无声的，那些永远不会触发任何东西的失败。 所以我删除了它。所有这些。 我现在所拥有的只是每天 ping 一次群聊。一行。 “X 运行，Y 作业正常，Z 跳过”。如果到上午 9 点还没有出现该 ping，就会有人检查。就是这样。没有图表，没有警报疲劳。 删除后，自动化变得更加可靠。并不是因为监控有所改善。因为该栏从“仪表板上看起来不错”变成了“在仪表板上看起来不错”。 “它真的运行了吗？我能证明一下吗？”。 这种转变比任何警报都起到了更大的作用。   由   提交 /u/Grouchy-Conflict-211   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vl6skf/i_deleted_my_monitoring_dashboard_and_my/</guid>
-      <pubDate>Tue, 11 Aug 2026 03:59:31 GMT</pubDate>
+      <title>寻找擅长销售的人合作进行人工智能自动化工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</link>
+      <description><![CDATA[我为小型企业构建人工智能自动化，例如聊天机器人、跟进系统、抓取数据、清理工作流程，以及任何占用他们时间或花费金钱的东西。我在技术方面很扎实，但老实说，我不擅长寻找客户或向他们推销。 寻找善于与小企业主交谈并能够发现他们在哪里浪费时间或金钱的人。如果你给我带来客户并完成交易，我会处理构建方面的所有事情，然后我们将其分开。 无论你以前是否做过这件事，如果你善于与人相处并且能够销售，这确实是我需要的主要东西。 如果这听起来像你想做的事情，我们可以弄清楚分割并开始行动。   由   提交/u/Thunderbird435  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</guid>
+      <pubDate>Tue, 18 Aug 2026 02:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>将自然语言到 SQL 连接到代理工作流程中</title>
-      <link>https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/</link>
-      <description><![CDATA[如果您的代理需要在工作流程中回答真实表格的问题，Databricks Genie Conversation API 值得一看，您发布一个简单的英语问题并轮询生成的 SQL 和实际行，因此模型不会从上下文中猜测数字。该线程也保持有状态，因此后续人员会重用之前的问题，而无需您重新填充所有内容。这里有人用这种方式将 NL-to-SQL 连接到他们的代理中吗？   由   提交/u/pretzels90210  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vkun5x/wiring_naturallanguagetosql_into_an_agent_workflow/</guid>
-      <pubDate>Mon, 10 Aug 2026 19:25:36 GMT</pubDate>
+      <title>我们如何链接多个法学硕士将复杂任务错误减少 45%</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</link>
+      <description><![CDATA[       由   提交/u/Ok_pettech   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:35:17 GMT</pubDate>
     </item>
     <item>
-      <title>这是我们的代理运行仪表板</title>
-      <link>https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/</link>
-      <description><![CDATA[       由   提交/u/Hopeful-Fly-5292   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vkhys1/this_is_our_agent_run_dashboard/</guid>
-      <pubDate>Mon, 10 Aug 2026 11:17:57 GMT</pubDate>
+      <title>如何绕过谷歌浏览器验证码</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</link>
+      <description><![CDATA[嘿伙计们。希望你们都做得很好。我陷入了我的 chrome 自动化项目。我希望有人能帮助我解决这个问题。 如何在未登录的情况下处理 google 验证码？   由   提交/u/wannabeepsycho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>有人自动化了 Spotify、Apple Podcasts 和 YouTube 上的播客摘要工作流程吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/</link>
-      <description><![CDATA[我正在尝试自动化处理长格式音频和视频的方式。目标是将 Spotify、Apple Podcasts 或 YouTube 链接发送到一个工作流程中，并获得： - 文字记录和结构化摘要 - 关键想法、引言和行动项目 - 以前剧集的可搜索存档 - 跨多个剧集提出问题的能力，这一点很重要。我想问多集，而不是一次一集。这是一个限制，只会在以后不断出现。 - 从桌面和移动设备访问 主要挑战是平台覆盖范围。许多作为播客摘要工具销售的工具似乎依赖于 YouTube 转录，因此它们不一定适用于 Spotify 或 Apple 播客的剧集。 我一直在测试两种方法： 选项 1：使用现有产品 Recall 已处理我测试过的 Spotify、Apple 播客和 YouTube 链接。它还将摘要与文章和其他网络内容一起存储在知识库中。我的工作流程中最有用的部分是能够在多个已保存的项目之间进行搜索或聊天。 缺点是，如果唯一的目标是播客摘要，那么它的产品可能会超出我的需要，而且我不清楚我的需求到底会去向哪里。 Snipd 感觉更适合播客收听。我更喜欢它的播放体验和以播客为中心的界面，但它似乎更适合处理单个剧集，而不是跨不同内容类型构建可搜索的研究档案。 选项 2：构建工作流程 我正在考虑组装一些东西： - RSS 提要或链接捕获触发器， - 音频下载器， - 语音到文本， - 一个用于结构化摘要的 LLM， - 以及用于检索的矢量数据库或笔记应用程序。 这将提供对摘要格式和存储的更多控制，但我担心转录成本、损坏的提要、说话者识别以及支持多个平台所需的维护。 对于任何构建或自动化类似内容的人： - 您的工作流程是什么样的？ - 如何从不同的播客中可靠地提取音频平台？ - 您是否尝试过recall或snipd或任何其他付费工具？ 我对仅限YouTube的摘要器不太感兴趣，而对跨播客平台运行的可靠、低维护的系统更感兴趣。我特别感兴趣的是能够在所有内容中聊天和搜索。   由   提交 /u/ReedNira   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vkh33k/has_anyone_automated_a_podcast_summarizer/</guid>
-      <pubDate>Mon, 10 Aug 2026 10:29:44 GMT</pubDate>
+      <title>我认为在 Product Hunt 上获得第一名的感觉会有所不同。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</link>
+      <description><![CDATA[      我们今天推出了 Meridian，并最终成为当日排名第一的产品。 我在最初的几个小时里不断刷新 Product Hunt，但排名很快就变得没有看到陌生人使用我们在自己的泡沫中构建的东西那么有趣了。 几个月来，我们一直在争论工作流程是否有用、开发人员是否会关心以及我们是否正在解决问题正确的问题。今天，真正的用户开始回答这些问题。他们的反馈已经挑战了我们的一些假设，并改变了我们对产品的看法。 这是我最大的收获：在陌生人使用它之前，你并不真正知道自己构建了什么。 #1 徽章感觉很棒，但更艰苦的工作现在开始了。我们需要将这种注意力转化为开发人员真正认为有用的东西。 您可以在今天的 Product Hunt 上找到我们的热门产品！ 如果您之前曾在 Product Hunt 上推出过，那么发布后最令您惊讶的是什么？   由   提交/u/Akarsh_Hegde   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</guid>
+      <pubDate>Mon, 17 Aug 2026 18:27:33 GMT</pubDate>
     </item>
     <item>
-      <title>您的工作流程中有哪些非人工智能任务是您拒绝自动化的？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/</link>
-      <description><![CDATA[ 由   提交/u/pm-me-your-pm-now   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vkdl1t/whats_a_nonai_task_in_your_workflow_that_you/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:01:15 GMT</pubDate>
+      <title>我周一的报告仍然取决于记住上周一的提示。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</link>
+      <description><![CDATA[下周一这个报告设置会变得尴尬。当前版本可以获取几个市场导出并进行比较。一旦解释了日期范围和计算规则，它就可以工作。 一周后，新文件到达。我可能还记得这次我是如何处理退款的，但我不希望报告取决于我的记忆。每次更新之前通读旧对话将用即时维护取代电子表格维护。 我在 Accio Work 中尝试了该任务，它接受上传的报告，并在我提供公式后生成可行的结果。对于调查偶尔出现的问题来说，这似乎没问题。 我对使用人们每周一期待的报告相同的方法不太有信心。那时，我希望商定的计算保持固定，而不是在每次上传时再次解释。 第一个版本运行后，人们如何锁定基于聊天的报告？   由   提交 /u/That-Economist-2756   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</guid>
+      <pubDate>Mon, 17 Aug 2026 17:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>用于预算的运输收据</title>
-      <link>https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/</link>
-      <description><![CDATA[我敢打赌，这适用于任何提供收据数字访问的商店。  我想到了我的杂货店 Safeway。每当我使用我的电话号码作为加油点时，它都会跟踪所有项目。我可以通过登录、单击并查看几个月前购买的商品来访问此信息。  我只需点击几下即可将收据通过电子邮件发送给我。  如何自动挖掘和审查这些信息以用于预算目的？  假设我想知道我在狗粮和卫生纸上花了多少钱。  如何设置？ 我正在尝试使用 ChatGPT 的财务。但我愿意接受建议   由   提交/u/1eight100empire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vk8clx/shipping_receipts_for_budgeting/</guid>
-      <pubDate>Mon, 10 Aug 2026 02:21:22 GMT</pubDate>
+      <title>高级合同开发商的解决方案是成立代理机构吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</link>
+      <description><![CDATA[嗨， 我是一名新手，正在探索自动化（如 n8n、Make、Zapier）作为一项潜在的副业。 所以我的问题是针对自动化机构所有者的。 我想从一名自由职业者开始，然后有一天发展成为一家机构。 我阅读了合同开发人员社区，其中很多人都说找一份工作；客户用完了；我做了其他事情。 所以我想知道经营一家代理机构是否有什么不同？ 如果市场疲软，我会失去客户吗？ 我基本上想知道这种模式的可持续性如何，来自经验丰富的代理机构所有者：如果他们不得不关闭代理机构，为什么？ 显然，没有什么是面向未来的，正如任何企业家都知道的那样（永远不要把鸡蛋放在同一个篮子里）。我计划构建多种 SaaS 产品并投资多样化的产品组合。   由   提交 /u/Fine-Market9841   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</guid>
+      <pubDate>Mon, 17 Aug 2026 15:30:21 GMT</pubDate>
     </item>
     <item>
-      <title>如何找到自定义人工智能驱动的仪表板和内部工具的客户？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vk3bwz/how_do_i_find_clients_for_custom_aipowered/</link>
-      <description><![CDATA[嗨，我叫杜阿尔特。我在 Fiverr 上做了大约两年的自由职业，主要从事 3D 打印的 3D CAD 建模。 最近，我对这个领域感到非常厌倦。找到好的客户越来越难，价格竞争激烈，而且许多客户根本不愿意支付足够的费用。因此，我希望进入不同的领域：为企业构建自定义网络仪表板和内部工具，特别是使用人工智能解决实际问题或提高现有工作流程效率的解决方案。例如，这可能意味着使用人工智能助手或专业代理构建仪表板，这些仪表板可以分析业务数据、组织信息、在网络上搜索机会、生成报告、处理内部文档、自动执行重复性任务或执行围绕客户工作流程构建的其他特定功能。 我不会凭空进入这个领域。我一生的大部分时间都在编程，自从获得法学硕士以来，我花了很多时间研究和围绕它们构建日益复杂的系统。 例如，在过去的六个月里，我一直在从头开始开发一个相当大的人工智能平台。它结合了对话式 AI、专用代理、RAG、文档摄取和 OCR、长期记忆、代理网络搜索、深度研究、结构化知识提取和多阶段检索管道。 很大一部分工作还涉及解决普通 RAG 实现无法很好处理的问题。我设计了自己的检索和知识组织架构，该架构可以构建信息层次结构，了解知识库的哪些部分与问题相关，动态缩小检索范围，并为代理提供更精确的上下文，而不是简单地嵌入文档和执行相似性搜索。我必须处理从检索架构和上下文管理到代理编排、后端基础设施、数据库、API 和前端内容本身的所有工作。 因此从技术上讲，我相信我可以构建这种软件。我正在努力解决的问题是弄清楚如何真正将这些技能转化为客户。 对于已经在网络开发、自动化、内部工具、SaaS 或人工智能咨询领域从事自由职业的人： - 您在哪里找到该领域的第一个客户？ - 冷外展实际上有效吗？如果有效，我应该瞄准哪些类型的企业？ - 您会专注于自由职业平台、LinkedIn、电子邮件外展、社区、合作伙伴关系，还是其他什么？ - 您如何呈现这种服务，而不只是听起来像另一个人试图销售人工智能自动化？ - 您会销售预定义的服务/包，还是首先接触企业，找出效率低下的地方，然后提出定制解决方案？ 我特别有兴趣与企业合作，在这些企业中，相对较小的定制应用程序可以每周为员工节省几个小时的工作时间，或解决他们目前手动处理的工作流程。 我真的很感激任何已经经历过这种转变或目前为此类工作获得客户的人的建议。我在技术上很擅长构建产品，我主要是想了解如何定位自己，找到合适的业务，并在这个新领域获得第一批客户。   由   提交 /u/tech_Dauwt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vk3bwz/how_do_i_find_clients_for_custom_aipowered/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:30:23 GMT</pubDate>
+      <title>今年您遇到的最令人印象深刻的自动化是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</link>
+      <description><![CDATA[例如，我刚刚看到我的朋友设置了一个自动化功能，每次客户会议后，Zooms AI Summary 都会自动路由到 Gamma。然后，Gamma 为他和客户生成关于我们总结讨论的内容和后续步骤的最终 PPT，并自动发送给双方。客户似乎很喜欢它，因为感觉他在每次通话后都付出了很大的努力来为他们进行个人演示，哈哈。 很好奇，Reddit 用户，今年你们遇到的最令人印象深刻的自动化是什么？   由   提交 /u/No-Marionberry8257   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>这里有人真的通过为小型企业提供人工智能自动化来赚钱吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/</link>
-      <description><![CDATA[嗨！因此，我正在学习人工智能/业务流程自动化，目标是帮助小型服务企业实现潜在客户跟进、日程安排、CRM 更新、提醒和管理工作等工作的自动化。 我是全职工作，每周投入大约 8-10 个小时用于学习/构建。 这里有人真正将其转化为真正的业务吗？是否有合法的需求，专注于一个利基市场是否更好？ 如果这听起来不切实际或我以错误的方式处理它，也欢迎聆听，谢谢！   由   提交 /u/Ancient-Restaurant11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vk3aig/anyone_here_actually_make_money_doing_ai/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:28:48 GMT</pubDate>
+      <title>一个简单的浏览器自动化/插件可以发布在 Substack 上？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</link>
+      <description><![CDATA[子堆栈没有 API。我已经完成了在我的网站上发布文章的自动化操作。最后一步是在 Substack 上发布注释。 注释就像一条推文。我希望自动化只打开新笔记，粘贴文本并提交。    由   提交 /u/jonbristow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:30:22 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，听着，我会让你们所有人都变得非常简单。</title>
-      <link>https://www.reddit.com/r/automation/comments/1vk0a8k/alright_look_ill_make_it_deadsimple_for_all_of_you/</link>
-      <description><![CDATA[ 由   提交/u/PA100T0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vk0a8k/alright_look_ill_make_it_deadsimple_for_all_of_you/</guid>
-      <pubDate>Sun, 09 Aug 2026 20:24:10 GMT</pubDate>
+      <title>自动创建 Word 文档时获得一致的品牌</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</link>
+      <description><![CDATA[大家好，我一直在尝试自动创建品牌一致的 Microsoft Word 文档，其中模型需要遵循现有模板并填充其他上下文，例如来自成绩单的信息。 我发现，简单地提供完整的模板文档和成绩单通常会产生不错的结果，但并不总是一致。 我还尝试将模板分解为明确的说明，例如：  字体和字体大小 品牌颜色 标题和段落样式 徽标/图像资源 页面布局和间距  有趣的是，这通常会产生比仅仅提供完整模板文档更糟糕的结果。 对于处理过类似问题的任何人，有什么方法可以解决？您发现最适合一致地复制品牌 Word 文档吗？ 您主要依赖于原始模板、将品牌/布局定义为结构化指令、直接操作 DOCX 还是使用这些的某种组合？   由   提交/u/Tessalarius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:16:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
