@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱脸 - 博客</title>
+    <title></title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:36:26 GMT</lastBuildDate>
+    <item>
+      <title>Granite 4.2 法学硕士：它们是如何构建的</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
+      <pubDate>Tue, 25 Aug 2026 15:14:14 GMT</pubDate>
+    </item>
     <item>
       <title>量化感知修复：压缩的 4 位模型，性能优于全精度原始模型</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>带有句子变压器的多向量（后期交互）嵌入模型</title>
+      <title></title>
       <link>https://huggingface.co/blog/multi-vector-encoder</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/multi-vector-encoder</guid>
@@ -83,32 +90,25 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析</title>
+      <title></title>
       <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/allenai/olmoearth-embeddings</guid>
       <pubDate>Wed, 12 Aug 2026 16:14:36 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>想到 ACE 了吗？我们可以用更少的代币做到这一点</title>
       <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
       <pubDate>Tue, 11 Aug 2026 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>构建低延迟多语言语音代理：使用 NVIDIA Magpie TTS 进行开放权重和全面部署控制</title>
+      <title></title>
       <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</guid>
       <pubDate>Mon, 10 Aug 2026 16:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使知识蒸馏足够便宜以进行大规模运行</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
-      <pubDate>Mon, 10 Aug 2026 10:05:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
