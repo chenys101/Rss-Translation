@@ -4,7 +4,119 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 21:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:56:39 GMT</lastBuildDate>
+    <item>
+      <title>宏观经济数据确实是政府干预的工具</title>
+      <link>https://www.zerohedge.com/political/macroeconomic-data-really-tool-government-intervention</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/macroeconomic-data-really-tool-government-intervention</guid>
+      <pubDate>Wed, 26 Aug 2026 00:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“缓冲区迅速耗尽”：汇丰银行警告下一次全球粮食危机正在酝酿</title>
+      <link>https://www.zerohedge.com/commodities/buffers-running-down-quickly-hsbc-warns-next-global-food-shock-brewing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/commodities/buffers-running-down-quickly-hsbc-warns-next-global-food-shock-brewing</guid>
+      <pubDate>Wed, 26 Aug 2026 00:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦上诉法院取消对加州边境巡逻人员逮捕的限制</title>
+      <link>https://www.zerohedge.com/political/limits-border-patrol-arrests-california-lifted-federal-appeals-court</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/limits-border-patrol-arrests-california-lifted-federal-appeals-court</guid>
+      <pubDate>Wed, 26 Aug 2026 00:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者称蓝牙故障暴露了阿里巴巴对用户的秘密跟踪</title>
+      <link>https://www.zerohedge.com/technology/bluetooth-glitch-exposes-alibabas-secret-tracking-users-developer-says</link>
+      <description><![CDATA[开发者称蓝牙故障暴露了阿里巴巴对用户的秘密跟踪
+一位旧金山开发者发现阿里巴巴集团的全球速卖通市场通过隐藏的浏览器脚本秘密劫持了他计算机的音频系统，使网站能够以零音量运行听不见的声波，以创建用于在不依赖 cookie 的情况下跟踪设备的“指纹”。 
+注重隐私的 Brave 浏览器在一系列 X 帖子中透露，速卖通市场通过隐藏的浏览器脚本保持开发者的计算机音频系统处于活动状态，可能允许网站为其设备生成唯一标识符。
+当全球速卖通打开时，开发人员的蓝牙耳机拒绝将音频连接从计算机转移到手机，问题就出现了。对该网站代码的深入研究表明，后台脚本保持对计算机音频处理系统的访问，而不产生可听声音。
+这些脚本据称使用浏览器的 Web Audio API 以零音量处理信号。可以测量各个计算机处理这些信号的方式的微小差异并将其组合成“音频指纹”，从而使网站即使在删除或阻止 Cookie 的情况下也能识别设备。
+
+阿里巴巴全球速卖通被发现使用用户的音频系统进行跟踪。
+AliExpress 不会记录用户，而是播放无声声音并测量用户的特定设备如何处理该声音，以便对他们进行指纹识别。
+但别担心，因为 Brave 会阻止这种情况。
+— 勇敢 (@brave) 2026 年 8 月 22 日
+开发人员还发现脚本收集了其他设备特征，包括可用内存、屏幕尺寸和网络信息。
+这是 Brave 的发现：
+1。阿里巴巴的全球速卖通被发现使用用户的音频系统来跟踪他们。 AliExpress 不会记录用户，而是播放无声声音并测量用户的特定设备如何处理该声音，以便对他们进行指纹识别。
+2。指纹识别是网站无需 cookie 即可识别您身份的一种方式。网站会记录有关您设备的详细信息，例如屏幕尺寸或安装的字体。然后，这些详细信息会被组合成一个独特的、持久的“指纹”，可用于在网络上跟踪您。
+3.由于CPU、声卡、浏览器等的差异，每个设备播放相同音频文件的方式会存在细微的差异。速卖通在播放无声声音时，会测量这些微小的差异，以帮助构建用户设备的指纹。
+4。这种跟踪是由于意外的副作用而被发现的。一位戴着蓝牙耳机的用户注意到他们无法在手机上播放音乐，因为耳机正在播放电脑上速卖通的无声声音。
+Brave 将其发现的内容转化为其浏览器的销售宣传：
+1。 6 年多来，Brave 默认保护用户免遭音频指纹识别和其他指纹识别类型的侵害。 Brave 将随机数据注入浏览器的输出中，以便您向不同的站点显示不同的指纹。此指纹也会在会话之间重置。
+2。跟踪器不断寻找新的方法来对您的设备进行指纹识别，因此 Brave 不断添加新的保护措施。我们最近添加了针对 GPU 指纹识别的防御措施，可阻止网站通过您的显卡或驱动程序识别您的身份。
+这些发现提出了有关浏览器指纹识别的新问题，这是一种使用无声音频处理进行秘密跟踪的隐秘方式。 
+
+泰勒·德登
+星期二，2026 年 8 月 25 日 - 19:40]]></description>
+      <guid>https://www.zerohedge.com/technology/bluetooth-glitch-exposes-alibabas-secret-tracking-users-developer-says</guid>
+      <pubDate>Tue, 25 Aug 2026 23:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官对开出伊维菌素治疗 COVID-19 的医生的规则</title>
+      <link>https://www.zerohedge.com/covid-19/judge-rules-doctor-who-prescribed-ivermectin-covid-19</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/covid-19/judge-rules-doctor-who-prescribed-ivermectin-covid-19</guid>
+      <pubDate>Tue, 25 Aug 2026 23:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲爱的卡车车主：保护您的后挡板</title>
+      <link>https://www.zerohedge.com/personal-finance/dear-truck-owners-secure-your-tailgates</link>
+      <description><![CDATA[尊敬的卡车车主：保护您的后挡板
+首先，盗贼们会切断汽油动力车辆上的催化转化器，因为排气系统中含有宝贵的铂、钯和铑，它们可以将有毒的发动机气体转化为更安全的排放物。 现在，窃贼似乎瞄准了该国某一地区的卡车，不是为了贵金属，而是为了整个后挡板。
+哥伦比亚广播公司 (CBS) 附属公司 KHOU 11（为德克萨斯州休斯顿提供服务）最近报告了一个车辆零件盗窃团伙的目标卡车的后挡板。
+该媒体采访了一位德克萨斯州的卡车车主，他的后挡板被盗。在搜索 Facebook Marketplace 寻找替代品时，他偶然发现了一些出乎意料的熟悉的东西：他自己的后挡板。
+这一发现促使哈里斯县第 4 分局的警员从位于休斯顿都市区西北部的哈里斯县的一个公寓车库中找回了 8 个被盗的后挡板，并逮捕了两名 27 岁的男子。
+调查人员表示，车主在车尾门被盗之前已在车尾门上放置了独特的标记，以便警员能够验证网上广告的物品是否属于他。
+“我们的投诉人在后挡板上有一些独特的标记，我们能够验证这些标记属于投诉人，”哈里斯县第四辖区上尉乔纳森·齐茨曼 (Jonathan Zitzmann) 说。
+YouTuber WhiteFace Ford 在一段名为“尾门盗窃问题困扰南德克萨斯州卡车车主”的短视频中报道了德克萨斯州的尾门盗窃问题。 
+
+尾门盗窃问题严重打击了南德克萨斯州的卡车车主
+在圣安东尼奥，他们偷窃后挡板和尾灯，更换后挡板的费用高达 3500 美元。有防盗保护吗？#FordTrucks #WhitefaceFord #DealershipSecrets pic.twitter.com/6S77NLAv7S
+— Whiteface Ford (@Jon_Galland) 2026 年 8 月 16 日
+
+小偷在几分钟内偷走车尾门，以下是阻止他们的方法
+Omaha Bravo Designs 套件可在一小时内完成安装，通过安全硬件阻止对尾门电缆和尾灯螺丝的接触。#FordTrucks #WhitefaceFord #DealershipSecrets pic.twitter.com/JS3Im0cP1G
+— Whiteface Ford (@Jon_Galland) 2026 年 7 月 31 日
+除了德克萨斯州尾门盗窃案之外，我们本月早些时候报告，犯罪分子正在偷窃整个室外暖通空调装置，促使一些房主安装金属笼子。
+
+泰勒·德登
+星期二，2026 年 8 月 25 日 - 18:50]]></description>
+      <guid>https://www.zerohedge.com/personal-finance/dear-truck-owners-secure-your-tailgates</guid>
+      <pubDate>Tue, 25 Aug 2026 22:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“神奇驱逐巴士”：美国准备史上最大规模签证撤销</title>
+      <link>https://www.zerohedge.com/political/magic-deportation-bus-us-prepares-largest-ever-mass-visa-revocation-history</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/magic-deportation-bus-us-prepares-largest-ever-mass-visa-revocation-history</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告：纳税人提供的 2.3 亿美元联邦拨款与“交叉性”相关</title>
+      <link>https://www.zerohedge.com/political/report-taxpayers-funding-230-million-federal-grants-tied-intersectionality</link>
+      <description><![CDATA[报告：纳税人提供的 2.3 亿美元联邦拨款与“交叉性”相关
+由 AG News 工作人员通过 American 撰写伟大，
+联邦政府已向涉及“交叉性”的项目拨款约 2.3 亿美元，其中大部分资金来自拜登政府期间，根据两个政策小组的新报告。
+
+捍卫自由研究所和合法暴动基金会确定了 249 份使用“交叉性”一词的联邦援助记录，这是一种意识形态框架，在评估歧视和特权时审查种族、性别、阶级和其他特征。
+根据报告，已支出约 1.4 亿美元，另有 9,000 万美元尚未偿还。 在前总统乔·拜登执政期间，资金激增，在 2023 年达到 8010 万美元的峰值，然后在唐纳德·特朗普总统执政期间出现下降。
+一些赠款在 2030 年之前仍然有效，研究人员确定的 249 个奖项中约有 100 个似乎仍在进行中。
+“令人惊讶的是，我们发现联邦政府一直在资助交叉运动，”法律叛乱基金会创始人兼康奈尔法学院教授威廉·雅各布森，告诉《纽约邮报》。 “这必须停止。”
+赠款涵盖从医学研究到大学、博物馆和社区项目的各种项目。在某些情况下，交叉性是获得联邦支持的研究的组成部分，而不是资助的主要目的。
+突出显示的奖项包括向新罕布什尔州卫生部捐赠近 1100 万美元，用于癌症预防和控制项目。该计划针对的是经历健康差异的人群，包括其所描述的“性别和收入不平等的交叉性”。
+其他例子包括向纽约大学捐赠 816 万美元用于糖尿病公平研究中心，以及向德雷克塞尔大学捐赠 1425 万美元用于旨在增加研究健康差异的教师多样性的项目。
+该报告的作者警告说，将交叉性嵌入联邦计划可能会鼓励接受者根据种族和其他受保护的特征做出决定，同时用学术术语掩盖这些做法。
+“这份报告显示了交叉意识形态在联邦拨款机构中的根深蒂固，”捍卫自由研究所所长罗伯特·艾特尔说。
+
+泰勒·德登
+星期二，2026 年 8 月 25 日 - 17:40]]></description>
+      <guid>https://www.zerohedge.com/political/report-taxpayers-funding-230-million-federal-grants-tied-intersectionality</guid>
+      <pubDate>Tue, 25 Aug 2026 21:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>“我以为它会永远上升”；全球“最疯狂”股市突然面临数十亿美元资金外流</title>
       <link>https://www.zerohedge.com/personal-finance/i-thought-it-would-rise-forever-worlds-craziest-stock-market-suddenly-faces</link>
@@ -76,150 +188,6 @@ Insider 写道该项目的一个可能组成部分是来自人工智能物流机
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/geopolitical/trump-says-all-mines-cleared-strait-hormuz-warns-military-options-still-table</guid>
       <pubDate>Tue, 25 Aug 2026 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何影响美国的心理健康危机</title>
-      <link>https://www.zerohedge.com/markets/heres-how-ai-impacting-americas-mental-health-crisis</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/heres-how-ai-impacting-americas-mental-health-crisis</guid>
-      <pubDate>Tue, 25 Aug 2026 18:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>内塔尼亚胡声称“伊朗试图暗杀我的一个儿子”</title>
-      <link>https://www.zerohedge.com/geopolitical/netanyahu-claims-iran-tried-assassinate-one-my-sons</link>
-      <description><![CDATA[内塔尼亚胡声称“伊朗试图暗杀我的一个儿子”
-此前，伊朗官方媒体播出的图像似乎威胁 唐纳德·特朗普总统的儿子巴伦·特朗普，紧随其后的以色列总理本杰明·内塔尼亚胡似乎正在抓住时机。
-内塔尼亚胡周一在接受以色列第 14 频道的电话采访时声称，伊朗试图暗杀他的两个儿子之一。 “伊朗瞄准了我的一个儿子。伊朗试图杀害、谋杀我的一个儿子，”他声称。
-GPO/Flash90
-“因此，他们获得的安全并不是一种奢侈，”他补充道，指的是他的论点，即国家必须在未来几年继续保护他的家人 - 即使他输掉了即将到来的选举。
-他描述说，如果没有这种保护至少五年，“他们就会成功”，指的是想象中的潜在伊朗刺客。
-内塔尼亚胡有两个儿子，亚伊尔和阿夫纳，但他没有具体说明其中一个儿子是否受到涉嫌暗杀阴谋的威胁。
-Avner 住在以色列，而 Yair - 在社交媒体上更加引人注目和直言不讳的人 - 住在迈阿密的豪华区。
-以色列媒体进一步声称如下：“12频道的报道称，所谓的企图发生在Yair Netanyahu不在以色列的时候，但没有具体说明Yair是目标。”
-该报告还试图解释为什么这个问题现在突然被“揭露”：
-
-&lt;块引用&gt;
-电视报道称，以色列安全机构几个月前就知道所谓的暗杀阴谋，但军事审查机构禁止发布。
-
-以色列倾向于在不提供公开证据的情况下，在适当的时候宣扬“暗杀阴谋”的说法，这似乎旨在加剧华盛顿对伊朗的参与。
-例如，早在 7 月份，当内塔尼亚胡公开反对白宫与德黑兰寻求谈判解决方案的努力时，就有了这个：
-
-&lt;块引用&gt;
-以色列与美国分享情报，称伊朗最近制定了一项刺杀唐纳德·特朗普总统的新计划，两位知情人士告诉 CNN，随着两国之间的停火协议面临紧张，这又增加了一层紧张局势。
-其中一位消息人士称，警告于本周发出。另一位消息人士称，美国最近几周收到了有关可能暗杀特朗普计划的持续情报，但以色列的警告是新的，并且涉及具体阴谋。
-
-当时，白宫似乎对这一“警告”并没有太惊慌，而且此后也没有过多提及它。
-在史诗愤怒行动的最初几天和几周内，数十名伊朗政府和军事高级官员被暗杀 - 在某些情况下，他们的家人在同一次袭击中丧生。以色列军方对其中许多行动负责，并在轰炸行动最激烈的时候公开吹嘘。 
-内塔尼亚胡提出针对其家人的秘密阴谋的这一新指控也是在贝森特公布所谓的“经济诺曼底登陆”政策以在经济上扼杀伊斯兰共和国之际发布的。
-
-泰勒·德登
-星期二，2026 年 8 月 25 日 - 14:00]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/netanyahu-claims-iran-tried-assassinate-one-my-sons</guid>
-      <pubDate>Tue, 25 Aug 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“完全准确”：马斯克确认在路易斯安那州建立大型新星舰火箭基地</title>
-      <link>https://www.zerohedge.com/technology/all-accurate-musk-confirms-massive-new-starship-rocket-base-louisiana</link>
-      <description><![CDATA[“一切准确”：马斯克确认在路易斯安那州建立大型新星舰火箭基地
-我们几周前的报告，标题为&quot;SpaceX 处于安全保护的“最后阶段”路易斯安那州将建立大型新火箭发射场”，埃隆·马斯克和他的火箭公司周二下午证实了这一消息。
-“路易斯安那州的 Starbase 将建成，以支持每年数千次星际飞船飞行，包括发射到地球轨道、月球、火星及更远地区的任务，”SpaceX 在 X 上写道。
-
-路易斯安那州 Starbase 的建设将支持每年数千次星际飞船飞行，包括发射到地球轨道、月球、火星及其他地方的任务pic.twitter.com/SE6gyNZWBK
-- SpaceX (@SpaceX) 2026 年 8 月 25 日
-马斯克也插话说，称有关路易斯安那州山核桃岛附近耗资 1000 亿美元的新太空港的报道“全部准确”。
-
-全部准确https://t.co/FkmQCEoS0i
-— 埃隆·马斯克 (@elonmusk) 2026 年 8 月 25 日
-让我们回到 8 月 3 日的报告，其中我们引用了 Times-Picayune 的报道：
-
-&lt;块引用&gt;
-SpaceX 准备控制山核桃岛约 130,000 英亩的土地，更具体地说是沿海的 Vermilion Parish，作为解决针对埃克森美孚的长期沿海诉讼的和解协议的一部分。州长 Jeff Landry 预计将于本月宣布该协议。
-
-One X 用户回复了马斯克的帖子：“讽刺的是，这是自购买路易斯安那以来路易斯安那州发生的最大的事情。”
- 
-
-泰勒·德登
-星期二，2026 年 8 月 25 日 - 13:40]]></description>
-      <guid>https://www.zerohedge.com/technology/all-accurate-musk-confirms-massive-new-starship-rocket-base-louisiana</guid>
-      <pubDate>Tue, 25 Aug 2026 17:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 2025 年 3 月以来，大多数外国买家的恒星 2 年期拍卖已停止</title>
-      <link>https://www.zerohedge.com/markets/stellar-2y-auction-stops-through-most-foreign-buying-march-2025</link>
-      <description><![CDATA[自 2025 年 3 月以来，大多数外国买家的 2 年期拍卖停止
-上周“Bessent 回购”大放异彩后，收益率在接下来的几天里坐上过山车，许多人非常好奇今天 690 亿美元的 2 年期票据（本周首次息票拍卖）的销售情况如何，以及 Bessent 是否会这样做。无意中损害了一级市场的发行。最终，拍卖会顺利进行。
-随着加息可能性大幅降低，690 亿美元的 2 年期票据拍卖定价为 4.204% 的高收益率，显着低于上个月的 4.315%，并在发行时以 0.4 个基点止于 4.208%，这是连续第三次止于拍卖。
-
-成交出价为 2.599，低于 7 月份的 2.662，为 3 月份以来的最低水平（低于近期平均水平 2.611）。
-内部因素更为强劲，间接授予比例为 66.0%，高于 56.6%，是 2025 年 3 月以来外国买家分配的最高比例。直接授予比例从 34.05% 降至 23.09%，为 3 月份以来的最低水平，这使得经销商的授予比例为 10.9%，为 2 月份以来的第二低。 
-
-总体而言，这是一场出色的 2 年期债券拍卖，人们很难想象债券市场就在几天前经历了 2026 年最动荡的时期。
-
-泰勒·德登
-星期二，2026 年 8 月 25 日 - 13:23]]></description>
-      <guid>https://www.zerohedge.com/markets/stellar-2y-auction-stops-through-most-foreign-buying-march-2025</guid>
-      <pubDate>Tue, 25 Aug 2026 17:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着美联储调查沃尔特的帝国，古根海姆贷款陷入困境，基金触及全球金融危机低点</title>
-      <link>https://www.zerohedge.com/markets/guggenheim-loan-craters-fund-hits-gfc-lows-feds-probe-walters-empire</link>
-      <description><![CDATA[古根海姆贷款坑洞，基金触及全球金融危机低点，美联储调查沃尔特帝国
-根据彭博社的数据，马克·沃尔特 (Mark Walter) 古根海姆合伙人 (Guggenheim Partners) 的资产管理部门古根海姆投资公司 (Guggenheim Investments) 与古根海姆投资公司 (Guggenheim Investments) 相关的 2031 年到期的第一留置权贷款周一暴跌至大约 72 美分。大幅折扣表明，贷款机构仍然不相信管理层为遏制对盈利恶化、会计实践以及对沃尔特金融帝国正在进行的联邦调查而日益加剧的担忧所做的努力。
-
-周一上午，GIH Borrower LLC 发行的 11.8 亿美元贷款跌至 72 美分的低点。 
-
-沃尔特古根海姆合作伙伴公司 (Walter&#39;s Guggenheim Partners) 上周报告第二季度收入同比下降 38%。管理层告诉投资者，情况恶化的主要原因是古根海姆私人投资公司延迟确认咨询费。
-古根海姆战略机会基金的股价正在暴跌至全球金融危机以来的最低水平。
-
-然而，贷款市场似乎传来了一些坏消息。由于沃尔特的企业是私人持有的，古根海姆贷款价值的下降为投资者提供了一个实时指标，让投资者了解特拉华人寿保险公司及其附属公司 Clear Spring Life 和 Annuity（两家 1001 集团保险公司）如何向沃尔特帝国内的公司提供约 200 亿美元的贷款。
-在收到大陪审团传票并进行内部审查后，保险公司将数十亿美元的投资重新归类为关联或关联方交易。向关联公司提供贷款并不违法，但必须适当披露。
-相关：
-1.联邦调查局 (FBI) 在湖人队 125 亿美元拍卖额创纪录前几个月查获了马克·沃尔特 (Mark Walter) 的设备
-2。 “现金紧缩”加剧？马克·沃尔特探索将切尔西足球俱乐部股份出售给克利尔莱克
-3。马克·沃尔特调查将华尔街的保险私人信贷机制置于司法部审查
-CNBC 报道称，沃尔特 (Walter) 的 TWG Global 控股公司已聘请高盛资深律师 David Markowitz 担任联邦调查期间的首席法律官。
-
-泰勒·德登
-星期二，2026 年 8 月 25 日 - 13:20]]></description>
-      <guid>https://www.zerohedge.com/markets/guggenheim-loan-craters-fund-hits-gfc-lows-feds-probe-walters-empire</guid>
-      <pubDate>Tue, 25 Aug 2026 17:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>财政部、国税局提出有关特朗普账户投资的规则</title>
-      <link>https://www.zerohedge.com/personal-finance/treasury-irs-propose-rules-trump-account-investments</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/personal-finance/treasury-irs-propose-rules-trump-account-investments</guid>
-      <pubDate>Tue, 25 Aug 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官拒绝重新审判后，吉斯莱恩·麦克斯韦尔将在监狱中腐烂</title>
-      <link>https://www.zerohedge.com/political/ghislaine-maxwell-rot-prison-after-judge-denies-bid-new-trial</link>
-      <description><![CDATA[吉斯莱恩·麦克斯韦尔在法官拒绝重新审判后将在监狱中腐烂
-杰弗里·爱泼斯坦 (Jeffrey Epstein) 的同谋吉斯莱恩·麦克斯韦 (Ghislaine Maxwell) 将在监狱中度过直至 2037 年周二法官驳回了她推翻性贩运定罪的请求并举行新的审判。 
-
-“几乎所有诉求都在程序上被禁止；审判中提出的压倒性的证词和文件证据最终证实了她的有罪；她的请愿书的主张显然毫无根据，并且通常基于猜测、歪曲和/或彻头彻尾的谎言”，美国纽约南区地方法院法官 Paul A. Engelmayer  在 67 页的决定中说道。
-“麦克斯韦公平地提出争议，没有任何事实可能会干扰她的审判结果。”
-麦克斯韦尔，64 岁，是杰弗里·爱泼斯坦 (Jeffrey Epstein) 的得力助手，他收买未成年女孩进行卖淫。根据审判中提供的文件和其他证据，2019 年爱泼斯坦在监狱中去世时，她因 1994 年至至少 2004 年期间的活动而面临多项其他指控。
-正如《大纪元时报》进一步指出的那样，Maxwell 在 2021 年因参与一项与爱泼斯坦合谋针对未成年人进行非法性行为。她正在服刑 20 年。
-联邦上诉法院于 2024 年维持了原判，最高法院于 2025 年驳回了麦克斯韦复审该裁决的请求。
-麦克斯韦尔在根据《美国法典》第 2255 条提交的推翻对她定罪的请愿书中表示，上诉程序后公布的材料应该会导致她的定罪被撤销，其中包括 2006 年调查爱泼斯坦的警探向大陪审团提供的证词笔录。
-根据笔录，侦探当时说浴室里有一张按摩床。 麦克斯韦说，侦探作证说那是北浴室，与他在审判中识别出的南浴室不同。
-不过，法官在新裁决中表示，侦探在 2006 年的证词中实际上并未指定浴室。
-即使麦克斯韦就按摩床的位置提供了相互矛盾的证词，他也没有表明这是伪证而不是无意的错误。
-“如果帕金森侦探 2006 年和 2021 年关于这一点的证词之间存在如此不一致，那么就不太可能弹劾帕金森侦探的可信度，因为搜索发生在他的审判证词之前 16 年多，而且他的一般证词，特别是关于在房子里找到按摩床的证词，都得到了其他证词、纪录片和视频的证实。证据，”法官说。
-这意味着它不会“对试验结果产生重大影响”，他说。
-
-泰勒·德登
-星期二，08/25/2026 - 12:45]]></description>
-      <guid>https://www.zerohedge.com/political/ghislaine-maxwell-rot-prison-after-judge-denies-bid-new-trial</guid>
-      <pubDate>Tue, 25 Aug 2026 16:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“经历一些痛苦”：当Foot Locker赌注变得疲软时，迪克创下了历史最高记录</title>
-      <link>https://www.zerohedge.com/markets/going-through-some-pain-dicks-crashes-most-record-foot-locker-bet-goes-limp</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/going-through-some-pain-dicks-crashes-most-record-foot-locker-bet-goes-limp</guid>
-      <pubDate>Tue, 25 Aug 2026 16:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
