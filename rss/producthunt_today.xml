@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Aug 2026 23:49:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 05:11:36 GMT</lastBuildDate>
+    <item>
+      <title>雷瓦尔沃</title>
+      <link>https://www.producthunt.com/products/revalvo</link>
+      <description><![CDATA[
+            立即在每个模型上运行提示。分数。版本。船。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/revalvo</guid>
+      <pubDate>Fri, 28 Aug 2026 06:38:16 GMT</pubDate>
+    </item>
     <item>
       <title>开放标签</title>
       <link>https://www.producthunt.com/products/opentag</link>
@@ -20,39 +34,60 @@
       <pubDate>Thu, 27 Aug 2026 21:52:16 GMT</pubDate>
     </item>
     <item>
-      <title>年鉴</title>
-      <link>https://www.producthunt.com/products/almanac-5</link>
+      <title>双子座 Omni 1.1 闪存</title>
+      <link>https://www.producthunt.com/products/gemini-omni-1-1-flash</link>
       <description><![CDATA[
-            拥有第二大脑的特工
+            我们最新的用于视频生成和编辑的多模式模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/almanac-5</guid>
-      <pubDate>Thu, 27 Aug 2026 20:43:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gemini-omni-1-1-flash</guid>
+      <pubDate>Thu, 27 Aug 2026 20:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>费德岛</title>
+      <link>https://www.producthunt.com/products/fide-island</link>
+      <description><![CDATA[
+            让你的 MacBook 刘海真正有用
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/fide-island</guid>
+      <pubDate>Thu, 27 Aug 2026 13:53:00 GMT</pubDate>
     </item>
     <item>
       <title>小鸭子</title>
       <link>https://www.producthunt.com/products/hugging-face</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.producthunt.com/products/hugging-face</guid>
-      <pubDate>Thu, 27 Aug 2026 13:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>样条V2</title>
-      <link>https://www.producthunt.com/products/spline</link>
       <description><![CDATA[
-            代理时代的最佳 3D 平台
+            一个可以训练自己的小型开源两足动物
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/spline</guid>
-      <pubDate>Thu, 27 Aug 2026 08:06:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hugging-face</guid>
+      <pubDate>Thu, 27 Aug 2026 13:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>贪吃蛇排名</title>
+      <link>https://www.producthunt.com/products/snakerank</link>
+      <description><![CDATA[
+            排行榜是一条蛇。竞标到头部。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/snakerank</guid>
+      <pubDate>Thu, 27 Aug 2026 06:19:41 GMT</pubDate>
     </item>
     <item>
       <title>奥瑞亚相机</title>
@@ -69,21 +104,7 @@
       <pubDate>Thu, 27 Aug 2026 03:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>筛管</title>
-      <link>https://www.producthunt.com/products/screenpipe</link>
-      <description><![CDATA[
-            人工智能可以记录您的计算机工作情况，以便为代理提供帮助。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/screenpipe</guid>
-      <pubDate>Thu, 27 Aug 2026 03:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
+      <title>Firecrawl 开发者指数</title>
       <link>https://www.producthunt.com/products/extract-by-firecrawl</link>
       <description><![CDATA[
             为编码代理精心策划的超过 7000 万个工件的索引。
@@ -169,23 +190,16 @@
     <item>
       <title>超级实习生</title>
       <link>https://www.producthunt.com/products/super-intern-4</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.producthunt.com/products/super-intern-4</guid>
-      <pubDate>Fri, 07 Aug 2026 15:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉伯</title>
-      <link>https://www.producthunt.com/products/aramb</link>
       <description><![CDATA[
-            在 20 分钟内构建、启动您的 AI 代理并从中获利
+            您的电子邮件和会议助手，位于聊天应用程序内
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/aramb</guid>
-      <pubDate>Tue, 04 Aug 2026 10:19:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/super-intern-4</guid>
+      <pubDate>Fri, 07 Aug 2026 15:11:44 GMT</pubDate>
     </item>
     <item>
       <title>群伏特</title>
