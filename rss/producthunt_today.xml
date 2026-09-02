@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Sep 2026 13:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:22:59 GMT</lastBuildDate>
     <item>
       <title>洗礼</title>
       <link>https://www.producthunt.com/products/doop</link>
@@ -74,6 +74,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cleanshot</guid>
       <pubDate>Tue, 01 Sep 2026 18:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>门</title>
+      <link>https://www.producthunt.com/products/porte</link>
+      <description><![CDATA[
+            通过手机控制本地 Grok 会话
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/porte</guid>
+      <pubDate>Tue, 01 Sep 2026 13:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过动态模型缝合 AI</title>
+      <link>https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups</link>
+      <description><![CDATA[
+            第一个刺绣数字化剂
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/stitch-ai-by-dynamic-mockups</guid>
+      <pubDate>Tue, 01 Sep 2026 12:39:23 GMT</pubDate>
     </item>
     <item>
       <title>动态边缘</title>
@@ -146,60 +174,32 @@
       <pubDate>Mon, 24 Aug 2026 00:18:46 GMT</pubDate>
     </item>
     <item>
-      <title>说话</title>
-      <link>https://www.producthunt.com/products/loqua</link>
+      <title>深眼 来自 Deepidv</title>
+      <link>https://www.producthunt.com/products/deepidv</link>
       <description><![CDATA[
-            说话自然。从想法转向行动。
+            深度造假检测器可随您浏览
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/loqua</guid>
-      <pubDate>Fri, 21 Aug 2026 10:15:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/deepidv</guid>
+      <pubDate>Thu, 20 Aug 2026 13:26:24 GMT</pubDate>
     </item>
     <item>
-      <title>准社会性</title>
-      <link>https://www.producthunt.com/products/parasocial</link>
+      <title>HydraDB操作系统</title>
+      <link>https://www.producthunt.com/products/hydradb-oss</link>
       <description><![CDATA[
-            适合高级听众的快速原生播客播放器。
+            现已开源：最快、最便宜的图数据库
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/parasocial</guid>
-      <pubDate>Tue, 18 Aug 2026 15:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>拨号</title>
-      <link>https://www.producthunt.com/products/dial-3</link>
-      <description><![CDATA[
-            10 秒内为您的 AI 客服提供真实的电话号码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dial-3</guid>
-      <pubDate>Sat, 15 Aug 2026 21:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>发作型MCP</title>
-      <link>https://www.producthunt.com/products/onset-io</link>
-      <description><![CDATA[
-            通过 AI 助手编写并发布发行说明
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/onset-io</guid>
-      <pubDate>Tue, 28 Jul 2026 21:30:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hydradb-oss</guid>
+      <pubDate>Fri, 10 Jul 2026 08:07:54 GMT</pubDate>
     </item>
     <item>
       <title>用户镜头</title>
