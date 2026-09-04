@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <title></title>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:59:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:31:39 GMT</lastBuildDate>
     <item>
       <title>GPT-6 阿斯特拉</title>
       <link>https://www.producthunt.com/products/openai</link>
@@ -118,6 +118,20 @@
       <pubDate>Thu, 03 Sep 2026 10:22:28 GMT</pubDate>
     </item>
     <item>
+      <title>解冻</title>
+      <link>https://www.producthunt.com/products/thaw-2</link>
+      <description><![CDATA[
+            唯一拥有整个菜单栏（进出）的应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/thaw-2</guid>
+      <pubDate>Wed, 02 Sep 2026 21:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>侧枝</title>
       <link>https://www.producthunt.com/products/sidebranch</link>
       <description><![CDATA[
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gemini-3-8-flash</guid>
       <pubDate>Wed, 02 Sep 2026 15:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>树林</title>
-      <link>https://www.producthunt.com/products/grove-8</link>
-      <description><![CDATA[
-            您和您的人工智能代理的一台终端
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/grove-8</guid>
-      <pubDate>Wed, 02 Sep 2026 14:13:31 GMT</pubDate>
     </item>
     <item>
       <title>轨道MCP</title>
@@ -188,7 +188,7 @@
       <pubDate>Fri, 28 Aug 2026 16:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>TwelveLabs 的合规性</title>
+      <title></title>
       <link>https://www.producthunt.com/products/twelvelabs</link>
       <description><![CDATA[
             由您控制的规则提供支持的视频合规性审核
