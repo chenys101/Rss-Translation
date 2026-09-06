@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 22:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 02:25:07 GMT</lastBuildDate>
     <item>
       <title>马尾辫</title>
       <link>https://www.producthunt.com/products/ponytail</link>
@@ -48,18 +48,32 @@
       <pubDate>Fri, 04 Sep 2026 03:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6 阿斯特拉</title>
-      <link>https://www.producthunt.com/products/openai</link>
+      <title>发条</title>
+      <link>https://www.producthunt.com/products/clockwork-5</link>
       <description><![CDATA[
-            OpenAI 最强大的端到端工作模型
+            您的人工智能代理上班的日历
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 03 Sep 2026 20:14:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clockwork-5</guid>
+      <pubDate>Thu, 03 Sep 2026 15:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥马奇</title>
+      <link>https://www.producthunt.com/products/omarchy-3</link>
+      <description><![CDATA[
+            代理时代的可塑操作系统
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/omarchy-3</guid>
+      <pubDate>Thu, 03 Sep 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
       <title>晚上 8 点</title>
@@ -146,20 +160,6 @@
       <pubDate>Mon, 31 Aug 2026 03:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>我的AI学院</title>
-      <link>https://www.producthunt.com/products/myaicademy</link>
-      <description><![CDATA[
-            学习适合您的特定角色和团队的人工智能技能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/myaicademy</guid>
-      <pubDate>Fri, 28 Aug 2026 16:01:08 GMT</pubDate>
-    </item>
-    <item>
       <title>邮箱</title>
       <link>https://www.producthunt.com/products/postbox</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@
       <pubDate>Wed, 26 Aug 2026 11:38:41 GMT</pubDate>
     </item>
     <item>
-      <title>TwelveLabs 的合规性</title>
-      <link>https://www.producthunt.com/products/twelvelabs</link>
+      <title>离线 JS 游乐场</title>
+      <link>https://www.producthunt.com/products/offline-js-playground</link>
       <description><![CDATA[
-            由您控制的规则提供支持的视频合规性审核
+            离线编写、运行和测试 JavaScript 片段和 JSON
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/twelvelabs</guid>
-      <pubDate>Fri, 21 Aug 2026 22:41:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/offline-js-playground</guid>
+      <pubDate>Tue, 18 Aug 2026 17:23:32 GMT</pubDate>
     </item>
     <item>
       <title>差异文件</title>
